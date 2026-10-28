@@ -108,10 +108,19 @@ export class Budget extends DurableObject<Env> {
     await s.put(put);
   }
 
+  /* How the Beam calls went (counts per day and the latest of each kind, no visitor data), for the daily health check. */
+  async note(kind: "ok" | "fail" | "denied", detail = "") {
+    const s = this.ctx.storage, k = `n:${kind}:${day()}`;
+    await s.put({ [k]: ((await s.get<number>(k)) || 0) + 1, [`last:${kind}`]: { at: new Date().toISOString(), detail: detail.slice(0, 160) } });
+  }
+
   async spent() {
-    const s = this.ctx.storage, d = day();
+    const s = this.ctx.storage, d = day(), before = new Date(Date.parse(d) - 86400_000).toISOString().slice(0, 10);
+    const calls = async (dd: string) => Object.fromEntries(await Promise.all(
+      (["ok", "fail", "denied"] as const).map(async (k) => [k, (await s.get<number>(`n:${k}:${dd}`)) || 0])));
     return { codes_today: (await s.get<number>(`usd:${d}`)) || 0, demo_today: (await s.get<number>(`usd:pool:demo:${d}`)) || 0,
-      total: (await s.get<number>("usd:all")) || 0 };
+      total: (await s.get<number>("usd:all")) || 0, calls_today: await calls(d), calls_yesterday: await calls(before),
+      last: { ok: (await s.get("last:ok")) || null, fail: (await s.get("last:fail")) || null, denied: (await s.get("last:denied")) || null } };
   }
 }
 
@@ -211,6 +220,7 @@ async function api(req: Request, env: Env, url: URL): Promise<Response> {
     if (req.method !== "GET") return json(req, { error: "Not found." }, 404);
     const cents = (n: number) => Math.round(n * 100) / 100, sp = await budget.spent();
     return json(req, { codes_today: cents(sp.codes_today), demo_today: cents(sp.demo_today), total: cents(sp.total),
+      calls_today: sp.calls_today, calls_yesterday: sp.calls_yesterday, last: sp.last,
       caps: { codes_day: Number(env.DAILY_USD || 1), demo_day: Number(env.DEMO_USD || 1), total: Number(env.TOTAL_USD || 3) } });
   }
   if (url.pathname === "/code") {
@@ -248,6 +258,7 @@ async function api(req: Request, env: Env, url: URL): Promise<Response> {
   const est = +((prompt.length / 2.5) * PRICE_IN / 1e6 + MAX_OUT[effort] * PRICE_OUT / 1e6).toFixed(6);
   const v = await budget.reserve(key, check, state, rule, est, Number(env.DAILY_USD || 1), Number(env.TOTAL_USD || 3));
   if (!v.ok) {
+    await budget.note("denied", v.why!);
     const msg = {
       code: rule.pool ? `That's today's sample checks from this connection. ${RESETS}` : `This code's check for today is used. ${RESETS}`,
       calls: "This check has reached its limit. Please start a new check tomorrow.",
@@ -262,6 +273,7 @@ async function api(req: Request, env: Env, url: URL): Promise<Response> {
   let out: Awaited<ReturnType<typeof beam>> | null = null, failure: BeamError | null = null;
   try { out = await beam(env, prompt, effort, est, input.retry === true); } catch (err) { failure = err instanceof BeamError ? err : new BeamError("The check failed. Please try again.", false); }
   await budget.settle(key, check, rule, v.day, est, out ? out.cost : est, !out && !failure!.billed);
+  await budget.note(out ? "ok" : "fail", out ? "" : failure!.message);
   if (!out) return json(req, { error: failure!.message }, 502);
   if (out.finish === "stop" && readable(out.content)) {
     try { await env.KV.put(cacheKey, JSON.stringify(out), { expirationTtl: 7 * 86400 }); } catch { /* the cache is optional */ }
