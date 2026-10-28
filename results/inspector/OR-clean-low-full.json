@@ -1,0 +1,961 @@
+{
+ "state": "OR",
+ "rulebook": "DELC Rules for Certified Child Care Centers, CCLD-0084 (OAR 414-305)",
+ "findings": [
+  {
+   "id": "policy_responsible_person",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must name the person with immediate responsibility for daily operation, with business address and phone number.",
+   "section": "414-305-0200(2)(a)",
+   "page": 16,
+   "quote": "Name, business address, and business telephone number of the person(s) who has immediate responsibility for the daily operation of the center;",
+   "status": "covered",
+   "handbook_quote": "Director: Renata Okafor-Lindqvist, responsible for daily operation",
+   "handbook_page": 1,
+   "span": [
+    266,
+    323
+   ],
+   "explanation": "The handbook names the director with business address and phone number.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_center_description",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must describe licensed capacity, ages and number of children, hours, days, months, closures, holidays, and ratios.",
+   "section": "414-305-0200(2)(b)",
+   "page": 16,
+   "quote": "A center description including the licensed capacity, ages and number of children in care, hours, days and months of operation, closure dates and observed holidays, and staff-to-child ratios;",
+   "status": "covered",
+   "handbook_quote": "Thimbleberry Hollow is certified for 60 children. We currently care for 58 children",
+   "handbook_page": 1,
+   "span": [
+    751,
+    821
+   ],
+   "explanation": "The handbook describes capacity, ages, hours, closures, and ratios.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_arrival_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must state arrival and departure procedures, sign-in and sign-out requirements, and authorized pickup persons.",
+   "section": "414-305-0200(2)(c)",
+   "page": 16,
+   "quote": "Arrival and departure procedures, including sign in and out requirements and individuals authorized for pick-up;",
+   "status": "covered",
+   "handbook_quote": "Please walk your child into the classroom and stay until a teacher has greeted and accepted your child.",
+   "handbook_page": 2,
+   "span": [
+    2557,
+    2642
+   ],
+   "explanation": "The handbook states arrival, sign-in and sign-out, and authorized pickup procedures.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_parent_responsibilities",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must explain parent responsibilities for providing current required information and what parents must provide.",
+   "section": "414-305-0200(2)(d)",
+   "page": 16,
+   "quote": "Parent responsibilities for providing current required information and what parents are expected to provide;",
+   "status": "covered",
+   "handbook_quote": "You are responsible for keeping this information current. Please tell us right away about new phone numbers",
+   "handbook_page": 1,
+   "span": [
+    1903,
+    1993
+   ],
+   "explanation": "The handbook explains parent responsibilities for current information and annual review.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_health",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The handbook must include health policies covering toileting, diapering, handwashing, infant feeding support, bottles and pacifiers, immunization tracking, medication, repellent and sunscreen, bed linen, ill child care, exclusion, and injury response.",
+   "section": "414-305-0200(2)(e)",
+   "page": 16,
+   "quote": "Health policies and procedures to include toileting, diaper changing and handwashing methods, support for parents feeding their infants, storage and handling of bottles and pacifiers, immunization tracking, medication administration, use of insect repellent and sunscreen, care of bed linen, care of children who are ill and exclusion criteria, and response to injuries",
+   "status": "covered",
+   "handbook_quote": "Children and staff wash hands with soap and running water on arrival, before and after eating",
+   "handbook_page": 4,
+   "span": [
+    6808,
+    6885
+   ],
+   "explanation": "The handbook covers toileting, diapering, handwashing, infant feeding, bottles, pacifiers, immunizations, medication, sunscreen, bedding, illness, exclusion, and injuries.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_safety",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The handbook must state safety measures including safe sleep, monitoring sleeping infants, injury prevention, pesticides and toxic substances, animals, water activities, and prohibited substances.",
+   "section": "414-305-0200(2)(f)",
+   "page": 16,
+   "quote": "Safety measures including safe sleep practices, monitoring of sleeping infants, injury prevention, use of pesticides and other potentially toxic substances, animals, water activities, and prohibited substances;",
+   "status": "covered",
+   "handbook_quote": "Teachers check the playground every morning for hazards. Cleaning products and other toxic materials are locked away",
+   "handbook_page": 5,
+   "span": [
+    9553,
+    9652
+   ],
+   "explanation": "The handbook addresses safe sleep, infant monitoring, injury prevention, toxic substances, animals, water activities, and prohibited substances.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_visitor_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must include a plan ensuring visitors or other adults not enrolled or conditionally enrolled in the CBR do not have unsupervised access to children.",
+   "section": "414-305-0200(2)(g)",
+   "page": 16,
+   "quote": "A plan to ensure that any visitor or other adult not enrolled or conditionally enrolled in the CBR does not have unsupervised access to children;",
+   "status": "covered",
+   "handbook_quote": "Any adult who is not enrolled in the Central Background Registry is always accompanied by a staff member",
+   "handbook_page": 5,
+   "span": [
+    10282,
+    10369
+   ],
+   "explanation": "The handbook includes a plan to prevent unsupervised access by visitors not enrolled in the CBR.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must include the emergency preparedness plan.",
+   "section": "414-305-0200(2)(h)",
+   "page": 16,
+   "quote": "Emergency preparedness plan (also see OAR 414-305-0210, Emergency Preparedness and Response);",
+   "status": "covered",
+   "handbook_quote": "Our written emergency plan covers fire, earthquake, severe weather, power outages, a lost child",
+   "handbook_page": 5,
+   "span": [
+    8949,
+    9027
+   ],
+   "explanation": "The handbook includes the emergency preparedness plan.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=16"
+  },
+  {
+   "id": "policy_philosophy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state the center philosophy on how children learn and develop and how it is implemented.",
+   "section": "414-305-0200(2)(i)",
+   "page": 17,
+   "quote": "Center philosophy on how children learn and develop, and how this philosophy is implemented;",
+   "status": "covered",
+   "handbook_quote": "We believe young children learn through play, relationships, and curiosity.",
+   "handbook_page": 1,
+   "span": [
+    406,
+    469
+   ],
+   "explanation": "The handbook states the center philosophy and how teachers implement it.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_daily_schedule",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must include daily schedules with planned activities, rest time, physical activity, and screen time.",
+   "section": "414-305-0200(2)(j)",
+   "page": 17,
+   "quote": "Daily schedules that include planned activities, rest time, physical activity, and screen time;",
+   "status": "covered",
+   "handbook_quote": "Every day includes at least an hour of active physical play, indoors if the weather is unsafe.",
+   "handbook_page": 2,
+   "span": [
+    3256,
+    3332
+   ],
+   "explanation": "The handbook includes daily schedules with activities, rest, physical activity, and screen time.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_religious_cultural",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The handbook must describe center-sponsored religious and cultural activities and how holidays are recognized.",
+   "section": "414-305-0200(2)(k)",
+   "page": 17,
+   "quote": "Center-sponsored religious and cultural activities, if any, including how holidays will be recognized;",
+   "status": "covered",
+   "handbook_quote": "We do not hold religious activities. We celebrate our families' cultures by inviting them to share songs",
+   "handbook_page": 2,
+   "span": [
+    3565,
+    3651
+   ],
+   "explanation": "The handbook describes cultural activities and holiday recognition.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_food_service",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The handbook must state meals, snacks, and food service practices including storage and handling, dietary needs and allergies, infant feeding, and food from home.",
+   "section": "414-305-0200(2)(l)",
+   "page": 17,
+   "quote": "Meals, snacks, and food service practices including food storage and handling, children\u2019s dietary needs and allergies, infant feeding, and food brought from the child\u2019s home;",
+   "status": "covered",
+   "handbook_quote": "We serve breakfast, lunch, and three snacks that meet CACFP guidelines, so children never go more than 3\u00bd hours",
+   "handbook_page": 3,
+   "span": [
+    5693,
+    5784
+   ],
+   "explanation": "The handbook states meals, snacks, food service practices, dietary needs, allergies, infant feeding, and food from home.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_transportation",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The handbook must state transportation and field trip policies including driver and vehicle requirements and supervision.",
+   "section": "414-305-0200(2)(m)",
+   "page": 17,
+   "quote": "Transportation and field trips including driver and vehicle requirements and supervision;",
+   "status": "covered",
+   "handbook_quote": "For trips that need driving, we use our center van. Drivers are staff at least 21 years old",
+   "handbook_page": 5,
+   "span": [
+    10579,
+    10651
+   ],
+   "explanation": "The handbook states transportation and field trip policies, driver and vehicle requirements, and supervision.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_behavior_guidance",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include the behavior and guidance policy.",
+   "section": "414-305-0200(2)(n)",
+   "page": 17,
+   "quote": "(m) Transportation and field trips including driver and vehicle requirements and supervision; (n) Behavior and guidance policies;",
+   "status": "covered",
+   "handbook_quote": "We use positive guidance to help children learn self-control and respect for others",
+   "handbook_page": 2,
+   "span": [
+    4394,
+    4464
+   ],
+   "explanation": "The handbook includes the behavior and guidance policy.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_inappropriate_behavior",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must explain how staff proceed if a child displays inappropriate behaviors that could endanger themselves or others.",
+   "section": "414-305-0200(2)(o)",
+   "page": 17,
+   "quote": "How staff must proceed if a child is displaying inappropriate behaviors that could endanger themselves or the safety of others;",
+   "status": "covered",
+   "handbook_quote": "If a child's behavior could hurt themselves or others, a teacher moves other children away",
+   "handbook_page": 3,
+   "span": [
+    4736,
+    4810
+   ],
+   "explanation": "The handbook explains how staff proceed when a child displays unsafe behavior.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_communication",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must describe communication methods, notifications, and how parent grievances, questions, or concerns are handled.",
+   "section": "414-305-0200(2)(p)",
+   "page": 17,
+   "quote": "Communication methods and notifications, including how parent grievances, questions, or concerns are handled by the center;",
+   "status": "covered",
+   "handbook_quote": "We share news through our family app, a monthly newsletter, and daily written reports for infants and toddlers.",
+   "handbook_page": 6,
+   "span": [
+    11194,
+    11285
+   ],
+   "explanation": "The handbook describes communication methods, notifications, and concern handling.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must state prevention of and duty to report suspected child abuse and neglect.",
+   "section": "414-305-0200(2)(q)",
+   "page": 17,
+   "quote": "Prevention of and duty to report suspected child abuse and neglect;",
+   "status": "covered",
+   "handbook_quote": "Every staff member is a mandatory reporter and must report any suspicion of abuse or neglect immediately",
+   "handbook_page": 5,
+   "span": [
+    11012,
+    11100
+   ],
+   "explanation": "The handbook states prevention of and duty to report suspected child abuse and neglect.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_night_care",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must describe evening and night care if provided.",
+   "section": "414-305-0200(2)(r)",
+   "page": 17,
+   "quote": "Evening and night care, if provided;",
+   "status": "covered",
+   "handbook_quote": "We do not provide evening or night care.",
+   "handbook_page": 1,
+   "span": [
+    1096,
+    1128
+   ],
+   "explanation": "The handbook states that evening and night care are not provided.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_viewing_rules",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must explain how to view inspection reports, access DELC website and center certification rules, and contact CCLD and the child abuse and neglect hotline.",
+   "section": "414-305-0200(2)(s)",
+   "page": 17,
+   "quote": "How to view inspection reports, access the Department of Early Learning and Care website and center certification rules, and contact CCLD and child abuse and neglect hotline;",
+   "status": "covered",
+   "handbook_quote": "Our most recent CCLD inspection report and the Oregon rules for certified child care centers are available on request",
+   "handbook_page": 6,
+   "span": [
+    11719,
+    11818
+   ],
+   "explanation": "The handbook explains how to view inspection reports, access DELC information, and contact CCLD and the hotline.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_safety_portal",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must advise parents that they can access information about child care providers on the child care safety portal.",
+   "section": "414-305-0200(2)(t)",
+   "page": 17,
+   "quote": "A statement advising parents that they can access information about child care providers on the child care safety portal.",
+   "status": "covered",
+   "handbook_quote": "You can also look up information about any child care provider, including us, on Oregon's child care safety portal.",
+   "handbook_page": 6,
+   "span": [
+    11996,
+    12089
+   ],
+   "explanation": "The handbook advises parents about the child care safety portal.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "policy_suspension_expulsion",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include the suspension and expulsion prevention policy.",
+   "section": "414-305-0200(2)(u)",
+   "page": 17,
+   "quote": "Suspension and expulsion prevention policy (OAR 414-305-0750).",
+   "status": "covered",
+   "handbook_quote": "Our goal is for every child to stay with us. When a teacher has ongoing concerns about a child's behavior",
+   "handbook_page": 3,
+   "span": [
+    5066,
+    5150
+   ],
+   "explanation": "The handbook includes the suspension and expulsion prevention policy.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=17"
+  },
+  {
+   "id": "rule_individualized_assessment",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must complete an individualized assessment when aware a child with specific needs has applied or is in care, documenting needed modifications.",
+   "section": "414-305-0200(6)",
+   "page": 18,
+   "quote": "a certified child care center must complete an individualized assessment whenever the center becomes aware that a child with specific needs has either applied for enrollment or is already in care at the center.",
+   "status": "covered",
+   "handbook_quote": "When we learn that a child with specific needs has applied or is enrolled, we complete an individualized assessment",
+   "handbook_page": 2,
+   "span": [
+    2224,
+    2320
+   ],
+   "explanation": "The handbook states that an individualized assessment is completed for children with specific needs.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=18"
+  },
+  {
+   "id": "rule_emergency_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must practice evacuation drills monthly and one other emergency plan aspect every other month.",
+   "section": "414-305-0210(6)",
+   "page": 19,
+   "quote": "A certified child care center must practice evacuation drills monthly and one other aspect of the emergency plan every other month that:",
+   "status": "covered",
+   "handbook_quote": "We practice a fire evacuation drill every month, and every other month we also practice another part of our plan",
+   "handbook_page": 5,
+   "span": [
+    9399,
+    9491
+   ],
+   "explanation": "The handbook states monthly evacuation drills and another emergency plan aspect every other month.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=19"
+  },
+  {
+   "id": "rule_immunizations",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The center must comply with Oregon Health Authority immunization rules for children.",
+   "section": "414-305-0225(1)",
+   "page": 21,
+   "quote": "A certified child care center must comply with Oregon Health Authority\u2019s administrative rules (see OAR 333-050-0040) relating to the immunization of children.",
+   "status": "covered",
+   "handbook_quote": "We track every child's immunizations as Oregon Health Authority rules require and remind you when an update is due.",
+   "handbook_page": 4,
+   "span": [
+    7246,
+    7341
+   ],
+   "explanation": "The handbook states compliance with Oregon Health Authority immunization rules.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=21"
+  },
+  {
+   "id": "rule_field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parent permission for a field trip must be specific with dates, times, and locations for each field trip.",
+   "section": "414-305-0230(2)",
+   "page": 22,
+   "quote": "A certified child care center must have parent permission prior to a field trip or other activity away from the immediate neighborhood. Field trip permission must be specific with dates, times, and locations for each field trip.",
+   "status": "covered",
+   "handbook_quote": "Before each trip, we ask you to sign a permission slip listing that trip's date, times, and location.",
+   "handbook_page": 5,
+   "span": [
+    10500,
+    10579
+   ],
+   "explanation": "The handbook states that field trip permission is specific to each trip.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=22"
+  },
+  {
+   "id": "rule_authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may only be released to a parent or another person named and identified by the parent, with identification if not known to staff.",
+   "section": "414-305-0235(2)",
+   "page": 23,
+   "quote": "A certified child care center may only release a child to a parent or another person named and identified by the parent(s). A person picking up the child must show identification if not known to staff.",
+   "status": "covered",
+   "handbook_quote": "We release children only to parents and to adults you have named on your child's authorized pickup list.",
+   "handbook_page": 2,
+   "span": [
+    2699,
+    2784
+   ],
+   "explanation": "The handbook states release only to parents or named persons, with identification if unknown.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=23"
+  },
+  {
+   "id": "rule_records_confidential",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Child and personnel records must be kept confidential and available only to necessary personnel, the child's parents, and CCLD staff.",
+   "section": "414-305-0250(1)(e)",
+   "page": 24,
+   "quote": "A certified child care center must keep child and personnel records confidential and only available to personnel as necessary, the individual child's parents, and CCLD staff.",
+   "status": "covered",
+   "handbook_quote": "Your child's records are confidential and available only to staff who need them, to you as your child's parent",
+   "handbook_page": 6,
+   "span": [
+    11596,
+    11685
+   ],
+   "explanation": "The handbook states that child and personnel records are kept confidential.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=24"
+  },
+  {
+   "id": "rule_parent_access_areas",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Custodial parents have access to all child care areas upon notifying any staff member during hours of operation and without advance notice.",
+   "section": "414-305-0260(2)(h)",
+   "page": 25,
+   "quote": "A notice that custodial parents have access to all child care areas upon notifying any staff member of their presence during the hours of operation and without advance notice;",
+   "status": "covered",
+   "handbook_quote": "Custodial parents may visit all child care areas at any time during our hours, without advance notice.",
+   "handbook_page": 6,
+   "span": [
+    11460,
+    11544
+   ],
+   "explanation": "The handbook states custodial parent access to all child care areas during hours of operation.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=25"
+  },
+  {
+   "id": "rule_complaint_contact",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The center must post information on how to report a complaint to CCLD regarding certification requirements.",
+   "section": "414-305-0260(2)(e)",
+   "page": 25,
+   "quote": "Information on how to report a complaint to CCLD regarding certification requirements;",
+   "status": "covered",
+   "handbook_quote": "Visit the Department of Early Learning and Care at www.oregonearlylearning.com or call 1-800-556-6616 to read the rules, reach CCLD, or report a complaint.",
+   "handbook_page": 6,
+   "span": [
+    11832,
+    11957
+   ],
+   "explanation": "The handbook posts information on how to report a complaint to CCLD.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=25"
+  },
+  {
+   "id": "rule_abuse_report_immediate",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Any staff member who suspects child abuse or neglect must report immediately to the Oregon Child Abuse Hotline, DHS Child Welfare, or law enforcement.",
+   "section": "414-305-0270(3)",
+   "page": 27,
+   "quote": "Any staff member who has reason to believe a child has been abused or neglected is required to report the matter immediately to the Oregon Child Abuse Hotline",
+   "status": "covered",
+   "handbook_quote": "Every staff member is a mandatory reporter and must report any suspicion of abuse or neglect immediately",
+   "handbook_page": 5,
+   "span": [
+    11012,
+    11100
+   ],
+   "explanation": "The handbook states immediate reporting of suspected abuse or neglect.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=27"
+  },
+  {
+   "id": "rule_ratios_table_3a",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Centers initially licensed after July 15, 2001 must use Table 3A ratios and group sizes, such as 1:4 for infants and 1:15 for school-age children.",
+   "section": "414-305-0400(6)(a)",
+   "page": 40,
+   "quote": "All certified child care centers with initial certification after July 15, 2001, must comply with staff-to-child ratios and group size in Table 3A.",
+   "status": "covered",
+   "handbook_quote": "We follow Oregon's staff-to-child ratios and group sizes at all times",
+   "handbook_page": 1,
+   "span": [
+    1149,
+    1205
+   ],
+   "explanation": "The handbook lists Table 3A ratios and group sizes.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=40"
+  },
+  {
+   "id": "rule_supervision_sight_sound",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must supervise children within sight and sound without relying on audio or video monitoring devices, except as specified.",
+   "section": "414-305-0500(1)(d)",
+   "page": 44,
+   "quote": "Be within sight and sound, without relying on audio or video monitoring devices, except as specified in OAR 414-305-0500(4).",
+   "status": "covered",
+   "handbook_quote": "Teachers supervise children within sight and sound and never rely on baby monitors or cameras in place of a teacher",
+   "handbook_page": 1,
+   "span": [
+    1454,
+    1550
+   ],
+   "explanation": "The handbook states supervision within sight and sound without relying on monitoring devices.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=44"
+  },
+  {
+   "id": "rule_no_care_under_six_weeks",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must not provide care for a child under six weeks of age.",
+   "section": "414-305-0600(1)",
+   "page": 47,
+   "quote": "A certified child care center must not provide care for a child under six weeks of age.",
+   "status": "covered",
+   "handbook_quote": "We are a certified child care center for children from 6 weeks through 5 years old.",
+   "handbook_page": 1,
+   "span": [
+    124,
+    191
+   ],
+   "explanation": "The handbook states care begins at six weeks of age.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=47"
+  },
+  {
+   "id": "rule_safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs on a flat, firm, non-inclined surface for sleeping.",
+   "section": "414-305-0630(1)(b)",
+   "page": 52,
+   "quote": "Infants must be placed on their backs on a flat, firm, non-inclined surface for sleeping.",
+   "status": "covered",
+   "handbook_quote": "Infants are always placed on their backs to sleep, on the firm, flat mattress of their own crib.",
+   "handbook_page": 2,
+   "span": [
+    3992,
+    4068
+   ],
+   "explanation": "The handbook states infants are placed on their backs on a flat, firm surface for sleep.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=52"
+  },
+  {
+   "id": "rule_prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The center must not use or threaten prohibited discipline, including corporal punishment, isolation, food withdrawal, or humiliation.",
+   "section": "414-305-0710",
+   "page": 56,
+   "quote": "A certified child care center must not use or threaten to use any of the following prohibited actions even if requested or agreed to by parents:",
+   "status": "covered",
+   "handbook_quote": "We never hit, spank, shake, or handle a child roughly; never isolate a child in a closed or dark space",
+   "handbook_page": 3,
+   "span": [
+    4537,
+    4616
+   ],
+   "explanation": "The handbook states prohibited discipline and actions are not used.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=56"
+  },
+  {
+   "id": "rule_physical_restraint_safety",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical restraint may only be used when a child's safety or others' safety is threatened, gently and for the minimum time necessary.",
+   "section": "414-305-0720(2)",
+   "page": 56,
+   "quote": "Physical restraint must only be used if a child's safety or the safety of others is threatened and must be: (a) Limited to holding a child as gently as possible to accomplish restraint;",
+   "status": "covered",
+   "handbook_quote": "Physical restraint is used only when someone's safety is threatened, and only as a gentle hold for the shortest time needed.",
+   "handbook_page": 3,
+   "span": [
+    4869,
+    4970
+   ],
+   "explanation": "The handbook states physical restraint is used only for safety, gently, and for the minimum time necessary.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=56"
+  },
+  {
+   "id": "rule_capacity_not_exceeded",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must not exceed licensed capacity at any time, including children in care away from the center.",
+   "section": "414-305-0800(4)",
+   "page": 59,
+   "quote": "A certified child care center must not exceed its licensed capacity at any time, including the total number of children in care both at and away from the center.",
+   "status": "not_mentioned",
+   "handbook_quote": "",
+   "handbook_page": null,
+   "span": null,
+   "explanation": "The handbook does not state that licensed capacity will not be exceeded at any time.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=59"
+  },
+  {
+   "id": "rule_activity_space",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must provide at least 35 square feet of activity space per child.",
+   "section": "414-305-0800(5)",
+   "page": 59,
+   "quote": "A certified child care center must have a minimum of 35 square feet of activity space per child.",
+   "status": "covered",
+   "handbook_quote": "Each classroom has at least 35 square feet of activity space per child",
+   "handbook_page": 1,
+   "span": [
+    1559,
+    1617
+   ],
+   "explanation": "The handbook states at least 35 square feet of activity space per child.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=59"
+  },
+  {
+   "id": "rule_outdoor_space",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must provide at least 75 square feet of outdoor activity space per child using the space at one time.",
+   "section": "414-305-0800(6)",
+   "page": 59,
+   "quote": "A certified child care center must provide an outdoor activity space of no less than 75 square feet for each child using the space at one time",
+   "status": "covered",
+   "handbook_quote": "our playground has more than 75 square feet for each child using it at one time.",
+   "handbook_page": 1,
+   "span": [
+    1620,
+    1684
+   ],
+   "explanation": "The handbook states at least 75 square feet of outdoor activity space per child using the space.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=59"
+  },
+  {
+   "id": "rule_sick_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The center must not accept a child diagnosed as having or being a carrier of a child care restrictable disease without written approval.",
+   "section": "414-305-1010(2)",
+   "page": 74,
+   "quote": "(a) Is diagnosed as having or being a carrier of a child care restrictable disease, as defined in Oregon Health Authority administrative rules, except with the written approval",
+   "status": "covered",
+   "handbook_quote": "A child with a restrictable disease may return only with written approval from a health care provider or public health.",
+   "handbook_page": 4,
+   "span": [
+    7934,
+    8033
+   ],
+   "explanation": "The handbook states exclusion and return criteria for illness and restrictable disease.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=74"
+  },
+  {
+   "id": "rule_injury_head_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Any injury that may need physician evaluation or impact to a child's head must be reported to parents immediately and documented.",
+   "section": "414-305-1020(1)(e)(A)",
+   "page": 76,
+   "quote": "Any injury that may need evaluation by a physician or impact to a child\u2019s head must be reported to the child\u2019s parent(s) immediately and documented.",
+   "status": "covered",
+   "handbook_quote": "We call you immediately for any bump to the head or any injury that may need a doctor",
+   "handbook_page": 4,
+   "span": [
+    8724,
+    8792
+   ],
+   "explanation": "The handbook states immediate parent notification for head impacts or injuries needing physician evaluation.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=76"
+  },
+  {
+   "id": "rule_medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Before giving medication, the center must have signed, dated, written parent authorization on file.",
+   "section": "414-305-1030(1)(a)",
+   "page": 77,
+   "quote": "Have a signed, dated, written authorization by the parent(s) on file (also see OAR 414-305-0230, Parental Permissions);",
+   "status": "covered",
+   "handbook_quote": "Before we give any medicine, prescription or over-the-counter, you must complete and sign a dated medication authorization form",
+   "handbook_page": 4,
+   "span": [
+    8158,
+    8264
+   ],
+   "explanation": "The handbook states signed, dated written parent authorization before medication administration.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=77"
+  },
+  {
+   "id": "rule_meals_every_3_5_hours",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children in care more than 3.5 consecutive hours must be served a meal or snack every 3.5 hours.",
+   "section": "414-305-1110(1)(a)",
+   "page": 80,
+   "quote": "Children in care for more than 3 \u00bd consecutive hours must be served a meal or snack every 3 \u00bd hours;",
+   "status": "covered",
+   "handbook_quote": "We serve breakfast, lunch, and three snacks that meet CACFP guidelines, so children never go more than 3\u00bd hours",
+   "handbook_page": 3,
+   "span": [
+    5693,
+    5784
+   ],
+   "explanation": "The handbook states children are served a meal or snack every 3.5 hours.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=80"
+  },
+  {
+   "id": "rule_transport_no_unattended",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must never be left unattended inside or outside of a vehicle.",
+   "section": "414-305-1210(4)(b)",
+   "page": 86,
+   "quote": "A certified child care center must never leave children unattended inside or outside of a vehicle.",
+   "status": "covered",
+   "handbook_quote": "children are never left unattended inside or outside a vehicle.",
+   "handbook_page": 5,
+   "span": [
+    10842,
+    10895
+   ],
+   "explanation": "The handbook states children are never left unattended in or around vehicles.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=86"
+  },
+  {
+   "id": "rule_swimming_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parent permission is required before engaging in any swimming activities.",
+   "section": "414-305-1300(1)",
+   "page": 88,
+   "quote": "A certified child care center must have written permission from each child\u2019s parent before engaging in any swimming activities.",
+   "status": "covered",
+   "handbook_quote": "We do not offer swimming; if we ever did, we would first get your written permission and share our safety plan.",
+   "handbook_page": 5,
+   "span": [
+    10070,
+    10158
+   ],
+   "explanation": "The handbook states written parent permission would be obtained before swimming activities.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=88"
+  },
+  {
+   "id": "policy_animals_notice",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of any animals on the premises by a clearly viewed notice, policy handbook, parent flier, or enrollment statement.",
+   "section": "414-305-1400(6)",
+   "page": 90,
+   "quote": "A certified child care center must inform parents of any animals on the premises by a clearly viewed notice or bulletin, policy handbook, parent flier, or a statement included on the enrollment form",
+   "status": "covered",
+   "handbook_quote": "The Cedar Room has two guinea pigs in a covered cage. Children may help feed them with a teacher beside them.",
+   "handbook_page": 5,
+   "span": [
+    9921,
+    10008
+   ],
+   "explanation": "The handbook informs parents of animals on the premises.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=90"
+  },
+  {
+   "id": "rule_night_care_approval",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "A center must be approved by CCLD before providing night care.",
+   "section": "414-305-1500(1)",
+   "page": 90,
+   "quote": "A certified child care center must be approved by CCLD to provide night care, as defined in 414-305-0100(32).",
+   "status": "not_mentioned",
+   "handbook_quote": "",
+   "handbook_page": null,
+   "span": null,
+   "explanation": "The handbook does not mention CCLD approval because night care is not provided.",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf#page=90"
+  }
+ ],
+ "summary": "The handbook covers nearly all checklist items and aligns with the cited rules. No additional contradictions were found beyond the checklist items.",
+ "score": 100,
+ "coverage": 100,
+ "required": 22,
+ "counts": {
+  "covered": 45,
+  "partial": 0,
+  "missing": 0,
+  "conflict": 0,
+  "not_mentioned": 2,
+  "unverified": 0,
+  "conflict_statements": 0
+ },
+ "cost": 0.0457,
+ "tokens_in": 81010,
+ "tokens_out": 11101,
+ "finish": "stop",
+ "seconds": 18.1,
+ "effort": "low",
+ "wall_seconds": 18.1,
+ "raw": "{\"items\":[{\"id\":\"policy_responsible_person\",\"status\":\"covered\",\"handbook_quote\":\"Director: Renata Okafor-Lindqvist, responsible for daily operation\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook names the director with business address and phone number.\",\"fix\":\"\"},{\"id\":\"policy_center_description\",\"status\":\"covered\",\"handbook_quote\":\"Thimbleberry Hollow is certified for 60 children. We currently care for 58 children\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook describes capacity, ages, hours, closures, and ratios.\",\"fix\":\"\"},{\"id\":\"policy_arrival_departure\",\"status\":\"covered\",\"handbook_quote\":\"Please walk your child into the classroom and stay until a teacher has greeted and accepted your child.\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states arrival, sign-in and sign-out, and authorized pickup procedures.\",\"fix\":\"\"},{\"id\":\"policy_parent_responsibilities\",\"status\":\"covered\",\"handbook_quote\":\"You are responsible for keeping this information current. Please tell us right away about new phone numbers\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook explains parent responsibilities for current information and annual review.\",\"fix\":\"\"},{\"id\":\"policy_health\",\"status\":\"covered\",\"handbook_quote\":\"Children and staff wash hands with soap and running water on arrival, before and after eating\",\"handbook_page\":4,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook covers toileting, diapering, handwashing, infant feeding, bottles, pacifiers, immunizations, medication, sunscreen, bedding, illness, exclusion, and injuries.\",\"fix\":\"\"},{\"id\":\"policy_safety\",\"status\":\"covered\",\"handbook_quote\":\"Teachers check the playground every morning for hazards. Cleaning products and other toxic materials are locked away\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook addresses safe sleep, infant monitoring, injury prevention, toxic substances, animals, water activities, and prohibited substances.\",\"fix\":\"\"},{\"id\":\"policy_visitor_access\",\"status\":\"covered\",\"handbook_quote\":\"Any adult who is not enrolled in the Central Background Registry is always accompanied by a staff member\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook includes a plan to prevent unsupervised access by visitors not enrolled in the CBR.\",\"fix\":\"\"},{\"id\":\"policy_emergency_plan\",\"status\":\"covered\",\"handbook_quote\":\"Our written emergency plan covers fire, earthquake, severe weather, power outages, a lost child\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook includes the emergency preparedness plan.\",\"fix\":\"\"},{\"id\":\"policy_philosophy\",\"status\":\"covered\",\"handbook_quote\":\"We believe young children learn through play, relationships, and curiosity.\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states the center philosophy and how teachers implement it.\",\"fix\":\"\"},{\"id\":\"policy_daily_schedule\",\"status\":\"covered\",\"handbook_quote\":\"Every day includes at least an hour of active physical play, indoors if the weather is unsafe.\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook includes daily schedules with activities, rest, physical activity, and screen time.\",\"fix\":\"\"},{\"id\":\"policy_religious_cultural\",\"status\":\"covered\",\"handbook_quote\":\"We do not hold religious activities. We celebrate our families' cultures by inviting them to share songs\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook describes cultural activities and holiday recognition.\",\"fix\":\"\"},{\"id\":\"policy_food_service\",\"status\":\"covered\",\"handbook_quote\":\"We serve breakfast, lunch, and three snacks that meet CACFP guidelines, so children never go more than 3\u00bd hours\",\"handbook_page\":3,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states meals, snacks, food service practices, dietary needs, allergies, infant feeding, and food from home.\",\"fix\":\"\"},{\"id\":\"policy_transportation\",\"status\":\"covered\",\"handbook_quote\":\"For trips that need driving, we use our center van. Drivers are staff at least 21 years old\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states transportation and field trip policies, driver and vehicle requirements, and supervision.\",\"fix\":\"\"},{\"id\":\"policy_behavior_guidance\",\"status\":\"covered\",\"handbook_quote\":\"We use positive guidance to help children learn self-control and respect for others\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook includes the behavior and guidance policy.\",\"fix\":\"\"},{\"id\":\"policy_inappropriate_behavior\",\"status\":\"covered\",\"handbook_quote\":\"If a child's behavior could hurt themselves or others, a teacher moves other children away\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook explains how staff proceed when a child displays unsafe behavior.\",\"fix\":\"\"},{\"id\":\"policy_communication\",\"status\":\"covered\",\"handbook_quote\":\"We share news through our family app, a monthly newsletter, and daily written reports for infants and toddlers.\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook describes communication methods, notifications, and concern handling.\",\"fix\":\"\"},{\"id\":\"policy_abuse_reporting\",\"status\":\"covered\",\"handbook_quote\":\"Every staff member is a mandatory reporter and must report any suspicion of abuse or neglect immediately\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states prevention of and duty to report suspected child abuse and neglect.\",\"fix\":\"\"},{\"id\":\"policy_night_care\",\"status\":\"covered\",\"handbook_quote\":\"We do not provide evening or night care.\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states that evening and night care are not provided.\",\"fix\":\"\"},{\"id\":\"policy_viewing_rules\",\"status\":\"covered\",\"handbook_quote\":\"Our most recent CCLD inspection report and the Oregon rules for certified child care centers are available on request\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook explains how to view inspection reports, access DELC information, and contact CCLD and the hotline.\",\"fix\":\"\"},{\"id\":\"policy_safety_portal\",\"status\":\"covered\",\"handbook_quote\":\"You can also look up information about any child care provider, including us, on Oregon's child care safety portal.\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook advises parents about the child care safety portal.\",\"fix\":\"\"},{\"id\":\"policy_suspension_expulsion\",\"status\":\"covered\",\"handbook_quote\":\"Our goal is for every child to stay with us. When a teacher has ongoing concerns about a child's behavior\",\"handbook_page\":3,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook includes the suspension and expulsion prevention policy.\",\"fix\":\"\"},{\"id\":\"rule_individualized_assessment\",\"status\":\"covered\",\"handbook_quote\":\"When we learn that a child with specific needs has applied or is enrolled, we complete an individualized assessment\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states that an individualized assessment is completed for children with specific needs.\",\"fix\":\"\"},{\"id\":\"rule_emergency_drills\",\"status\":\"covered\",\"handbook_quote\":\"We practice a fire evacuation drill every month, and every other month we also practice another part of our plan\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states monthly evacuation drills and another emergency plan aspect every other month.\",\"fix\":\"\"},{\"id\":\"rule_immunizations\",\"status\":\"covered\",\"handbook_quote\":\"We track every child's immunizations as Oregon Health Authority rules require and remind you when an update is due.\",\"handbook_page\":4,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states compliance with Oregon Health Authority immunization rules.\",\"fix\":\"\"},{\"id\":\"rule_field_trip_permission\",\"status\":\"covered\",\"handbook_quote\":\"Before each trip, we ask you to sign a permission slip listing that trip's date, times, and location.\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states that field trip permission is specific to each trip.\",\"fix\":\"\"},{\"id\":\"rule_authorized_pickup\",\"status\":\"covered\",\"handbook_quote\":\"We release children only to parents and to adults you have named on your child's authorized pickup list.\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states release only to parents or named persons, with identification if unknown.\",\"fix\":\"\"},{\"id\":\"rule_records_confidential\",\"status\":\"covered\",\"handbook_quote\":\"Your child's records are confidential and available only to staff who need them, to you as your child's parent\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states that child and personnel records are kept confidential.\",\"fix\":\"\"},{\"id\":\"rule_parent_access_areas\",\"status\":\"covered\",\"handbook_quote\":\"Custodial parents may visit all child care areas at any time during our hours, without advance notice.\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states custodial parent access to all child care areas during hours of operation.\",\"fix\":\"\"},{\"id\":\"rule_complaint_contact\",\"status\":\"covered\",\"handbook_quote\":\"Visit the Department of Early Learning and Care at www.oregonearlylearning.com or call 1-800-556-6616 to read the rules, reach CCLD, or report a complaint.\",\"handbook_page\":6,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook posts information on how to report a complaint to CCLD.\",\"fix\":\"\"},{\"id\":\"rule_abuse_report_immediate\",\"status\":\"covered\",\"handbook_quote\":\"Every staff member is a mandatory reporter and must report any suspicion of abuse or neglect immediately\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states immediate reporting of suspected abuse or neglect.\",\"fix\":\"\"},{\"id\":\"rule_ratios_table_3a\",\"status\":\"covered\",\"handbook_quote\":\"We follow Oregon's staff-to-child ratios and group sizes at all times\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook lists Table 3A ratios and group sizes.\",\"fix\":\"\"},{\"id\":\"rule_supervision_sight_sound\",\"status\":\"covered\",\"handbook_quote\":\"Teachers supervise children within sight and sound and never rely on baby monitors or cameras in place of a teacher\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states supervision within sight and sound without relying on monitoring devices.\",\"fix\":\"\"},{\"id\":\"rule_no_care_under_six_weeks\",\"status\":\"covered\",\"handbook_quote\":\"We are a certified child care center for children from 6 weeks through 5 years old.\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states care begins at six weeks of age.\",\"fix\":\"\"},{\"id\":\"rule_safe_sleep_back\",\"status\":\"covered\",\"handbook_quote\":\"Infants are always placed on their backs to sleep, on the firm, flat mattress of their own crib.\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states infants are placed on their backs on a flat, firm surface for sleep.\",\"fix\":\"\"},{\"id\":\"rule_prohibited_discipline\",\"status\":\"covered\",\"handbook_quote\":\"We never hit, spank, shake, or handle a child roughly; never isolate a child in a closed or dark space\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states prohibited discipline and actions are not used.\",\"fix\":\"\"},{\"id\":\"rule_physical_restraint_safety\",\"status\":\"covered\",\"handbook_quote\":\"Physical restraint is used only when someone's safety is threatened, and only as a gentle hold for the shortest time needed.\",\"handbook_page\":2,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states physical restraint is used only for safety, gently, and for the minimum time necessary.\",\"fix\":\"\"},{\"id\":\"rule_capacity_not_exceeded\",\"status\":\"not_mentioned\",\"handbook_quote\":\"\",\"handbook_page\":0,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook does not state that licensed capacity will not be exceeded at any time.\",\"fix\":\"\"},{\"id\":\"rule_activity_space\",\"status\":\"covered\",\"handbook_quote\":\"Each classroom has at least 35 square feet of activity space per child\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states at least 35 square feet of activity space per child.\",\"fix\":\"\"},{\"id\":\"rule_outdoor_space\",\"status\":\"covered\",\"handbook_quote\":\"our playground has more than 75 square feet for each child using it at one time.\",\"handbook_page\":1,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states at least 75 square feet of outdoor activity space per child using the space.\",\"fix\":\"\"},{\"id\":\"rule_sick_exclusion\",\"status\":\"covered\",\"handbook_quote\":\"A child with a restrictable disease may return only with written approval from a health care provider or public health.\",\"handbook_page\":4,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states exclusion and return criteria for illness and restrictable disease.\",\"fix\":\"\"},{\"id\":\"rule_injury_head_report\",\"status\":\"covered\",\"handbook_quote\":\"We call you immediately for any bump to the head or any injury that may need a doctor\",\"handbook_page\":4,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states immediate parent notification for head impacts or injuries needing physician evaluation.\",\"fix\":\"\"},{\"id\":\"rule_medication_permission\",\"status\":\"covered\",\"handbook_quote\":\"Before we give any medicine, prescription or over-the-counter, you must complete and sign a dated medication authorization form\",\"handbook_page\":4,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states signed, dated written parent authorization before medication administration.\",\"fix\":\"\"},{\"id\":\"rule_meals_every_3_5_hours\",\"status\":\"covered\",\"handbook_quote\":\"We serve breakfast, lunch, and three snacks that meet CACFP guidelines, so children never go more than 3\u00bd hours\",\"handbook_page\":3,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states children are served a meal or snack every 3.5 hours.\",\"fix\":\"\"},{\"id\":\"rule_transport_no_unattended\",\"status\":\"covered\",\"handbook_quote\":\"children are never left unattended inside or outside a vehicle.\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states children are never left unattended in or around vehicles.\",\"fix\":\"\"},{\"id\":\"rule_swimming_permission\",\"status\":\"covered\",\"handbook_quote\":\"We do not offer swimming; if we ever did, we would first get your written permission and share our safety plan.\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook states written parent permission would be obtained before swimming activities.\",\"fix\":\"\"},{\"id\":\"policy_animals_notice\",\"status\":\"covered\",\"handbook_quote\":\"The Cedar Room has two guinea pigs in a covered cage. Children may help feed them with a teacher beside them.\",\"handbook_page\":5,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook informs parents of animals on the premises.\",\"fix\":\"\"},{\"id\":\"rule_night_care_approval\",\"status\":\"not_mentioned\",\"handbook_quote\":\"\",\"handbook_page\":0,\"rule_quote\":\"\",\"rule_section\":\"\",\"explanation\":\"The handbook does not mention CCLD approval because night care is not provided.\",\"fix\":\"\"}],\"extra_conflicts\":[],\"summary\":\"The handbook covers nearly all checklist items and aligns with the cited rules. No additional contradictions were found beyond the checklist items.\"}"
+}

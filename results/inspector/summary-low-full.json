@@ -1,0 +1,112 @@
+[
+ {
+  "state": "TX",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 54,
+  "cost": 0.1205,
+  "seconds": [
+   19.0,
+   9.9
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "NC",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 64,
+  "cost": 0.1747,
+  "seconds": [
+   24.3,
+   22.2
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "OR",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 57,
+  "cost": 0.0913,
+  "seconds": [
+   18.1,
+   16.8
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "FL",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 44,
+  "cost": 0.0849,
+  "seconds": [
+   21.3,
+   18.6
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "NJ",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 44,
+  "cost": 0.0855,
+  "seconds": [
+   24.4,
+   12.9
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ }
+]

@@ -1,0 +1,436 @@
+{
+ "state": "OR",
+ "rulebook": "DELC Rules for Certified Child Care Centers, CCLD-0084 (OAR 414-305)",
+ "items": [
+  {
+   "id": "policy_responsible_person",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must name the person with immediate responsibility for daily operation, with business address and phone number.",
+   "section": "414-305-0200(2)(a)",
+   "page": 16,
+   "quote": "Name, business address, and business telephone number of the person(s) who has immediate responsibility for the daily operation of the center;"
+  },
+  {
+   "id": "policy_center_description",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must describe licensed capacity, ages and number of children, hours, days, months, closures, holidays, and ratios.",
+   "section": "414-305-0200(2)(b)",
+   "page": 16,
+   "quote": "A center description including the licensed capacity, ages and number of children in care, hours, days and months of operation, closure dates and observed holidays, and staff-to-child ratios;"
+  },
+  {
+   "id": "policy_arrival_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must state arrival and departure procedures, sign-in and sign-out requirements, and authorized pickup persons.",
+   "section": "414-305-0200(2)(c)",
+   "page": 16,
+   "quote": "Arrival and departure procedures, including sign in and out requirements and individuals authorized for pick-up;"
+  },
+  {
+   "id": "policy_parent_responsibilities",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must explain parent responsibilities for providing current required information and what parents must provide.",
+   "section": "414-305-0200(2)(d)",
+   "page": 16,
+   "quote": "Parent responsibilities for providing current required information and what parents are expected to provide;"
+  },
+  {
+   "id": "policy_health",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The handbook must include health policies covering toileting, diapering, handwashing, infant feeding support, bottles and pacifiers, immunization tracking, medication, repellent and sunscreen, bed linen, ill child care, exclusion, and injury response.",
+   "section": "414-305-0200(2)(e)",
+   "page": 16,
+   "quote": "Health policies and procedures to include toileting, diaper changing and handwashing methods, support for parents feeding their infants, storage and handling of bottles and pacifiers, immunization tracking, medication administration, use of insect repellent and sunscreen, care of bed linen, care of children who are ill and exclusion criteria, and response to injuries"
+  },
+  {
+   "id": "policy_safety",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The handbook must state safety measures including safe sleep, monitoring sleeping infants, injury prevention, pesticides and toxic substances, animals, water activities, and prohibited substances.",
+   "section": "414-305-0200(2)(f)",
+   "page": 16,
+   "quote": "Safety measures including safe sleep practices, monitoring of sleeping infants, injury prevention, use of pesticides and other potentially toxic substances, animals, water activities, and prohibited substances;"
+  },
+  {
+   "id": "policy_visitor_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must include a plan ensuring visitors or other adults not enrolled or conditionally enrolled in the CBR do not have unsupervised access to children.",
+   "section": "414-305-0200(2)(g)",
+   "page": 16,
+   "quote": "A plan to ensure that any visitor or other adult not enrolled or conditionally enrolled in the CBR does not have unsupervised access to children;"
+  },
+  {
+   "id": "policy_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must include the emergency preparedness plan.",
+   "section": "414-305-0200(2)(h)",
+   "page": 16,
+   "quote": "Emergency preparedness plan (also see OAR 414-305-0210, Emergency Preparedness and Response);"
+  },
+  {
+   "id": "policy_philosophy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state the center philosophy on how children learn and develop and how it is implemented.",
+   "section": "414-305-0200(2)(i)",
+   "page": 17,
+   "quote": "Center philosophy on how children learn and develop, and how this philosophy is implemented;"
+  },
+  {
+   "id": "policy_daily_schedule",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must include daily schedules with planned activities, rest time, physical activity, and screen time.",
+   "section": "414-305-0200(2)(j)",
+   "page": 17,
+   "quote": "Daily schedules that include planned activities, rest time, physical activity, and screen time;"
+  },
+  {
+   "id": "policy_religious_cultural",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The handbook must describe center-sponsored religious and cultural activities and how holidays are recognized.",
+   "section": "414-305-0200(2)(k)",
+   "page": 17,
+   "quote": "Center-sponsored religious and cultural activities, if any, including how holidays will be recognized;"
+  },
+  {
+   "id": "policy_food_service",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The handbook must state meals, snacks, and food service practices including storage and handling, dietary needs and allergies, infant feeding, and food from home.",
+   "section": "414-305-0200(2)(l)",
+   "page": 17,
+   "quote": "Meals, snacks, and food service practices including food storage and handling, children’s dietary needs and allergies, infant feeding, and food brought from the child’s home;"
+  },
+  {
+   "id": "policy_transportation",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The handbook must state transportation and field trip policies including driver and vehicle requirements and supervision.",
+   "section": "414-305-0200(2)(m)",
+   "page": 17,
+   "quote": "Transportation and field trips including driver and vehicle requirements and supervision;"
+  },
+  {
+   "id": "policy_behavior_guidance",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include the behavior and guidance policy.",
+   "section": "414-305-0200(2)(n)",
+   "page": 17,
+   "quote": "(m) Transportation and field trips including driver and vehicle requirements and supervision; (n) Behavior and guidance policies;"
+  },
+  {
+   "id": "policy_inappropriate_behavior",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must explain how staff proceed if a child displays inappropriate behaviors that could endanger themselves or others.",
+   "section": "414-305-0200(2)(o)",
+   "page": 17,
+   "quote": "How staff must proceed if a child is displaying inappropriate behaviors that could endanger themselves or the safety of others;"
+  },
+  {
+   "id": "policy_communication",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must describe communication methods, notifications, and how parent grievances, questions, or concerns are handled.",
+   "section": "414-305-0200(2)(p)",
+   "page": 17,
+   "quote": "Communication methods and notifications, including how parent grievances, questions, or concerns are handled by the center;"
+  },
+  {
+   "id": "policy_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must state prevention of and duty to report suspected child abuse and neglect.",
+   "section": "414-305-0200(2)(q)",
+   "page": 17,
+   "quote": "Prevention of and duty to report suspected child abuse and neglect;"
+  },
+  {
+   "id": "policy_night_care",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must describe evening and night care if provided.",
+   "section": "414-305-0200(2)(r)",
+   "page": 17,
+   "quote": "Evening and night care, if provided;"
+  },
+  {
+   "id": "policy_viewing_rules",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must explain how to view inspection reports, access DELC website and center certification rules, and contact CCLD and the child abuse and neglect hotline.",
+   "section": "414-305-0200(2)(s)",
+   "page": 17,
+   "quote": "How to view inspection reports, access the Department of Early Learning and Care website and center certification rules, and contact CCLD and child abuse and neglect hotline;"
+  },
+  {
+   "id": "policy_safety_portal",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must advise parents that they can access information about child care providers on the child care safety portal.",
+   "section": "414-305-0200(2)(t)",
+   "page": 17,
+   "quote": "A statement advising parents that they can access information about child care providers on the child care safety portal."
+  },
+  {
+   "id": "policy_suspension_expulsion",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include the suspension and expulsion prevention policy.",
+   "section": "414-305-0200(2)(u)",
+   "page": 17,
+   "quote": "Suspension and expulsion prevention policy (OAR 414-305-0750)."
+  },
+  {
+   "id": "rule_individualized_assessment",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must complete an individualized assessment when aware a child with specific needs has applied or is in care, documenting needed modifications.",
+   "section": "414-305-0200(6)",
+   "page": 18,
+   "quote": "a certified child care center must complete an individualized assessment whenever the center becomes aware that a child with specific needs has either applied for enrollment or is already in care at the center."
+  },
+  {
+   "id": "rule_emergency_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must practice evacuation drills monthly and one other emergency plan aspect every other month.",
+   "section": "414-305-0210(6)",
+   "page": 19,
+   "quote": "A certified child care center must practice evacuation drills monthly and one other aspect of the emergency plan every other month that:"
+  },
+  {
+   "id": "rule_immunizations",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The center must comply with Oregon Health Authority immunization rules for children.",
+   "section": "414-305-0225(1)",
+   "page": 21,
+   "quote": "A certified child care center must comply with Oregon Health Authority’s administrative rules (see OAR 333-050-0040) relating to the immunization of children."
+  },
+  {
+   "id": "rule_field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parent permission for a field trip must be specific with dates, times, and locations for each field trip.",
+   "section": "414-305-0230(2)",
+   "page": 22,
+   "quote": "A certified child care center must have parent permission prior to a field trip or other activity away from the immediate neighborhood. Field trip permission must be specific with dates, times, and locations for each field trip."
+  },
+  {
+   "id": "rule_authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may only be released to a parent or another person named and identified by the parent, with identification if not known to staff.",
+   "section": "414-305-0235(2)",
+   "page": 23,
+   "quote": "A certified child care center may only release a child to a parent or another person named and identified by the parent(s). A person picking up the child must show identification if not known to staff."
+  },
+  {
+   "id": "rule_records_confidential",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Child and personnel records must be kept confidential and available only to necessary personnel, the child's parents, and CCLD staff.",
+   "section": "414-305-0250(1)(e)",
+   "page": 24,
+   "quote": "A certified child care center must keep child and personnel records confidential and only available to personnel as necessary, the individual child's parents, and CCLD staff."
+  },
+  {
+   "id": "rule_parent_access_areas",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Custodial parents have access to all child care areas upon notifying any staff member during hours of operation and without advance notice.",
+   "section": "414-305-0260(2)(h)",
+   "page": 25,
+   "quote": "A notice that custodial parents have access to all child care areas upon notifying any staff member of their presence during the hours of operation and without advance notice;"
+  },
+  {
+   "id": "rule_complaint_contact",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The center must post information on how to report a complaint to CCLD regarding certification requirements.",
+   "section": "414-305-0260(2)(e)",
+   "page": 25,
+   "quote": "Information on how to report a complaint to CCLD regarding certification requirements;"
+  },
+  {
+   "id": "rule_abuse_report_immediate",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Any staff member who suspects child abuse or neglect must report immediately to the Oregon Child Abuse Hotline, DHS Child Welfare, or law enforcement.",
+   "section": "414-305-0270(3)",
+   "page": 27,
+   "quote": "Any staff member who has reason to believe a child has been abused or neglected is required to report the matter immediately to the Oregon Child Abuse Hotline"
+  },
+  {
+   "id": "rule_ratios_table_3a",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Centers initially licensed after July 15, 2001 must use Table 3A ratios and group sizes, such as 1:4 for infants and 1:15 for school-age children.",
+   "section": "414-305-0400(6)(a)",
+   "page": 40,
+   "quote": "All certified child care centers with initial certification after July 15, 2001, must comply with staff-to-child ratios and group size in Table 3A."
+  },
+  {
+   "id": "rule_supervision_sight_sound",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must supervise children within sight and sound without relying on audio or video monitoring devices, except as specified.",
+   "section": "414-305-0500(1)(d)",
+   "page": 44,
+   "quote": "Be within sight and sound, without relying on audio or video monitoring devices, except as specified in OAR 414-305-0500(4)."
+  },
+  {
+   "id": "rule_no_care_under_six_weeks",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must not provide care for a child under six weeks of age.",
+   "section": "414-305-0600(1)",
+   "page": 47,
+   "quote": "A certified child care center must not provide care for a child under six weeks of age."
+  },
+  {
+   "id": "rule_safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs on a flat, firm, non-inclined surface for sleeping.",
+   "section": "414-305-0630(1)(b)",
+   "page": 52,
+   "quote": "Infants must be placed on their backs on a flat, firm, non-inclined surface for sleeping."
+  },
+  {
+   "id": "rule_prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The center must not use or threaten prohibited discipline, including corporal punishment, isolation, food withdrawal, or humiliation.",
+   "section": "414-305-0710",
+   "page": 56,
+   "quote": "A certified child care center must not use or threaten to use any of the following prohibited actions even if requested or agreed to by parents:"
+  },
+  {
+   "id": "rule_physical_restraint_safety",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical restraint may only be used when a child's safety or others' safety is threatened, gently and for the minimum time necessary.",
+   "section": "414-305-0720(2)",
+   "page": 56,
+   "quote": "Physical restraint must only be used if a child's safety or the safety of others is threatened and must be: (a) Limited to holding a child as gently as possible to accomplish restraint;"
+  },
+  {
+   "id": "rule_capacity_not_exceeded",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must not exceed licensed capacity at any time, including children in care away from the center.",
+   "section": "414-305-0800(4)",
+   "page": 59,
+   "quote": "A certified child care center must not exceed its licensed capacity at any time, including the total number of children in care both at and away from the center."
+  },
+  {
+   "id": "rule_activity_space",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must provide at least 35 square feet of activity space per child.",
+   "section": "414-305-0800(5)",
+   "page": 59,
+   "quote": "A certified child care center must have a minimum of 35 square feet of activity space per child."
+  },
+  {
+   "id": "rule_outdoor_space",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must provide at least 75 square feet of outdoor activity space per child using the space at one time.",
+   "section": "414-305-0800(6)",
+   "page": 59,
+   "quote": "A certified child care center must provide an outdoor activity space of no less than 75 square feet for each child using the space at one time"
+  },
+  {
+   "id": "rule_sick_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The center must not accept a child diagnosed as having or being a carrier of a child care restrictable disease without written approval.",
+   "section": "414-305-1010(2)",
+   "page": 74,
+   "quote": "(a) Is diagnosed as having or being a carrier of a child care restrictable disease, as defined in Oregon Health Authority administrative rules, except with the written approval"
+  },
+  {
+   "id": "rule_injury_head_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Any injury that may need physician evaluation or impact to a child's head must be reported to parents immediately and documented.",
+   "section": "414-305-1020(1)(e)(A)",
+   "page": 76,
+   "quote": "Any injury that may need evaluation by a physician or impact to a child’s head must be reported to the child’s parent(s) immediately and documented."
+  },
+  {
+   "id": "rule_medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Before giving medication, the center must have signed, dated, written parent authorization on file.",
+   "section": "414-305-1030(1)(a)",
+   "page": 77,
+   "quote": "Have a signed, dated, written authorization by the parent(s) on file (also see OAR 414-305-0230, Parental Permissions);"
+  },
+  {
+   "id": "rule_meals_every_3_5_hours",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children in care more than 3.5 consecutive hours must be served a meal or snack every 3.5 hours.",
+   "section": "414-305-1110(1)(a)",
+   "page": 80,
+   "quote": "Children in care for more than 3 ½ consecutive hours must be served a meal or snack every 3 ½ hours;"
+  },
+  {
+   "id": "rule_transport_no_unattended",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must never be left unattended inside or outside of a vehicle.",
+   "section": "414-305-1210(4)(b)",
+   "page": 86,
+   "quote": "A certified child care center must never leave children unattended inside or outside of a vehicle."
+  },
+  {
+   "id": "rule_swimming_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parent permission is required before engaging in any swimming activities.",
+   "section": "414-305-1300(1)",
+   "page": 88,
+   "quote": "A certified child care center must have written permission from each child’s parent before engaging in any swimming activities."
+  },
+  {
+   "id": "policy_animals_notice",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of any animals on the premises by a clearly viewed notice, policy handbook, parent flier, or enrollment statement.",
+   "section": "414-305-1400(6)",
+   "page": 90,
+   "quote": "A certified child care center must inform parents of any animals on the premises by a clearly viewed notice or bulletin, policy handbook, parent flier, or a statement included on the enrollment form"
+  },
+  {
+   "id": "rule_night_care_approval",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "A center must be approved by CCLD before providing night care.",
+   "section": "414-305-1500(1)",
+   "page": 90,
+   "quote": "A certified child care center must be approved by CCLD to provide night care, as defined in 414-305-0100(32)."
+  }
+ ],
+ "dropped_unverified": [],
+ "turns": 2,
+ "cost": 0.0728,
+ "tokens_in": 154662,
+ "tokens_out": 9133,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

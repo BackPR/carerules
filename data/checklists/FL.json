@@ -1,0 +1,464 @@
+{
+ "state": "FL",
+ "rulebook": "Child Care Facility Handbook (December 2025), incorporated by reference in Rule 65C-22.001, F.A.C. (rule eff. 9/1/2026), together with Chapter 65C-22, F.A.C. (Child Care Standards) and ss. 402.302 and 402.305, Florida Statutes (2026)",
+ "items": [
+  {
+   "id": "change_of_ownership_notice",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "At least one week before a change of ownership, custodial parents or legal guardians must be notified by posted notice, newsletter, or individual letters or flyers.",
+   "section": "65C-22.001 Change of ownership (4)(a)",
+   "page": 2,
+   "quote": "At least one week prior to changing ownership of a child care facility, in compliance with Section 402.305, F.S., one of the following methods of notification to custodial parents or legal guardians must be observed"
+  },
+  {
+   "id": "supervision_always",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Children must never be left without child care personnel supervision inside or outside the facility, in a vehicle, or at a field trip location.",
+   "section": "2.4.1 General Supervision Requirements B",
+   "page": 22,
+   "quote": "Children must never be left without child care personnel supervision inside or outside the facility, in a vehicle, or at a field trip location."
+  },
+  {
+   "id": "mixed_age_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "In mixed-age groups including children under 1 year, one personnel may supervise no more than four children of any age; with children 1 to under 2 years, no more than six.",
+   "section": "2.3.1 Mixed Age Groups",
+   "page": 22,
+   "quote": "In groups of mixed age ranges, where children under one year of age are included, one child care personnel must be responsible for no more than four children of any age group, at all times."
+  },
+  {
+   "id": "release_authorization",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may be released only to persons authorized in writing by the custodial parent or legal guardian, and the program must verify identity with picture identification.",
+   "section": "2.4.1 General Supervision Requirements E",
+   "page": 23,
+   "quote": "A child shall not be released to any person other than the person(s) authorized or in the manner authorized in writing by the custodial parent or legal guardians."
+  },
+  {
+   "id": "nap_supervision",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "During nap time, personnel must be within sight and hearing of all children, except children up to 24 months require direct supervision at all times.",
+   "section": "2.4.2 Nap time Supervision",
+   "page": 23,
+   "quote": "During nap time, child care personnel must be within sight and hearing of all the children."
+  },
+  {
+   "id": "transportation_approval",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transportation services must be approved by the Department before transporting children, and vehicles must have approved child safety alarms.",
+   "section": "2.5 Transportation",
+   "page": 25,
+   "quote": "Prior to transporting children, the facility must be approved by the Department to offer transportation services."
+  },
+  {
+   "id": "transportation_log",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A transportation log must be maintained for all children transported, including names, departure and arrival times, and required signatures.",
+   "section": "2.5.2 Transportation Log A",
+   "page": 25,
+   "quote": "A log must be maintained for all children being transported in a vehicle or on foot away from and/or to the premises of the child care facility."
+  },
+  {
+   "id": "allergy_emergency_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Each child with an allergy should have a written emergency care plan with allergen avoidance, treatment plan, and symptoms requiring medication.",
+   "section": "2.5.3 Emergency Care Plans C",
+   "page": 26,
+   "quote": "Each child with an allergy should have a written emergency care plan that includes"
+  },
+  {
+   "id": "field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parental permission must be obtained for field trips, and trip details must be posted at least two working days in advance.",
+   "section": "2.7 Field Trip Activities B-C",
+   "page": 29,
+   "quote": "Written parental permission must be obtained in the form of a general or event-specific permission slip."
+  },
+  {
+   "id": "discipline_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must adopt and give parents a written discipline policy consistent with the statute, including prohibited severe, humiliating, frightening, or food/rest/toileting-related discipline.",
+   "section": "2.8 Child Discipline A",
+   "page": 30,
+   "quote": "The child care facility shall adopt a discipline policy consistent with Section 402.305(12), F.S., including standards that prohibit children from being subjected to discipline which is severe, humiliating, frightening, or associated with food, rest, or toileting."
+  },
+  {
+   "id": "discipline_expulsion_copy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Parents must receive a written copy of the center's disciplinary and expulsion policies, with receipt documented on the enrollment form.",
+   "section": "2.8 Child Discipline C",
+   "page": 30,
+   "quote": "Verification that the child care facility has provided the parent or guardian a written copy of the disciplinary and expulsion policies used by the program must be documented on the enrollment form with the signature of the custodial parent or legal guardian."
+  },
+  {
+   "id": "discipline_policies_available",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The current disciplinary and expulsion policies must be available for review by parents or legal guardians and the licensing authority.",
+   "section": "2.8 Child Discipline E",
+   "page": 30,
+   "quote": "A copy of the current disciplinary and expulsion policies must be available for review by the parents or legal guardian and the licensing authority."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Spanking or any other physical punishment is prohibited, along with isolation, binding, withholding food, and other listed practices.",
+   "section": "2.8 Child Discipline F",
+   "page": 30,
+   "quote": "Spanking or any other form of physical punishment is prohibited."
+  },
+  {
+   "id": "active_play_not_withheld",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Active play must not be completely withheld from children who misbehave, and time-outs must be developmentally appropriate.",
+   "section": "2.8 Child Discipline D",
+   "page": 30,
+   "quote": "Active play, both indoor and outdoor, must not be completely withheld from children who misbehave."
+  },
+  {
+   "id": "withdrawal_termination",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "Expulsion policies must be written, provided to parents, and available for review by parents and the licensing authority.",
+   "section": "2.8 Child Discipline E",
+   "page": 30,
+   "quote": "A copy of the current disciplinary and expulsion policies must be available for review by the parents or legal guardian and the licensing authority."
+  },
+  {
+   "id": "shaken_baby_policy",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Programs caring for infants must have a written policy and procedure to identify and prevent shaken baby syndrome and abusive head trauma.",
+   "section": "2.8 Child Discipline G",
+   "page": 31,
+   "quote": "All programs that care for infants must have a written policy and procedure to identify and prevent shaken baby syndrome and abusive head trauma."
+  },
+  {
+   "id": "animals_notice",
+   "topic": "health requirements",
+   "kind": "must_include",
+   "requirement": "Parents or guardians must be informed in writing of all animals on the premises.",
+   "section": "3.1 General Health and Safety Requirements C",
+   "page": 32,
+   "quote": "Parents/guardians must be informed in writing of all animals on the premises."
+  },
+  {
+   "id": "smoking_notice",
+   "topic": "health requirements",
+   "kind": "must_include",
+   "requirement": "Owners or operators must notify custodial parents and legal guardians in writing that smoking, including e-cigarettes and vaping, is prohibited on the premises.",
+   "section": "3.1 General Health and Safety Requirements E",
+   "page": 32,
+   "quote": "Owners/operators are to notify custodial parents and legal guardians, in writing, that smoking, including e- cigarettes and vaping, is prohibited on the premises of the child care facility."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants unable to roll over must be positioned on their backs on a firm surface, with no excess bedding in cribs or play yards.",
+   "section": "3.6.4 Safe Sleep A-B",
+   "page": 41,
+   "quote": "When napping or sleeping, young infants who are not able to roll over must be positioned on their backs and on a firm surface to reduce the risk of Sudden Infant Death Syndrome"
+  },
+  {
+   "id": "crib_spacing",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Cribs or play yards used by a child must be at least 18 inches from window blinds, draperies, or other strangulation hazards.",
+   "section": "3.6.4 Safe Sleep C",
+   "page": 41,
+   "quote": "Cribs, playpens, play yards, other napping and sleeping bedding being used by a child must be placed a minimum of 18 inches away from window blinds, draperies or any window treatment/cover that pose a strangulation hazard."
+  },
+  {
+   "id": "emergency_preparedness_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The operator must develop a written emergency preparedness plan covering fire, evacuation, relocation, shelter in place, lockdown, inclement weather, and parent reunification.",
+   "section": "3.8.5 Emergency Preparedness A",
+   "page": 43,
+   "quote": "The operator must develop a written emergency preparedness plan that includes, at a minimum, procedures to be taken by the facility during a fire, evacuation, relocation, shelter in place, lockdown, and inclement weather"
+  },
+  {
+   "id": "fire_drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire drills using the approved alarm system must be conducted monthly at various dates and times when children are in care.",
+   "section": "3.8.4 Fire Drills A",
+   "page": 43,
+   "quote": "During the facility's license year, fire drills utilizing the alarm system, approved by the local fire authority, must be conducted monthly at various dates and times when children are in care."
+  },
+  {
+   "id": "lockdown_weather_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Lockdown and inclement weather drills must be conducted at least once each per operating year when children are in care.",
+   "section": "3.8.5 Emergency Preparedness B",
+   "page": 43,
+   "quote": "Lockdown and inclement weather drills shall be conducted a minimum of one time each per operating year when children are in care"
+  },
+  {
+   "id": "incident_management_plan",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The facility must have a written plan for reporting and managing incidents or unusual occurrences threatening health, safety, or welfare.",
+   "section": "3.8.7 Emergency Procedures A",
+   "page": 44,
+   "quote": "The facility must have a written plan for reporting and managing any incident or unusual occurrence that is threatening to the health, safety, or welfare of the children or child care personnel to the licensing authority."
+  },
+  {
+   "id": "choking_foods",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Foods associated with choking must not be served to children under 4, and food must be cut to required sizes for infants and toddlers.",
+   "section": "3.9.3 Food Safety C",
+   "page": 47,
+   "quote": "Foods that are associated with young children's choking incidents must not be served to children under 4 years of age"
+  },
+  {
+   "id": "food_temperatures",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Hot foods must be maintained at 135 degrees or above and cold foods at 41 degrees or below to prevent food from becoming potentially hazardous.",
+   "section": "3.9.3 Food Safety D.7",
+   "page": 47,
+   "quote": "To prevent food from becoming potentially hazardous, hot foods must be maintained at a temperature of 135 degrees Fahrenheit or above, and cold foods must be maintained at temperature of 41 degrees Fahrenheit, or below."
+  },
+  {
+   "id": "cleaning_schedule",
+   "topic": "sanitation",
+   "kind": "must_include",
+   "requirement": "The facility must have a written routine schedule for cleaning, sanitizing, and disinfecting equipment, materials, furnishings, and play areas.",
+   "section": "3.11 Indoor Equipment B",
+   "page": 54,
+   "quote": "Facilities must have a written routine schedule for cleaning, sanitizing and disinfecting equipment, materials, furnishings and play areas."
+  },
+  {
+   "id": "exposure_plan",
+   "topic": "health requirements",
+   "kind": "must_include",
+   "requirement": "The facility must develop a written exposure plan for universal safety precautions and educate personnel before work and annually.",
+   "section": "5 Health Requirements",
+   "page": 71,
+   "quote": "Child care facilities shall develop a written exposure plan regarding universal safety precautions, recommended by the Centers for Disease Control and Prevention (CDC), to follow in the event there is exposure to blood and potentially infectious fluids."
+  },
+  {
+   "id": "illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child or person suspected of communicable disease must be removed or isolated until medically authorized or symptoms are no longer present.",
+   "section": "6.1 Communicable Disease Control B",
+   "page": 72,
+   "quote": "Any child, child care personnel, or other person in the child care facility suspected of having a communicable disease must be removed from the program or placed in an isolation area until removed."
+  },
+  {
+   "id": "communicable_symptoms",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Signs such as fever of 101 degrees with illness, diarrhea, pink eye, or open lesions require exclusion or isolation.",
+   "section": "6.1 Communicable Disease Control D",
+   "page": 72,
+   "quote": "Temperature of 101 degrees Fahrenheit or higher in conjunction with any other signs of illness"
+  },
+  {
+   "id": "head_lice",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with head lice may not return until the next day and only if treatment has occurred and been verified.",
+   "section": "6.1 Communicable Disease Control E",
+   "page": 72,
+   "quote": "A child identified as having head lice must not be permitted to return until the following day, and then only if treatment has occurred and been verified."
+  },
+  {
+   "id": "outbreak_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The operator must notify the local county health department immediately upon any suspected outbreak of communicable disease.",
+   "section": "6.1.2 Outbreaks A",
+   "page": 73,
+   "quote": "Operators are required to notify the local county health department immediately upon any suspected outbreak of communicable disease and must follow the health department's direction."
+  },
+  {
+   "id": "emergency_phone_numbers",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency service telephone numbers, facility address, and directions must be posted on or near all telephones.",
+   "section": "6.3 Emergency Telephone Numbers A",
+   "page": 73,
+   "quote": "Emergency service telephone numbers must be posted on or near all telephones, including 911, ambulance, fire, police, poison control center, Florida Abuse Hotline, and the county public health department."
+  },
+  {
+   "id": "medication_written_authorization",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may be given only with dated, signed written authorization from the custodial parent or legal guardian containing child, medication, date, time, and dosage.",
+   "section": "6.5 Medication A",
+   "page": 74,
+   "quote": "The child care program must have written authorization from the custodial parent or legal guardian to give prescription and non-prescription medications."
+  },
+  {
+   "id": "accident_incident_same_day",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Accidents and incidents threatening health, safety, or welfare must be documented the same day and shared with the parent or guardian that day.",
+   "section": "6.4 Accident/Incident Notification A-B",
+   "page": 74,
+   "quote": "All accidents and incidents or unusual occurrences that are threatening to the health, safety, or welfare of a child that occur while the child is in care must be documented on the same day they occur."
+  },
+  {
+   "id": "serious_injury_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "In the event of serious injury or death, the incident must immediately be reported to the licensing authority.",
+   "section": "6.4 Accident/Incident Notification E",
+   "page": 74,
+   "quote": "In the event of serious injury or death, the incident must immediately be reported to the licensing authority."
+  },
+  {
+   "id": "medication_original_container",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication brought to the facility must be in the original container, with prescription labels showing physician or pharmacy, child, medication, and directions.",
+   "section": "6.5 Medication C",
+   "page": 75,
+   "quote": "Prescription and non-prescription medication brought to the child care facility by the custodial parent or legal guardian must be in the original container."
+  },
+  {
+   "id": "medication_records",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "A medication record must document child, medication, date, time, amount, dosage, and the name and signature of the person who gave it.",
+   "section": "6.5 Medication F",
+   "page": 75,
+   "quote": "The facility must maintain a record for each child receiving any medications that documents the full name of the child, the name of the medication, the date and time the medication was given, the amount and dosage, and the name and signature of the person who gave the medication."
+  },
+  {
+   "id": "confidentiality_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Records must be maintained at the program location and available during hours of operation for review by the licensing authority.",
+   "section": "6 Record Keeping",
+   "page": 76,
+   "quote": "Each of the records described in this section must be maintained at the program location and must be available during the hours of operation for review by the licensing authority"
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must have a current Florida Certification of Immunization form or religious exemption on file.",
+   "section": "7.1 Immunization Records",
+   "page": 78,
+   "quote": "The child care facility is responsible for obtaining for each child in care a current, complete and properly executed Florida Certification of Immunization form Part A-1, B, or C, DH 680"
+  },
+  {
+   "id": "health_exam",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must have a current Student Health Examination form, valid for two years from the physical date.",
+   "section": "7.2 Student Health Records",
+   "page": 79,
+   "quote": "The child care facility is responsible for obtaining for each child in care a current, complete and properly executed Student Health Examination form DH 3040"
+  },
+  {
+   "id": "immunization_30_days",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "If required immunization or health documentation is not provided within 30 days of enrollment, the child may not remain in the program.",
+   "section": "7.1 Immunization Records B",
+   "page": 79,
+   "quote": "If the custodial parents or legal guardians fail to provide the documentation required above within 30 days of enrollment, the facility shall not allow the child to remain in the program."
+  },
+  {
+   "id": "food_nutrition_policies",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Parents must receive the center's food and nutrition policies, including language on food safety and food allergens, with receipt documented.",
+   "section": "7.3 Enrollment Information C.3",
+   "page": 80,
+   "quote": "The child care facility's food and nutrition policies that includes language on food safety and food allergens."
+  },
+  {
+   "id": "know_your_facility_brochure",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Parents must receive the Department's Know Your Child Care Facility brochure, with receipt documented on the enrollment form.",
+   "section": "7.3 Enrollment Information C.1",
+   "page": 80,
+   "quote": "The Department's child care facility brochure, CF/PI 175-24, Know Your Child Care Facility, which is incorporated by reference in 65C-22.001(7)(l), F.A.C."
+  },
+  {
+   "id": "enrollment_before_care",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Enrollment information must be obtained from the custodial parent or legal guardian prior to accepting a child in care.",
+   "section": "7.3 Enrollment Information",
+   "page": 80,
+   "quote": "The facility operator shall obtain enrollment information from the child's custodial parent or legal guardian prior to accepting a child in care."
+  },
+  {
+   "id": "abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Failure to perform mandatory reporter duties under Section 39.201, F.S., constitutes a violation of child care standards.",
+   "section": "7.2 Child Safety B",
+   "page": 82,
+   "quote": "Failure to perform the duties of a mandatory reporter pursuant to Section 39.201, F.S., constitutes a violation of the standards in Section 402.301-.319, F.S."
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Custodial parents or legal guardians must have reasonable access in person and by telephone during normal hours or while the child is in care.",
+   "section": "7.1 Access A",
+   "page": 82,
+   "quote": "A child care facility must provide the custodial parent or legal guardian access, in person and by telephone, to the child care facility during the facility's normal hours of operation or during the time the child is in care."
+  },
+  {
+   "id": "daily_attendance",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Daily attendance must be taken and recorded accurately, documenting the time each child enters and departs the program.",
+   "section": "7.5 Daily Attendance A",
+   "page": 82,
+   "quote": "Daily attendance of children must be taken and recorded accurately by the child care personnel, documenting the time when each child enters and departs the program."
+  },
+  {
+   "id": "ratios_by_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios must follow the age-based minimums, including 1:4 for birth through 1 year and 1:25 for children 5 years and older.",
+   "section": "402.305(4) Staff-to-Children Ratio",
+   "page": 92,
+   "quote": "For children from birth through 1 year of age, there must be one child care personnel for every four children."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "safe_school_officer_notice",
+   "topic": "access and child safety",
+   "kind": "must_include",
+   "requirement": "If a safe-school officer program is implemented, families must receive written notification of the type and duties of the officer.",
+   "section": "3.2.2 Safe-School Officers A.3",
+   "page": "[FL page 34]",
+   "quote": "The child care facility must provide written notification to all current and newly enrolled families alerting them that the facility intends to implement the safe-school officer program."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0668,
+ "tokens_in": 122721,
+ "tokens_out": 14776,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

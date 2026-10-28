@@ -1,0 +1,10 @@
+raw/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+build/
+incoming/
+worker/node_modules/
+worker/.wrangler/
+site-only/

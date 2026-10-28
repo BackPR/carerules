@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "classroom_ratio_chart",
+      "original": "Each infant teacher cares for no more than four babies, and our infant room never holds more than ten babies.",
+      "planted": "Each infant teacher cares for up to six babies, and our infant room holds up to twelve babies when we are full.",
+      "why": "26 TAC §746.1601 limits one caregiver to 4 children when the specified age is 0-11 months, and §746.1609 caps that group at 10; the infant room here serves 6 weeks to 11 months, so 1:6 and 12 babies exceed both limits."
+    },
+    {
+      "item_id": "medication_authorization",
+      "original": "Before we give any medicine, a parent must sign and date our medication authorization form on paper or in ParentLink; if you call us, we can give a single dose with your phone permission.",
+      "planted": "Before we give any medicine, simply tell your child's teacher at drop-off what to give and when; your verbal okay covers the full course of treatment.",
+      "why": "26 TAC §746.3803(a) requires parent authorization in writing (signed and dated), in a viewable and savable electronic format, or by telephone for a single dose only; an in-person verbal okay for an entire course of medication is not allowed."
+    },
+    {
+      "item_id": "abuse_neglect_reporting",
+      "original": "Every staff member who suspects abuse, neglect, or exploitation must report it directly to the Texas Abuse and Neglect Hotline, and no one needs a supervisor's permission to call.",
+      "planted": "Every staff member who suspects abuse, neglect, or exploitation must report it to the director, who will decide whether to call the Texas Abuse and Neglect Hotline.",
+      "why": "26 TAC §746.1201(5) requires every employee to report suspected abuse, neglect, and exploitation to DFPS under Texas Family Code §261.101, and §746.201(5) says the duty may not be delegated and staff may not be required to seek approval; routing reports through the director violates this."
+    },
+    {
+      "item_id": "field_trip_parent_notice",
+      "original": "We post a notice at the front desk at least 48 hours before every field trip, showing where we are going, when we will leave, and when we expect to return.",
+      "planted": "We post a notice at the front desk on the morning of each field trip, showing where we are going, when we will leave, and when we expect to return.",
+      "why": "26 TAC §746.3003 requires the field trip notice (where, when, and expected return time) to be posted at least 48 hours in advance; posting it the morning of the trip gives far less notice."
+    },
+    {
+      "item_id": "prohibited_discipline",
+      "original": "Food, naps, and toilet training are never used as punishment.",
+      "planted": "Children who refuse to help clean up may miss that afternoon's snack.",
+      "why": "26 TAC §746.2805(2) prohibits punishment associated with food, naps, or toilet training; withholding a snack as a consequence for behavior is food-related punishment."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "policy_safe_sleep",
+      "text": "## Safe Sleep for Babies\n\nOur infant safe sleep policy is posted in the infant room. Babies always sleep on their backs in their own crib that meets federal safety standards, unless a health-care professional has signed a Sleep Exception Form saying another position is medically necessary. A baby who can roll over on her own may stay in the position she chooses. Cribs are bare except for a tight-fitting sheet: no blankets, pillows, bumper pads, positioners, or toys. We never cover a baby's head, face, or crib. We do not swaddle babies for sleep, and we use sleep sacks instead of blankets. A baby who falls asleep in a swing, bouncer, or car seat is moved to her crib right away, and we never place a car seat inside a crib."
+    },
+    {
+      "item_id": "policy_insect_sunscreen",
+      "text": "## Sunscreen and Insect Repellent\n\nWe apply sunscreen before outdoor play with your written permission. We use a fragrance-free, broad-spectrum SPF 30 sunscreen lotion; you may send your own labeled brand instead. Insect repellent is applied only with your written permission, using a DEET-free picaridin lotion, never on babies younger than 6 months or on hands or faces."
+    },
+    {
+      "item_id": "policy_review_concerns",
+      "text": "## Questions and Concerns\n\nIf you have a question or concern about any of our policies or procedures, please ask to meet with the director. She will set up a time within two business days to review the policy with you, talk it through, and follow up in writing if anything changes."
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+ "state": "CO",
+ "rulebook": "8 CCR 1402-1 full text (PDF)",
+ "items": [
+  {
+   "id": "ada_enrollment_dismissal",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Enrollment or dismissal decisions for a child with a disability or chronic condition must comply with the ADA and reasonable accommodations must be provided.",
+   "section": "2.119",
+   "page": 16,
+   "quote": "Decisions related to the enrollment or dismissal of a child with a disability or chronic condition must be in compliance with the Americans with Disabilities Act."
+  },
+  {
+   "id": "fire_health_inspections",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Centers must obtain approving fire and health inspection reports prior to original license, after qualifying renovation, and at least every two years.",
+   "section": "2.122(A)",
+   "page": 25,
+   "quote": "Prior to the original license being issued, following the renovation of the facility that would affect the licensing of the facility and at least every two (2) years thereafter, all child care facilities except family child care homes and Neighborhood Youth Organizations must be inspected"
+  },
+  {
+   "id": "critical_incident_reporting",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Critical incidents must be reported in writing to the Department within 24 hours, excluding weekends and holidays.",
+   "section": "2.124(A)(1)",
+   "page": 26,
+   "quote": "Within twenty-four (24) hours, excluding weekends and holidays, of the occurrence of a critical incident at the facility ... the licensee must report in writing to the Colorado Department of Early Childhood"
+  },
+  {
+   "id": "complaint_info_to_parents",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Centers must provide written information to parents/guardians at admission and staff at employment on how to file a complaint, including Department contact information.",
+   "section": "2.125(A)",
+   "page": 28,
+   "quote": "Child care facilities must provide written information to parents or legal guardians at the time of admission and staff members at the time of employment on how to file a complaint concerning suspected licensing violations."
+  },
+  {
+   "id": "mandatory_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "Staff with reasonable cause to suspect child abuse or neglect must immediately report to the county department, law enforcement, or hotline.",
+   "section": "2.126(B)",
+   "page": 28,
+   "quote": "Pursuant to section 19-3-304, C.R.S., any caregiver or staff member in a child care facility who has reasonable cause to know or suspect that a child has been subjected to abuse or neglect ... shall immediately upon receiving such information report or cause a report to be made"
+  },
+  {
+   "id": "license_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The current child care license must be posted in a prominent, conspicuous location observable by those entering during operating hours.",
+   "section": "2.127(A)",
+   "page": 29,
+   "quote": "At all times during the operating hours of the facility, the facility/agency must post the current child care license in a prominent and conspicuous location easily observable by those entering the child care facility."
+  },
+  {
+   "id": "child_records_confidential",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "Child records must be maintained, made available to the Department upon request, and kept confidential.",
+   "section": "2.129(A)",
+   "page": 30,
+   "quote": "Each licensed child care facility shall maintain records as required by the Department pertaining to the admission, progress, health, and discharge of children in care at the facility."
+  },
+  {
+   "id": "parent_access_licensed_areas",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents/guardians with legal custody must have access during operating hours to licensed child care areas.",
+   "section": "2.130(A)",
+   "page": 30,
+   "quote": "During hours of operation, a facility must allow access to parents and guardians having legal custody of a child in care to those areas of the facility that are licensed for child care."
+  },
+  {
+   "id": "emergency_training_staff",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Prior to caring for children, all staff must complete Department-approved emergency and disaster preparedness training.",
+   "section": "2.133(A)",
+   "page": 31,
+   "quote": "Prior to caring for children, all staff must complete a Department-approved training in emergency and disaster preparedness: Evacuation, Shelter in Place, Lockdown, and Active Shooter on Premises Plans for Children in Care."
+  },
+  {
+   "id": "written_emergency_plans",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have written plans for evacuation, lockdown, shelter in place, and active shooter on premises, updated as changes occur and reviewed annually.",
+   "section": "2.134(A)",
+   "page": 31,
+   "quote": "All child care providers must have a written plan for: evacuating and safely moving children to an alternate site; lockdown; shelter in place; and an active shooter on premises."
+  },
+  {
+   "id": "no_smoking_tobacco",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Tobacco and nicotine products are prohibited from use in and around licensed child care facilities.",
+   "section": "2.132",
+   "page": 31,
+   "quote": "Pursuant to sections 26.5-5-314(2)(e), 25-14-103.5, and 18-13-121, C.R.S., tobacco and nicotine products are prohibited by law from use in and around licensed child care facilities."
+  },
+  {
+   "id": "reunification_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have a written plan for emergency notification of parents and reunification of families after an emergency or disaster.",
+   "section": "2.135(A)",
+   "page": 32,
+   "quote": "All child care providers must have a written plan for emergency notification of parents and reunification of families following an emergency or disaster."
+  },
+  {
+   "id": "disabilities_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have a written plan accounting for children with disabilities and access and functional needs in emergencies.",
+   "section": "2.136(A)",
+   "page": 32,
+   "quote": "All child care providers must have a written plan that accounts for children with disabilities as defined in 42 U.S.C. Section 12102 and those with access and functional needs"
+  },
+  {
+   "id": "continuity_operations_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have a written continuity of operations plan after a disaster, including staffing, file backup, and record protection.",
+   "section": "2.137(A)",
+   "page": 32,
+   "quote": "All child care providers must have a written plan for continuity of operations in the aftermath of an emergency or disaster."
+  },
+  {
+   "id": "drills_quarterly_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Emergency, lockdown, and active shooter drills must be held at least quarterly; fire drills monthly; tornado drills monthly March to October, with records maintained.",
+   "section": "2.138(A)",
+   "page": 33,
+   "quote": "Emergency drills, lockdown and active shooter on premises drills must be held at least quarterly but often enough so that all occupants are familiar with the drill procedure"
+  },
+  {
+   "id": "carbon_monoxide_detector",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "There must be a carbon monoxide detector installed in the area of the child care facility as recommended by the manufacturer and where children sleep.",
+   "section": "2.138(H)",
+   "page": 33,
+   "quote": "There must be a carbon monoxide detector installed in the area of the child care facility as recommended by the manufacturer and in the area where children sleep."
+  },
+  {
+   "id": "policies_given_at_enrollment",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must give parents/guardians its policies and procedures at enrollment and upon amendments and provide an opportunity to ask questions.",
+   "section": "2.206(A)",
+   "page": 39,
+   "quote": "At the time of enrollment, and upon amendments to policies and procedures, the center must give the parent(s)/guardian(s) the center’s policies and procedures and provide the opportunity to ask questions."
+  },
+  {
+   "id": "policies_purpose_philosophy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state the center's purpose and philosophy on child care.",
+   "section": "2.206(B)(1)",
+   "page": 39,
+   "quote": "The center's purpose and its philosophy on child care;"
+  },
+  {
+   "id": "policies_ages_accepted",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state the ages of children accepted.",
+   "section": "2.206(B)(2)",
+   "page": 39,
+   "quote": "The written policies and procedures must be developed, implemented, and followed, and must include at a minimum the following information: 1. The center's purpose and its philosophy on child care; 2. The ages of children accepted;"
+  },
+  {
+   "id": "policies_hours_holidays",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The written policies must state the hours the center is open, special program hours, and holidays when closed.",
+   "section": "2.206(B)(3)",
+   "page": 39,
+   "quote": "The hours the center is open, specific hours during which special programs are offered, and holidays when the center is closed;"
+  },
+  {
+   "id": "policies_inclement_weather",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The written policies must state the procedure regarding inclement and excessively hot weather.",
+   "section": "2.206(B)(4)",
+   "page": 39,
+   "quote": "The procedure regarding inclement and excessively hot weather;"
+  },
+  {
+   "id": "policies_admission_registration",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state admission and registration procedures, including whether non-immunized or under-immunized children are enrolled.",
+   "section": "2.206(B)(5)",
+   "page": 39,
+   "quote": "The procedure concerning admission and registration of children including whether non-immunized or under immunized children are enrolled in the program;"
+  },
+  {
+   "id": "policies_fee_schedule",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The written policies must include an itemized fee schedule.",
+   "section": "2.206(B)(6)",
+   "page": 39,
+   "quote": "5. The procedure concerning admission and registration of children including whether non-immunized or under immunized children are enrolled in the program; 6. An itemized fee schedule;"
+  },
+  {
+   "id": "policies_locating_children",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The written policies must state how the center identifies where children are at all times, including transitions.",
+   "section": "2.206(B)(7)",
+   "page": 39,
+   "quote": "The procedure for identifying where children are at all times including times of transition;"
+  },
+  {
+   "id": "policies_positive_guidance",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The written policies must state the center's positive guidance, behavior expectations, positive instruction, and challenging-behavior supports.",
+   "section": "2.206(B)(8)",
+   "page": 39,
+   "quote": "The center’s procedure on positive guidance, behavior expectations, positive instruction, supporting positive behaviors, as well as strategies and techniques for supporting children with challenging behaviors"
+  },
+  {
+   "id": "policies_given_and_signed",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must obtain a signed document stating parents/guardians received the policies and procedures and agree to their conditions.",
+   "section": "2.206(A)",
+   "page": 39,
+   "quote": "The center must obtain a signed document stating that the parent(s)/guardian(s) have received the policies and procedures, and by signing the policies and procedures document, the parent(s)/guardian(s) agree to follow, accept the conditions of, and give authorization and approval for the activities described in the policies and procedures."
+  },
+  {
+   "id": "policies_suspension_expulsion",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The written policies must state how decisions are made and steps taken before suspension, expulsion, or withdrawal due to behavioral concerns.",
+   "section": "2.206(B)(9)",
+   "page": 40,
+   "quote": "How decisions are made and what steps are taken prior to the suspension, expulsion, or request to parents or guardians to withdraw a child from care due to concerns about the child’s behavioral issues."
+  },
+  {
+   "id": "policies_illness_accidents_injuries",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The written policies must state the procedure, including parent notification, for handling children's illnesses, accidents, and injuries.",
+   "section": "2.206(B)(10)",
+   "page": 40,
+   "quote": "The procedure, including notification of parent(s)/guardian(s), for handling children's illnesses, accidents, and injuries;"
+  },
+  {
+   "id": "policies_emergency_disaster",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The written policies must state emergency and disaster preparedness procedures, including tornadoes, fires, shelter in place, lockdown, active shooter, reunification, and evacuating children with disabilities.",
+   "section": "2.206(B)(11)",
+   "page": 40,
+   "quote": "The procedures for emergencies and disaster preparedness such as but not limited to tornadoes, fires, shelter in place, lockdown, active shooter on premises"
+  },
+  {
+   "id": "policies_transportation",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If applicable, the written policies must state transportation procedures, including arrangements and parental permission for excursions.",
+   "section": "2.206(B)(12)",
+   "page": 40,
+   "quote": "The procedure for transporting children, if applicable, including transportation arrangements and parental permission for excursions and related activities;"
+  },
+  {
+   "id": "policies_field_trips_media_special",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for field trips, television and video viewing, and special activities, including staff supervision responsibility.",
+   "section": "2.206(B)(13)",
+   "page": 40,
+   "quote": "The procedure for governing field trips, television and video viewing, and special activities, including staff responsibility for the supervision of children;"
+  },
+  {
+   "id": "policies_media_internet",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written policies must include a media and internet usage policy outlining screen and media use related to the curriculum.",
+   "section": "2.206(B)(14)",
+   "page": 40,
+   "quote": "Media and internet usage policy outlining screen and media use related to the program’s curriculum."
+  },
+  {
+   "id": "policies_vehicle_safety",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written policies must state children's safety procedures for riding in a vehicle, seating, supervision, and road emergencies.",
+   "section": "2.206(B)(15)",
+   "page": 40,
+   "quote": "The procedure on children's safety related to riding in a vehicle, seating, supervision, and emergency procedures on the road;"
+  },
+  {
+   "id": "policies_release_authorized",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The written policies must state release only to authorized persons and pickup procedures during an emergency.",
+   "section": "2.206(B)(16)",
+   "page": 40,
+   "quote": "The procedure for releasing children from the center only to persons for whom the center has written authorization and the procedure for picking-up the child during an emergency;"
+  },
+  {
+   "id": "policies_late_pickup",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures when a child is picked up after closing or not picked up, and ensuring all children are picked up before staff leave.",
+   "section": "2.206(B)(17)",
+   "page": 40,
+   "quote": "The procedures followed when a child is picked up from the center after the center closes for the day or not picked up at all, and to ensure that all children are picked up before the staff leave for the day;"
+  },
+  {
+   "id": "policies_late_arrival_field_trip",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for children who arrive late when their group is away on a field trip or excursion.",
+   "section": "2.206(B)(18)",
+   "page": 41,
+   "quote": "The procedure for caring for children who arrive late to the center and their class/group is away from the center on a field trip or excursion;"
+  },
+  {
+   "id": "policies_medication_storage_administration",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for storing and administering children's medication and delegation of medication administration.",
+   "section": "2.206(B)(19)",
+   "page": 41,
+   "quote": "The procedure for storing and administering children's medication and delegation of medication administration in compliance with sections 12-255-101 through 12-255-136, C.R.S."
+  },
+  {
+   "id": "policies_personal_belongings_money",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures concerning children's personal belongings and money.",
+   "section": "2.206(B)(20)",
+   "page": 41,
+   "quote": "The procedure concerning children's personal belongings and money;"
+  },
+  {
+   "id": "policies_meals_allergies",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The written policies must state meal and snack procedures, parental menu notification, and accommodation of food allergies or special diets.",
+   "section": "2.206(B)(21)",
+   "page": 41,
+   "quote": "The procedure regarding meals, snacks, and parental notification of menus, and how children with food allergies or special diets are accommodated;"
+  },
+  {
+   "id": "policies_diapering_toileting",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for diapering, toilet training, and toileting.",
+   "section": "2.206(B)(22)",
+   "page": 41,
+   "quote": "The procedure for diapering, toilet training, and toileting;"
+  },
+  {
+   "id": "policies_visitors",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for allowing visitors to the center.",
+   "section": "2.206(B)(23)",
+   "page": 41,
+   "quote": "The procedure for allowing visitors to the center;"
+  },
+  {
+   "id": "policies_parent_staff_conferences",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for parent and staff conferences to discuss the child's progress and needs.",
+   "section": "2.206(B)(24)",
+   "page": 41,
+   "quote": "The procedure for conducting parent and staff conferences to partner with the parents(s)/guardian(s) to discuss the child's progress, social, emotional, and physical needs;"
+  },
+  {
+   "id": "policies_complaint_filing",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The written policies must state complaint procedures, including the Colorado Department of Early Childhood name, address, and telephone number.",
+   "section": "2.206(B)(25)",
+   "page": 41,
+   "quote": "The procedure for filing a complaint about child care, including the name, address and telephone number of the Colorado Department of Early Childhood"
+  },
+  {
+   "id": "policies_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The written policies must state child abuse reporting procedures, including the county department and phone number where reports should be made.",
+   "section": "2.206(B)(26)",
+   "page": 41,
+   "quote": "The procedure for reporting of child abuse, including the name of the county department of social/ human services and phone number of where a child abuse report should be made"
+  },
+  {
+   "id": "policies_infant_smoke_protection",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures protecting infants from secondhand and thirdhand smoke.",
+   "section": "2.206(B)(27)",
+   "page": 41,
+   "quote": "The procedure of the protection of infants from secondhand and thirdhand smoke;"
+  },
+  {
+   "id": "policies_safe_sleep",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for establishing safe sleep environments for infants, including supervision and physical checks.",
+   "section": "2.206(B)(28)",
+   "page": 41,
+   "quote": "The procedure for establishing safe sleep environments for infants including how staff will supervise and physically check on infants who are sleeping;"
+  },
+  {
+   "id": "policies_dressing_weather",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for dressing children appropriately for the weather.",
+   "section": "2.206(B)(29)",
+   "page": 41,
+   "quote": "The procedure for dressing children appropriately for the weather;"
+  },
+  {
+   "id": "policies_withdrawal_notification",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The written policies must state notification procedures when child care service is withdrawn or parents withdraw children.",
+   "section": "2.206(B)(30)",
+   "page": 41,
+   "quote": "Notification when child care service is withdrawn and when parent(s)/guardian(s) withdraw their children from the center;"
+  },
+  {
+   "id": "policies_separated_child",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for a child separated from the group outside assigned supervision or when local authorities are contacted.",
+   "section": "2.206(B)(31)",
+   "page": 41,
+   "quote": "The procedure for any child who has been separated from the group outside of the supervision of their assigned staff member or for whom the local authorities have been contacted;"
+  },
+  {
+   "id": "policies_recalled_items",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must state procedures for regularly identifying recalled toys, equipment, furnishings, and food and removing them.",
+   "section": "2.206(B)(32)",
+   "page": 42,
+   "quote": "The procedure for regularly identifying on a routine basis recalled toys, equipment, furnishings, and food; and developing a plan to remove the recalled items."
+  },
+  {
+   "id": "policies_annual_review",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Policies and procedures must be reviewed and updated annually, with changes communicated to parents/guardians.",
+   "section": "2.206(C)",
+   "page": 42,
+   "quote": "Policies and procedures must be reviewed and updated annually. Any updated changes must be communicated to the parent(s)/guardian(s)."
+  },
+  {
+   "id": "signin_signout",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The center must maintain a daily sign-in/sign-out sheet or other mechanism with date, child's name, arrival and departure times, and signature or unique identifier.",
+   "section": "2.207(A)",
+   "page": 42,
+   "quote": "For security purposes, a sign-in/sign-out sheet or other mechanism for parents/guardians, or staff if children are being transported, must be maintained daily by the center."
+  },
+  {
+   "id": "emergency_phone_numbers_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Emergency telephone numbers must be posted in a prominent location near the telephone, including 911, substitute, center address, hospital, health department, poison center, and children's emergency numbers.",
+   "section": "2.207(B)(4)",
+   "page": 42,
+   "quote": "The following emergency telephone numbers must be posted in a prominent and conspicuous location easily observable to those caring for children: near the telephone in the designated place:"
+  },
+  {
+   "id": "release_only_authorized",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The center must release a child only to an authorized individual over 16, or in an emergency to an individual 12 or older with verbal authorization.",
+   "section": "2.207(F)",
+   "page": 43,
+   "quote": "The center must release a child only to an individual over the age of sixteen (16) for whom written authorization has been given by the parent(s)/guardian(s)"
+  },
+  {
+   "id": "closing_procedure",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The center must have a written procedure for closing at the end of the day to ensure all children are picked up.",
+   "section": "2.207(H)",
+   "page": 43,
+   "quote": "The center must have a written procedure for closing the center at the end of the day to ensure that all children are picked up."
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must maintain required staff-to-child ratios by age, such as 1:5 for infants 6 weeks to 18 months.",
+   "section": "2.217(A)(14)",
+   "page": 67,
+   "quote": "6 weeks to 18 months (infants) 1 staff member to 5 infants"
+  },
+  {
+   "id": "admission_before_attendance",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Admission procedures must be completed before the child attends, including pre-admission interview, registration, and any applicable health care plan.",
+   "section": "2.218(B)",
+   "page": 72,
+   "quote": "Admission procedures must be completed prior to the child's attendance at the center and must include:"
+  },
+  {
+   "id": "health_status_statement",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Parents must submit a statement of the child's current health status within 30 days of admission and after expiration of a previous statement.",
+   "section": "2.219(B)(2)",
+   "page": 75,
+   "quote": "Within thirty (30) calendar days of admission, and within thirty (30) calendar days following the expiration date of a previous health statement, the parent(s)/guardian(s) of each child must submit a statement of the child’s current health status"
+  },
+  {
+   "id": "medication_written_order_consent",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Routine medication may be administered only with a current written order from a prescriber and written parental consent; home remedies and supplements are prohibited.",
+   "section": "2.220(A)",
+   "page": 76,
+   "quote": "Any unexpired routine medication, prescription or non-prescription (over the counter), must be administered only with a current written order of a health care provider with prescriptive authority and with written parental consent."
+  },
+  {
+   "id": "medication_locked",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "All medications except specified emergency medications must be locked and inaccessible to children but available to trained staff.",
+   "section": "2.220(G)",
+   "page": 77,
+   "quote": "All medications, except those medications specified in the Department-approved medication administration training as emergency medications, must be locked and inaccessible to children, but available to staff trained in administering medication."
+  },
+  {
+   "id": "sunscreen_authorization",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must obtain written authorization and instructions for sunscreen or other approved sun protection before outdoor play.",
+   "section": "2.221(A)",
+   "page": 78,
+   "quote": "The center must obtain written authorization and instructions from the parent(s)/guardian(s) for the application of sunscreen or the use of another form of parent(s)/guardian(s) approved sun protection"
+  },
+  {
+   "id": "diaper_change_area_size",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Diaper change areas must be at least 36 by 18 inches and large enough for the child.",
+   "section": "2.222(A)(1)(a)",
+   "page": 79,
+   "quote": "Be a minimum of thirty-six (36) by eighteen (18) inches in size and large enough to accommodate the size of the child;"
+  },
+  {
+   "id": "infant_back_sleeping",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "An infant must be placed on their back for sleeping, with alternative positions only by health care plan.",
+   "section": "2.223(C)(9)",
+   "page": 82,
+   "quote": "An infant must be placed on their back for sleeping."
+  },
+  {
+   "id": "rest_time_preschool",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "If preschool-age children are in care longer than five hours, the center must provide at least a 30-minute rest period with appropriate equipment.",
+   "section": "2.223(D)(5)",
+   "page": 84,
+   "quote": "If preschool-age children are in care for longer than five (5) hours, the center must provide at least a thirty (30) minute rest period meeting the following:"
+  },
+  {
+   "id": "meals_cacfp",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Meals and snacks provided by the center must meet current USDA CACFP meal pattern guidance and requirements.",
+   "section": "2.224(A)(1)",
+   "page": 85,
+   "quote": "All meals and snacks provided by the center must meet current United States Department of Agriculture (USDA), Child and Adult Care Food Program (CACFP) meal pattern guidance and requirements"
+  },
+  {
+   "id": "no_sugar_sweetened_beverages",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Centers must not provide sugar-sweetened beverages to children.",
+   "section": "2.224(A)(3)",
+   "page": 85,
+   "quote": "Centers must not provide sugar sweetened beverages to children."
+  },
+  {
+   "id": "guidance_developmentally_appropriate",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Guidance must be appropriate to the child's development and used to teach social-emotional skills.",
+   "section": "2.225(A)",
+   "page": 87,
+   "quote": "Guidance used at the center must be appropriate to the development of the child and is used as an opportunity to teach children social-emotional skills, such as self-regulation, problem-solving, and empathy for others."
+  },
+  {
+   "id": "no_corporal_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The director must not use or permit corporal punishment.",
+   "section": "2.225(C)",
+   "page": 87,
+   "quote": "The director must not use, or permit a staff person or child to use, corporal punishment as defined in section 22-1-140, C.R.S."
+  },
+  {
+   "id": "no_restraint",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Any form of restraint is not permitted.",
+   "section": "2.225(H)",
+   "page": 87,
+   "quote": "Any form of restraint is not permitted."
+  },
+  {
+   "id": "physical_redirection_only_danger",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical redirection may be used only to keep a child from immediate imminent danger and must stop once danger is removed.",
+   "section": "2.225(I)",
+   "page": 87,
+   "quote": "Physical redirection may be used to keep a child from immediate imminent danger. The child must be immediately released once removed from imminent danger."
+  },
+  {
+   "id": "screen_time_under_two",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Screen time is prohibited for children less than two years of age.",
+   "section": "2.226(B)(1)",
+   "page": 88,
+   "quote": "Screen time, which includes, television, recorded media, computer, tablet, cell phones, video games, and other media devices, is prohibited for children less than two (2) years of age."
+  },
+  {
+   "id": "screen_time_limits",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "For children 2 to 5 years, screen time must be limited to no more than 30 minutes per day.",
+   "section": "2.226(B)(4)",
+   "page": 89,
+   "quote": "For children two (2) to five (5) years of age, screen time must be limited to no more than thirty (30) minutes per day."
+  },
+  {
+   "id": "no_front_seat_transport",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Children must not ride in the front seat of a vehicle and must remain seated while the vehicle is in motion.",
+   "section": "2.227(A)(4)",
+   "page": 90,
+   "quote": "Children must not be permitted to ride in the front seat of a vehicle and must remain seated while the vehicle is in motion."
+  },
+  {
+   "id": "transport_child_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must be secured in an age-appropriate child restraint system meeting Colorado child passenger safety laws.",
+   "section": "2.227(A)(4)",
+   "page": 90,
+   "quote": "All children must be secured in a child restraint system that is appropriate for the age and development of that child that meets the requirements of the Colorado child passenger safety laws"
+  },
+  {
+   "id": "overnight_care_rules",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Centers offering overnight care must follow all center rules plus overnight care provisions.",
+   "section": "2.228(A)",
+   "page": 92,
+   "quote": "All of the provisions required in rule section 2.200 of these rules for child care centers apply to centers offering overnight care of children which includes care that extends beyond midnight."
+  },
+  {
+   "id": "indoor_space_30_sqft",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "There must be open indoor play space of at least 30 square feet of floor space per child.",
+   "section": "2.231(A)(1)",
+   "page": 98,
+   "quote": "There must be open, indoor play space of at least thirty (30) square feet of floor space per child, including space for movable furniture and equipment."
+  },
+  {
+   "id": "outdoor_fence_barrier",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The outdoor play area must be fenced or have natural barriers at least four feet high to restrict children from unsafe areas.",
+   "section": "2.232(A)(3)",
+   "page": 99,
+   "quote": "The play area must be fenced or have natural barriers, such as hedges or stationary walls at least four (4) feet high, to restrict children from unsafe areas."
+  },
+  {
+   "id": "outdoor_space_requirements",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The outdoor learning environment for preschool age and older must provide at least 75 square feet per child using the total play area at any one time.",
+   "section": "2.232(A)(2)",
+   "page": 99,
+   "quote": "The outdoor learning environment for preschool age and older must provide a minimum of seventy-five (75) square feet of space per child for a group of children using the total play area at any one time."
+  },
+  {
+   "id": "toilet_gender_identity",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "School-age children must be allowed to use toilet facilities corresponding with their gender identity.",
+   "section": "2.235(D)",
+   "page": 103,
+   "quote": "School-age children must be allowed the use of toilet facilities that correspond with their gender identity."
+  },
+  {
+   "id": "toilet_ratio",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A minimum of one sink and one flush toilet must be provided for each 15 or fewer children.",
+   "section": "2.235(C)",
+   "page": 103,
+   "quote": "A minimum of one (1) sink and one (1) flush toilet must be provided for each fifteen (15) or fewer children."
+  },
+  {
+   "id": "firearms_prohibited",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Firearms are prohibited on the premises, indoors and outdoors, and in vehicles transporting children.",
+   "section": "2.237(A)",
+   "page": 104,
+   "quote": "Firearms as defined in section 18-1-901(3)(h), C.R.S., are prohibited on the premises, both indoor and outdoor, and in any vehicle in which children are transported."
+  },
+  {
+   "id": "kitchens_inaccessible",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Kitchens, including all hazardous items, must be inaccessible to children at all times.",
+   "section": "2.237(K)",
+   "page": 104,
+   "quote": "Kitchens, including all hazardous items, must be inaccessible to children at all times."
+  },
+  {
+   "id": "electrical_outlet_covers",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "In rooms used by children, all electrical outlets accessible to children must have protective covers or safety outlets installed.",
+   "section": "2.237(H)",
+   "page": 104,
+   "quote": "In rooms used by children, all electrical outlets that are accessible to children must have protective covers, or safety outlets must be installed."
+  },
+  {
+   "id": "exits_unobstructed",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Exits must provide free and unobstructed egress from all parts of the building at all times when occupied.",
+   "section": "2.238(C)",
+   "page": 105,
+   "quote": "In every building or structure, exits must be arranged and maintained so as to provide free and unobstructed egress from all parts of the building or structure at all times when it is occupied."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "maximum_group_size",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must not exceed maximum group sizes by age, such as 10 infants 6 weeks to 18 months.",
+   "section": "2.217(A)(15)",
+   "page": 68,
+   "quote": "15. Maximum Group Size for Children AGES OF CHILDREN MAXIMUM GROUP SIZE 6 weeks to 18 months 10 infants"
+  }
+ ],
+ "turns": 2,
+ "cost": 0.1759,
+ "tokens_in": 392554,
+ "tokens_out": 15699,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

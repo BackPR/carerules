@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "fire_drills_monthly",
+      "original": "We hold a fire drill every month, including one during nap time each year, and every child must be out of the building within three minutes.",
+      "planted": "We hold a fire drill every three months, including one during nap time each year, and every child must be out of the building within three minutes.",
+      "why": "N.J.A.C. 3A:52-5.3(n)1: the center shall conduct fire drills at least once a month. A quarterly schedule means only four drills a year instead of twelve."
+    },
+    {
+      "item_id": "no_swaddling",
+      "original": "For safety, we never swaddle babies or other children during rest or sleep.",
+      "planted": "Swaddling is welcome for young babies who settle better that way; just bring a light swaddle blanket labeled with your baby's name.",
+      "why": "N.J.A.C. 3A:52-6.4(a)3: swaddling of children during rest and sleep is prohibited, with no exception for parent preference or age."
+    },
+    {
+      "item_id": "abuse_report_hotline",
+      "original": "Any staff member who has reasonable cause to believe a child has been abused or neglected calls the State Central Registry Hotline at 1-877-NJ ABUSE (1-877-652-2873) immediately.",
+      "planted": "Any staff member who has reasonable cause to believe a child has been abused or neglected writes up the concern for the director, who gathers the facts and decides whether to call the State Central Registry Hotline.",
+      "why": "N.J.A.C. 3A:52-4.9(a): the sponsor, director, or any staff member shall verbally notify the State Central Registry Hotline (1-877-652-2873) immediately whenever there is reasonable cause to believe a child has been abused or neglected. A written note to the director, who then decides whether to call, is neither immediate nor the staff member's own report."
+    },
+    {
+      "item_id": "parent_visit_any_time",
+      "original": "You may visit the center at any time while we are open to watch your child's classroom and our program, with no need to call ahead or get permission.",
+      "planted": "You are welcome to observe your child's classroom; please schedule visits with the director at least one day in advance so we can keep classroom routines calm.",
+      "why": "N.J.A.C. 3A:52-6.8(b): the center shall allow parents of enrolled children to visit at any time during hours of operation to observe without requiring prior approval. Only prospective families may be asked to schedule visits (6.8(c))."
+    },
+    {
+      "item_id": "no_withholding_active_play",
+      "original": "Teachers never take away outdoor or active play time as a consequence, unless a child's behavior at that moment puts the child or others in danger.",
+      "planted": "Children who have trouble following classroom rules during the morning may sit out afternoon outdoor play as a consequence.",
+      "why": "N.J.A.C. 3A:52-6.6(c): staff shall not withhold active play time as a means of discipline unless the child's actions or behavior present a danger to themselves or others. Rule-breaking earlier in the day is not a present danger."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "tv_computer_policy",
+      "text": "## Screen Time\n\nChildren under two never use televisions, computers, tablets, or other video equipment at Saltmeadow Sparrow. For children over two, screens are used only for short educational activities that fit the child's age, never for passive viewing or in place of planned activities. Children here more than four hours may have up to 30 minutes of screen-based learning a day, and children here less than four hours may have up to 15 minutes. Teachers keep written plans on file describing each screen activity and how long it lasts, including individual plans for children with special needs."
+    },
+    {
+      "item_id": "social_media_policy_written",
+      "text": "## Social Media and Photos\n\nWe share daily photos and updates only through the private Sparrow Nest app and center email, and we post on our public Facebook page only with your written permission. Staff communicate with families only through the app, center email, and the center phone, and may not post photos of children or family information on personal social media or text families from personal phones. Parents may not post photos or videos of any child other than their own taken at the center or at center events. Every parent and staff member receives a copy of this social media policy and signs to confirm receiving it."
+    },
+    {
+      "item_id": "impaired_pickup_procedure",
+      "text": "If a parent or authorized adult arrives appearing physically or emotionally impaired, for example under the influence of alcohol or drugs, to the point that the director or a teacher believes your child would be at risk of harm, we will not release your child to that person. We will try to reach the child's other parent or another adult you have authorized, and if we cannot make other arrangements, we will call the State Central Registry Hotline for help caring for your child."
+    }
+  ]
+}

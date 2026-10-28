@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "mixed_age_ratio",
+      "original": "When we combine age groups early in the morning or late in the day, the age of the youngest child in the group sets the staff-to-child ratio and the group size.",
+      "planted": "When we combine age groups early in the morning or late in the day, we staff the room at the preschool ratio of one teacher to ten children, even when a few toddlers join the group.",
+      "why": "55 Pa. Code § 3270.52: in mixed-age groups the age of the youngest child determines the staff:child ratio and maximum group size. With toddlers present the toddler ratio (1:5 young toddler, 1:6 older toddler under § 3270.51) applies, not the preschool 1:10 ratio."
+    },
+    {
+      "item_id": "infant_sleep_position",
+      "original": "Babies always sleep on their backs in their own crib, unless your child's physician, physician assistant, or CRNP gives us a signed statement explaining a medical reason for a different position.",
+      "planted": "Babies usually sleep on their backs in their own crib, but if your baby sleeps better on the tummy or side at home, just let us know and we will follow your preference.",
+      "why": "55 Pa. Code § 3270.119: infants must be placed in the AAP-recommended sleep position (on the back) unless there is a medical reason documented in a statement signed by a physician, physician's assistant or CRNP. A parent's preference is not a permitted basis for tummy or side sleeping."
+    },
+    {
+      "item_id": "medication_consent",
+      "original": "Our teachers can give prescription and over-the-counter medicine when you complete and sign our medication permission form for each medicine.",
+      "planted": "Our teachers can give prescription and over-the-counter medicine whenever you ask; a quick phone call or a word at drop-off telling us the dose is all we need.",
+      "why": "55 Pa. Code § 3270.133(6): a parent shall provide written consent for administration of medication. Verbal permission by phone or at drop-off does not satisfy the written-consent requirement."
+    },
+    {
+      "item_id": "fire_drills",
+      "original": "We hold a fire drill at least once every 60 days, at different times of day and during different activities, and we change the pretend location of the fire each time.",
+      "planted": "We hold a fire drill twice a year, in the fall and in the spring, at different times of day and during different activities, and we change the pretend location of the fire each time.",
+      "why": "55 Pa. Code § 3270.94(a)(1): fire drills must be conducted at least once every 60 days (about six per year). Two drills a year leaves gaps of roughly six months."
+    },
+    {
+      "item_id": "child_abuse_reporting",
+      "original": "Any staff member who suspects that a child has been abused will report it immediately and directly to ChildLine at (800) 932-0313 or online.",
+      "planted": "Any staff member who suspects that a child has been abused brings the concern to the director, who reviews the situation and decides whether a report to ChildLine is needed.",
+      "why": "55 Pa. Code § 3270.19(a)-(b): an operator or staff person who has reason to believe a child has been abused must report to ChildLine as mandated by the CPSL, and a facility person with reasonable cause to suspect abuse must immediately make the report to ChildLine. Routing the concern to the director, who decides whether to report, breaks the staff member's own duty to report immediately."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "parent_access_regulations",
+      "text": "## Our Certificate and the Rules We Follow\n\nThistledown Hollow is certified by the Pennsylvania Department of Human Services, and our current certificate of compliance and our latest inspection summary are posted in the front lobby. The child care center regulations we follow are in Title 55 of the Pennsylvania Code, Chapter 3270, and you can read them free online at www.pacodeandbulletin.gov by searching for \"Chapter 3270.\" If you ever want to reach the state directly, contact the Western Regional Office of the Office of Child Development and Early Learning; its address and phone number are posted beside our certificate, and the office can also be found through the Department of Human Services website at www.dhs.pa.gov."
+    },
+    {
+      "item_id": "emergency_plan_letter",
+      "text": "Our written emergency plan explains how we would shelter children (including lockdown and shelter in place), evacuate them to our relocation site at Wrenfield Community Church, contact you, and safely reunite you with your child, with accommodations for infants, toddlers, and children with disabilities or chronic medical conditions. When you enroll, you will receive a letter explaining these emergency procedures, and we will send you a new letter whenever the plan is updated."
+    },
+    {
+      "item_id": "menus",
+      "text": "Our weekly menu is posted on the parent board every Friday for the following week, and we email a copy to every family at the same time."
+    }
+  ]
+}

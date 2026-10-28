@@ -1,0 +1,643 @@
+{
+ "state": "PA",
+ "rulebook": "55 Pa. Code Chapter 3270, Child Care Centers (The Pennsylvania Code, serial pages through No. 592, Mar. 2024)",
+ "items": [
+  {
+   "id": "child_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Operators and staff must report suspected child abuse to ChildLine as mandated by the CPSL.",
+   "section": "§ 3270.19",
+   "page": 15,
+   "quote": "An operator or a staff person who has reason to believe that a child enrolled in the facility has been abused is required to report suspected child abuse to ChildLine as mandated by the CPSL."
+  },
+  {
+   "id": "injury_death_fire_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The operator must immediately notify the parent and the Department within 24 hours of hospitalization/ER treatment, death, or a fire requiring fire department service, and submit a written report within 72 hours.",
+   "section": "§ 3270.20",
+   "page": 16,
+   "quote": "The operator shall immediately notify a child’s parent and shall telephone notice to the appropriate regional office of the Department within 24 hours if one or more of the following occurs:"
+  },
+  {
+   "id": "lost_missing_child_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Reports to parent and Department are also required if a child is lost/missing, left behind on an excursion, or left unattended when the facility is closed.",
+   "section": "§ 3270.20a",
+   "page": 16,
+   "quote": "The facility operator shall make reports to a child’s parent and to the Department in accordance with § 3270.20 (relating to reporting injury, death or fire) if one or more of the following occurs:"
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be permitted free access throughout the center whenever children are in care, unless a court order limits access and is on file.",
+   "section": "§ 3270.23",
+   "page": 17,
+   "quote": "A parent of a child in care shall be permitted free access, without prior notice, throughout the center whenever children are in care, unless a court of competent jurisdiction has limited the parental right of access to the child and a copy of the order is on file at the facility."
+  },
+  {
+   "id": "parent_participation_file",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Opportunity must be provided for parents to participate in the facility's program, and the operator must maintain a yearly file documenting general announcements to promote parent participation.",
+   "section": "§ 3270.23",
+   "page": 17,
+   "quote": "Opportunity shall be provided for parents to participate in the facility’s program. The operator shall maintain a yearly file which documents general announcements to promote parent participation."
+  },
+  {
+   "id": "parent_access_regulations",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The operator must give each enrolled child's parent information on how to access the regulations electronically and how to contact the regional child care office.",
+   "section": "§ 3270.25",
+   "page": 18,
+   "quote": "The operator shall provide the parent of each child enrolled with information on how to access the regulations in this chapter electronically and with instructions for contacting the appropriate regional child care office."
+  },
+  {
+   "id": "emergency_plan_letter",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The operator must give each enrolled child's parent a letter explaining the facility's emergency procedures and any later updates.",
+   "section": "§ 3270.27",
+   "page": 20,
+   "quote": "The operator shall provide to the parent of each enrolled child a letter explaining the emergency procedures described in subsection (a). The operator shall also provide to the parent of each enrolled child a letter explaining any subsequent update to the plan."
+  },
+  {
+   "id": "emergency_plan_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The emergency plan must be posted in a conspicuous location and reviewed/updated at least annually with documentation.",
+   "section": "§ 3270.27",
+   "page": 20,
+   "quote": "The emergency plan shall be posted in the facility at a conspicuous location."
+  },
+  {
+   "id": "ratios_similar_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios and maximum group sizes must follow the table by age level.",
+   "section": "§ 3270.51",
+   "page": 27,
+   "quote": "When children are grouped in similar age levels, the following maximum child group sizes and ratios of staff persons apply:"
+  },
+  {
+   "id": "mixed_age_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "In mixed-age groups, the youngest child's age determines the ratio and maximum group size.",
+   "section": "§ 3270.52",
+   "page": 27,
+   "quote": "When children are grouped in mixed age levels, the age of the youngest child in the group determines the staff:child ratio and maximum group size in accordance with § 3270.51"
+  },
+  {
+   "id": "nap_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "During naps, specified staff-child ratios apply for toddlers and preschoolers.",
+   "section": "§ 3270.55",
+   "page": 28,
+   "quote": "While toddlers and preschoolers are napping, the following staff-child ratios apply:"
+  },
+  {
+   "id": "minimum_two_staff",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "At least two facility persons, one a staff person, must be present when two or more children are in care or on excursions.",
+   "section": "§ 3270.54",
+   "page": 28,
+   "quote": "At least two facility persons shall be present in the facility when two or more children are in care."
+  },
+  {
+   "id": "indoor_space_capacity",
+   "topic": "physical site",
+   "kind": "rule",
+   "requirement": "Indoor child care space capacity is total square feet divided by 40, with limited exceptions.",
+   "section": "§ 3270.61",
+   "page": 29,
+   "quote": "The allowable number of children in a space is determined by dividing the total square feet in a space by 40."
+  },
+  {
+   "id": "play_space",
+   "topic": "physical site",
+   "kind": "rule",
+   "requirement": "Outdoor or indoor play space must be at least 65 square feet per child, with lower minimums for infants and toddlers.",
+   "section": "§ 3270.62",
+   "page": 30,
+   "quote": "Outdoor or indoor play space shall be measured at 65 square feet per child, except in the following situations:"
+  },
+  {
+   "id": "toxics_storage",
+   "topic": "safety",
+   "kind": "rule",
+   "requirement": "Cleaning and toxic materials must be locked or inaccessible, stored in labeled containers away from food and child care spaces.",
+   "section": "§ 3270.66",
+   "page": 31,
+   "quote": "Cleaning materials and other toxic materials shall be kept in an area or container that is locked or made inaccessible to children."
+  },
+  {
+   "id": "water_temperature",
+   "topic": "physical site",
+   "kind": "rule",
+   "requirement": "Hot water in areas accessible to children may not exceed 110°F.",
+   "section": "§ 3270.69",
+   "page": 32,
+   "quote": "Hot water temperature, in areas accessible to children, may not exceed 110° F."
+  },
+  {
+   "id": "indoor_temperature",
+   "topic": "physical site",
+   "kind": "rule",
+   "requirement": "Indoor temperature must be at least 65°F; if it exceeds 82°F in a child care space, mechanical air circulation must operate.",
+   "section": "§ 3270.70",
+   "page": 32,
+   "quote": "The indoor temperature must be at least 65° F."
+  },
+  {
+   "id": "first_aid_kit",
+   "topic": "safety",
+   "kind": "rule",
+   "requirement": "A first-aid kit must be in each child care space, inaccessible to children, with specified contents.",
+   "section": "§ 3270.75",
+   "page": 34,
+   "quote": "A first-aid kit must be in a child care space."
+  },
+  {
+   "id": "firearms_prohibited",
+   "topic": "safety",
+   "kind": "rule",
+   "requirement": "Weapons, firearms, and ammunition are prohibited in a child care center.",
+   "section": "§ 3270.79",
+   "page": 35,
+   "quote": "Weapons, firearms and ammunition are prohibited in a child care center."
+  },
+  {
+   "id": "toilet_ratios",
+   "topic": "child hygiene",
+   "kind": "rule",
+   "requirement": "Toilet and sink ratios must follow the table by age level; handwashing is required after toileting and before eating.",
+   "section": "§ 3270.82",
+   "page": 37,
+   "quote": "A facility person and an able child shall wash their hands after toileting and before eating."
+  },
+  {
+   "id": "fire_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire drills must be conducted at least every 60 days at varied times/activities with rotated hypothetical fire locations and posted evacuation routes.",
+   "section": "§ 3270.94",
+   "page": 38,
+   "quote": "Fire drills are conducted at least once every 60 days."
+  },
+  {
+   "id": "rest_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Individual clean age-appropriate rest equipment must be labeled for a specific child and used only by that child; stacked cribs may not be used.",
+   "section": "§ 3270.106",
+   "page": 41,
+   "quote": "Individual, clean, age-appropriate rest equipment shall be provided for preschool, toddler and infant children as agreed between the child’s parent and the operator."
+  },
+  {
+   "id": "crib_slats",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Crib and playpen slats may be no more than 2 3/8 inches apart.",
+   "section": "§ 3270.106",
+   "page": 42,
+   "quote": "Crib and playpen slats may be no more than 2 3/8 inches apart."
+  },
+  {
+   "id": "no_toys_crib",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Toys, bumper pads, or pillows may not be present in a crib while an infant is sleeping in the crib.",
+   "section": "§ 3270.106",
+   "page": 42,
+   "quote": "Toys, bumper pads or pillows may not be present in a crib while an infant is sleeping in the crib."
+  },
+  {
+   "id": "supervision",
+   "topic": "supervision of children",
+   "kind": "rule",
+   "requirement": "Children must be supervised by a staff person at all times on premises and excursions, with assigned responsibility for specific children.",
+   "section": "§ 3270.113",
+   "page": 43,
+   "quote": "Children on the facility premises and on facility excursions off the premises shall be supervised by a staff person at all times."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Facility persons may not use physical punishment, ridicule, threats, harsh/demeaning/abusive language, or restraint by bonds/ties/straps or confinement.",
+   "section": "§ 3270.113",
+   "page": 43,
+   "quote": "A facility person may not use any form of physical punishment, including spanking a child."
+  },
+  {
+   "id": "daily_activities_plan",
+   "topic": "program",
+   "kind": "rule",
+   "requirement": "A written plan of daily activities and routines, including free play, must be established for each group and posted in the group space.",
+   "section": "§ 3270.111",
+   "page": 43,
+   "quote": "A written plan of daily activities and routines, including a time for free play shall be established for each group."
+  },
+  {
+   "id": "outdoor_activity",
+   "topic": "program",
+   "kind": "rule",
+   "requirement": "Weather permitting, children must be taken outdoors daily.",
+   "section": "§ 3270.114",
+   "page": 44,
+   "quote": "Weather permitting, children shall be taken out doors daily."
+  },
+  {
+   "id": "water_activity",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Swimming requires pool compliance, fencing, specified ratios, and a certified lifeguard not counted in ratio; wading pools require sanitizing solution and daily emptying.",
+   "section": "§ 3270.115",
+   "page": 45,
+   "quote": "When children are swimming, supervision shall include one person certified in lifeguard training, as described in § 3270.31(e)(4)(iii) (relating to age and training)."
+  },
+  {
+   "id": "release_children",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may be released only to the parent or an individual designated in writing by the enrolling parent, except in an emergency with oral designation and verified identity.",
+   "section": "§ 3270.117",
+   "page": 46,
+   "quote": "A child shall be released only to the child’s parent or to an individual designated in writing by the enrolling parent."
+  },
+  {
+   "id": "emergency_release_log",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "If a child is released on a parent's oral designation in an emergency, the facility must log required details in the child's record.",
+   "section": "§ 3270.117",
+   "page": 46,
+   "quote": "If a child is released upon the oral designation of the parent, the following information shall be logged in the child’s record:"
+  },
+  {
+   "id": "school_age_homework",
+   "topic": "school-age programs",
+   "kind": "rule",
+   "requirement": "When a facility serves a school-age child, homework supervision must be provided per arrangements determined by parent and operator.",
+   "section": "§ 3270.116",
+   "page": 46,
+   "quote": "When a facility serves a school-age child, homework supervision shall be provided in accordance with arrangements determined by the parent and the operator."
+  },
+  {
+   "id": "enrollment_application_review",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "At application, the operator must review with the parent the facility's daily schedule, hours, fees, meal/clothing/health/supervision/night care/dismissal policies, transportation and pickup arrangements, and provide this information in writing at enrollment.",
+   "section": "§ 3270.121",
+   "page": 47,
+   "quote": "The operator shall review with the parent, at the time of application, the facility’s general daily schedule, hours for which care is provided, fees, responsibilities for meals, clothing, health policies, supervision policies, night care policies, dismissal policies, transportation and pick-up arrangements."
+  },
+  {
+   "id": "infant_sleep_position",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed in the sleep position recommended by the American Academy of Pediatrics unless a physician/PA/CRNP documents a medical reason.",
+   "section": "§ 3270.119",
+   "page": 47,
+   "quote": "Infants shall be placed in the sleeping position recommended by the American Academy of Pediatrics unless there is a medical reason an infant should not sleep in this position."
+  },
+  {
+   "id": "pets",
+   "topic": "program",
+   "kind": "rule",
+   "requirement": "Pets must be in good health and known friendly; contact only when staff physically present; cats/dogs need current rabies certificate on file.",
+   "section": "§ 3270.118",
+   "page": 47,
+   "quote": "A veterinarian’s certificate of current rabies immunization is required for a cat or dog at the facility."
+  },
+  {
+   "id": "signed_agreement",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "A signed agreement with the parent must specify fees, payment date, services, arrival/departure times, release designees, admission date, and extra services.",
+   "section": "§ 3270.123",
+   "page": 48,
+   "quote": "An agreement signed by the operator and the parent must specify the following: (1) The amount of the fee to be charged per day or per week. (2) The date on which the fee is to be paid."
+  },
+  {
+   "id": "emergency_contact_info",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Emergency contact information is required for each enrolled child and must be updated in writing at least every six months or when it changes.",
+   "section": "§ 3270.124",
+   "page": 49,
+   "quote": "The parent shall update in writing emergency contact information once in a 6-month period or as soon as there is a change in the information."
+  },
+  {
+   "id": "health_report_initial",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The operator must require the parent to provide an initial health report no later than 60 days after the child's first day of attendance.",
+   "section": "§ 3270.131",
+   "page": 50,
+   "quote": "The operator shall require the parent of an enrolled child, including a child, a foster child and a relative of an operator or a facility person, to provide an initial health report no later than 60 days following the first day of attendance at the facility."
+  },
+  {
+   "id": "immunization_verification",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The facility may not retain an infant 2 months or older, toddler, or preschool child more than 60 days after first attendance unless the parent provides written immunization verification.",
+   "section": "§ 3270.131",
+   "page": 51,
+   "quote": "The facility may not accept or retain an infant 2 months of age or older, a toddler or a preschool child at the facility for more than 60 days following the first day of attendance at the facility unless the parent provides written verification"
+  },
+  {
+   "id": "immunization_exemption",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Immunization exemptions must be documented by a written signed dated statement from the parent for religious/personal objection or from a physician/PA/CRNP for medical need.",
+   "section": "§ 3270.131",
+   "page": 51,
+   "quote": "Exemption from immunization for religious belief or strong personal objection equated to a religious belief must be documented by a written, signed and dated statement from the child’s parent or guardian."
+  },
+  {
+   "id": "dismissal_policies_immunization",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The facility must implement dismissal policies in accordance with Department of Health immunization requirements for children in child care group settings.",
+   "section": "§ 3270.131",
+   "page": 51,
+   "quote": "The facility shall implement dismissal policies in accordance with the Department of Health regulation in 28 Pa. Code § 27.77 (relating to immunization requirements for children in child care group settings)."
+  },
+  {
+   "id": "medication_consent",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may be administered only with a parent's written consent and according to written instructions; prescription medication must be in the original container with the child's name.",
+   "section": "§ 3270.133",
+   "page": 52,
+   "quote": "A prescription or nonprescription medication may be accepted only in an original container."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication must be stored in a locked area or out of reach of children and according to manufacturer or health professional instructions.",
+   "section": "§ 3270.133",
+   "page": 53,
+   "quote": "Medication shall be stored in a locked area of the facility or in an area that is out of the reach of children."
+  },
+  {
+   "id": "medication_log",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "If medication is administered, the operator must maintain a medication log with required details.",
+   "section": "§ 3270.133",
+   "page": 53,
+   "quote": "An operator is responsible to establish and maintain a medication log if prescription or nonprescription medication is administered."
+  },
+  {
+   "id": "child_hygiene",
+   "topic": "child hygiene",
+   "kind": "rule",
+   "requirement": "Staff must ensure children's hands washed before meals/snacks, after toileting, and after diapering; cloth towels labeled and laundered weekly.",
+   "section": "§ 3270.134",
+   "page": 53,
+   "quote": "A staff person shall ensure that a child’s hands are washed before meals and snacks, after toileting and after being diapered."
+  },
+  {
+   "id": "diapering",
+   "topic": "child hygiene",
+   "kind": "rule",
+   "requirement": "Diaper changing surfaces must be cleaned after each use; diapering area may not be used for food preparation/service.",
+   "section": "§ 3270.135",
+   "page": 54,
+   "quote": "Diaper changing surfaces shall be cleaned after each use by wiping the surface with a sanitizing solution or by changing a pad or other surface covering."
+  },
+  {
+   "id": "illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with symptoms of a communicable disease that may threaten others must be excluded until a physician or CRNP says the child is no longer a threat.",
+   "section": "§ 3270.137",
+   "page": 55,
+   "quote": "An operator who observes an enrolled child with symptoms of a communicable disease or infection that can be transmitted directly or indirectly and which may threaten the health of children in care shall exclude the child from attendance until the operator receives notification from a physician or a CRNP"
+  },
+  {
+   "id": "outbreak_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Parents must be informed when there is a suspected outbreak of a communicable disease or an unusual illness that is a public health emergency.",
+   "section": "§ 3270.136",
+   "page": 55,
+   "quote": "The operator shall inform parents of enrolled children when there is a suspected outbreak of a communicable disease or an outbreak of an unusual illness that represents a public health emergency in the opinion of the Department of Health."
+  },
+  {
+   "id": "adult_health_assessment",
+   "topic": "adult health",
+   "kind": "rule",
+   "requirement": "Facility persons providing direct care or food prep must have a health assessment within 12 months before initial service and every 24 months thereafter.",
+   "section": "§ 3270.151",
+   "page": 56,
+   "quote": "A facility person providing direct care who comes into contact with the children or who works with food preparation shall have a health assessment conducted within 12 months prior to providing initial service in a child care setting and every 24 months thereafter."
+  },
+  {
+   "id": "adult_tb_screening",
+   "topic": "adult health",
+   "kind": "rule",
+   "requirement": "Tuberculosis screening by Mantoux method is required at initial employment; positive tests require chest X-ray and evaluation.",
+   "section": "§ 3270.151",
+   "page": 56,
+   "quote": "Tuberculosis screening by the Mantoux method at initial employment."
+  },
+  {
+   "id": "facility_person_illness",
+   "topic": "adult health",
+   "kind": "rule",
+   "requirement": "A facility person with symptoms of a communicable disease that may threaten children must be excluded until a physician or CRNP says the person is no longer a threat.",
+   "section": "§ 3270.153",
+   "page": 57,
+   "quote": "A facility person with symptoms of a communicable disease or infection that can be transmitted directly or indirectly and which may threaten the health of children in care shall be excluded from attendance until the facility operator receives notification from a physician or CRNP"
+  },
+  {
+   "id": "adult_hygiene",
+   "topic": "adult health",
+   "kind": "rule",
+   "requirement": "Facility persons must wash hands before meals/snacks and after toileting or diapering a child.",
+   "section": "§ 3270.152",
+   "page": 57,
+   "quote": "A facility person shall wash his hands before meals and snacks, and after toileting and after diapering a child."
+  },
+  {
+   "id": "skin_disorders",
+   "topic": "adult health",
+   "kind": "rule",
+   "requirement": "Facility persons with discharging/infected wounds or lesions on exposed body parts must be excluded until written physician/CRNP clearance; herpes infection bars presence with infants under 3 months.",
+   "section": "§ 3270.154",
+   "page": 57,
+   "quote": "A facility person with a discharging or infected wound, sore or lesion on the hands, arms or an exposed portion of the body shall be excluded from child care and food preparation activities until the operator receives written notification from a physician or CRNP"
+  },
+  {
+   "id": "meals_4_hours",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "If a child receives care for 4 or more consecutive hours, nutritional appropriately timed meals and snacks must be served.",
+   "section": "§ 3270.162",
+   "page": 58,
+   "quote": "If a child receives care for 4 or more consecutive hours, nutritional, appropriately-timed meals and snacks shall be served."
+  },
+  {
+   "id": "food_safety",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food stored/prepared/served must be clean, wholesome, safe; food handling must conform to health/environmental requirements; previously served food discarded.",
+   "section": "§ 3270.161",
+   "page": 58,
+   "quote": "Food stored, prepared or served shall be clean, wholesome, free from spoilage, free from adulteration and safe for human consumption."
+  },
+  {
+   "id": "food_not_withheld",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food may not be withheld for discipline and a child may not be forced to eat.",
+   "section": "§ 3270.162",
+   "page": 59,
+   "quote": "Food may not be withheld from a child for purposes of discipline."
+  },
+  {
+   "id": "menus",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "An operator must conspicuously post the menu at least 1 week in advance or provide a menu to each family.",
+   "section": "§ 3270.165",
+   "page": 59,
+   "quote": "An operator shall conspicuously post the menu at least 1 week in advance or provide a menu to each family."
+  },
+  {
+   "id": "food_groups",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Lunch/dinner prepared at facility for toddlers or older must include at least one item from dairy, protein, fruits/vegetables, and grain groups; breakfast from three of four.",
+   "section": "§ 3270.163",
+   "page": 59,
+   "quote": "A lunch or dinner prepared at the facility for children of toddler age or older shall have at least one item from each of the following food groups:"
+  },
+  {
+   "id": "food_servings",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food servings must be portioned suitably for children's size and age; additional reasonable food available on request.",
+   "section": "§ 3270.164",
+   "page": 59,
+   "quote": "Food servings shall be portioned suitably for the size and age of the children in care."
+  },
+  {
+   "id": "infant_meals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infant meals require written formula/feeding schedule from parent; infants 6 months or younger must be held while bottle fed; no sleeping with bottle.",
+   "section": "§ 3270.166",
+   "page": 60,
+   "quote": "An infant 6 months of age or younger shall be held while being bottle fed."
+  },
+  {
+   "id": "transportation_consent",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Transportation by the facility requires written parental consent, except for school district vehicles.",
+   "section": "§ 3270.172",
+   "page": 61,
+   "quote": "Transportation by the facility requires written parental consent, except for transportation of school-age children who are transported to or from a child care facility in vehicles owned or operated by the school district."
+  },
+  {
+   "id": "transport_ratios",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff-child ratios apply during transport of infants/toddlers/preschoolers; driver is not counted for those ages.",
+   "section": "§ 3270.173",
+   "page": 61,
+   "quote": "The driver may not be considered part of the staff-child ratio when infant, young or older toddler or preschool children are transported."
+  },
+  {
+   "id": "driver_age",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Vehicle operator must be 18 or older with a valid operator's license.",
+   "section": "§ 3270.174",
+   "page": 61,
+   "quote": "The operator of the vehicle shall be 18 years of age or older and shall have a valid operator’s license."
+  },
+  {
+   "id": "safety_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children 7 or younger must be transported per 75 Pa.C.S. §4581 restraint requirements; installed restraints must be used.",
+   "section": "§ 3270.175",
+   "page": 62,
+   "quote": "A child 7 years of age or younger shall be transported in accordance with the requirements for parents and guardians as set forth in 75 Pa.C.S. § 4581 (relating to restraint systems)."
+  },
+  {
+   "id": "vehicles",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Vehicles must be insured; doors locked in motion; no more than three in front seat; no children in pickup bed or station wagon cargo area; no 11-15 passenger vans.",
+   "section": "§ 3270.176",
+   "page": 62,
+   "quote": "The back of a pick-up truck may not be used to transport children."
+  },
+  {
+   "id": "supervision_transport",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children may not be left unattended in a vehicle and must be supervised during boarding/exiting by an adult outside the vehicle.",
+   "section": "§ 3270.177",
+   "page": 63,
+   "quote": "Children may not be left unattended in a vehicle."
+  },
+  {
+   "id": "transport_first_aid",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A first-aid kit with required contents must be in the vehicle when children are transported.",
+   "section": "§ 3270.178",
+   "page": 63,
+   "quote": "A first-aid kit, including the contents as specified in § 3270.75 (relating to first-aid kit) shall be in the vehicle when children are being transported."
+  },
+  {
+   "id": "confidentiality_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Child records are confidential and must be stored in a locked cabinet; facility persons may not disclose information except during Department inspections/investigations.",
+   "section": "§ 3270.183",
+   "page": 64,
+   "quote": "Child records are confidential and shall be stored in a locked cabinet."
+  },
+  {
+   "id": "parent_record_access",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Parents have access to the child's complete record; release of information requires written parental consent.",
+   "section": "§ 3270.184",
+   "page": 64,
+   "quote": "The parent shall have access to the child’s complete child care record."
+  },
+  {
+   "id": "record_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A copy of the child's record must be retained at the facility for at least one year after termination of service unless transferred.",
+   "section": "§ 3270.185",
+   "page": 65,
+   "quote": "A copy of the child’s record shall be retained at the facility for at least 1 year after termination of service, unless the entire record is transferred by the operator to the parent or guardian or to another agency at the request of the parent or guardian."
+  }
+ ],
+ "dropped_unverified": [],
+ "turns": 1,
+ "cost": 0.0367,
+ "tokens_in": 47134,
+ "tokens_out": 14875,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "mixed_age_ratios",
+      "original": "When a group includes any infant under 12 months, one teacher cares for no more than four children of any age.",
+      "planted": "When a group includes an infant under 12 months, one teacher may care for up to six children, as long as no more than four of them are infants.",
+      "why": "Child Care Facility Handbook 2.3.1 A: in mixed-age groups that include a child under one year, one child care personnel may be responsible for no more than four children of any age group, at all times. Six children per teacher exceeds that limit."
+    },
+    {
+      "item_id": "safe_sleep_back",
+      "original": "Infants who cannot yet roll over are always placed on their backs to sleep on a firm crib mattress with a tight-fitted sheet.",
+      "planted": "Infants who cannot yet roll over may be placed to sleep on their tummies or sides if that is how they settle best at home.",
+      "why": "Child Care Facility Handbook 3.6.4 B: young infants who are not able to roll over must be positioned on their backs on a firm surface when napping or sleeping, unless a physician authorizes an alternate position. Parent or home preference is not a physician authorization."
+    },
+    {
+      "item_id": "medication_written_authorization",
+      "original": "We give medication only with a medication authorization form that you have dated and signed, listing your child's name, the name of the medicine, and the date, time, and amount of each dose.",
+      "planted": "We give medication when you fill out our medication form or, if you are in a rush at drop-off, when you simply tell the teacher the name of the medicine and how much to give.",
+      "why": "Child Care Facility Handbook 6.5 A (Medication): the program must have written authorization, dated and signed by the custodial parent or legal guardian, with the child's name, medication, and date, time, and dosage, before giving prescription or non-prescription medication. Verbal instructions at drop-off do not meet this."
+    },
+    {
+      "item_id": "fire_drills_monthly",
+      "original": "We hold a fire drill every month, at different days and times when children are here, including at least one during nap time and one using an alternate exit route.",
+      "planted": "We hold a fire drill twice a year, once in the fall and once in the spring, including one during nap time and one using an alternate exit route.",
+      "why": "Child Care Facility Handbook 3.8.4 A: fire drills using the approved alarm system must be conducted monthly, at various dates and times when children are in care. Twice a year is far below the monthly requirement."
+    },
+    {
+      "item_id": "field_trip_permission",
+      "original": "Before every field trip, we post the date, time, and location by the front desk at least two working days ahead, and your child goes only with your signed permission slip.",
+      "planted": "Before every field trip, we post the date, time, and location by the front desk the day before, and a quick verbal okay at drop-off is all we need for your child to go.",
+      "why": "Child Care Facility Handbook 2.7 B-C: the field trip date, time, and location must be posted at least two working days before each trip, and written parental permission (a general or event-specific permission slip) must be obtained. Posting one day ahead and accepting a verbal okay violate both parts."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "shaken_baby_policy",
+      "text": "## Preventing Shaken Baby Syndrome\n\nBecause we care for infants, we follow a written policy and procedure to identify and prevent shaken baby syndrome and abusive head trauma. Staff learn the warning signs, such as extreme irritability, vomiting, poor feeding, or unusual sleepiness, and complete safe sleep training. Teachers learn calming techniques for crying babies and know that, when they feel frustrated, they should lay the baby safely in a crib and ask a coworker to step in. If staff suspect head trauma, they call 911 when needed and notify the director and family."
+    },
+    {
+      "item_id": "animals_notice",
+      "text": "## Animals at the Center\n\nThe Manatees classroom keeps a guinea pig named Clover in a clean, covered cage, and our lobby has a small goldfish aquarium. Our animals are healthy, stay in their cages or tank, and are never kept where food is prepared or served. We will let you know in writing before any new or visiting animal comes to the center."
+    },
+    {
+      "item_id": "change_of_ownership_notice",
+      "text": "If ownership of Mangrove Meadow ever changes, we will tell you at least one week before the change by posting a notice at the front entrance, including it in our newsletter, or sending a letter home."
+    }
+  ]
+}

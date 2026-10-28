@@ -1,0 +1,192 @@
+[
+ {
+  "state": "CA",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 2,
+  "defective_other_conflicts": 1,
+  "clean_score": 66,
+  "defective_score": 40,
+  "cost": 0.2006,
+  "seconds": [
+   42.5,
+   33.4
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "Babies under 12 months are always placed on their backs to sleep unless a physician has signed a medical exemption.",
+   "A teacher watches and listens to sleeping babies at all times and physically checks each sleeping baby every 15 minutes, writing down the time and their initial"
+  ],
+  "other_conflict_quotes": [
+   "During nap time, one teacher may watch up to 24 napping preschoolers as long as the other teachers needed for ratio are in the building and immediately availabl"
+  ]
+ },
+ {
+  "state": "FL",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 52,
+  "cost": 0.0566,
+  "seconds": [
+   30.3,
+   64.2
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "IL",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 2,
+  "defective_other_conflicts": 1,
+  "clean_score": 89,
+  "defective_score": 60,
+  "cost": 0.1272,
+  "seconds": [
+   39.5,
+   38.1
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "It also includes our staff vaccination policy, which follows CDC guidelines: staff show proof of Tdap and MMR vaccination or immunity.",
+   "Children under 6 who are not yet in kindergarten and stay 5 hours or more have a rest time on their own labeled cot."
+  ],
+  "other_conflict_quotes": [
+   "It also includes our staff vaccination policy, which follows CDC guidelines: staff show proof of Tdap and MMR vaccination or immunity."
+  ]
+ },
+ {
+  "state": "NC",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 64,
+  "cost": 0.1606,
+  "seconds": [
+   44.8,
+   42.1
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "NJ",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 1,
+  "defective_other_conflicts": 0,
+  "clean_score": 95,
+  "defective_score": 56,
+  "cost": 0.0802,
+  "seconds": [
+   35.7,
+   36.8
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "Once every infant is asleep and every older child is resting, nap-time ratios are 1 teacher for 10 children under 18 months, 12 children from 18 months to 2\u00bd ye"
+  ],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "OR",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 1,
+  "defective_other_conflicts": 0,
+  "clean_score": 90,
+  "defective_score": 57,
+  "cost": 0.0706,
+  "seconds": [
+   34.1,
+   28.8
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "Every day includes at least an hour of active physical play, indoors if the weather is unsafe."
+  ],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "PA",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 32,
+  "cost": 0.0919,
+  "seconds": [
+   66.6,
+   30.1
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "TX",
+  "effort": "high",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 96,
+  "defective_score": 36,
+  "cost": 0.0515,
+  "seconds": [
+   25.1,
+   22.9
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ }
+]

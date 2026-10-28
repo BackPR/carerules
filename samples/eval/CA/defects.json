@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "teacher_child_ratio_preschool",
+      "original": "A teacher working without an aide never supervises more than 12 preschool children, and teachers always keep children in sight.",
+      "planted": "A teacher working without an aide may supervise up to 16 preschool children, and teachers always keep children in sight.",
+      "why": "22 CCR 101216.3(a): one teacher may visually observe and supervise no more than 12 children; a teacher alone with 16 preschoolers exceeds the ratio (aides only raise it to 15 or 18 with a teacher and aide together)."
+    },
+    {
+      "item_id": "disaster_drills",
+      "original": "We practice a disaster drill at least every six months and keep a written record of each drill for at least one year.",
+      "planted": "We practice a disaster drill once a year and keep a written record of each drill for at least one year.",
+      "why": "22 CCR 101174(d): disaster drills must be conducted at least every six months and documented; once a year is too infrequent."
+    },
+    {
+      "item_id": "prohibited_discipline",
+      "original": "We never take away food, rest, or toileting as a consequence.",
+      "planted": "Children who throw food or leave the table during lunch may lose their afternoon snack that day.",
+      "why": "22 CCR 101223(a)(3): children must be free from punitive actions, including interference with daily living functions such as eating; withholding a snack as a consequence is prohibited discipline (and 101223.2 bars it even with parent consent)."
+    },
+    {
+      "item_id": "transportation_restraints",
+      "original": "Children are never left in a parked vehicle, even for a moment.",
+      "planted": "If children fall asleep on the drive back, they may finish their nap buckled in the parked van while a teacher checks on them from the office window.",
+      "why": "22 CCR 101225(e): children shall not be left in parked vehicles (for infants, 101425 also requires constant adult supervision in vehicles)."
+    },
+    {
+      "item_id": "infant_sleep_observation",
+      "original": "A teacher watches and listens to sleeping babies at all times and physically checks each sleeping baby every 15 minutes, writing down the time and their initials on the sleep log.",
+      "planted": "A teacher looks in on sleeping babies about every 30 minutes and writes the time and their initials on the sleep log.",
+      "why": "22 CCR 101429(a)(2): sleeping infants must be directly observed by sight and sound at all times, and staff must physically check each sleeping infant every 15 minutes and document each check; 30-minute look-ins violate both."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "transportation_signs",
+      "text": "As required by law, signs at our entrance give the local health department's phone number and information about California's child passenger safety seat law."
+    },
+    {
+      "item_id": "smoking_prohibition",
+      "text": "Smoking is not allowed anywhere on our premises at any time."
+    },
+    {
+      "item_id": "field_trip_authorization",
+      "text": "Before every field trip, we ask you to sign and date a permission form for that specific trip."
+    }
+  ]
+}

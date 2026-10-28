@@ -1,0 +1,788 @@
+{
+ "state": "IL",
+ "rulebook": "Illinois DCFS Rules 407, Licensing Standards for Day Care Centers (89 Ill. Adm. Code 407), July 7, 2025 - PT 2025.07 (through amendment at 49 Ill. Reg. 8719, eff. June 18, 2025)",
+ "items": [
+  {
+   "id": "statement_purposes_policies",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have a written statement of purposes and policies as required by Section 407.250(c).",
+   "section": "407.50",
+   "page": 15,
+   "quote": "Statement of purposes and policies as required by Section 407.250(c);"
+  },
+  {
+   "id": "written_delegation_authority",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must file written delegation of administrative authority with the Department.",
+   "section": "407.50",
+   "page": 15,
+   "quote": "Written delegation of administrative authority as required by Section 407.70(b);"
+  },
+  {
+   "id": "written_delegation_lines_communication",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The governing body must file written policies outlining delegation of responsibility and lines of communication among governing body, staff, and parents.",
+   "section": "407.70",
+   "page": 20,
+   "quote": "The governing body shall file with the Department written policies outlining any delegation of responsibility for compliance with this Part and lines of communication among the governing body, facility staff and parents."
+  },
+  {
+   "id": "notify_department_major_changes",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must notify the Department immediately of major changes affecting regulated areas of operation.",
+   "section": "407.70",
+   "page": 20,
+   "quote": "The governing body, or others designated in writing to represent the center, shall notify the Department immediately of major changes affecting any area of operation regulated by 89 Ill. Adm. Code 407"
+  },
+  {
+   "id": "notify_department_legal_action",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must notify the Department in writing within 7 days after notice of legal action that may negatively affect operation.",
+   "section": "407.70",
+   "page": 20,
+   "quote": "The Department shall be notified in writing within 7 days after any notice of legal action against the center that may negatively affect its operation and/or ability to maintain the licensing standards."
+  },
+  {
+   "id": "new_staff_orientation_review",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "New staff orientation must include review of required documents, with review dates recorded in personnel files.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "As a part of new staff orientation, the child care director and all staff shall review the following documents and the date of their review shall be recorded in the personnel files:"
+  },
+  {
+   "id": "licensing_standards_available_staff",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "A complete and current set of licensing standards must be available in an area accessible to all employees.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "A complete and current set of licensing standards shall be available at all times in an area that is accessible to all employees."
+  },
+  {
+   "id": "written_personnel_policies",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "The center must have written personnel policies available to staff at all times.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "A day care center shall have written personnel policies available to the staff at all times."
+  },
+  {
+   "id": "parent_received_summary_standards",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Each child's record must contain a parent-signed statement that the parent received a summary of licensing standards and designated materials.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "Each child's record shall contain a statement signed by the child's parent(s) or guardian indicating that he/she has received a summary of licensing standards and other materials designated by the Department for distribution."
+  },
+  {
+   "id": "suspected_abuse_report_hotline",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Suspected child abuse or neglect must be reported immediately to the Child Abuse/Neglect Hotline.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "Suspected child abuse or neglect shall be reported immediately to the Child Abuse/Neglect Hotline as required by the Abused and Neglected Child Reporting Act, as amended."
+  },
+  {
+   "id": "abuse_hotline_number",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "The child abuse reporting hotline number is 1-800-252-2873.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "The telephone number for the reporting hotline is 1-800-252-2873."
+  },
+  {
+   "id": "written_risk_management_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must develop a written risk management plan addressing operational risks and emergency procedures.",
+   "section": "407.70",
+   "page": 21,
+   "quote": "The center shall develop a written risk management plan that identifies potential operational risks, specifies ways to reduce or eliminate the risks and establishes procedures to be followed in an emergency or crisis."
+  },
+  {
+   "id": "public_liability_insurance",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The center must carry public liability insurance with a single limit minimum of $300,000 per occurrence.",
+   "section": "407.70",
+   "page": 22,
+   "quote": "The day care center shall carry public liability insurance in the single limit minimum amount of $300,000 per occurrence"
+  },
+  {
+   "id": "accident_injury_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Accidents or injuries requiring professional medical care must be recorded and orally reported immediately to the parent and Department.",
+   "section": "407.70",
+   "page": 22,
+   "quote": "Any accident or injury requiring professional medical care, death or other emergency involving a child shall be entered into the child's record and orally reported immediately to the child's parent or guardian and to the appropriate local licensing office of the Department."
+  },
+  {
+   "id": "records_retention_general",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Required general and financial records must be maintained for 5 years.",
+   "section": "407.70",
+   "page": 22,
+   "quote": "Required general and financial records shall be maintained for 5 years."
+  },
+  {
+   "id": "records_retention_children",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Children's records must be maintained for 5 years after discharge from care or services.",
+   "section": "407.70",
+   "page": 22,
+   "quote": "Children's records shall be maintained for 5 years after the child has been discharged from care or services."
+  },
+  {
+   "id": "daily_attendance_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Accurate daily attendance records by group must be maintained for one year.",
+   "section": "407.70",
+   "page": 23,
+   "quote": "Accurate daily attendance records, by group, shall be maintained for one year."
+  },
+  {
+   "id": "department_representatives_access",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "Authorized Department representatives must be admitted during hours of operation to determine compliance.",
+   "section": "407.70",
+   "page": 23,
+   "quote": "Authorized representatives of the Department shall be admitted to the center during the hours of operation for the purpose of determining compliance with the Child Care Act of 1969 and standards set forth in this Part."
+  },
+  {
+   "id": "confidentiality_child_information",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Information about a child's admission, progress, health, or discharge is confidential unless a parent grants written permission.",
+   "section": "407.80",
+   "page": 23,
+   "quote": "Information pertaining to the admission, progress, health, or discharge of an individual child shall be confidential and limited to facility staff designated by the child care director and Department representatives unless the parent(s) of the child has granted written permission for disclosure or dissemination."
+  },
+  {
+   "id": "confidentiality_release_forms",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The facility must have parent-signed confidentiality release forms specifying recipients and validity period.",
+   "section": "407.80",
+   "page": 23,
+   "quote": "The facility shall have confidentiality release forms signed by the parent(s) which specify to whom information may be released and the length of time the release form is valid."
+  },
+  {
+   "id": "written_staffing_plan",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "The center must have a written staffing plan that organizes staff for continuity of care and supervision.",
+   "section": "407.90",
+   "page": 24,
+   "quote": "A written staffing plan shall organize the staff and enable them to give the children continuity of care and supervision."
+  },
+  {
+   "id": "staff_qualified_at_hire",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Each staff person must be qualified for their position at the time of hire or promotion.",
+   "section": "407.90",
+   "page": 24,
+   "quote": "Each staff person shall be qualified for his or her position, as required by this Part, at the time he or she is hired or promoted."
+  },
+  {
+   "id": "director_in_service_training",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The director must ensure in-service training totaling at least 15 clock hours per year for each child care staff member.",
+   "section": "407.90",
+   "page": 24,
+   "quote": "The child care director shall be responsible for the planning and supervision of the program and activities of the children; orientation to newly employed staff; on-site supervision of all staff; and in-service training totaling a minimum of 15 clock hours per year for each member of the child care staff."
+  },
+  {
+   "id": "staff_child_ratios_table",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must maintain the required staff-to-child ratios and maximum group sizes by age.",
+   "section": "407.190",
+   "page": 44,
+   "quote": "The group sizes and ratio of child care staff to children present at any one time shall be as follows:"
+  },
+  {
+   "id": "combined_ages_ratio_youngest",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "When ages are combined, the staff-to-child ratio and maximum group size must be based on the youngest child in the group.",
+   "section": "407.190",
+   "page": 44,
+   "quote": "Whenever children of different ages are combined, as allowed by Section 407.190(d) below, the staff/child ratio and maximum group size shall be based on the age of the youngest child in the group."
+  },
+  {
+   "id": "children_not_unattended",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Children must not be left unattended at any time.",
+   "section": "407.190",
+   "page": 45,
+   "quote": "Children shall not be left unattended at any time."
+  },
+  {
+   "id": "written_plan_parent_visits",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must have a written plan for encouraging parents to visit, observe, and participate, and parents may visit without appointment during normal hours.",
+   "section": "407.200",
+   "page": 45,
+   "quote": "The staff of the day care center shall have a written plan for encouraging parents to visit the center to observe and participate in their children's experience. Parents shall be allowed to visit the center without an appointment any time during normal hours of operation."
+  },
+  {
+   "id": "daily_program_posted",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The daily program must be posted in the facility and provide required routines and activities.",
+   "section": "407.200",
+   "page": 45,
+   "quote": "The daily program shall be posted in the facility, and shall provide:"
+  },
+  {
+   "id": "enrollment_policies_no_disability_screening",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written enrollment policies must not screen out children with disabilities and must allow reasonable modifications.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "The day care center shall enroll only those children eligible under the center's written enrollment policies. The center shall not use eligibility criteria that screen out children with disabilities, and shall make reasonable modifications in policies, practices and procedures to accommodate children with disabilities."
+  },
+  {
+   "id": "parents_info_observe_before_enrollment",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Before enrollment, parents must be provided program information and an opportunity to observe during hours of operation.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "Prior to enrollment, the parents shall be provided information about the program and given an opportunity to observe during the hours of operation."
+  },
+  {
+   "id": "publicly_available_written_statements",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must provide publicly available written statements covering required topics and give them to parents at enrollment.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "The day care center shall provide publicly available written statements that include the following and that are given to parents at the time their child is enrolled in the facility:"
+  },
+  {
+   "id": "hours_of_operation_statement",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include hours of operation.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "Admission, enrollment, and discharge policies and procedures: 8) A) Hours of operation;"
+  },
+  {
+   "id": "fees_and_delinquent_fees",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include fees, payment plan, and policies regarding delinquent fees.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "4) Fees and plan for payment; 5) Policies regarding delinquent fees;"
+  },
+  {
+   "id": "arrival_departure_arrangements",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include arrangements for arrival and departure of children.",
+   "section": "407.250",
+   "page": 57,
+   "quote": "Arrangements for arrival and departure of children (time, location, transportation);"
+  },
+  {
+   "id": "emergency_medical_care_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include a provision for emergency medical care, treatment of illness, and accidents.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Provision for emergency medical care, treatment of illness and accidents, which includes: A) A plan to obtain prompt services of physician and hospitalization, if needed"
+  },
+  {
+   "id": "visits_trips_excursions",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include visits, trips, or excursions off the premises and transportation used.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Visits, trips, or excursions off the premises and the transportation used for these visits, trips, or excursions;"
+  },
+  {
+   "id": "personal_belongings_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include procedures concerning personal belongings brought to the center.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Procedures concerning personal belongings brought to the center;"
+  },
+  {
+   "id": "release_personal_information_policy",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include a policy regarding release of personal information on the child or family.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Policy regarding release of personal information on the child or family;"
+  },
+  {
+   "id": "planned_communication_parents",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include planned means of communication between the center and parents.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Planned means of communication between the center and the parents;"
+  },
+  {
+   "id": "water_lead_testing_info_parents",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Centers subject to lead water testing must inform parents where results are posted and any mitigation actions in place.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "Day care centers subject to testing of water for the presence of lead shall inform parents where in the facility the results of all water testing (at, above or below 2.01 ppb) are prominently posted and any mitigation actions that are in place;"
+  },
+  {
+   "id": "behavior_support_transition_policies",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The written parent statements must include behavior support and program transition policies.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "15) Planned means of communication between the center and the parents; 16) Day care centers subject to testing of water for the presence of lead shall inform parents where in the facility the results of all water testing (at, above or below 2.01 ppb) are prominently posted and any mitigation actions that are in place; and 17) Behavior Support and program transition policies."
+  },
+  {
+   "id": "distribute_summary_licensing_standards",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The facility must distribute a summary of licensing standards to parents when a child is accepted for care.",
+   "section": "407.250",
+   "page": 58,
+   "quote": "The facility shall distribute a summary of the licensing standards, provided by the Department, to the parents of each child at the time that the child is accepted for care in the facility."
+  },
+  {
+   "id": "written_notice_birth_certificate",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must give written notice that parents must provide a certified birth certificate or other proof of identity and age within 30 days of enrollment.",
+   "section": "407.250",
+   "page": 60,
+   "quote": "Provide a written notice to the parent of any child to be enrolled for the first time that within 30 days of enrollment the parent must provide a certified copy of the child's birth certificate or other reliable proof of identity and age of the child."
+  },
+  {
+   "id": "written_transition_policies",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "All day care centers must have written transition policies outlining circumstances and process for transitioning children out of the program.",
+   "section": "407.250",
+   "page": 61,
+   "quote": "All day care centers shall have written transition policies that outline circumstances in which children may transition out of the program and what the transition process entails;"
+  },
+  {
+   "id": "notify_department_transition_plans",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Providers must notify the Department of transition plans.",
+   "section": "407.250",
+   "page": 61,
+   "quote": "1) All day care centers shall have written transition policies that outline circumstances in which children may transition out of the program and what the transition process entails; 2) Providers shall notify the Department of transition plans;"
+  },
+  {
+   "id": "parent_right_withdraw",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Parents have the right to withdraw a child, and the center must request a written statement of the reason for withdrawal.",
+   "section": "407.250",
+   "page": 61,
+   "quote": "Nothing shall preclude a parent's or legal guardian's right to withdraw his or her child from a day care center. A written statement from the parent or guardian shall be requested by the provider and kept on file, stating the reason for the decision to withdraw the child;"
+  },
+  {
+   "id": "documentation_parent_unable_letter",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "If a parent cannot provide a withdrawal letter, the licensee must maintain signed and dated documentation of the withdrawal request.",
+   "section": "407.250",
+   "page": 62,
+   "quote": "If parents/guardians are unable to provide a letter, the licensee shall maintain documentation that includes the requestor's name and relationship to the child, along with the withdrawal date. The licensee must also sign and date the documentation."
+  },
+  {
+   "id": "daily_pre_admission_screening",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Staff must conduct a daily pre-admission screening to determine if a child has obvious symptoms of illness.",
+   "section": "407.260",
+   "page": 62,
+   "quote": "Child care staff shall conduct a daily pre-admission screening to determine if the child has obvious symptoms of illness."
+  },
+  {
+   "id": "twelve_hour_limit",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Children must not remain on the premises more than 12 hours in any 24-hour period unless written parental confirmation is on file.",
+   "section": "407.260",
+   "page": 62,
+   "quote": "Children served in a day care center shall not remain on the premises for more than 12 hours in any 24-hour period, unless the parent's employment or training schedule requires more than 12 hours of day care and this has been confirmed in writing, by the parent."
+  },
+  {
+   "id": "photo_id_unknown_persons",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Persons not known to staff must provide photo identification before a child is released to them.",
+   "section": "407.260",
+   "page": 63,
+   "quote": "Persons not known to the staff shall be required to provide a driver's license (with photo), a photo identification card issued by the Illinois Secretary of State or other photo identification to establish their identity before the child is released to them."
+  },
+  {
+   "id": "contingency_list_record",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "When releasing a child to a contingency-list person, the center must record the person's name, date, and time.",
+   "section": "407.260",
+   "page": 63,
+   "quote": "When a child is released to a person authorized on the contingency list, the center shall maintain a record of the person's name and the date and time."
+  },
+  {
+   "id": "departure_log",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The time of each child's departure must be noted on a daily departure log and documented by the person receiving the child.",
+   "section": "407.260",
+   "page": 63,
+   "quote": "The time of each child's departure from the center shall be noted on a daily departure log and initialed, signed or otherwise documented by the person to whom the child is released."
+  },
+  {
+   "id": "school_age_unaccompanied_release",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "A school-age child may leave unaccompanied only under a written policy or individual plan with written parental authorization.",
+   "section": "407.260",
+   "page": 63,
+   "quote": "When the center has a written policy or an individual plan for a specific school-age child, that child may be allowed to leave the center unaccompanied with written authorization from their parent or parents."
+  },
+  {
+   "id": "late_pickup_written_policy",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The center must have a written policy explaining actions if a parent does not pick up a child at the agreed time.",
+   "section": "407.260",
+   "page": 63,
+   "quote": "All day care centers shall have a written policy that explains to parents and staff the actions the center will take if a parent or guardian does not pick up, or arrange to have someone pick up, his or her child at the designated, agreed upon time."
+  },
+  {
+   "id": "guidance_discipline_policy_parents",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must develop a guidance and discipline policy for staff use that is also provided to parents.",
+   "section": "407.270",
+   "page": 64,
+   "quote": "The day care center shall develop a guidance and discipline policy for staff use that is also provided to parents. Expulsion due to a child's pattern of challenging behavior is prohibited."
+  },
+  {
+   "id": "written_rules_children",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Written rules for all children must be established and available to children, parents, and staff.",
+   "section": "407.270",
+   "page": 64,
+   "quote": "Written rules for all children shall be established and available to children, parents and staff."
+  },
+  {
+   "id": "prohibited_discipline_practices",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Corporal punishment and other listed discipline practices are prohibited in all child care settings.",
+   "section": "407.270",
+   "page": 65,
+   "quote": "The following behaviors are prohibited in all child care settings: A) Corporal punishment, including hitting, spanking, swatting, beating, shaking, pinching and other measures intended to induce physical pain or fear;"
+  },
+  {
+   "id": "removal_from_group_limits",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Removal from the group must not exceed one minute per year of age and must not be used for children under 24 months.",
+   "section": "407.270",
+   "page": 65,
+   "quote": "Removal from the group to help a child gain control shall not exceed one minute per year of age. Removal from the group shall not be used for children less than 24 months of age."
+  },
+  {
+   "id": "no_discipline_toilet_accidents",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children must not be disciplined for toilet accidents.",
+   "section": "407.270",
+   "page": 65,
+   "quote": "Children shall not be disciplined for toilet accidents."
+  },
+  {
+   "id": "transportation_driver_requirements",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Drivers transporting children must meet age, license, medical, and driving-history requirements.",
+   "section": "407.280",
+   "page": 66,
+   "quote": "The driver of a vehicle transporting children on behalf of a day care center, whether paid or unpaid, shall comply with the following requirements:"
+  },
+  {
+   "id": "clinical_behavior_management_plans",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Clinical behavior management plans may be developed with the parent and a professional clinician and documented in the child's file.",
+   "section": "407.270",
+   "page": 66,
+   "quote": "Clinical behavior management plans may be developed to meet the needs of a particular child if developed with the parent and a professional clinician. This must be documented in the child's file."
+  },
+  {
+   "id": "transportation_staff_child_ratios",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The required staff-to-child ratios must be maintained when transporting children.",
+   "section": "407.280",
+   "page": 67,
+   "quote": "The staff/child ratios as listed in this subsection shall be maintained."
+  },
+  {
+   "id": "age_appropriate_safety_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Federally approved age-appropriate safety restraints must be used when transporting children in vehicles under 10,000 pounds.",
+   "section": "407.280",
+   "page": 68,
+   "quote": "Age-appropriate safety restraints which are federally approved and labeled as such shall be used at all times when transporting children in vehicles having a gross weight of less than 10,000 pounds"
+  },
+  {
+   "id": "written_transportation_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must maintain a written emergency plan for transportation accidents, illness, severe weather, and other pertinent information.",
+   "section": "407.280",
+   "page": 68,
+   "quote": "A written emergency plan to be followed in case of accidents, serious illness, severe weather alerts, and other pertinent information shall be maintained."
+  },
+  {
+   "id": "written_scheduled_transportation_plan",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The center must maintain a written plan for scheduled transportation of children, including route schedule and safety precautions.",
+   "section": "407.280",
+   "page": 68,
+   "quote": "The facility shall maintain a written plan for scheduled transportation of children, which shall include:"
+  },
+  {
+   "id": "medical_report_on_file",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A medical report on Department-prescribed forms must be on file for each child.",
+   "section": "407.310",
+   "page": 71,
+   "quote": "A medical report on forms prescribed by the Department shall be on file for each child."
+  },
+  {
+   "id": "immunizations_required",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The medical report must indicate the child received immunizations required by Illinois Department of Public Health rules.",
+   "section": "407.310",
+   "page": 71,
+   "quote": "The medical report shall indicate that the child has received the immunizations required by the Illinois Department of Public Health in its rules (77 Ill. Adm. Code 695, Immunization Code)."
+  },
+  {
+   "id": "exclusion_communicable_disease",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with a reportable communicable disease requiring isolation must be excluded from the center.",
+   "section": "407.310",
+   "page": 72,
+   "quote": "A child suspected of having or diagnosed as having a reportable infectious, contagious, or communicable disease for which isolation is required by the Illinois Department of Public Health's General Procedures for the Control of Communicable Diseases (77 Ill. Adm. Code 690) shall be excluded from the center."
+  },
+  {
+   "id": "religious_waiver_written",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "A parent may request a written, signed waiver of immunizations, physical examinations, or medical treatment on religious grounds.",
+   "section": "407.310",
+   "page": 72,
+   "quote": "In accordance with the Child Care Act, a parent may request that immunizations, physical examinations and/or medical treatment be waived on religious grounds. A request for waiver shall be in writing, signed by the parent or parents, and kept in the child's record."
+  },
+  {
+   "id": "illness_exclusion_symptoms",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children with diarrhea or rash with fever must not be admitted and must be removed if symptoms develop in care.",
+   "section": "407.310",
+   "page": 73,
+   "quote": "Children with diarrhea and those with a rash combined with fever (oral temperature of 101º F or higher or under the arm temperature of 100º F or higher) shall not be admitted to the day care center while those symptoms persist, and shall be removed as soon as possible should these symptoms develop while the child is in care."
+  },
+  {
+   "id": "food_intervals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children must be offered food at intervals of not less than 2 hours and not more than 3 hours apart, unless asleep.",
+   "section": "407.330",
+   "page": 78,
+   "quote": "Children shall be offered food at intervals of not less than 2 hours and not more than 3 hours apart, unless the child is asleep."
+  },
+  {
+   "id": "special_diet_written_instructions",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A child requiring a special diet must receive meals and snacks according to written instructions from parents, clergy, or medical provider.",
+   "section": "407.330",
+   "page": 78,
+   "quote": "A child requiring a special diet due to medical reasons, allergic reactions or religious beliefs shall be provided with meals and snacks according to the written instructions of the child's parents, clergy and/or the child's medical provider."
+  },
+  {
+   "id": "menus_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Menus must be posted in an area accessible to parents and made available upon request.",
+   "section": "407.330",
+   "page": 78,
+   "quote": "Menus shall be posted in the kitchen, the classroom or other area accessible to parents, and made available to parents upon request."
+  },
+  {
+   "id": "nap_opportunity_under_six",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children under 6 who are not in kindergarten or elementary school and remain 5 or more hours must have the opportunity to rest or nap.",
+   "section": "407.350",
+   "page": 84,
+   "quote": "Children under 6 years of age who are not enrolled in kindergarten or elementary school who remain 5 or more hours shall have the opportunity to rest or nap."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs when put down to sleep, with limited exceptions.",
+   "section": "407.350",
+   "page": 86,
+   "quote": "To minimize the risk of sudden infant death syndrome, children shall be placed on their backs when put down to sleep according to the following guidelines:"
+  },
+  {
+   "id": "no_soft_bedding_cribs",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Soft bedding, bumpers, pillows, quilts, comforters, sheepskins, stuffed toys, and similar products must not be used or stored in cribs.",
+   "section": "407.350",
+   "page": 86,
+   "quote": "Soft bedding, bumpers, pillows, quilts, comforters, sheepskins, stuffed toys and other soft products shall not be used or stored in cribs."
+  },
+  {
+   "id": "written_medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The center must maintain a written policy regarding medications.",
+   "section": "407.360",
+   "page": 87,
+   "quote": "The day care center shall maintain a written policy regarding medications."
+  },
+  {
+   "id": "medication_original_container",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Both prescription and non-prescription medication must be accepted only in the original container.",
+   "section": "407.360",
+   "page": 87,
+   "quote": "Both prescription and non-prescription medication shall be accepted only in its original container."
+  },
+  {
+   "id": "prescription_medication_releases",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Prescription medication must be administered as required by a physician with appropriate parent releases on file and regularly updated.",
+   "section": "407.360",
+   "page": 87,
+   "quote": "Prescription medication shall be administered as required by a physician, subject to the receipt of appropriate releases from parents which shall be on file and regularly updated."
+  },
+  {
+   "id": "otc_medication_written_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Over-the-counter medications may be dispensed per manufacturer instructions when provided by the parent with written permission.",
+   "section": "407.360",
+   "page": 87,
+   "quote": "Over-the-counter medications may be dispensed in accordance with manufacturer’s instructions when provided by the parent with written permission."
+  },
+  {
+   "id": "medication_administration_record",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "The center must maintain a record of medication dates, times, dosages, prescription number, and administrator.",
+   "section": "407.360",
+   "page": 87,
+   "quote": "The day care center shall maintain a record of the dates, times administered, dosages, prescription number, if applicable, and the name of the person administering the medication."
+  },
+  {
+   "id": "topical_products_parent_approval",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Topical products such as diaper ointment, sunscreen, or insect repellent must be approved by the parent in writing before use.",
+   "section": "407.360",
+   "page": 88,
+   "quote": "Any topical products, such as diaper ointment, sunscreen or insect repellant, whether supplied by the parent or by the child care center, shall be approved by the parent in writing prior to use on the child."
+  },
+  {
+   "id": "staff_immunization_proof",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Staff in facilities caring for children ages 6 weeks through 6 years must show proof of Tdap and MMR or proof of immunity.",
+   "section": "Policy Guide 2016.03",
+   "page": 135,
+   "quote": "any staff person employed by a child care facility licensed to care for children ages 6 weeks through six years old is required to show proof/documentation of having received the following: One dose of the Tdap"
+  },
+  {
+   "id": "food_handling_training",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Staff who work with unpackaged food or food-contact surfaces must have IDPH-approved food handling training.",
+   "section": "Policy Guide 2016.02",
+   "page": 140,
+   "quote": "Staff who work with unpackaged food, food equipment or utensils, or food-contact surfaces must have food handling training that is approved by IDPH;"
+  },
+  {
+   "id": "staff_vaccination_policy_risk_plan",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "The center's written risk management plan must include a staff vaccination policy consistent with CDC guidelines.",
+   "section": "Policy Guide 2015.05",
+   "page": 143,
+   "quote": "day care centers and homes include a staff vaccination policy, consistent with guidelines from the Centers for Disease Control, in the written risk management plan described in subsection 407.70(k)"
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "release_only_authorized_persons",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must refuse to release a child to any person not authorized by the parent to receive the child.",
+   "section": "407.260",
+   "page": "[IL page 62]",
+   "quote": "The staff shall refuse to release a child to any person, whether related or unrelated to the child, who has not been authorized by the parent or parents to receive the child."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0883,
+ "tokens_in": 161831,
+ "tokens_out": 19647,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

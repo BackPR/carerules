@@ -1,0 +1,500 @@
+{
+ "state": "NM",
+ "rulebook": "8.9.4 NMAC as amended effective Nov. 4, 2025 (ECECD)",
+ "items": [
+  {
+   "id": "center_post_license",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "A center must post its license in an area readily visible to parents, staff, and visitors.",
+   "section": "8.9.4.11 C",
+   "page": 10,
+   "quote": "A child care facility [will] shall post the license on the licensed premises in an area readily visible to parents, staff members, and visitors."
+  },
+  {
+   "id": "center_post_notifiable_diseases",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "A center must display the current list of notifiable diseases and communicable diseases.",
+   "section": "8.9.4.22 A(5)",
+   "page": 16,
+   "quote": "the current list of notifiable diseases and communicable diseases published by the office of epidemiology of the New Mexico department of health."
+  },
+  {
+   "id": "center_incident_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A center must report threatening incidents to appropriate authorities and notify the licensing authority within 24 hours.",
+   "section": "8.9.4.21 C(1)",
+   "page": 16,
+   "quote": "After making a report to the appropriate authorities, the licensee shall notify the licensing authority of the incident giving rise to its report as soon as possible but no later than 24 hours after the incident occurred."
+  },
+  {
+   "id": "center_written_policies_required",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "A center must establish, implement, and adhere to written policies and procedures that are clearly dated and updated when revised.",
+   "section": "8.9.4.22 C",
+   "page": 17,
+   "quote": "All facilities operating under these regulations are required to establish, implement, and adhere to written policies and procedures. These documents must be clearly dated to indicate when they were created and must be updated to reﬂect any revisions."
+  },
+  {
+   "id": "center_policies_accidents_emergencies",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Written policies must state actions to take for accidents or emergencies involving a child, parent, or staff member.",
+   "section": "8.9.4.22 C(1)",
+   "page": 17,
+   "quote": "actions to be taken in case of accidents or emergencies involving a child, parents or staff members;"
+  },
+  {
+   "id": "center_policies_admission_discharge",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must state admission and discharge procedures.",
+   "section": "8.9.4.22 C(2)",
+   "page": 17,
+   "quote": "policies and procedures for admission and discharge of children;"
+  },
+  {
+   "id": "center_policies_expulsion",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Written policies must state expulsion procedures focused on preventing expulsion of children birth to five.",
+   "section": "8.9.4.22 C(3)",
+   "page": 17,
+   "quote": "policies and procedures for expulsion of children. Policies and procedures shall include how the center will maintain a positive environment and will focus on preventing the expulsion of children age birth to five."
+  },
+  {
+   "id": "center_policies_medication",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Written policies must state medication handling procedures.",
+   "section": "8.9.4.22 C(4)",
+   "page": 17,
+   "quote": "policies and procedures for the handling of medications;"
+  },
+  {
+   "id": "center_policies_complaints",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Written policies must state how complaints from parents or others are handled.",
+   "section": "8.9.4.22 C(5)",
+   "page": 17,
+   "quote": "policies and procedures for the handling of complaints received from parents or any other person;"
+  },
+  {
+   "id": "center_policies_ill_children",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Written policies must state how ill children are handled.",
+   "section": "8.9.4.22 C(7)",
+   "page": 17,
+   "quote": "policies and procedures for the handling of children who are ill;"
+  },
+  {
+   "id": "center_policies_disaster_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "A center must have an up-to-date emergency evacuation and disaster preparedness plan approved annually by the licensing authority.",
+   "section": "8.9.4.22 C(8)",
+   "page": 17,
+   "quote": "an up to date emergency evacuation and disaster preparedness plan, which shall include steps for evacuation, relocation, shelter in place, lock-down, communication, reunification with parents, individual plans for children with special needs and children with chronic medical conditions, accommodations of infants and toddlers, and continuity of operations"
+  },
+  {
+   "id": "center_policies_equal_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Written policies must promote equal access and prohibit discrimination based on protected characteristics.",
+   "section": "8.9.4.22 C(9)",
+   "page": 17,
+   "quote": "policies and procedures that promotes the equal access of services for all children and families and prohibits discrimination based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, disability, or age (40 or older)."
+  },
+  {
+   "id": "center_family_handbook_notice",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "After handbook changes, notice must be sent to families and posted in a common area.",
+   "section": "8.9.4.22 D",
+   "page": 17,
+   "quote": "After any changes, notice must be sent out to families, parents, or guardians and posted in a common area."
+  },
+  {
+   "id": "center_post_menus",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "A center must post dated weekly menus for meals and snacks.",
+   "section": "8.9.4.22 A(3)",
+   "page": 17,
+   "quote": "dated weekly menus for meals and snacks;"
+  },
+  {
+   "id": "center_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Suspected child abuse and neglect must be reported immediately to children's protective services and local law enforcement.",
+   "section": "8.9.4.21 C(3)",
+   "page": 17,
+   "quote": "Incident reports involving suspected child abuse and neglect must be reported immediately to children’s protective services and local law enforcement."
+  },
+  {
+   "id": "center_family_handbook_anti_discrimination",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The family handbook must include an anti-discrimination policy promoting equal access.",
+   "section": "8.9.4.22 D(2)(n)",
+   "page": 18,
+   "quote": "anti-discrimination policy that promotes the equal access of services for all children and families and prohibits discrimination based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, disability, or age (40 or older);"
+  },
+  {
+   "id": "center_family_handbook_cell_phone",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The family handbook must include an employee cellular telephone usage policy.",
+   "section": "8.9.4.22 D(2)(o)",
+   "page": 18,
+   "quote": "employee cellular telephone usage policy that directs and defines safe and appropriate use."
+  },
+  {
+   "id": "center_authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A center must keep a list of people authorized to pick up each child and verify identification at pickup.",
+   "section": "8.9.4.22 E(1)(c)",
+   "page": 18,
+   "quote": "a list of people authorized to pick up the child and an authorization form signed by parent or guardian; identification of person authorized by the parent or guardian to pick up the child shall be verified at pick up;"
+  },
+  {
+   "id": "center_immunization_record",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A center must keep a copy of each child's up-to-date immunization record or an approved exemption.",
+   "section": "8.9.4.22 E(1)(e)",
+   "page": 18,
+   "quote": "a copy of the child’s up-to-date immunization record or a public health division approved exemption from the requirement."
+  },
+  {
+   "id": "center_records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A center must keep each child's complete record for 12 months after the child's last day of attendance.",
+   "section": "8.9.4.22 E",
+   "page": 18,
+   "quote": "Records [will] shall be kept at the center for 12 months after the child’s last day of attendance."
+  },
+  {
+   "id": "center_attendance_times",
+   "topic": "late pickup and absences",
+   "kind": "rule",
+   "requirement": "A center must record each child's arrival and departure times and dates, initialed by a parent, guardian, or authorized person.",
+   "section": "8.9.4.22 E(1)(j)",
+   "page": 19,
+   "quote": "a record of the time the child arrived and left the center and dates of attendance initialed by a parent, guardian, or person authorized to pick up the child;"
+  },
+  {
+   "id": "center_personnel_handbook_required",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A center must give each employee a personnel handbook covering all matters relating to employment.",
+   "section": "8.9.4.22 G",
+   "page": 20,
+   "quote": "The center [will] shall give each employee a personnel handbook that covers all matters relating to employment."
+  },
+  {
+   "id": "center_personnel_handbook_updates",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Personnel handbook changes must be approved and submitted to the licensing authority, with notice to families and posting.",
+   "section": "8.9.4.22 G",
+   "page": 20,
+   "quote": "Upon updating the personnel handbook, changes must be approved and submitted to the licensing authority. After any changes, notice must be sent out to families, parents, or guardians and posted in a common area."
+  },
+  {
+   "id": "center_two_staff_present",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A center must have at least two staff members present at all times, with one being an educator.",
+   "section": "8.9.4.23 A(10)",
+   "page": 21,
+   "quote": "A center [will] shall have a minimum of two staff members present at all times, with one being an educator."
+  },
+  {
+   "id": "center_no_lifting",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Children must not be lifted by the arms, hands, wrist, legs, feet, ankles, or clothing.",
+   "section": "8.9.4.24 A(5)",
+   "page": 25,
+   "quote": "Children [will] shall not be lifted by the arms, hands, wrist, legs, feet, ankles, or clothing."
+  },
+  {
+   "id": "center_safe_sleep_face",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Nothing may cover the face or head of a child 12 months or younger when laid down to sleep or while sleeping.",
+   "section": "8.9.4.24 B(6)",
+   "page": 25,
+   "quote": "Educators shall ensure that nothing covers the face or head of a child aged 12 months or younger when the child is laid down to sleep and while the child is sleeping."
+  },
+  {
+   "id": "center_safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children under 12 months must be placed on their backs when sleeping unless a physician authorizes otherwise in writing.",
+   "section": "8.9.4.24 C(4)",
+   "page": 26,
+   "quote": "Children under the age of 12 months shall be placed on their backs when sleeping unless otherwise authorized in writing by a physician."
+  },
+  {
+   "id": "center_no_sleep_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "No child may sleep in a playpen, pack and play, car seat, stroller, swing, bouncer, high chair, or other equipment not intended for sleep.",
+   "section": "8.9.4.24 C(3)",
+   "page": 26,
+   "quote": "No child [will] shall be allowed to sleep in a playpen, pack and play, car seat, stroller, swings, bouncers or high chairs, or other equipment not intended for sleep purposes."
+  },
+  {
+   "id": "center_no_admit_under_six_weeks",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A center must not admit a child under six weeks of age except with written approval of a licensed physician.",
+   "section": "8.9.4.24 C(6)",
+   "page": 26,
+   "quote": "A center [will] shall not admit any child under the age of six weeks except with the written approval of a licensed physician."
+  },
+  {
+   "id": "center_meals_every_three_hours",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A center must provide a meal or snack at least every three hours except when a child is sleeping at night.",
+   "section": "8.9.4.25 B(1)",
+   "page": 30,
+   "quote": "A center [will] shall provide a child a meal or snack at least every three hours except when the child is sleeping at night."
+  },
+  {
+   "id": "center_water_available",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A center must make water freely available to children.",
+   "section": "8.9.4.25 B(3)",
+   "page": 30,
+   "quote": "A center shall make water freely available to children."
+  },
+  {
+   "id": "center_illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A center must send a child home when oral temperature is 101 degrees or armpit temperature is 100.4 degrees with signs of illness or behavior changes.",
+   "section": "8.9.4.27 C(1)",
+   "page": 32,
+   "quote": "the child’s oral temperature is 101 degrees Fahrenheit or greater or armpit temperature is 100.4 degrees Fahrenheit or greater and the child shows signs of illness or behavior changes;"
+  },
+  {
+   "id": "center_medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "A center may give medication only with written parent or guardian permission and written directions from the prescribing physician, or written parent instructions for non-prescription medication.",
+   "section": "8.9.4.26 C(2)",
+   "page": 32,
+   "quote": "Facilities [will] shall give medication only with written permission from a parent or guardian, to be administered according to written directions from the prescribing physician. In the case of non-prescription medication, written instructions must be provided by the parent or guardian."
+  },
+  {
+   "id": "center_medication_locked",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "All medications must be kept in a locked and identified container inaccessible to children, with refrigeration when necessary.",
+   "section": "8.9.4.26 C(1)",
+   "page": 32,
+   "quote": "A center [will] shall keep all medications in a locked and identified container inaccessible to children and [will] shall refrigerate medications when necessary."
+  },
+  {
+   "id": "center_transport_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must be properly secured in an appropriate child passenger restraint device or safety belt during transportation.",
+   "section": "8.9.4.28 B",
+   "page": 49,
+   "quote": "A child shall be transported only if the child is properly secured in a child passenger restraint device or by a safety belt as follows."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "center_policies_unattended_missing",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Written policies must state actions if children are discovered unattended or missing.",
+   "section": "8.9.4.22 C(6)",
+   "page": "[NM page 17]",
+   "quote": "policies and procedures for actions to be taken in case children are discovered unattended or missing from the center;"
+  },
+  {
+   "id": "center_family_handbook_required",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A center must have a family handbook and submit changes to the licensing authority for approval.",
+   "section": "8.9.4.22 D",
+   "page": "[NM page 17]",
+   "quote": "All facilities operating under these regulations must have a family handbook. Upon updating the family handbook, changes must be approved and submitted to the licensing authority."
+  },
+  {
+   "id": "center_family_handbook_general_info",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The family handbook must include mission, philosophy, program information, director contact, meals, daily schedule, family involvement, dress, holidays, and insurance disclosure.",
+   "section": "8.9.4.22 D(1)",
+   "page": "[NM page 17]",
+   "quote": "mission statement; philosophy statement; program information (location, license information, days and hours of operation, services offered); name of director and their contact information; meals, snacks and types of food served"
+  },
+  {
+   "id": "center_family_handbook_policies",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The family handbook must include enrollment, disenrollment, expulsion, fee payment, absence notification, fee credits, field trips, health, emergency, closure, confidentiality, abuse reporting, guidance, anti-discrimination, and cell phone policies.",
+   "section": "8.9.4.22 D(2)",
+   "page": "[NM page 18]",
+   "quote": "enrollment procedures; disenrollment procedures; expulsion procedures; fee payment procedures, including penalties for tardiness; notification of absence; fee credits, if any (e.g. for vacations, absences, etc.); field trip policies; health policies"
+  },
+  {
+   "id": "center_personnel_handbook_contents",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The personnel handbook must include job descriptions, benefits, code of conduct, training, evaluations, absence, grievance, termination, regulations, parent involvement, health, harassment, guidance, anti-discrimination, confidentiality, and retention plan.",
+   "section": "8.9.4.22 G",
+   "page": "[NM page 20]",
+   "quote": "job descriptions of all employees by title; benefits, including vacation days, sick leave, professional development days, health insurance, break times, etc.; code of conduct; training requirements, career lattice, professional development opportunities; procedures and criteria for performance evaluations"
+  },
+  {
+   "id": "center_post_regulations",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "A center must display current child care regulations in a prominent place visible to parents, staff, and visitors.",
+   "section": "8.9.4.22 A(2)",
+   "page": "[NM page 17]",
+   "quote": "the current child care regulations;"
+  },
+  {
+   "id": "center_post_guidance_policy",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "A center must display its guidance policy in a prominent place visible to parents, staff, and visitors.",
+   "section": "8.9.4.22 A(4)",
+   "page": "[NM page 17]",
+   "quote": "the guidance policy;"
+  },
+  {
+   "id": "center_parent_incident_notice",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A center must notify parents or guardians in writing of incidents threatening health or safety and obtain signatures within 24 hours.",
+   "section": "8.9.4.21 C(2)",
+   "page": "[NM page 16]",
+   "quote": "A center [will] shall notify parents or guardians in writing of any incident, including notifiable illnesses, that have threatened the health or safety of children in the center. The licensee shall ensure that it obtains parent or guardian signatures on all incident reports within 24 hours of the incident."
+  },
+  {
+   "id": "center_prohibited_discipline",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "A center must not use physical punishment, withdrawal of food, rest, bathroom, or outdoor activities, abusive language, humiliation, or unsupervised separation.",
+   "section": "8.9.4.24 A(4)",
+   "page": "[NM page 25]",
+   "quote": "A center [will] shall not use the following disciplinary practices: physical punishment of any type, including shaking, biting, hitting, pinching or putting anything on or in a child’s mouth; withdrawal of food, rest, bathroom access, or outdoor activities; abusive or profane language, including yelling; any form of public or private humiliation, including threats of physical punishment; or unsupervised separation."
+  },
+  {
+   "id": "center_ratios_infants",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Infant groups must maintain a 1:6 adult-to-child ratio with a maximum group size of 12.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "Infants 1:6 or fraction of group thereof 12*"
+  },
+  {
+   "id": "center_ratios_toddlers",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Toddler groups must maintain a 1:6 adult-to-child ratio with a maximum group size of 12.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "Toddlers 1:6 or fraction of group thereof 12*"
+  },
+  {
+   "id": "center_ratios_two_years",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Two-year-old groups must maintain a 1:10 adult-to-child ratio with a maximum group size of 20.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "two years 1:10 or fraction of group thereof 20"
+  },
+  {
+   "id": "center_ratios_three_years",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Three-year-old groups must maintain a 1:12 adult-to-child ratio with a maximum group size of 24.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "three years 1:12 or fraction of group thereof 24"
+  },
+  {
+   "id": "center_ratios_four_years",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Four-year-old groups must maintain a 1:12 adult-to-child ratio with a maximum group size of 24.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "four years 1:12 or fraction of group thereof 24"
+  },
+  {
+   "id": "center_ratios_five_years",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Five-year-old groups must maintain a 1:15 adult-to-child ratio with a maximum group size of 30.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "five years 1:15 or fraction of group thereof 30"
+  },
+  {
+   "id": "center_ratios_six_plus",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Groups of children six years and older must maintain a 1:15 adult-to-child ratio with a maximum group size of 30.",
+   "section": "8.9.4.23 C(1)",
+   "page": "[NM page 23]",
+   "quote": "six years and older 1:15 or fraction of group thereof 30"
+  },
+  {
+   "id": "center_field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A center must obtain written parent or guardian authorization before removing a child for off-site activities.",
+   "section": "8.9.4.22 E(1)(h)",
+   "page": "[NM page 19]",
+   "quote": "written authorization from the child’s parent or guardian to remove a child from the premises to participate in off-site activities; authorization must contain activity destination, date and time of activity and expected return time from activity;"
+  },
+  {
+   "id": "center_fire_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A center must conduct at least one fire drill each month and emergency preparedness practice drills at least quarterly.",
+   "section": "8.9.4.29 H(1)-(2)",
+   "page": "[NM page 35]",
+   "quote": "A center [will] shall conduct emergency preparedness practice drills at least quarterly beginning January of each calendar year. A center [will] shall conduct at least one fire drill each month."
+  },
+  {
+   "id": "center_complaints_process",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The licensing authority processes complaints and investigates when a child's health, safety, or welfare could be in danger.",
+   "section": "8.9.4.18 A,C",
+   "page": "[NM page 13]",
+   "quote": "The licensing authority will process any complaint regarding any child care facility licensed or required to be licensed under these regulations. The licensing authority will investigate any complaint in which the health, safety, or welfare of a child could be in danger."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0695,
+ "tokens_in": 134973,
+ "tokens_out": 12941,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

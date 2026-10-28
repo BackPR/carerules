@@ -1,0 +1,1661 @@
+{
+ "state": "CA",
+ "rulebook": "Manual of Policies and Procedures, Community Care Licensing Division: Child Care Center General Licensing Requirements, Title 22, Division 12, Chapter 1 (Subchapter 1 general requirements; Subchapter 2 infant care centers; Subchapter 3 school-age child care centers; Subchapter 4 centers for mildly ill children), current through Manual Letter No. CCL-23-13 (eff. 10/1/23)",
+ "items": [
+  {
+   "id": "plan_of_operation",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Each licensee must have and keep on file a current written plan of operation, including admission policies, staffing, menus, transportation, and rates.",
+   "section": "101173",
+   "page": 60,
+   "quote": "Each licensee shall have and keep on file a current written, definitive plan of operation."
+  },
+  {
+   "id": "rate_setting_policy",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The plan of operation must include a rate-setting policy, including a policy on refunds.",
+   "section": "101173",
+   "page": 60,
+   "quote": "Rate-setting policy including, but not limited to, a policy on refunds."
+  },
+  {
+   "id": "disaster_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Each licensee must have a written disaster and mass casualty plan readily available.",
+   "section": "101174",
+   "page": 61,
+   "quote": "Each licensee shall have a disaster and mass casualty plan of action. The plan shall be in writing and shall be readily available."
+  },
+  {
+   "id": "disaster_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Disaster drills must be conducted at least every six months and documented for at least one year.",
+   "section": "101174",
+   "page": 61,
+   "quote": "Disaster drills shall be conducted at least every six months."
+  },
+  {
+   "id": "reporting_to_department",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Deaths, injuries requiring medical treatment, unusual incidents, suspected abuse, epidemics, poisonings, catastrophes, fires, or explosions must be reported to the Department and parents.",
+   "section": "101212",
+   "page": 104,
+   "quote": "Upon the occurrence during the operation of the child care center of any of the events specified in (d)(1) below, a report shall be made to the Department"
+  },
+  {
+   "id": "reporting_to_parents",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The events reported to the Department must also be reported to the child's authorized representative.",
+   "section": "101212",
+   "page": 106,
+   "quote": "The items specified in (d)(1)(A) through (H) above shall also be reported to the child's authorized representative."
+  },
+  {
+   "id": "teacher_child_ratio_preschool",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "There must be one teacher visually observing and supervising no more than 12 children, with limited aide exceptions.",
+   "section": "101216.3",
+   "page": 123,
+   "quote": "There shall be a ratio of one teacher visually observing and supervising no more than 12 children in attendance"
+  },
+  {
+   "id": "teacher_aide_ratio_preschool",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A teacher and aide may supervise up to 15 children, or 18 preschool children when the aide meets specified qualifications.",
+   "section": "101216.3",
+   "page": 123,
+   "quote": "The licensee may use teacher aides in a teacher-child ratio of one teacher and one aide for every 15 children in attendance."
+  },
+  {
+   "id": "admission_policies_written",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have written admission policies available to the public that match the license limitations.",
+   "section": "101218",
+   "page": 129,
+   "quote": "Every child care center shall have all admission policies in writing and available to the public."
+  },
+  {
+   "id": "admission_criteria",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written admission criteria must designate which children's needs the center can meet.",
+   "section": "101218",
+   "page": 129,
+   "quote": "Written admission criteria designating those children whose needs can be met by the center's program and services."
+  },
+  {
+   "id": "admission_ages",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Admission policies must state the ages of children accepted.",
+   "section": "101218",
+   "page": 129,
+   "quote": "The ages of children who will be accepted."
+  },
+  {
+   "id": "admission_interview",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Admission procedures must include personal interviews with the parent or authorized representative.",
+   "section": "101218.1",
+   "page": 130,
+   "quote": "Conduct one or more personal interviews with the child's parent or authorized representative"
+  },
+  {
+   "id": "admission_info_to_parents",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Parents must receive information about policies, activities, services, regulations, hours, fees, illness procedures, and inspections.",
+   "section": "101218.1",
+   "page": 130,
+   "quote": "Provides the child's parent or authorized representative with information about the child care center"
+  },
+  {
+   "id": "parent_rights_at_acceptance",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "At acceptance, the licensee must inform parents of their rights, including inspection, complaint, and file review rights.",
+   "section": "101218.1",
+   "page": 130,
+   "quote": "At the time of acceptance of each child in care, the licensee shall inform each child's parent or authorized representative of his/her rights"
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents have the right to enter and inspect the center without advance notice during normal operating hours.",
+   "section": "101218.1",
+   "page": 130,
+   "quote": "To enter and inspect the child care center in accordance with Health and Safety Code Section 1596.857."
+  },
+  {
+   "id": "complaint_rights",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of their right to file a complaint with the local licensing office.",
+   "section": "101218.1",
+   "page": 130,
+   "quote": "To file a complaint against the licensee with the local licensing office in accordance with Health and Safety Code Section 1596.853."
+  },
+  {
+   "id": "parent_rights_poster",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The PUB 393 parents' rights poster must be posted in a prominent, publicly accessible area.",
+   "section": "101218.1",
+   "page": 131,
+   "quote": "The licensee shall post the PUB 393 (8/02), Child Care Center Notification of Parents' Rights Poster in a prominent, publicly accessible area"
+  },
+  {
+   "id": "caregiver_background_form",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The licensee must provide parents the LIC 995E Caregiver Background Check Process form.",
+   "section": "101218.1",
+   "page": 131,
+   "quote": "The licensee shall provide to the parent or authorized representative the LIC 995E (8/02), Caregiver Background Check Process form."
+  },
+  {
+   "id": "licensing_office_contact",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Parents must be able to receive the name, address, and telephone number of the local licensing office upon request.",
+   "section": "101218.1",
+   "page": 131,
+   "quote": "To receive from the licensee upon request the name, address and telephone number of the local licensing office"
+  },
+  {
+   "id": "criminal_exemption_disclosure",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of any adult granted a criminal record exemption and their association to the center.",
+   "section": "101218.1",
+   "page": 131,
+   "quote": "To be informed by the licensee, upon request, of the name and type of association to the child care center for any adult who has been granted a criminal record exemption"
+  },
+  {
+   "id": "notification_parents_rights",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must receive the LIC 995 Notification of Parents' Rights and LIC 995E, with signed acknowledgement kept in the child's file.",
+   "section": "101218.1",
+   "page": 132,
+   "quote": "the licensee shall give each parent or authorized representative a copy of the Notification of Parents' Rights (LIC 995 [8/02]) and the LIC 995E"
+  },
+  {
+   "id": "admission_agreement",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "A current individual written admission agreement must be completed and maintained for each child.",
+   "section": "101219",
+   "page": 133,
+   "quote": "The licensee and the child's authorized representative shall jointly complete a current individual written admission agreement for the child."
+  },
+  {
+   "id": "admission_agreement_contents",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Admission agreements must specify basic services, optional services, payment terms, modification conditions, refunds, Department rights, and termination conditions.",
+   "section": "101219",
+   "page": 133,
+   "quote": "Admission agreements shall specify the following: (1) Basic services. (2) Available optional services. (3) Payment provisions"
+  },
+  {
+   "id": "admission_agreement_signature",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The admission agreement must be signed and dated no later than seven calendar days after admission.",
+   "section": "101219",
+   "page": 134,
+   "quote": "The licensee, or his/her designee, and the child's authorized representative shall sign and date the child's admission agreement no later than seven calendar days following admission."
+  },
+  {
+   "id": "medical_assessment",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "A written medical assessment must be obtained prior to or within 30 days of enrollment.",
+   "section": "101220",
+   "page": 134,
+   "quote": "Prior to, or within 30 calendar days following the enrollment of a child, the licensee shall obtain a written medical assessment of the child."
+  },
+  {
+   "id": "withdrawal_termination",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Admission agreements must state the conditions under which the agreement may be terminated.",
+   "section": "101219",
+   "page": 134,
+   "quote": "Conditions under which the agreement may be terminated."
+  },
+  {
+   "id": "admission_agreement_termination_death",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "An admission agreement is automatically terminated by the death of the child, with no liability after that date.",
+   "section": "101219",
+   "page": 134,
+   "quote": "The admission agreement shall be automatically terminated by the death of the child."
+  },
+  {
+   "id": "immunizations",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Children must be immunized against required diseases before admission, unless exempted.",
+   "section": "101220.1",
+   "page": 136,
+   "quote": "Prior to admission to a child care center, children shall be immunized against diseases as required by the California Code of Regulations, Title 17"
+  },
+  {
+   "id": "immunization_documentation",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "The licensee must document each child's immunizations and maintain the documentation while enrolled.",
+   "section": "101220.1",
+   "page": 145,
+   "quote": "The licensee shall document each child's immunizations and shall maintain such documentation in the center for as long as the child is enrolled."
+  },
+  {
+   "id": "school_age_immunization_exemption",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Immunizations are not required to be documented for children also enrolled in a public or private elementary school.",
+   "section": "101520.1",
+   "page": 145,
+   "quote": "The licensee is not required to document immunizations of children also enrolled in a public or private elementary school."
+  },
+  {
+   "id": "child_records_confidential",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "All information and records obtained from or regarding children must be kept confidential.",
+   "section": "101221",
+   "page": 146,
+   "quote": "All information and records obtained from or regarding children shall be confidential."
+  },
+  {
+   "id": "field_trip_authorization",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "A signed and dated authorization from the authorized representative is required for each activity away from the center.",
+   "section": "101221",
+   "page": 146,
+   "quote": "Signed and dated authorization from the child's authorized representative for each activity away from the center."
+  },
+  {
+   "id": "parent_record_access",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "A child's records must be open to inspection by the child's authorized representative.",
+   "section": "101221",
+   "page": 147,
+   "quote": "A child's records shall also be open to inspection by the child's authorized representative."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children must be free from corporal or unusual punishment, pain, humiliation, intimidation, ridicule, coercion, threat, mental abuse, and punitive actions.",
+   "section": "101223",
+   "page": 149,
+   "quote": "To be free from corporal or unusual punishment, infliction of pain, humiliation, intimidation, ridicule, coercion, threat, mental abuse"
+  },
+  {
+   "id": "no_locking_children",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children must not be locked in any room, building, or center premises.",
+   "section": "101223",
+   "page": 149,
+   "quote": "Not to be locked in any room, building or center premises by day or night."
+  },
+  {
+   "id": "personal_rights_inform",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must inform each child's authorized representative of the child's personal rights.",
+   "section": "101223",
+   "page": 150,
+   "quote": "The center shall inform each child's authorized representative of the rights specified in (a) (1) through (8) above."
+  },
+  {
+   "id": "personal_rights_form",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must receive the LIC 613A Personal Rights form and sign an acknowledgement of receipt.",
+   "section": "101223",
+   "page": 150,
+   "quote": "The center shall give each authorized representative a copy of the Personal Rights form (LIC 613A [9/96])."
+  },
+  {
+   "id": "personal_rights_posted",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A copy of the LIC 613A Personal Rights form must be posted in a prominent, publicly accessible area.",
+   "section": "101223",
+   "page": 150,
+   "quote": "The center shall post a copy of the LIC 613A (9/96) in a prominent, publicly accessible area in the center."
+  },
+  {
+   "id": "no_restraining_devices",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children must not be placed in any restraining device; only approved postural supports may be used.",
+   "section": "101223",
+   "page": 150,
+   "quote": "Not to be placed in any restraining device. Postural supports may be used as specified in Section 101223.1."
+  },
+  {
+   "id": "no_discipline_violating_rights",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "No discipline or punishment that violates a child's personal rights is permitted, even with parent consent.",
+   "section": "101223.2",
+   "page": 151,
+   "quote": "Any form of discipline or punishment that violates a child's personal rights as specified in Section 101223 shall not be permitted"
+  },
+  {
+   "id": "transportation_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "All vehicle occupants must be secured in an appropriate restraint system, and children must not be left in parked vehicles.",
+   "section": "101225",
+   "page": 152,
+   "quote": "All vehicle occupants shall be secured in an appropriate restraint system."
+  },
+  {
+   "id": "transportation_signs",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Signs at the entrance must provide the local health department phone number and child passenger restraint information.",
+   "section": "101225",
+   "page": 152,
+   "quote": "The licensee shall post signs at the entrance to the child care center that provide the telephone number of the local health department"
+  },
+  {
+   "id": "injury_notification",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Parents must be immediately notified if a child becomes ill or sustains an injury more serious than a minor cut or scratch.",
+   "section": "101226",
+   "page": 156,
+   "quote": "The licensee shall immediately notify the child's authorized representative if the child becomes ill or sustains an injury more serious than a minor cut or scratch."
+  },
+  {
+   "id": "injury_documentation",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Less serious injuries must be documented in the child's record and parents notified when the child is picked up.",
+   "section": "101226",
+   "page": 156,
+   "quote": "the licensee shall document the injury in the child's record and notify the child's authorized representative of the nature of the injury when the child is picked up"
+  },
+  {
+   "id": "emergency_medical_treatment",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The licensee must obtain emergency medical treatment without specific parent instructions when the parent cannot be reached or delay would be harmful.",
+   "section": "101226",
+   "page": 156,
+   "quote": "The licensee shall obtain emergency medical treatment without specific instructions from the child's authorized representative if the authorized representative cannot be reached immediately"
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Prescription and nonprescription medications require written approval and instructions from the authorized representative.",
+   "section": "101226",
+   "page": 157,
+   "quote": "For each prescription medication, the licensee shall obtain, in writing, approval and instructions from the child's authorized representative"
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications must be centrally stored in a safe place inaccessible to children, with unaltered labels.",
+   "section": "101226",
+   "page": 157,
+   "quote": "All prescription and nonprescription medications shall be centrally stored in accordance with the requirements specified below"
+  },
+  {
+   "id": "daily_illness_inspection",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children with obvious symptoms of illness, including fever or vomiting, must not be accepted.",
+   "section": "101226.1",
+   "page": 158,
+   "quote": "The licensee shall be responsible for ensuring that children with obvious symptoms of illness including, but not limited to, fever or vomiting, are not accepted."
+  },
+  {
+   "id": "medication_administration_record",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "The center must have a written plan to record medication administration and inform parents daily when medications are given.",
+   "section": "101226",
+   "page": 158,
+   "quote": "The licensee shall develop and implement a written plan to record the administration of prescription and nonprescription medications"
+  },
+  {
+   "id": "menus_posted",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Menus must be posted at least one week in advance and copies kept on file for at least 30 days.",
+   "section": "101227",
+   "page": 167,
+   "quote": "Menus shall be in writing and shall be posted at least one week in advance in an area accessible for review"
+  },
+  {
+   "id": "food_allergy",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A child must not be served any food to which the child's record indicates an allergy.",
+   "section": "101227",
+   "page": 167,
+   "quote": "A child shall not be served any food to which the child's record indicates he/she has an allergy."
+  },
+  {
+   "id": "modified_diets",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Modified diets prescribed by a physician as a medical necessity must be provided.",
+   "section": "101227",
+   "page": 167,
+   "quote": "Modified diets prescribed by a child's physician as a medical necessity shall be provided."
+  },
+  {
+   "id": "sign_in_out",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The center must have a written sign-in and sign-out procedure requiring full legal signatures and times.",
+   "section": "101229.1",
+   "page": 170,
+   "quote": "the licensee shall develop, maintain and implement a written procedure to sign the child in/out of the child care center"
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The person who brings the child to and removes the child from the center must sign the child in and out.",
+   "section": "101229.1",
+   "page": 170,
+   "quote": "The person who brings the child to, and removes the child from, the center shall sign the child in/out."
+  },
+  {
+   "id": "nap_ratio",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "During nap periods, one teacher may supervise 24 napping children if remaining required teachers are immediately available.",
+   "section": "101230",
+   "page": 172,
+   "quote": "A teacher-child ratio of one teacher supervising 24 napping children is permitted provided that the remaining teachers necessary"
+  },
+  {
+   "id": "smoking_prohibition",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Smoking is prohibited on the premises of the child care center.",
+   "section": "101231",
+   "page": 172,
+   "quote": "Smoking is prohibited on the premises of a child care center"
+  },
+  {
+   "id": "pool_inaccessibility",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Pools and similar bodies of water must be made inaccessible through a pool cover or surrounding fence meeting specified requirements.",
+   "section": "101238",
+   "page": 174,
+   "quote": "All licensees shall ensure the inaccessibility of pools, including swimming pools (in-ground and above-ground), fixed-in-place wading pools, hot tubs, spas, fish ponds"
+  },
+  {
+   "id": "outdoor_space",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "There must be at least 75 square feet of outdoor activity space per child based on total licensed capacity.",
+   "section": "101238.2",
+   "page": 175,
+   "quote": "There shall be at least 75 square feet per child of outdoor activity space based on the total licensed capacity."
+  },
+  {
+   "id": "indoor_space",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "There must be at least 35 square feet of indoor activity space per child based on total licensed capacity.",
+   "section": "101238.3",
+   "page": 177,
+   "quote": "There shall be at least 35 square feet of indoor activity space per child based on the total licensed capacity."
+  },
+  {
+   "id": "toilet_ratio",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "There must be one toilet and one handwashing fixture for every 15 children or fraction thereof.",
+   "section": "101239",
+   "page": 179,
+   "quote": "Based on the total licensed capacity, one toilet and one handwashing fixture shall be maintained for every 15 children or fraction thereof."
+  },
+  {
+   "id": "hot_water_temperature",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Hot water delivered to plumbing fixtures used by children must be between 105 and 120 degrees Fahrenheit.",
+   "section": "101239",
+   "page": 179,
+   "quote": "Hot water temperature controls shall be maintained to automatically regulate temperature of hot water delivered to plumbing fixtures used by children"
+  },
+  {
+   "id": "no_baby_walkers",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Baby walkers must not be kept or used on the premises of a child care center.",
+   "section": "101239",
+   "page": 181,
+   "quote": "A baby walker shall not be allowed on the premises of a child care center"
+  },
+  {
+   "id": "drinking_water",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Potable drinking water must be readily available both indoors and in the outdoor activity area.",
+   "section": "101239.2",
+   "page": 182,
+   "quote": "Drinking water from a noncontaminating fixture or container shall be readily available both indoors and in the outdoor activity area."
+  },
+  {
+   "id": "napping_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Napping equipment must be arranged so each child has access to a walkway without walking over other children's cots or mats.",
+   "section": "101239.1",
+   "page": 182,
+   "quote": "Napping equipment shall be arranged so that each child has access to a walkway without having to walk on or over the cots or mats of other children."
+  },
+  {
+   "id": "infant_staff_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "There must be one teacher for every four infants in attendance, with limited aide substitution.",
+   "section": "101416.5",
+   "page": 192,
+   "quote": "There shall be a ratio of one teacher for every four infants in attendance."
+  },
+  {
+   "id": "infant_water_ratio",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Infant water activities require one adult to two infants near pools or natural bodies of water.",
+   "section": "101416.8",
+   "page": 193,
+   "quote": "A ratio of one adult to two infants shall be maintained during activities in or near any body of water"
+  },
+  {
+   "id": "infant_needs_services_plan",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "An infant needs and services plan must be completed before the infant's first day, with parent participation and signature.",
+   "section": "101419.2",
+   "page": 195,
+   "quote": "Prior to the infant's first day at the center, the infant care center director or assistant director shall complete a needs and services plan for the infant."
+  },
+  {
+   "id": "infant_no_crib_confinement",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Infants must not be confined to cribs, high chairs, playpens, or similar equipment as discipline or punishment.",
+   "section": "101423.1",
+   "page": 196,
+   "quote": "Confinement to cribs, high chairs, playpens or other similar furniture or equipment shall not be permitted as a form of discipline"
+  },
+  {
+   "id": "infant_transportation_car_seat",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Infants transported in motor vehicles must be secured in an infant car seat according to manufacturer's instructions.",
+   "section": "101425",
+   "page": 196,
+   "quote": "When transporting infants in any motor vehicle, the licensee shall secure each infant in a child passenger restraint system, i.e., a car seat designed for an infant."
+  },
+  {
+   "id": "infant_transportation_first_aid",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Motor vehicles used to transport infants must contain a first-aid kit with at least the supplies specified in Section 101226(d).",
+   "section": "101425",
+   "page": 196,
+   "quote": "Motor vehicles used to transport infants shall contain a first-aid kit containing at least the supplies specified in Section 101226(d)."
+  },
+  {
+   "id": "infant_transportation_ratio",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff-infant ratios must be maintained while transporting infants, whether the vehicle is moving or parked.",
+   "section": "101425",
+   "page": 198,
+   "quote": "The staff-infant ratio shall be maintained while transporting infants in motor vehicles."
+  },
+  {
+   "id": "infant_no_unattended",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Infants in motor vehicles must have constant adult supervision and must not be left unattended under any circumstances.",
+   "section": "101425",
+   "page": 198,
+   "quote": "Infants in motor vehicles shall have constant adult supervision and shall not be left unattended under any circumstances."
+  },
+  {
+   "id": "infant_feeding_plan",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Each infant must have an individual feeding plan completed and available before the first day.",
+   "section": "101427",
+   "page": 199,
+   "quote": "There shall be an individual feeding plan for each infant."
+  },
+  {
+   "id": "infant_bottle_propping",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Bottles must not be propped for infants, and infants must not carry bottles while ambulatory.",
+   "section": "101427",
+   "page": 201,
+   "quote": "At no time shall a bottle be propped for an infant. An infant shall not be allowed to carry a bottle while ambulatory."
+  },
+  {
+   "id": "infant_feeding_honey",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infant care centers must not serve honey or corn syrup to any infant.",
+   "section": "101427",
+   "page": 202,
+   "quote": "The infant care center shall not serve honey or corn syrup to any infant."
+  },
+  {
+   "id": "infant_toilet_training_plan",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Infants being toilet trained must have a written toilet-training plan developed with the parent.",
+   "section": "101428",
+   "page": 203,
+   "quote": "There shall be a written toilet-training plan for infants being toilet trained."
+  },
+  {
+   "id": "infant_diapering",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infants must be diapered on a changing table or approved floor pad, and changing surfaces must be disinfected after each use.",
+   "section": "101428",
+   "page": 203,
+   "quote": "Each infant shall be diapered on a changing table."
+  },
+  {
+   "id": "infant_sleep_observation",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Sleeping infants must be directly observed by sight and sound, with physical checks every 15 minutes documented.",
+   "section": "101429",
+   "page": 205,
+   "quote": "Sleeping infants shall be directly observed by sight and sound at all times."
+  },
+  {
+   "id": "infant_constant_supervision",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Each infant must be constantly supervised and under direct visual observation by a staff person at all times.",
+   "section": "101429",
+   "page": 205,
+   "quote": "Each infant shall be constantly supervised and under direct visual observation and supervision by a staff person at all times."
+  },
+  {
+   "id": "infant_back_sleeping",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants up to 12 months must be placed on their backs for sleeping unless a written medical exemption applies.",
+   "section": "101430",
+   "page": 206,
+   "quote": "Staff shall place infants up to 12 months of age on their backs for sleeping."
+  },
+  {
+   "id": "no_swaddling",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "An infant must not be swaddled while in care.",
+   "section": "101430",
+   "page": 207,
+   "quote": "An infant shall not be swaddled while in care."
+  },
+  {
+   "id": "no_covered_head_sleeping",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "An infant's head must not be covered while sleeping.",
+   "section": "101430",
+   "page": 207,
+   "quote": "An infant's head shall not be covered while sleeping."
+  },
+  {
+   "id": "infant_handwashing",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Caregivers must wash hands with soap and water before each feeding and after each diaper change.",
+   "section": "101438.1",
+   "page": 208,
+   "quote": "Each caregiver shall wash his/her hands with soap and water before each feeding and after each diaper change."
+  },
+  {
+   "id": "infant_sanitation",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infant care areas must follow specified washing, cleaning, and sanitizing requirements, including daily floor cleaning and disinfecting.",
+   "section": "101438.1",
+   "page": 208,
+   "quote": "Washing, cleaning and sanitizing requirements for areas used by staff with infants, or for areas that infants have access to, are as follows"
+  },
+  {
+   "id": "infant_crib_standards",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants unable to climb out of a crib must be provided a crib meeting consumer product safety standards, with a firm fitted mattress.",
+   "section": "101439.1",
+   "page": 214,
+   "quote": "A crib or portable crib meeting United States Consumer Product Safety Commission safety standards shall be provided for each infant who is unable to climb out of a crib."
+  },
+  {
+   "id": "infant_no_bumper_pads",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Bumper pads must not be used in infant cribs.",
+   "section": "101439.1",
+   "page": 215,
+   "quote": "Bumper pads shall not be used."
+  },
+  {
+   "id": "infant_no_loose_articles",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infant cribs must be free from all loose articles and objects, including blankets and pillows.",
+   "section": "101439.1",
+   "page": 215,
+   "quote": "Cribs shall be free from all loose articles and objects, including blankets and pillows."
+  },
+  {
+   "id": "school_age_staff_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "School-age programs must have one teacher and one aide for every 28 children, with one teacher supervising no more than 14.",
+   "section": "101516.5",
+   "page": 225,
+   "quote": "There shall be a staffing ratio of one teacher and one aide present to every 28 children in attendance."
+  },
+  {
+   "id": "school_age_medical_assessment_exemption",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Medical assessments are not required for school-age children enrolled in a public or private school.",
+   "section": "101520",
+   "page": 225,
+   "quote": "The licensee is not required to document medical assessments on school-age children who are enrolled in a public or private school."
+  },
+  {
+   "id": "school_age_self_release",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "School-age children may leave on their own only with a written agreement signed by the director and authorized representative.",
+   "section": "101529.1",
+   "page": 227,
+   "quote": "Center staff shall sign out a school-age child whose authorized representative has agreed in writing to allow the child to leave the center on his/her own."
+  },
+  {
+   "id": "school_age_snacks",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Before- and after-school programs must make available and offer nutritious snacks to children.",
+   "section": "101527",
+   "page": 227,
+   "quote": "Center programs providing before- and/or after-school care shall make available and offer nutritious snacks to children."
+  },
+  {
+   "id": "school_age_outdoor_exemption",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "School-age programs meeting Health and Safety Code Section 1596.806 requirements are exempt from outdoor activity space square-footage requirements.",
+   "section": "101538.2",
+   "page": 228,
+   "quote": "Each school-age child care program and each single license child care center operating with only school-age children that meets the requirements of Health and Safety Code Section 1596.806 is exempt from square-footage requirements"
+  },
+  {
+   "id": "school_age_indoor_exemption",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "School-age programs meeting Health and Safety Code Section 1596.806 requirements are exempt from indoor activity space square-footage requirements.",
+   "section": "101538.3",
+   "page": 229,
+   "quote": "School-age child care programs that meet the requirements of Health and Safety Code Section 1596.806 are exempt from square-footage requirements for indoor activity space."
+  },
+  {
+   "id": "school_age_toilet_exemption",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "School-age programs meeting Health and Safety Code Section 1596.806 requirements are exempt from toilet requirements.",
+   "section": "101539",
+   "page": 230,
+   "quote": "School-age child care programs that meet the requirements of Health and Safety Code Section 1596.806 are exempt from toilet requirements."
+  },
+  {
+   "id": "mildly_ill_director_qualifications",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "Mildly ill center directors must meet specified education, health and safety training, or licensed health professional qualifications.",
+   "section": "101615",
+   "page": 241,
+   "quote": "The director of a Level I or Level II child care center for mildly ill children shall, prior to employment, meet the requirements of Section 101615(b)(1) OR (2)."
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_licens",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include a photocopy of the license.",
+   "section": "101626",
+   "page": 243,
+   "quote": "A photocopy of the license; and"
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_contac",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include documentation of written or verbal contact with the appropriate licensing board.",
+   "section": "101626",
+   "page": 243,
+   "quote": "Documentation of written or verbal contact with the appropriate State of California licensing board to verify licensure status."
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_both",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include both a photocopy of the license and documentation of contact with the licensing board.",
+   "section": "101626",
+   "page": 243,
+   "quote": "A photocopy of the license; and (2) Documentation of written or verbal contact with the appropriate State of California licensing board"
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_all",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include a photocopy of the license and documentation of contact with the licensing board.",
+   "section": "101626",
+   "page": 243,
+   "quote": "A photocopy of the license; and (2) Documentation of written or verbal contact with the appropriate State of California licensing board to verify licensure status."
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_comple",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include a photocopy of the license and documentation of contact with the licensing board.",
+   "section": "101626",
+   "page": 243,
+   "quote": "A photocopy of the license; and (2) Documentation of written or verbal contact with the appropriate State of California licensing board to verify licensure status."
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification_final",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultant qualification evidence must include a photocopy of the license and documentation of contact with the licensing board.",
+   "section": "101626",
+   "page": 243,
+   "quote": "A photocopy of the license; and (2) Documentation of written or verbal contact with the appropriate State of California licensing board to verify licensure status."
+  },
+  {
+   "id": "mildly_ill_teacher_qualifications",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "Mildly ill center teachers must complete specified units in childhood illness and early childhood education and health and safety training.",
+   "section": "101616.2",
+   "page": 244,
+   "quote": "prior to employment a teacher shall complete three postsecondary semester or equivalent quarter units in the identification, transmission, control and care of common childhood illnesses"
+  },
+  {
+   "id": "mildly_ill_staff_training",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "Mildly ill center staff and volunteers providing care must complete at least 20 hours of specified training within two weeks of starting.",
+   "section": "101616.3",
+   "page": 245,
+   "quote": "All staff and volunteers whose duties include the provision of care to, and the supervision and protection of, mildly ill children shall complete training"
+  },
+  {
+   "id": "mildly_ill_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Mildly ill programs must maintain specified ratios: one teacher to three infants, six preschool children, or eight school-age children.",
+   "section": "101616.5",
+   "page": 246,
+   "quote": "There shall be a ratio of one teacher to every three infants in attendance."
+  },
+  {
+   "id": "mildly_ill_admission_policies",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Mildly ill center admission policies must specify the conditions, symptoms, and illnesses for which children will and will not be accepted.",
+   "section": "101619",
+   "page": 248,
+   "quote": "The written admission policies for child care centers for mildly ill children shall specify the conditions/symptoms/illnesses for which children will and will not be accepted"
+  },
+  {
+   "id": "mildly_ill_no_water_activities",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Water activities in pools, wading pools, or natural bodies of water are not permitted in mildly ill centers.",
+   "section": "101616.8",
+   "page": 248,
+   "quote": "Water activities in or near any of the following bodies of water shall not be permitted in a child care center for mildly ill children"
+  },
+  {
+   "id": "mildly_ill_medical_assessment",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A written medical assessment for a mildly ill child must be obtained if a qualified staff person determines it is necessary based on symptoms or illness.",
+   "section": "101620",
+   "page": 248,
+   "quote": "A written medical assessment for the child shall be obtained from the child's authorized representative if a qualified staff person determines that one is necessary"
+  },
+  {
+   "id": "mildly_ill_records",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "Mildly ill child records must include medical assessments, notification records, medications, plan of care, daily inspection forms, health clearances, observations, and allergies.",
+   "section": "101621",
+   "page": 249,
+   "quote": "Each child's record shall include: (1) A copy of the written medical assessment, when one has been required"
+  },
+  {
+   "id": "mildly_ill_records_medical_assessment",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include a copy of the written medical assessment when required, or a dated notation if not required.",
+   "section": "101621",
+   "page": 249,
+   "quote": "A copy of the written medical assessment, when one has been required, as specified in Section 101620."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_contents",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must verify the child is not contagious or a health risk and identify special requirements and medications.",
+   "section": "101620",
+   "page": 249,
+   "quote": "The medical assessment shall include: (A) Verification that the child's symptoms or illness does not pose a risk to the child or others at the center."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_tb",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must verify a recent negative tuberculosis test unless the child is concurrently enrolled in a licensed center or school.",
+   "section": "101620",
+   "page": 249,
+   "quote": "Verification of the child's recent negative test for tuberculosis unless the child is concurrently enrolled in a licensed child care center or a public or private school."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_ambulatory",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must identify ambulatory status and restrictions on activities.",
+   "section": "101620",
+   "page": 249,
+   "quote": "Ambulatory status and restrictions on activities."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_medications",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must identify prescription and nonprescription medications the child must take while at the center.",
+   "section": "101620",
+   "page": 249,
+   "quote": "Identification of prescription and nonprescription medications that the child must take while at the center."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_special",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must identify the child's special requirements.",
+   "section": "101620",
+   "page": 249,
+   "quote": "Identification of the child's special requirements."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_file",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill medical assessments must be filed in the child's record.",
+   "section": "101620",
+   "page": 249,
+   "quote": "Medical assessments shall be filed in the child's record."
+  },
+  {
+   "id": "mildly_ill_medical_assessment_notation",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "When a medical assessment is not required for a mildly ill child, a dated notation must be made in the child's record.",
+   "section": "101620",
+   "page": 249,
+   "quote": "When a medical assessment is not required, the licensee shall make a dated notation to that effect in the child's record."
+  },
+  {
+   "id": "mildly_ill_worsening",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "If a mildly ill child's illness worsens beyond the licensed level of care, the parent must be notified and must remove the child.",
+   "section": "101626",
+   "page": 250,
+   "quote": "the licensee shall immediately notify the child's authorized representative and require the child's authorized representative to remove the child from the center."
+  },
+  {
+   "id": "mildly_ill_plan_of_care",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Each mildly ill child must have a written plan of care developed with the parent and updated daily.",
+   "section": "101626",
+   "page": 250,
+   "quote": "A written plan of care shall be developed for each child and shall be updated daily."
+  },
+  {
+   "id": "mildly_ill_records_allergies",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include information regarding any allergies the child may have.",
+   "section": "101621",
+   "page": 250,
+   "quote": "Information regarding any allergies the child may have."
+  },
+  {
+   "id": "mildly_ill_records_health_clearances",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include health clearances when required.",
+   "section": "101621",
+   "page": 250,
+   "quote": "Health clearances, when required, as specified in Section 101626.1(f)."
+  },
+  {
+   "id": "mildly_ill_records_daily_inspection",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include the daily inspection form completed by the qualified staff person.",
+   "section": "101621",
+   "page": 250,
+   "quote": "A copy of the daily inspection form completed by the qualified staff person performing the daily inspection for illness"
+  },
+  {
+   "id": "mildly_ill_records_medications",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include information regarding prescription and nonprescription medications the child must take.",
+   "section": "101621",
+   "page": 250,
+   "quote": "A copy of information regarding prescription and nonprescription medications that the child must take while at the center"
+  },
+  {
+   "id": "mildly_ill_records_notification",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include information regarding instances of authorized representative notification.",
+   "section": "101621",
+   "page": 250,
+   "quote": "A copy of information regarding instances of authorized representative notification as specified in Sections 101626(b) and (b)(1)."
+  },
+  {
+   "id": "mildly_ill_records_plan_of_care",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include a copy of the child's plan of care.",
+   "section": "101621",
+   "page": 250,
+   "quote": "A copy of the child's plan of care as specified in Section 101626(c)."
+  },
+  {
+   "id": "mildly_ill_records_observations_2",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill child records must include observations of the child.",
+   "section": "101621",
+   "page": 250,
+   "quote": "Observations of the child as specified in Section 101626.3(b)."
+  },
+  {
+   "id": "mildly_ill_health_consultation",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Mildly ill centers must have continuing health consultation from a licensed physician or registered nurse with pediatric experience.",
+   "section": "101626",
+   "page": 251,
+   "quote": "Every center shall have provisions for continuing health consultation from a physician or registered nurse with a current and active license"
+  },
+  {
+   "id": "mildly_ill_health_consultant_plans",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Health consultation must include developing written plans and procedures for admissions, operations, inspections, communicable disease surveillance, and individual child care.",
+   "section": "101626",
+   "page": 251,
+   "quote": "Health consultation shall include developing written plans and procedures and, if necessary, forms for the following, all of which shall be maintained at the center"
+  },
+  {
+   "id": "mildly_ill_health_consultant_liaison",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include liaison with local health departments.",
+   "section": "101626",
+   "page": 251,
+   "quote": "Health consultation shall include developing written plans and procedures and, if necessary, forms for the following, all of which shall be maintained at the center:\n(A) Admissions criteria, center operating policies and procedures, daily inspection procedures, procedures for the surveillance of communicable diseases, and plans for the care of individual children.\n(B) Liaison with local health departments."
+  },
+  {
+   "id": "mildly_ill_health_consultant_licensure",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultants must have a current and active license and pediatric experience or training obtained within the last five years.",
+   "section": "101626",
+   "page": 251,
+   "quote": "This health professional shall have pediatric experience/training obtained within the last five years."
+  },
+  {
+   "id": "mildly_ill_health_consultant_staff",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation may be provided by a staff member who is also a health professional as part of staff duties, or by an outside consultant.",
+   "section": "101626",
+   "page": 251,
+   "quote": "Health consultation may be provided by a staff member who is also a health professional as specified in Section 101626(d), as part of his/her staff duties"
+  },
+  {
+   "id": "mildly_ill_health_consultation_frequency",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation for mildly ill centers must occur quarterly or more often, and not less than semiannually, with written reports.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Health consultation shall occur quarterly or more often, if necessary, and not less than semiannually."
+  },
+  {
+   "id": "mildly_ill_health_consultant_contract",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "If health consultation is provided by an outside consultant, a written contract or letter of agreement must be maintained in the center's files.",
+   "section": "101626",
+   "page": 252,
+   "quote": "If health consultation is provided by an outside consultant, a written contract or letter of agreement between the consultant and the center shall be prepared."
+  },
+  {
+   "id": "mildly_ill_health_consultant_qualifications",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must maintain each health consultant's name, address, telephone number, area of specialization, and evidence of qualifications.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Each center shall maintain in its files each health consultant's name, address, telephone number, area of specialization and evidence of qualifications."
+  },
+  {
+   "id": "mildly_ill_health_consultant_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include recordkeeping and reporting of accidents and illnesses involving staff and children.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Recordkeeping and reporting of accidents and illnesses involving staff and children."
+  },
+  {
+   "id": "mildly_ill_health_consultant_emergency",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include obtaining emergency health care, including listing emergency telephone numbers.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Obtaining emergency health care, including provisions for listing emergency telephone numbers."
+  },
+  {
+   "id": "mildly_ill_health_consultant_medications",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include administration, handling, and storage of medications.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Administration, handling and storage of medications."
+  },
+  {
+   "id": "mildly_ill_health_consultant_first_aid",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include emergency first-aid procedures and assurance of trained staff availability.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Emergency first-aid procedures and assurance of the availability of staff trained in such procedures."
+  },
+  {
+   "id": "mildly_ill_health_consultant_isolation",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include establishment of an isolation area and development of related procedures.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Establishment of an isolation area and development of related procedures."
+  },
+  {
+   "id": "mildly_ill_health_consultant_services",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include provision of continuing health-care services to children without access, including referrals.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Provision of continuing health-care services to children in attendance who do not already have access to such services"
+  },
+  {
+   "id": "mildly_ill_health_consultant_training",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Health consultation must include provision of staff training as specified in Section 101616.2.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Provision of staff training as specified in Section 101616.2."
+  },
+  {
+   "id": "mildly_ill_health_consultant_verification",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Evidence of a health consultant's qualifications must include a photocopy of the license and documentation of contact with the licensing board.",
+   "section": "101626",
+   "page": 252,
+   "quote": "Evidence of qualifications shall include, but not be limited to, verification of licensure required in Section 101626(d) as demonstrated by the following"
+  },
+  {
+   "id": "mildly_ill_daily_inspection",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Each mildly ill child must receive a daily inspection for illness by a qualified staff person before acceptance.",
+   "section": "101626.1",
+   "page": 253,
+   "quote": "Upon arrival each day at the center, each child shall have a daily inspection for illness to determine if the child is appropriate for placement"
+  },
+  {
+   "id": "mildly_ill_communicable_disease_manual",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Mildly ill centers must maintain the most current edition of a manual on identification and control of communicable diseases.",
+   "section": "101626",
+   "page": 253,
+   "quote": "The licensee shall maintain the most current edition of a manual on the identification and control of communicable diseases."
+  },
+  {
+   "id": "mildly_ill_qualified_staff_daily_inspection",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A qualified staff person must perform and document the daily inspection for illness for mildly ill children.",
+   "section": "101626.1",
+   "page": 253,
+   "quote": "A qualified staff person shall perform and document the completion of the daily inspection for illness."
+  },
+  {
+   "id": "mildly_ill_temperature_method",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill children's body temperatures must be determined using a thermometer with a disposable plastic probe cover.",
+   "section": "101626.1",
+   "page": 253,
+   "quote": "a child's body temperature shall be determined by using a thermometer with a disposable plastic (Probe) cover."
+  },
+  {
+   "id": "mildly_ill_health_consultant_report",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "After each health consultation, the consultant must prepare a written report of findings and recommendations, maintained in the center's files.",
+   "section": "101626",
+   "page": 253,
+   "quote": "After each consultation, the consultant shall prepare a written report of his/her findings and recommendations. These reports shall be maintained in the center's files."
+  },
+  {
+   "id": "mildly_ill_health_consultant_notation",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "If consultation is not necessary during a quarter, a notation explaining why must be made in the center's files.",
+   "section": "101626",
+   "page": 253,
+   "quote": "If consultation is not necessary during a quarter, a notation explaining why shall be made in the center's files."
+  },
+  {
+   "id": "mildly_ill_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must not accept or retain children with specified conditions, symptoms, or illnesses.",
+   "section": "101626.1",
+   "page": 254,
+   "quote": "the licensee shall not accept or retain for care any child with any of the following conditions/symptoms/illnesses or combination thereof"
+  },
+  {
+   "id": "mildly_ill_ada",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The subchapter must not be interpreted to require exclusion of a child with a chronic condition protected under the ADA unless the child also has an excluding condition.",
+   "section": "101626.1",
+   "page": 254,
+   "quote": "This subchapter shall not be interpreted to require the exclusion of a child with a chronic condition protected under the Americans With Disabilities Act of 1990"
+  },
+  {
+   "id": "mildly_ill_parent_remain",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The authorized representative must remain in the center until the daily inspection for illness is completed and the child is accepted.",
+   "section": "101626.1",
+   "page": 254,
+   "quote": "The licensee shall require the child's authorized representative to remain in the center until the daily inspection for illness is completed and the child is accepted for care."
+  },
+  {
+   "id": "mildly_ill_written_procedure",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Mildly ill centers must develop and implement a written procedure for completing daily inspections for illness, including a documentation form.",
+   "section": "101626.1",
+   "page": 254,
+   "quote": "The licensee shall develop and implement a written procedure for completing daily inspections for illness, which shall include developing a form to document"
+  },
+  {
+   "id": "mildly_ill_health_consultant_procedure",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The health consultant must be consulted on the development of the daily inspection procedure and form for mildly ill centers.",
+   "section": "101626.1",
+   "page": 254,
+   "quote": "As required by Section 101626(d), the health consultant shall be consulted on the development of the procedure and form specified in Section 101626.1(c)."
+  },
+  {
+   "id": "mildly_ill_health_clearance",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A mildly ill center may accept a child with specified conditions if a written health clearance states the child is diagnosed, not contagious, and not a health risk.",
+   "section": "101626.1",
+   "page": 255,
+   "quote": "A Level I or Level II center may accept a child with any of the conditions/symptoms/illnesses as specified in Section 101626.1(e) if the licensee has obtained a written health clearance"
+  },
+  {
+   "id": "mildly_ill_health_clearance_verbal",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Verbal approval from a physician may be accepted if the written health clearance is obtained within 24 hours.",
+   "section": "101626.1",
+   "page": 255,
+   "quote": "A licensee may accept a child for care under Section 101626.1(f) upon the verbal approval of a physician or other health professional"
+  },
+  {
+   "id": "mildly_ill_health_clearance_record",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Written health clearances for mildly ill children must be kept in the child's record.",
+   "section": "101626.1",
+   "page": 255,
+   "quote": "The written health clearance, which shall be kept in the child's record, shall be obtained from a physician or other health professional"
+  },
+  {
+   "id": "mildly_ill_health_clearance_verbal_record",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Receipt of verbal approval for a mildly ill child must be recorded immediately in the child's record with specified details.",
+   "section": "101626.1",
+   "page": 256,
+   "quote": "Receipt of verbal approval as specified in Section 101626.1(f)(2) shall be recorded immediately in the child's record."
+  },
+  {
+   "id": "mildly_ill_diarrhea_shigella",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Level II mildly ill centers may accept children with diarrhea due to confirmed shigella, salmonella, or giardia only under specified isolation and approval conditions.",
+   "section": "101626.1",
+   "page": 256,
+   "quote": "A Level II center may accept a child with diarrhea due to confirmed shigella, salmonella or giardia 24 hours after treatment has been initiated"
+  },
+  {
+   "id": "mildly_ill_no_campylobacter",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must not accept or retain children with diarrhea due to campylobacter or cryptosporidium under any circumstances.",
+   "section": "101626.1",
+   "page": 256,
+   "quote": "The licensee shall not, under any circumstances, accept or retain for care any child with any of the following conditions/symptoms/illnesses: (1) Diarrhea due to campylobacter or cryptosporidium."
+  },
+  {
+   "id": "mildly_ill_no_measles",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must not accept or retain children in contagious stages of measles, rubella, pertussis, diphtheria, or tuberculosis.",
+   "section": "101626.1",
+   "page": 256,
+   "quote": "Contagious stages of measles, rubella, pertussis, diphtheria or tuberculosis."
+  },
+  {
+   "id": "mildly_ill_no_untreated_infestation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must not accept or retain children with untreated infestations such as head lice or scabies.",
+   "section": "101626.1",
+   "page": 256,
+   "quote": "Untreated infestation (such as head lice, scabies)."
+  },
+  {
+   "id": "mildly_ill_chicken_pox_mumps",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Level II mildly ill centers may accept children in contagious stages of chicken pox or mumps only under specified isolation and approval conditions.",
+   "section": "101626.1",
+   "page": 257,
+   "quote": "A Level II center may accept a child in the contagious stages of chicken pox or mumps, if prior approval is obtained from the Department"
+  },
+  {
+   "id": "mildly_ill_isolation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must have an isolation area and isolate children when specified conditions occur.",
+   "section": "101626.2",
+   "page": 258,
+   "quote": "A center shall be equipped with an isolation area to care for any child as specified in Section 101626.2(c)."
+  },
+  {
+   "id": "mildly_ill_isolation_constant_observation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children in the mildly ill isolation area must be under constant observation by a teacher present in the isolation area.",
+   "section": "101626.2",
+   "page": 259,
+   "quote": "Children in the isolation area shall be under the constant observation of a teacher who is present in the isolation area itself."
+  },
+  {
+   "id": "mildly_ill_isolation_duration",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child must remain in the mildly ill isolation area only until the authorized representative can remove the child from the center.",
+   "section": "101626.2",
+   "page": 259,
+   "quote": "A child shall remain in the isolation area only until the child's authorized representative can remove the child from the center"
+  },
+  {
+   "id": "mildly_ill_observation",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Changes in a mildly ill child's behavior or worsening illness must be reported to the parent and recorded the same day.",
+   "section": "101626.3",
+   "page": 260,
+   "quote": "Any changes in the child's behavior or any signs of the child's illness worsening shall be reported to the child's authorized representative and recorded in the child's record on the day they occur."
+  },
+  {
+   "id": "mildly_ill_observation_temperature",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Mildly ill children with elevated temperatures must have temperatures taken at specified intervals based on age.",
+   "section": "101626.3",
+   "page": 260,
+   "quote": "Any child with a body temperature of 100 F (37.8 C) (oral) or 101 F (38.3 C) (rectal or by ear) or 99 F (37.2 C) (axillary), or higher, shall have his/her body temperature taken during the day"
+  },
+  {
+   "id": "mildly_ill_records_observations",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must record daily observations of behavior and symptoms when indicated by the nature of the child's illness.",
+   "section": "101626.3",
+   "page": 260,
+   "quote": "If indicated by the nature of the child's illness at any time when the child is in care, staff shall record daily observations of the child's behavior and symptoms"
+  },
+  {
+   "id": "mildly_ill_records_temperature",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Mildly ill children with elevated temperatures must have temperatures taken at specified intervals based on age.",
+   "section": "101626.3",
+   "page": 260,
+   "quote": "Any child with a body temperature of 100 F (37.8 C) (oral) or 101 F (38.3 C) (rectal or by ear) or 99 F (37.2 C) (axillary), or higher, shall have his/her body temperature taken during the day as follows"
+  },
+  {
+   "id": "mildly_ill_food_service",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Mildly ill children's meals and snacks must be prepared according to each child's admission agreement and plan of care.",
+   "section": "101627",
+   "page": 261,
+   "quote": "For mildly ill children, individual meals and snacks shall be prepared in accordance with the requirements of each child's admission agreement and plan of care."
+  },
+  {
+   "id": "mildly_ill_infant_food_service",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Mildly ill infants' meals and snacks must be prepared according to each infant's admission agreement, feeding plan, and plan of care.",
+   "section": "101627",
+   "page": 261,
+   "quote": "For mildly ill infants, individual meals and snacks shall be prepared in accordance with the requirements of each infant's admission agreement, feeding plan and plan of care."
+  },
+  {
+   "id": "mildly_ill_sign_in_out",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Mildly ill children must be signed in and out by their authorized representative.",
+   "section": "101629.1",
+   "page": 262,
+   "quote": "The licensee shall require that each child be signed in and out by his/her authorized representative."
+  },
+  {
+   "id": "mildly_ill_disposable_diapers",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must use only disposable diapers unless cloth diapers are specified in the child's plan of care.",
+   "section": "101628",
+   "page": 262,
+   "quote": "Only disposable diapers shall be used unless cloth diapers are specified in the infant's or child's plan of care."
+  },
+  {
+   "id": "mildly_ill_activities",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Mildly ill centers must have a written plan for indoor and outdoor activities meeting children's needs.",
+   "section": "101630",
+   "page": 263,
+   "quote": "The licensee shall develop, maintain and implement a written plan to ensure the provision of indoor and outdoor activities designed to meet the needs of mildly ill children."
+  },
+  {
+   "id": "mildly_ill_napping",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Mildly ill children must be given the opportunity to nap or sleep whenever they wish without being disturbed.",
+   "section": "101630",
+   "page": 263,
+   "quote": "Each child, unless it is not appropriate because of the nature of his/her illness, shall be given the opportunity to nap/sleep whenever he/she wishes"
+  },
+  {
+   "id": "mildly_ill_sanitation",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must follow specified handwashing, cleaning, and sanitizing procedures, including daily floor cleaning and disinfecting.",
+   "section": "101638.1",
+   "page": 264,
+   "quote": "Washing, cleaning and sanitizing requirements for areas used by staff and children, or for areas that children have access to, shall include"
+  },
+  {
+   "id": "mildly_ill_indoor_space",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Mildly ill indoor activity space must be physically separate from other components, with additional napping space requirements.",
+   "section": "101638.3",
+   "page": 266,
+   "quote": "indoor activity space for the Level I or Level II component shall be physically separate from indoor activity space for any other child care center component"
+  },
+  {
+   "id": "mildly_ill_outdoor_space",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must provide at least 20 square feet of outdoor activity space per child, physically separate from well children.",
+   "section": "101638.2",
+   "page": 266,
+   "quote": "There shall be at least 20 square feet of outdoor activity space per child based on the total licensed capacity."
+  },
+  {
+   "id": "mildly_ill_napping_space",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Mildly ill napping areas must provide at least 15 square feet per child's bed, cot, mat, or couch, in addition to activity space.",
+   "section": "101638.3",
+   "page": 267,
+   "quote": "In the designated napping area, there shall be at least 15 square feet of indoor space for each child's bed, cot, floor mat or couch"
+  },
+  {
+   "id": "mildly_ill_napping_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Beds, cots, mats, couches, blankets, and pillows must be available and accessible for mildly ill children whenever they are present.",
+   "section": "101639",
+   "page": 267,
+   "quote": "Beds, cots, floor mats or couches, as well as blankets and pillows, shall be available and accessible for use by mildly ill children whenever mildly ill children are present."
+  },
+  {
+   "id": "mildly_ill_infant_pillows",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Mildly ill infants must not have access to pillows.",
+   "section": "101639",
+   "page": 267,
+   "quote": "Mildly ill infants shall not have access to pillows."
+  },
+  {
+   "id": "mildly_ill_toilet_ratio",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A mildly ill center's total licensed capacity must not exceed 10 children for every toilet and handwashing sink.",
+   "section": "101639",
+   "page": 268,
+   "quote": "the total licensed capacity of a center shall not exceed 10 mildly ill children for every toilet and handwashing sink."
+  },
+  {
+   "id": "mildly_ill_drinking_water",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Each mildly ill child must use a cup or bottle labeled with their name, or a single-use disposable cup.",
+   "section": "101639.2",
+   "page": 268,
+   "quote": "Each child shall use a cup or bottle labeled with his/her name, or a single-use disposable cup."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "mildly_ill_records_intake",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Mildly ill centers must record food and fluid intake, bowel movements, and urination frequency as appropriate.",
+   "section": "101626.3",
+   "page": "[CA page 261]",
+   "quote": "(5) Amount of food and fluid intake.\n(6) Color, consistency and number of bowel movements.\n(7) Frequency of urination."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.1429,
+ "tokens_in": 291880,
+ "tokens_out": 21785,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "combined_ages_ratio_youngest",
+      "original": "When children of different ages are combined, such as during the first and last hour of the day, the ratio and group size follow the age of the youngest child in the group.",
+      "planted": "When children of different ages are combined, such as during the first and last hour of the day, the ratio and group size follow the age of the majority of children in the group.",
+      "why": "89 Ill. Adm. Code 407.190(c): whenever children of different ages are combined, the staff/child ratio and maximum group size shall be based on the age of the youngest child in the group, not the age of most children."
+    },
+    {
+      "item_id": "suspected_abuse_report_hotline",
+      "original": "Staff who suspect a child has been abused or neglected must report it immediately to the DCFS Child Abuse/Neglect Hotline at 1-800-252-2873.",
+      "planted": "Staff who suspect a child has been abused or neglected report it to the director, who looks into the concern and decides whether to call the DCFS Child Abuse/Neglect Hotline at 1-800-252-2873.",
+      "why": "89 Ill. Adm. Code 407.70(j): suspected child abuse or neglect shall be reported immediately to the Child Abuse/Neglect Hotline as required by the Abused and Neglected Child Reporting Act. Routing the report through the director, who decides whether to call, breaks the immediate direct-report duty."
+    },
+    {
+      "item_id": "removal_from_group_limits",
+      "original": "A child 2 or older who needs help calming down may take a short break away from the group, never longer than one minute per year of age, and children under 24 months are never removed from the group.",
+      "planted": "A child who needs help calming down, including a toddler, may take a quiet break away from the group for up to ten minutes.",
+      "why": "89 Ill. Adm. Code 407.270(c)(4): removal from the group shall not exceed one minute per year of age and shall not be used for children less than 24 months of age. Ten minutes exceeds the limit for any child under 10, and toddlers may not be removed at all."
+    },
+    {
+      "item_id": "food_intervals",
+      "original": "Children are offered a meal or snack at least every three hours, and no closer than two hours apart, unless they are asleep.",
+      "planted": "Children are offered a meal or snack about every four hours, unless they are asleep.",
+      "why": "89 Ill. Adm. Code 407.330(i): children shall be offered food at intervals of not less than 2 hours and not more than 3 hours apart, unless the child is asleep. Four-hour intervals exceed the 3-hour maximum."
+    },
+    {
+      "item_id": "safe_sleep_back",
+      "original": "Infants are always placed on their backs to sleep.",
+      "planted": "Infants are placed to sleep on their backs or their tummies, whichever position helps them settle best.",
+      "why": "89 Ill. Adm. Code 407.350(i): to minimize the risk of SIDS, children shall be placed on their backs when put down to sleep; another position is allowed only with written instructions signed by a physician. Choosing tummy sleep for comfort violates this."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "water_lead_testing_info_parents",
+      "text": "## Lead Testing of Our Drinking Water\n\nBecause our building was built in 1978 and we serve children under six, our water is tested for lead by a certified laboratory. All results, including those below 2.01 ppb, are posted on the parent bulletin board beside the front office. One classroom sink tested above 2.01 ppb, so it now has a certified lead-removing filter, and our mitigation plan is posted with the results."
+    },
+    {
+      "item_id": "personal_belongings_policy",
+      "text": "## Personal Belongings\n\nPlease label everything your child brings, including a full change of clothes for their cubby. Toddlers and preschoolers may bring one small blanket or soft toy for their cot. Please keep other toys, money, candy, and electronics at home, except on Friday sharing days. We cannot be responsible for lost or damaged items."
+    },
+    {
+      "item_id": "late_pickup_written_policy",
+      "text": "## Late Pickup\n\nAt enrollment you will sign our late pickup agreement. A late fee of $1 per minute begins at 6:01 p.m. At 6:10 p.m. we begin calling you and then each emergency contact, and we keep calling every 10 minutes, so please keep your phone numbers up to date. If we cannot reach anyone by 7:00 p.m., we will contact the Willow Ford Police and, if needed, the DCFS hotline. Two staff members stay with your child and remain responsible for your child's safety until you or the authorities arrive. Staff never blame your child, and the situation is discussed only with you."
+    }
+  ]
+}

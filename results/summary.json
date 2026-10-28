@@ -1,0 +1,142 @@
+{
+ "runs": [
+  {
+   "mode": "closed",
+   "effort": "low",
+   "label": "No rulebook (memory only)",
+   "n": 428,
+   "correct": 0.5724,
+   "verified": 0.0,
+   "fake_quotes": 1.0,
+   "empty": 0.0,
+   "cost": 0.0609,
+   "cost_per_verified": null,
+   "tokens": 66505,
+   "by_kind": {
+    "lookup": {
+     "n": 356,
+     "correct": 0.5843,
+     "verified": 0.0,
+     "fake_quotes": 1.0,
+     "empty": 0.0,
+     "cost": 0.0508,
+     "cost_per_verified": null,
+     "tokens": 55463
+    },
+    "inspection": {
+     "n": 42,
+     "correct": 0.881,
+     "verified": 0.0,
+     "fake_quotes": 0,
+     "empty": 0.0,
+     "cost": 0.0059,
+     "cost_per_verified": null,
+     "tokens": 6444
+    },
+    "trap": {
+     "n": 30,
+     "correct": 0.0,
+     "verified": 0.0,
+     "fake_quotes": 0,
+     "empty": 0.0,
+     "cost": 0.0042,
+     "cost_per_verified": null,
+     "tokens": 4598
+    }
+   }
+  },
+  {
+   "mode": "doc",
+   "effort": "low",
+   "label": "Whole state rulebook in context",
+   "n": 428,
+   "correct": 0.9977,
+   "verified": 0.8037,
+   "fake_quotes": 0.206,
+   "empty": 0.0,
+   "cost": 0.6511,
+   "cost_per_verified": 0.00189,
+   "tokens": 1492205,
+   "by_kind": {
+    "lookup": {
+     "n": 356,
+     "correct": 0.9972,
+     "verified": 0.8315,
+     "fake_quotes": 0.1629,
+     "empty": 0.0,
+     "cost": 0.5467,
+     "cost_per_verified": 0.00185,
+     "tokens": 1253794
+    },
+    "inspection": {
+     "n": 42,
+     "correct": 1.0,
+     "verified": 0.4286,
+     "fake_quotes": 0.5714,
+     "empty": 0.0,
+     "cost": 0.0614,
+     "cost_per_verified": 0.00341,
+     "tokens": 140463
+    },
+    "trap": {
+     "n": 30,
+     "correct": 1.0,
+     "verified": 1.0,
+     "fake_quotes": 0,
+     "empty": 0.0,
+     "cost": 0.043,
+     "cost_per_verified": 0.00143,
+     "tokens": 97948
+    }
+   }
+  },
+  {
+   "mode": "agent",
+   "effort": "low",
+   "label": "Agent: search, read, check quote",
+   "n": 428,
+   "correct": 0.8551,
+   "verified": 0.8178,
+   "fake_quotes": 0.0089,
+   "empty": 0.1098,
+   "cost": 4.7334,
+   "cost_per_verified": 0.01352,
+   "tokens": 11118796,
+   "by_kind": {
+    "lookup": {
+     "n": 356,
+     "correct": 0.8483,
+     "verified": 0.809,
+     "fake_quotes": 0.0099,
+     "empty": 0.1152,
+     "cost": 3.7497,
+     "cost_per_verified": 0.01302,
+     "tokens": 8845796
+    },
+    "inspection": {
+     "n": 42,
+     "correct": 0.8095,
+     "verified": 0.7619,
+     "fake_quotes": 0.0,
+     "empty": 0.1429,
+     "cost": 0.6077,
+     "cost_per_verified": 0.01899,
+     "tokens": 1383251
+    },
+    "trap": {
+     "n": 30,
+     "correct": 1.0,
+     "verified": 1.0,
+     "fake_quotes": 0,
+     "empty": 0.0,
+     "cost": 0.3759,
+     "cost_per_verified": 0.01253,
+     "tokens": 889749
+    }
+   }
+  }
+ ],
+ "items": 428,
+ "html": "<table class='res'><tr><th>Setup</th><th>Effort</th><th>Questions</th><th>Right answer</th><th>Right, with a real quote</th><th>Quotes not in the rulebook</th><th>Cost</th><th>Cost per verified answer</th></tr><tr><td>No rulebook (memory only)</td><td>low</td><td>428</td><td>57.2%</td><td>0.0%<div class='bar' style='width:2%'></div></td><td>100.0%</td><td>$0.06</td><td>\u2013</td></tr><tr><td>Whole state rulebook in context</td><td>low</td><td>428</td><td>99.8%</td><td>80.4%<div class='bar' style='width:80%'></div></td><td>20.6%</td><td>$0.65</td><td>$0.0019</td></tr><tr><td>Agent: search, read, check quote</td><td>low</td><td>428</td><td>85.5%</td><td>81.8%<div class='bar' style='width:81%'></div></td><td>0.9%</td><td>$4.73</td><td>$0.0135</td></tr></table><h3>By question type (right, with a real quote)</h3><table class='res'><tr><th>Setup</th><th>Effort</th><th>Rule lookups</th><th>Scenario questions</th><th>Made-up section numbers</th></tr><tr><td>No rulebook (memory only)</td><td>low</td><td>0.0% <span class='dim'>(356)</span></td><td>0.0% <span class='dim'>(42)</span></td><td>0.0% <span class='dim'>(30)</span></td></tr><tr><td>Whole state rulebook in context</td><td>low</td><td>83.2% <span class='dim'>(356)</span></td><td>42.9% <span class='dim'>(42)</span></td><td>100.0% <span class='dim'>(30)</span></td></tr><tr><td>Agent: search, read, check quote</td><td>low</td><td>80.9% <span class='dim'>(356)</span></td><td>76.2% <span class='dim'>(42)</span></td><td>100.0% <span class='dim'>(30)</span></td></tr></table>",
+ "markdown": "| Setup | Effort | Questions | Right answer | Right, with a real quote | Quotes not in the rulebook | Cost |\n|---|---|---|---|---|---|---|\n| No rulebook (memory only) | low | 428 | 57.2% | **0.0%** | 100.0% | $0.06 |\n| Whole state rulebook in context | low | 428 | 99.8% | **80.4%** | 20.6% | $0.65 |\n| Agent: search, read, check quote | low | 428 | 85.5% | **81.8%** | 0.9% | $4.73 |"
+}

@@ -1,0 +1,752 @@
+{
+ "state": "ND",
+ "rulebook": "N.D. Admin. Code ch. 75-03-10 (child care centers)",
+ "items": [
+  {
+   "id": "provisional_license_parent_notice",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "If operating on a provisional license, the owner must provide parents written notice that the center is operating on a provisional license and the basis for it.",
+   "section": "75-03-10-06",
+   "page": 4,
+   "quote": "The owner shall provide parents written notice that the child care center is operating on a provisional license and the basis for the provisional license."
+  },
+  {
+   "id": "ratios_by_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must maintain the required staff-to-child ratios and maximum group sizes by age group.",
+   "section": "75-03-10-08",
+   "page": 5,
+   "quote": "The minimum ratio of staff members responsible for caring for or teaching children to children in child care centers and maximum group size of children must be:"
+  },
+  {
+   "id": "mixed_age_group_rules",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Mixed-age groups must follow the specified maximum group size, ratio, and child-count rules.",
+   "section": "75-03-10-08",
+   "page": 5,
+   "quote": "When there are mixed-age groups in the same room, the operator shall ensure:"
+  },
+  {
+   "id": "written_policies_required",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have written policies and procedures for operation, including children's activities, care, and enrollment.",
+   "section": "75-03-10-09",
+   "page": 6,
+   "quote": "Formulate written policies and procedures for the operation of the child care center. Policies must include:"
+  },
+  {
+   "id": "director_present_60",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The director or a designated acting director must be present at the center at least sixty percent of the time when the center is open.",
+   "section": "75-03-10-09",
+   "page": 6,
+   "quote": "The operator shall ensure that the director or a designated acting director is present at the child care center at least sixty percent of the time when the child care center is open;"
+  },
+  {
+   "id": "supervisor_on_duty",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "When the director and acting director are not present, an individual who meets supervisor qualifications must be on duty.",
+   "section": "75-03-10-09",
+   "page": 6,
+   "quote": "The operator shall ensure that when the director and acting director are not present at the center, an individual who meets the qualifications of a supervisor is on duty;"
+  },
+  {
+   "id": "special_needs_developmental_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A child with special needs must be placed in an age group based on developmental age level for ratio purposes.",
+   "section": "75-03-10-08",
+   "page": 6,
+   "quote": "If a child with special needs is admitted to the child care center, the child's developmental age level must be used to determine into which age group the child should be placed for determining child to staff ratios."
+  },
+  {
+   "id": "policy_hiring_practices",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must include hiring practices and personnel policies for staff members.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Hiring practices and personnel policies for staff members;"
+  },
+  {
+   "id": "policy_references",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must include methods for obtaining references and employment histories of staff members.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Methods for obtaining references and employment histories of staff members;"
+  },
+  {
+   "id": "policy_performance_evaluations",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must include methods of conducting staff member performance evaluations.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Methods of conducting staff member performance evaluations;"
+  },
+  {
+   "id": "policy_children_activities_care_enrollment",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must include children's activities, care, and enrollment.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Children's activities, care, and enrollment;"
+  },
+  {
+   "id": "policy_staff_parent_rights",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Written policies must include the responsibilities and rights of staff members and parents.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "The responsibilities and rights of staff members and parents;"
+  },
+  {
+   "id": "policy_accidents_illnesses",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Written policies must include an explanation of how accidents and illnesses will be handled.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "An explanation of how accidents and illnesses will be handled;"
+  },
+  {
+   "id": "policy_discipline_guidance",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Written policies must include the methods of developmentally appropriate discipline and guidance techniques that are to be used.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "The methods of developmentally appropriate discipline and guidance techniques that are to be used;"
+  },
+  {
+   "id": "policy_complaint_process",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Written policies must include the process for a parent or staff member to report a complaint, a suspected licensing violation, and suspected child abuse or neglect.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "The process for a parent or staff member to report a complaint, a suspected licensing violation, and suspected child abuse or neglect;"
+  },
+  {
+   "id": "policy_personal_belongings",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must include the care and safeguarding of personal belongings brought to the center by a child or another on a child's behalf.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "The care and safeguarding of personal belongings brought to the child care center by a child or by another on a child's behalf;"
+  },
+  {
+   "id": "policy_failed_arrival",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Written policies must include procedures for accountability when a child fails to arrive as expected at the center.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Procedures for accountability when a child fails to arrive as expected at the child care center; and"
+  },
+  {
+   "id": "policy_transportation",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If the center provides transportation, written policies must include transportation procedures.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Transportation procedures, if the operator provides transportation;"
+  },
+  {
+   "id": "parent_advised_fees_policies",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "Parents must be advised of the center's service fees, operating policies and procedures, location, and the name, address, and telephone number of the operator and director.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Are advised of the child care center's service fees, operating policies and procedures, location, and the name, address, and telephone number of the operator and the director;"
+  },
+  {
+   "id": "parent_notice_significant_changes",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "Parents must receive written notice of the effective date, duration, scope, and impact of any significant changes in the center's services.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Receive written notice of the effective date, duration, scope, and impact of any significant changes in the child care center's services; and"
+  },
+  {
+   "id": "parent_daily_reports_available",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be notified that they may request written daily reports for their child, including details regarding eating, napping, and diapering.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Receive notice that they may request written daily reports for their child, including details regarding eating, napping, and diapering;"
+  },
+  {
+   "id": "parent_unlimited_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must provide parents with unlimited access and opportunities to observe their children while in care.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Provide parents with unlimited access and opportunities for parents to observe their children while in care, and provide parents with regular opportunities to meet with staff members"
+  },
+  {
+   "id": "complaint_reporting_process",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "Written policies must include the process for reporting complaints, suspected licensing violations, and suspected child abuse or neglect.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "The process for a parent or staff member to report a complaint, a suspected licensing violation, and suspected child abuse or neglect;"
+  },
+  {
+   "id": "signed_fee_agreements",
+   "topic": "fees and payment",
+   "kind": "rule",
+   "requirement": "There must be signed written agreements with parents specifying fees, methods of payment, and policies regarding delinquency of fees.",
+   "section": "75-03-10-09",
+   "page": 7,
+   "quote": "Ensure that there are signed written agreements with the parents of each child that specify the fees to be paid, methods of payment, and policies regarding delinquency of fees;"
+  },
+  {
+   "id": "unsupervised_departure_consent",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Written parental consent is required before a child may leave the center premises unsupervised, specifying the activity, time, length of time, method of transportation, and parental responsibility.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "The provider shall obtain written parental consent for the child to leave the child care center premises unsupervised, which must specify the activity, time the child is leaving and length of time the child will be gone, method of transportation, and parental responsibility for the child once the child leaves the child care center premises; and"
+  },
+  {
+   "id": "release_only_authorized",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Each child may be released only to the child's parent, legal custodian, guardian, or an individual authorized by them.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Ensure that each child is released only to the child's parent, legal custodian, guardian, or an individual who has been authorized by the child's parent, legal custodian, or guardian."
+  },
+  {
+   "id": "staff_under_18_supervised",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Staff members responsible for caring for or teaching children under age eighteen must be supervised by an adult staff member.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Ensure that staff members responsible for caring for or teaching children under the age of eighteen are supervised by an adult staff member;"
+  },
+  {
+   "id": "injury_reporting_24h",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Deaths, serious accidents or illnesses requiring hospitalization, and injuries requiring medical treatment must be reported to the department within twenty-four hours.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "a. A death or a serious accident or illness requiring hospitalization of a child while in the care of the child care center or attributable to care received in the child care center;"
+  },
+  {
+   "id": "mandatory_reporter",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "The operator must report immediately, as a mandatory reporter, suspected child abuse or neglect.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Report immediately, as a mandatory reporter, suspected child abuse or neglect as required by North Dakota Century Code section 50-25.1-03;"
+  },
+  {
+   "id": "progress_reports",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "The center must provide parents, upon request, with progress reports on their children.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Provide parents, upon request, with progress reports on their children;"
+  },
+  {
+   "id": "report_closures_emergencies",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Closures or relocations of the center due to emergencies must be reported to the department within twenty-four hours.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Closures or relocations of the child care center due to emergencies; and"
+  },
+  {
+   "id": "fire_on_premises_report",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A fire or explosion on the premises must be reported to the department within twenty-four hours.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Fire that occurs or explosions that occur in or on the premises of the child care center;"
+  },
+  {
+   "id": "poisoning_medication_error_report",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Poisonings or errors in administering medication must be reported to the department within twenty-four hours.",
+   "section": "75-03-10-09",
+   "page": 8,
+   "quote": "Poisonings or errors in the administering of medication;"
+  },
+  {
+   "id": "supervision_definition",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Supervision means staff are within sight or hearing range of infants, toddlers, and preschoolers at all times, and available for school-age children.",
+   "section": "75-03-10-12",
+   "page": 12,
+   "quote": "Supervision means a staff member responsible for caring for or teaching children being within sight or hearing range of an infant, toddler, or preschooler at all times so the staff member is capable of intervening to protect the health and safety of the child."
+  },
+  {
+   "id": "transportation_written_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If the center provides transportation, it must have a written policy governing transportation of children to and from the center.",
+   "section": "75-03-10-15",
+   "page": 13,
+   "quote": "The operator shall establish a written policy governing the transportation of children to and from the child care center, if the child care center provides transportation."
+  },
+  {
+   "id": "transportation_parental_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The transportation policy must specify who is to provide transportation and how parental permission is obtained for activities outside the center.",
+   "section": "75-03-10-15",
+   "page": 13,
+   "quote": "This policy must specify who is to provide transportation and how parental permission is to be obtained for activities which occur outside the child care center."
+  },
+  {
+   "id": "transportation_insurance_notice",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If the center provides transportation, parents must be informed of any insurance coverage on the vehicles.",
+   "section": "75-03-10-15",
+   "page": 13,
+   "quote": "If the child care center provides transportation, the operator shall inform the parents of any insurance coverage on the vehicles."
+  },
+  {
+   "id": "emergency_disaster_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must establish and post an emergency disaster plan including evacuation, shelter-in-place, lockdown, reunification, and accommodations.",
+   "section": "75-03-10-16",
+   "page": 13,
+   "quote": "The operator shall establish and post an emergency disaster plan for the safety of the children in care. The operator shall develop written disaster plans in cooperation with local emergency management agencies."
+  },
+  {
+   "id": "transportation_safety",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transported children must have adequate supervision, safety precautions, liability insurance, and may not be left unattended in a vehicle.",
+   "section": "75-03-10-15",
+   "page": 13,
+   "quote": "When transportation is provided by a child care center, children must be protected by adequate staff member supervision, safety precautions, and liability insurance."
+  },
+  {
+   "id": "monthly_fire_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire and emergency evacuation drills must be performed monthly.",
+   "section": "75-03-10-16",
+   "page": 14,
+   "quote": "Fire and emergency evacuation drills must be performed monthly."
+  },
+  {
+   "id": "annual_fire_inspection",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Annual fire inspections must be completed by local or state fire authorities and violations corrected.",
+   "section": "75-03-10-17",
+   "page": 14,
+   "quote": "The operator shall ensure that annual fire inspections are completed by local or state fire authorities. The operator shall correct or have corrected any code violations noted by the fire inspector and shall file reports of the inspections and any corrections with the department."
+  },
+  {
+   "id": "aquatic_activity_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "No child may participate in an aquatic activity without written parental permission including disclosure of the child's swimming ability.",
+   "section": "75-03-10-18",
+   "page": 17,
+   "quote": "The operator may not permit any child to participate in an aquatic activity without written parental permission, which includes parent disclosure of the child's swimming ability."
+  },
+  {
+   "id": "wading_pool_supervision",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff must strictly supervise wading pools and empty, clean, and sanitize them daily.",
+   "section": "75-03-10-18",
+   "page": 17,
+   "quote": "Staff members responsible for caring for or teaching children shall strictly supervise wading pools used by the child care center and shall empty, clean, and sanitize wading pools daily."
+  },
+  {
+   "id": "pet_bite_notification",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Parents must be notified immediately if a child is bitten or scratched and skin is broken.",
+   "section": "75-03-10-18",
+   "page": 17,
+   "quote": "The operator shall notify parents immediately if a child is bitten or scratched and skin is broken."
+  },
+  {
+   "id": "pet_presence_notice",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Parents must be aware of the presence of pets and animals in the center.",
+   "section": "75-03-10-18",
+   "page": 17,
+   "quote": "The operator shall ensure parents are aware of the presence of pets and animals in the child care center."
+  },
+  {
+   "id": "daily_routine_available",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "A written daily routine including mealtimes, rest times, planned activities, free play, and outside time must be available to parents.",
+   "section": "75-03-10-20",
+   "page": 19,
+   "quote": "A written daily routine including mealtimes, rest times, planned developmentally appropriate activities, free play, and outside time must be available to parents."
+  },
+  {
+   "id": "written_program_available",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written program must be made available to parents.",
+   "section": "75-03-10-20",
+   "page": 19,
+   "quote": "The written program must be made available to parents."
+  },
+  {
+   "id": "napping_space",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "There must be sufficient cots or sleeping mats to allow each child an individual napping space.",
+   "section": "75-03-10-20",
+   "page": 20,
+   "quote": "There must be sufficient cots or sleeping mats to allow each child in attendance an individual napping space."
+  },
+  {
+   "id": "parent_concerns_communication",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "The director or supervisor must contact parents to exchange information concerning the child and any concerns about health, development, or behavior.",
+   "section": "75-03-10-20",
+   "page": 20,
+   "quote": "The director or supervisor shall contact parents to exchange information concerning the child and any concerns about the health, development, or behavior of the child. These concerns must be communicated to the parent promptly and directly."
+  },
+  {
+   "id": "menus_available",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Menus must be prepared on a weekly or daily basis and made available to parents.",
+   "section": "75-03-10-21",
+   "page": 21,
+   "quote": "menus must be prepared on a weekly or daily basis and made available to the parents, the department, and other appropriate individuals."
+  },
+  {
+   "id": "food_standards",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food supplied by the center must meet USDA standards and be properly prepared, sufficient, nutritious, varied, and served at appropriate hours.",
+   "section": "75-03-10-21",
+   "page": 21,
+   "quote": "When the operator is responsible for providing food to children, the food supplied must meet United States department of agriculture standards and must be properly prepared, sufficient in amount, nutritious, varied according to diets of the children enrolled, and served at appropriate hours."
+  },
+  {
+   "id": "copy_of_chapter_on_premises",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "The operator must keep a copy of this chapter on the premises and make it available to staff members at all times.",
+   "section": "75-03-10-22",
+   "page": 21,
+   "quote": "The operator shall keep a copy of this chapter on the premises of the child care center and shall make it available to staff members at all times."
+  },
+  {
+   "id": "records_required",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "The operator must maintain required child records including name, birth date, address, parent contact information, emergency contacts, medical authorization, authorized pickup, immunizations, and health assessment.",
+   "section": "75-03-10-22",
+   "page": 21,
+   "quote": "a. The child's full name, birth date, and current home address;"
+  },
+  {
+   "id": "discipline_policy_written",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must have a written policy regarding discipline of children and provide it to and discuss it with staff before operation or before staff work with children.",
+   "section": "75-03-10-23",
+   "page": 22,
+   "quote": "The child care center must have a written policy regarding the discipline of children. The operator shall provide the policy to, and discuss the policy with, the staff members responsible for caring for or teaching children before the child care center begins operation or before staff members begin working with children."
+  },
+  {
+   "id": "discipline_constructive",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Discipline must be constructive or educational and may not subject a child to physical harm, fear, or humiliation.",
+   "section": "75-03-10-23",
+   "page": 22,
+   "quote": "Discipline must be constructive or educational in nature and may include diversion, separation from the problem situation, talking with the child about the situation, praising appropriate behavior, or gentle physical restraint, such as holding. A child may not be subjected to physical harm, fear, or humiliation."
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Records must verify immunizations appropriate for age or a medical, religious, philosophical, or moral exemption document.",
+   "section": "75-03-10-22",
+   "page": 22,
+   "quote": "Verification that the child has received all immunizations appropriate for the child's age, as prescribed by the public health division of the department, or have on file a document stating that the child is medically exempt or exempt from immunizations based on religious, philosophical, or moral beliefs; and"
+  },
+  {
+   "id": "annual_health_assessment",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A current health assessment or parent-completed health assessment statement must be obtained at enrollment and completed annually.",
+   "section": "75-03-10-22",
+   "page": 22,
+   "quote": "A current health assessment or a health assessment statement completed by the parent, obtained at the time of initial enrollment of the child which must indicate any special precautions for diet, medication, or activity. This assessment must be completed annually."
+  },
+  {
+   "id": "confidentiality_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "All records, photographs, and information maintained with respect to children must be kept confidential with limited access.",
+   "section": "75-03-10-22",
+   "page": 22,
+   "quote": "The operator shall ensure that all records, photographs, and information maintained with respect to children receiving child care services are kept confidential, and that access is limited to staff members, the parents of each child, and to the following, unless otherwise protected by law:"
+  },
+  {
+   "id": "identity_verification",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The operator must record and verify the child's identification through official documentation and comply with North Dakota Century Code section 12-60-26.",
+   "section": "75-03-10-22",
+   "page": 22,
+   "quote": "The operator shall record and verify the identification of the child through official documentation such as a certified birth certificate, certified school records, passport, or any other documentary evidence the operator considers appropriate proof of identity and shall comply with North Dakota Century Code section 12-60-26."
+  },
+  {
+   "id": "discipline_prohibited_practices",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff may not use prohibited discipline such as physical maltreatment, verbal abuse, forced feeding, deprivation of meals, or withholding active play.",
+   "section": "75-03-10-23",
+   "page": 23,
+   "quote": "A staff member or any other adult in or at the child care center may not kick, punch, spank, shake, pinch, bite, roughly handle, strike, mechanically restrain, or physically maltreat a child."
+  },
+  {
+   "id": "infant_feeding",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Only breast milk or iron-fortified infant formula may be fed to infants less than six months of age unless otherwise instructed in writing.",
+   "section": "75-03-10-24",
+   "page": 24,
+   "quote": "Only breast milk or iron-fortified infant formula may be fed to infants less than six months of age, unless otherwise instructed in writing by the infant's parent or medical provider in writing."
+  },
+  {
+   "id": "infant_daily_report",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Parents of each infant must receive a written daily report detailing the infant's sleeping, eating, and diapering for the day.",
+   "section": "75-03-10-24",
+   "page": 25,
+   "quote": "The operator shall ensure that parents of each infant receive a written daily report detailing the infant's sleeping and eating processes for the day, and the infant's diapering schedule for the day."
+  },
+  {
+   "id": "infant_safe_sleep",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs initially when sleeping unless a medical provider note specifies otherwise.",
+   "section": "75-03-10-24",
+   "page": 25,
+   "quote": "The operator shall ensure that infants are placed on their back initially when sleeping to lower the risk of sudden infant death syndrome, unless the infant's parent has provided a note from the infant's medical provider specifying otherwise."
+  },
+  {
+   "id": "infant_crib_standards",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must sleep in a crib with a firm mattress or portable crib meeting consumer product safety commission standards.",
+   "section": "75-03-10-24",
+   "page": 25,
+   "quote": "The operator shall ensure that infants sleep in a crib with a firm mattress or in a portable crib with the manufacturer's pad that meets consumer product safety commission standards."
+  },
+  {
+   "id": "special_needs_documentation",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must receive documentation of a child's special needs from the parent upon enrollment and obtain a written health care plan.",
+   "section": "75-03-10-25",
+   "page": 26,
+   "quote": "The child care center shall receive documentation of the child's special needs from the parent upon the child's enrollment."
+  },
+  {
+   "id": "drop_in_admission_records",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Drop-in care admission records must comply with all enrollment requirements in section 75-03-10-22.",
+   "section": "75-03-10-24",
+   "page": 26,
+   "quote": "The operator shall ensure that admission records comply with all enrollment requirements contained in section 75-03-10-22."
+  },
+  {
+   "id": "drop_in_capacity_limit",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A center may not receive drop-in or part-time children if doing so would exceed the licensed total number of children.",
+   "section": "75-03-10-24",
+   "page": 26,
+   "quote": "A child care center may not receive drop-in care or part-time children who, when added to the children in regular attendance, cause the child care center to exceed the total number of children for which the child care center is licensed."
+  },
+  {
+   "id": "night_care_supervision",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "During sleeping hours in night care, staff members must be awake and within hearing range to provide for children's needs and respond to emergencies.",
+   "section": "75-03-10-24",
+   "page": 26,
+   "quote": "The operator shall ensure that during sleeping hours, staff members are awake and within hearing range to provide for the needs of children and to respond to an emergency."
+  },
+  {
+   "id": "medication_written_permission",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Written permission to dispense medication and proper instructions for administration must be obtained from the parent.",
+   "section": "75-03-10-26",
+   "page": 27,
+   "quote": "Require written permission to dispense medication and proper instructions for the administration of medication obtained from the parent of a child in the child care center who requires medication:"
+  },
+  {
+   "id": "medication_storage_records",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication must be stored inaccessible to children and administration records must include date, time, dosage, staff member, and child.",
+   "section": "75-03-10-26",
+   "page": 27,
+   "quote": "Medication must be stored in an area inaccessible to children, and medication stored in a refrigerator must be stored collectively in a spillproof container;"
+  },
+  {
+   "id": "emergency_care_plans",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must have written plans to respond to illness and emergencies, including burns, serious injury, and ingestion of poison, and advise parents of these plans.",
+   "section": "75-03-10-26",
+   "page": 27,
+   "quote": "The child care center shall have written plans to respond to illness and emergencies, including burns, serious injury, and ingestion of poison. The operator shall ensure that parents of enrollees are advised of these plans."
+  },
+  {
+   "id": "first_aid_kit_flashlight_phone",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency plans must require at least one working flashlight, a department-approved first-aid kit, and a working telephone line with posted emergency numbers.",
+   "section": "75-03-10-26",
+   "page": 27,
+   "quote": "3. Require the availability of at least one working flashlight; 4. Require at least one department-approved first-aid kit maintained and kept in a designated location, inaccessible to children, yet readily accessible to staff members at all times; 5. Provide a working telephone line immediately accessible to staff members with a list of emergency telephone numbers conspicuously posted;"
+  },
+  {
+   "id": "first_aid_written_notice",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Parents must be informed in writing of any first aid administered to their child within twenty-four hours of the incident.",
+   "section": "75-03-10-26",
+   "page": 28,
+   "quote": "Require that the child care center inform parents in writing of any first aid administered to their child within twenty-four hours of the incident, immediately notify parents of any injury which requires emergency care beyond first aid, and require each injury report to be made a part of the child's record."
+  },
+  {
+   "id": "illness_temporary_isolation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A supervised temporary isolation area must be designated for a child too ill to remain or with an infectious or contagious disease.",
+   "section": "75-03-10-26",
+   "page": 28,
+   "quote": "Require a supervised temporary isolation area designated for a child who is too ill to remain in the child care center or who has an infectious or contagious disease, with the following procedures being followed when those signs or symptoms are observed:"
+  },
+  {
+   "id": "illness_exclusion_return",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The center must follow guidance on exclusion and return of children with infectious or communicable conditions.",
+   "section": "75-03-10-26",
+   "page": 28,
+   "quote": "Establish and implement practices in accordance with guidance obtained through consultation with local health unit authorities or authorities from the public health division of the department implemented regarding the exclusion and return of children with infectious or communicable conditions."
+  },
+  {
+   "id": "exposure_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Parents must be notified of a child's exposure to a presumed or confirmed reportable infectious disease.",
+   "section": "75-03-10-26",
+   "page": 28,
+   "quote": "Notify parents, legal custodians, or guardians of a child's exposure to a presumed or confirmed reportable infectious disease;"
+  },
+  {
+   "id": "emergency_transportation_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency plans must include provisions for emergency transportation with an adult staff member remaining with the child.",
+   "section": "75-03-10-26",
+   "page": 28,
+   "quote": "b. Provisions for emergency transportation, specifically that when a child is to be brought to another place for emergency care, an adult staff member responsible for caring for or teaching children shall remain with the child until medical personnel assume responsibility for the child's care and until the parent is notified;"
+  },
+  {
+   "id": "fingerprint_checks",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Owners and staff members must submit fingerprint-based criminal history record checks upon application or hire and at least every five years.",
+   "section": "75-03-10-27",
+   "page": 29,
+   "quote": "An owner shall submit an application for a fingerprint-based criminal history record check at the time of application and within five years from the date of initial approval and at least once every five years thereafter."
+  },
+  {
+   "id": "background_check_form",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Each applicant, owner, operator, director, supervisor, emergency designee, substitute staff member, and staff member must complete a department-approved authorization for background check form no later than the first day of employment.",
+   "section": "75-03-10-28",
+   "page": 30,
+   "quote": "Each applicant, owner, operator, director, supervisor, emergency designee, substitute staff member, and staff member shall complete, and the operator shall submit to the department, a department-approved authorization for background check form no later than the first day of employment."
+  },
+  {
+   "id": "correction_order_posting",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "Within ten business days of mailing or three days of electronic transmission of a correction order, the owner must notify parents and post the correction order conspicuously.",
+   "section": "75-03-10-29",
+   "page": 30,
+   "quote": "Within ten business days of mailing or within three days of electronic transmission of the correction order, the owner shall notify the parents of each child receiving care at the child care center that a correction order has been issued."
+  },
+  {
+   "id": "appeals_license_denial",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "An applicant or operator may appeal a decision to deny or revoke a license by filing a written appeal within ten calendar days of receipt of notice.",
+   "section": "75-03-10-31",
+   "page": 32,
+   "quote": "An applicant or operator may appeal a decision to deny or revoke a license by filing a written appeal with the department. The appeal must be postmarked or received by the department within ten calendar days of the applicant's or operator's receipt of written notice of the decision to deny or revoke the license."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "parent_access_regular_meetings",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must have regular opportunities to meet with staff responsible for caring for or teaching children before and during enrollment.",
+   "section": "75-03-10-09",
+   "page": "[ND page 7]",
+   "quote": "provide parents with regular opportunities to meet with staff members responsible for caring for or teaching children before and during enrollment to discuss their children's needs."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0407,
+ "tokens_in": 61026,
+ "tokens_out": 13601,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

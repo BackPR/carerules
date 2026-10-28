@@ -1,0 +1,887 @@
+{
+ "state": "VA",
+ "rulebook": "8VAC20-780, Standards for Licensed Child Day Centers (Virginia Administrative Code, Virginia General Assembly LIS, full-chapter view printed 10/28/2026)",
+ "items": [
+  {
+   "id": "written_injury_prevention",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The center must develop written procedures for injury prevention and update them at least annually based on injury documentation and review of activities and services.",
+   "section": "8VAC20-780-40",
+   "page": 7,
+   "quote": "I. The center shall develop written procedures for injury prevention. J. Injury prevention procedures shall be updated at least annually based on documentation of injuries and a review of the activities and services."
+  },
+  {
+   "id": "written_shaken_baby_procedures",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The center must develop written procedures for prevention of shaken baby syndrome or abusive head trauma, including coping with crying babies, safe sleeping practices, and sudden infant death syndrome awareness.",
+   "section": "8VAC20-780-40",
+   "page": 7,
+   "quote": "K. The center shall develop written procedures for prevention of shaken baby syndrome or abusive head trauma, including coping with crying babies, safe sleeping practices, and sudden infant death syndrome awareness."
+  },
+  {
+   "id": "staff_informed_allergies",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must inform all staff who work with children of children's allergies, sensitivities, and dietary restrictions and maintain an accessible current written list in each room or area where children are present.",
+   "section": "8VAC20-780-40",
+   "page": 7,
+   "quote": "L. The center shall inform all staff who work with children of children's allergies, sensitivities, and dietary restrictions. M. The center shall maintain, in a way that is accessible to all staff who work with children, a current written list of all children's allergies, sensitivities, and dietary restrictions documented in the allergy plan required in 8VAC20-780-60 A 8. This list shall be dated and kept confidential in each room or area where children are present."
+  },
+  {
+   "id": "written_playground_safety",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must develop written playground safety procedures including active supervision and method of maintaining resilient surface.",
+   "section": "8VAC20-780-40",
+   "page": 8,
+   "quote": "N. The center shall develop written playground safety procedures that shall include: 1. Provision for active supervision by staff to include positioning of staff in strategic locations, scanning play activities, and circulating among children; and 2. Method of maintaining resilient surface."
+  },
+  {
+   "id": "children_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "The center must maintain and keep at the center a separate record for each child enrolled containing required information, including allergies, emergency contacts, authorized pickup persons, health information, and enrollment documentation.",
+   "section": "8VAC20-780-60",
+   "page": 8,
+   "quote": "A. Each center shall maintain and keep at the center a separate record for each child enrolled which shall contain the following information: 1. Name, nickname (if any), sex, and birth date of the child; 2. Name, home address, and home phone number of each parent who has custody; 3. When applicable, work phone number and place of employment of each parent who has custody; 4. Name and phone number of child's physician; 5. Name, address, and phone number of two designated people to call in an emergency if a parent cannot be reached; 6. Names of persons authorized to pick up the child. Appropriate legal paperwork shall be on file when the custodial parent requests the center not to release the child to the other parent; 7. Allergies and intolerance to medication or any other substances, and actions to take in an emergency situation;"
+  },
+  {
+   "id": "records_confidential",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Staff and children's records must be treated confidentially, and children's records must be made available to parents on request unless otherwise ordered by the court.",
+   "section": "8VAC20-780-50",
+   "page": 8,
+   "quote": "A. Staff and children's records shall be treated confidentially. Exception: Children's records shall be made available to parents on request, unless otherwise ordered by the court."
+  },
+  {
+   "id": "records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Records and reports on children and staff required by the chapter must be maintained and made accessible for two years after termination of services or separation from employment unless specified otherwise.",
+   "section": "8VAC20-780-50",
+   "page": 8,
+   "quote": "B. Records and reports on children and staff required by this chapter shall be maintained and made accessible for two years after termination of services or separation from employment unless specified otherwise."
+  },
+  {
+   "id": "written_food_allergy_care_plan",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Each child with a diagnosed food allergy must have a written care plan in the child's record with physician instructions and steps for a suspected or confirmed allergic reaction.",
+   "section": "8VAC20-780-60",
+   "page": 9,
+   "quote": "8. A written care plan for each child with a diagnosed food allergy, to include instructions from a physician regarding the food to which the child is allergic and the steps to be taken in the event of a suspected or confirmed allergic reaction;"
+  },
+  {
+   "id": "attendance_records",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "For each group of children, the center must maintain a written record of daily attendance documenting arrival and departure of each child in care as it occurs.",
+   "section": "8VAC20-780-80",
+   "page": 10,
+   "quote": "A. For each group of children, the center shall maintain a written record of daily attendance that documents the arrival and departure of each child in care as it occurs."
+  },
+  {
+   "id": "parental_agreement_emergency_care",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "A written agreement signed by the parent must authorize emergency medical care unless the parent objects in writing on religious or other grounds.",
+   "section": "8VAC20-780-90",
+   "page": 11,
+   "quote": "1. An authorization for emergency medical care should an emergency occur when the parent cannot be located immediately unless the parent states in writing an objection to the provision of such care on religious or other grounds;"
+  },
+  {
+   "id": "parental_agreement_illness_pickup",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "A written agreement signed by the parent must state that the center will notify the parent when the child becomes ill and that the parent will arrange pickup as soon as possible if requested.",
+   "section": "8VAC20-780-90",
+   "page": 11,
+   "quote": "2. A statement that the center will notify the parent when the child becomes ill and that the parent will arrange to have the child picked up as soon as possible if so requested by the center; and"
+  },
+  {
+   "id": "parental_agreement_communicable_disease",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "A written agreement signed by the parent must state that the parent will inform the center within 24 hours or the next business day after the child or a household member develops a reportable communicable disease.",
+   "section": "8VAC20-780-90",
+   "page": 11,
+   "quote": "3. A statement that the parent will inform the center within 24 hours or the next business day after his child or any member of the immediate household has developed any reportable communicable disease, as defined by the State Board of Health, except for life threatening diseases which must be reported immediately."
+  },
+  {
+   "id": "abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Any suspected incident of child abuse must be reported in accordance with § 63.2-1509 of the Code of Virginia.",
+   "section": "8VAC20-780-80",
+   "page": 11,
+   "quote": "3. Any suspected incident of child abuse shall be reported in accordance with § 63.2-1509 of the Code of Virginia."
+  },
+  {
+   "id": "immunization_before_attendance",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The center must obtain documentation that each child has received the immunizations required by the State Board of Health before the child can attend.",
+   "section": "8VAC20-780-130",
+   "page": 12,
+   "quote": "A. The center shall obtain documentation that each child has received the immunizations required by the State Board of Health before the child can attend the center."
+  },
+  {
+   "id": "physical_exam_before_attendance",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must have a physical examination by or under the direction of a physician before attendance or within 30 days after the first day of attendance.",
+   "section": "8VAC20-780-140",
+   "page": 13,
+   "quote": "A. Each child shall have a physical examination by or under the direction of a physician: 1. Before the child's attendance; or 2. Within 30 days after the first day of attendance."
+  },
+  {
+   "id": "space_requirements",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "There must be 25 square feet of indoor space available per child, with applicants required to have 35 square feet effective June 1, 2008.",
+   "section": "8VAC20-780-310",
+   "page": 29,
+   "quote": "B. There shall be 25 square feet of indoor space available per child until subdivisions 1 and 2 of this subsection take effect. 1. Effective June 1, 2008, applicants must have 35 square feet of indoor wall-to-wall space per child."
+  },
+  {
+   "id": "playground_resilient_surfacing",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Where playground equipment is provided, resilient surfacing must comply with minimum safety standards and be under equipment with moving parts or climbing apparatus to create a fall zone free of hazardous obstacles.",
+   "section": "8VAC20-780-330",
+   "page": 31,
+   "quote": "B. Where playground equipment is provided, resilient surfacing shall comply with minimum safety standards when tested in accordance with the procedures described in the American Society for Testing and Materials standard F1292-99 as shown in Figures 2 (Compressed Loose Fill Synthetic Materials Depth Chart) and 3 (Use Zones for Equipment) on pages 6-7 of the National Program for Playground Safety's \"Selecting Playground Surface Materials: Selecting the Best Surface Material for Your Playground,\" February 2004, and shall be under equipment with moving parts or climbing apparatus to create a fall zone free of hazardous obstacles."
+  },
+  {
+   "id": "supervision_under_10",
+   "topic": "staffing and supervision",
+   "kind": "rule",
+   "requirement": "Children under 10 years of age must always be within actual sight and sound supervision of staff, with limited restroom exception.",
+   "section": "8VAC20-780-340",
+   "page": 32,
+   "quote": "F. Children under 10 years of age always shall be within actual sight and sound supervision of staff, except that staff need only be able to hear a child who is using the restroom provided that: 1. There is a system to assure that individuals who are not staff members or persons allowed to pick up a child in care do not enter the restroom area while in use by children; and 2. Staff check on a child who has not returned from the restroom after five minutes."
+  },
+  {
+   "id": "consistent_staff_policy",
+   "topic": "staffing and supervision",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written policy and procedure describing how each group of children receives care by consistent staff or team of staff members.",
+   "section": "8VAC20-780-350",
+   "page": 33,
+   "quote": "F. The center shall develop and implement a written policy and procedure that describes how the center will ensure that each group of children receives care by consistent staff or team of staff members."
+  },
+  {
+   "id": "no_unsupervised_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must not allow a child to leave the center unsupervised.",
+   "section": "8VAC20-780-340",
+   "page": 33,
+   "quote": "J. Staff shall not allow a child to leave the center unsupervised."
+  },
+  {
+   "id": "staff_greet_children",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must greet each child upon arrival at the center and oversee each child's departure from the center.",
+   "section": "8VAC20-780-340",
+   "page": 33,
+   "quote": "I. Staff shall greet each child upon arrival at the center and oversee each child's departure from the center."
+  },
+  {
+   "id": "mixed_age_youngest_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "When children are in ongoing mixed age groups, the staff-to-children ratio and group size applicable to the youngest child in the group must apply to the entire group.",
+   "section": "8VAC20-780-350",
+   "page": 33,
+   "quote": "C. When children are in ongoing mixed age groups, the staff-to-children ratio and group size applicable to the youngest child in the group shall apply to the entire group."
+  },
+  {
+   "id": "rest_period_ratios",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "During designated rest periods, reduced ratios are permitted only if staff remain within sight and sound in the same space, an additional staff member is available on-site, and ratios return to normal once at least half of children are awake and off mats or cots.",
+   "section": "8VAC20-780-350",
+   "page": 34,
+   "quote": "I. For children ages 16 months through preschool age, during the designated rest period, when children are resting or in an inactive state, the following rest period ratios are permitted if the requirements of subsections J through N of this section are met: 1. Children 16 through 24 months of age: one staff per 10 children. 2. Children two years of age: one staff per 16 children. 3. Children of preschool age: one staff per 20 children. J. Staff required by rest period ratios shall be within sight and sound at all times in the same space as the resting or sleeping children. K. In addition to the staff required by rest period ratios, an additional staff member shall always be available on-site to offer immediate assistance. The staff required by rest period ratios shall be able to summon the additional staff member without leaving the room or area of the sleeping or resting children. L. Once at least half of the children in the resting room or area are awake and off their mats or cots, the staff-to-children ratio shall meet the ratios as required in subsection B of this section."
+  },
+  {
+   "id": "therapeutic_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Therapeutic child day programs must follow the special staff-to-children ratios in 8VAC20-780-355 according to children's special needs, with the most significant need in a group applying to the entire group.",
+   "section": "8VAC20-780-355",
+   "page": 35,
+   "quote": "5. When children with varied special needs are included in a group, the staff-to-children ratio applicable to the child with the most significant special need in the group shall apply to the entire group."
+  },
+  {
+   "id": "safe_sleep_infants",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs when placed in a crib, with exceptions for infants who can turn over or physician direction, and resting or sleeping infants must be individually checked every 15-20 minutes.",
+   "section": "8VAC20-780-370",
+   "page": 36,
+   "quote": "1. Sleep as needed. a. When an infant is placed in his crib, he shall be placed on his back (supine). b. When an infant is able to easily turn over from the back (supine) to the belly (prone) position and he is placed in his crib, he shall still be put on his back (supine) but allowed to adopt whatever position he prefers. This applies unless otherwise directed by the infant's physician in writing. c. If the side position is used, caregivers shall bring the dependent arm forward to lessen the likelihood of the infant rolling into a belly (prone) position. d. Resting or sleeping infants shall be individually checked every 15-20 minutes."
+  },
+  {
+   "id": "outdoor_activity_toddlers_preschoolers",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The daily schedule for toddlers and preschoolers must include outdoor activity, weather and air quality allowing, for at least 15 minutes, 30 minutes, or one hour depending on hours of operation.",
+   "section": "8VAC20-780-380",
+   "page": 37,
+   "quote": "1. Outdoor activity, weather and air quality allowing, for at least: a. Fifteen minutes per day or session if the center operates up to three hours per day or session; b. Thirty minutes per day or session if the center operates between three and five hours per day or session; or c. One hour per day or session if the center operates more than five hours per day or session."
+  },
+  {
+   "id": "rest_period_toddlers_preschoolers",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Centers operating five or more hours per day must have a designated rest period for at least one hour but no more than two hours, with cribs, cots, beds, or mats used.",
+   "section": "8VAC20-780-380",
+   "page": 37,
+   "quote": "2. Sleep or rest. a. Centers operating five or more hours per day shall have a designated rest period for at least one hour but no more than two hours. (1) Cribs, cots, beds, or mats shall be used. (2) After the first 30 minutes, children not sleeping may engage in quiet activities."
+  },
+  {
+   "id": "time_out_limits",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Time out, if used, must be used sparingly, not exceed one minute per year of age, not be used with infants or toddlers, and keep the child in a safe, lighted, well-ventilated place within actual sight and sound of staff.",
+   "section": "8VAC20-780-400",
+   "page": 38,
+   "quote": "C. When time out is used as a behavior guidance technique: 1. It shall be used sparingly and shall not exceed one minute for each year of the child's age; 2. It shall be appropriate to the child's developmental level and individual needs; 3. It shall not be used with infants or toddlers; 4. The child shall be in a safe, lighted, well-ventilated place, and within actual sight and sound of a staff member; and 5. The child shall not be left alone inside or outside the center."
+  },
+  {
+   "id": "handbook_philosophy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's philosophy and any religious affiliation.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "1. The center's philosophy and any religious affiliation;"
+  },
+  {
+   "id": "handbook_operating_info",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing operating information, including hours, days, holidays or other times closed, and the phone number where a message can be given to staff.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "2. Operating information, including the hours and days of operation and holidays or other times closed, and the phone number where a message can be given to staff;"
+  },
+  {
+   "id": "handbook_transportation_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's transportation policy.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "3. The center's transportation policy;"
+  },
+  {
+   "id": "handbook_arrival_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policies for arrival and departure of children, including authorized pickup verification, late pickup, and emergency situations.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "4. The center's policies for the arrival and departure of children, including procedures for verifying that only persons authorized by the parent are allowed to pick up the child, picking up children after closing, and when a child is not picked up for emergency situations including inclement weather or natural or man-made disasters;"
+  },
+  {
+   "id": "handbook_medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy regarding any medication or medical procedures that will be given.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "5. The center's policy regarding any medication or medical procedures that will be given;"
+  },
+  {
+   "id": "handbook_sunscreen_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy regarding application of sunscreen.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "6. The center's policy regarding application of: a. Sunscreen;"
+  },
+  {
+   "id": "handbook_diaper_ointment_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy regarding application of diaper ointment or cream.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "b. Diaper ointment or cream; and"
+  },
+  {
+   "id": "handbook_insect_repellent_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy regarding application of insect repellent.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "6. The center's policy regarding application of: a. Sunscreen; b. Diaper ointment or cream; and c. Insect repellent."
+  },
+  {
+   "id": "handbook_lines_authority",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing a description of established lines of authority for staff.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "7. Description of established lines of authority for staff;"
+  },
+  {
+   "id": "handbook_abuse_reporting_policy",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy for reporting suspected child abuse as required by law.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "8. Policy for reporting suspected child abuse as required by § 63.2-1509 of the Code of Virginia;"
+  },
+  {
+   "id": "authorized_pickup_only",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must verify that only persons authorized by the parent are allowed to pick up the child, and a child must not leave the center unsupervised.",
+   "section": "8VAC20-780-420",
+   "page": 39,
+   "quote": "4. The center's policies for the arrival and departure of children, including procedures for verifying that only persons authorized by the parent are allowed to pick up the child, picking up children after closing, and when a child is not picked up for emergency situations including inclement weather or natural or man-made disasters;"
+  },
+  {
+   "id": "forbidden_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The center must not use forbidden actions or threats, including physical punishment, enclosure in a confined space, punishment by another child, separation from hearing and vision of staff, withholding or forcing food or rest, demeaning remarks, punishment for toileting accidents, or applying unpleasant or harmful substances.",
+   "section": "8VAC20-780-410",
+   "page": 39,
+   "quote": "The following actions or threats thereof are forbidden: 1. Physical punishment, striking a child, roughly handling or shaking a child, restricting movement through binding or tying, forcing a child to assume an uncomfortable position, or exercise as punishment; 2. Enclosure in a small confined space or any space that the child cannot freely exit himself; however, this does not apply to the use of equipment such as cribs, play yards, high chairs, and safety gates when used with children preschool age or younger for their intended purpose; 3. Punishment by another child; 4. Separation from the group so that the child is away from the hearing and vision of a staff member; 5. Withholding or forcing of food or rest; 6. Verbal remarks which are demeaning to the child; 7. Punishment for toileting accidents; and 8. Punishment by applying unpleasant or harmful substances."
+  },
+  {
+   "id": "handbook_parent_admission_right",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the custodial parent's right to be admitted to the center as required by law.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "9. The custodial parent's right to be admitted to the center as required by § 22.1-289.054 of the Code of Virginia;"
+  },
+  {
+   "id": "handbook_emergency_communication",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's policy for communicating an emergency situation with parents.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "10. Policy for communicating an emergency situation with parents;"
+  },
+  {
+   "id": "handbook_daily_schedule",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the appropriate general daily schedule for the age of the enrolling child.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "11. The appropriate general daily schedule for the age of the enrolling child;"
+  },
+  {
+   "id": "handbook_food_policies",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's food policies.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "11. The appropriate general daily schedule for the age of the enrolling child; 12. Food policies; 13. Discipline policies including acceptable and unacceptable discipline measures; and"
+  },
+  {
+   "id": "handbook_discipline_policies",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's discipline policies, including acceptable and unacceptable discipline measures.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "13. Discipline policies including acceptable and unacceptable discipline measures; and"
+  },
+  {
+   "id": "handbook_termination_policies",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Before a child's first day, parents must be given in writing the center's termination policies.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "13. Discipline policies including acceptable and unacceptable discipline measures; and 14. Termination policies."
+  },
+  {
+   "id": "infant_daily_record",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "For each infant, the center must post a daily record easily accessed by parent and staff containing sleep, food, bowel movements, developmental milestones, and stomach time for infants unable to turn over.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "1. For each infant, the center shall post a daily record which can be easily accessed by both the parent and the staff working with the child. The record shall contain the following information: a. The amount of time the infant slept; b. The amount of food consumed and the time; c. A description and time of bowel movements; d. Developmental milestones; and e. For infants, who are awake and cannot turn over by themselves, the amount of time spent on their stomachs."
+  },
+  {
+   "id": "semiannual_development_info",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be provided at least semiannually in writing information on their child's development, behavior, adjustment, and needs, with documented sharing of information.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "3. Parents shall be provided at least semiannually in writing information on their child's development, behavior, adjustment, and needs. a. Staff shall provide at least semiannual scheduled opportunities for parents to provide feedback on their children and the center's program. b. Staff shall request at least annually parent confirmation that the required information in the child's record is up to date. c. Such sharing of information shall be documented."
+  },
+  {
+   "id": "parent_access_center",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A custodial parent must be admitted to any child day program while the child is in the program.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "C. A custodial parent shall be admitted to any child day program. Such right of admission shall apply only while the child is in the child day program (§ 22.1-289.054 of the Code of Virginia)."
+  },
+  {
+   "id": "parent_informed_termination",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of reasons for termination of services.",
+   "section": "8VAC20-780-420",
+   "page": 40,
+   "quote": "4. Parents shall be informed of reasons for termination of services."
+  },
+  {
+   "id": "no_pillows_under_two",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Pillows and filled comforters must not be used by children under two years of age, and crib bumper pads are prohibited.",
+   "section": "8VAC20-780-440",
+   "page": 43,
+   "quote": "L. Pillows and filled comforters shall not be used by children under two years of age. M. Use of crib bumper pads shall be prohibited."
+  },
+  {
+   "id": "swimming_two_staff",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "At least two staff members must supervise swimming or wading activities, and the designated certified lifeguard must not be counted in staff-to-children ratios.",
+   "section": "8VAC20-780-460",
+   "page": 43,
+   "quote": "A. The staff-to-children ratios required by 8VAC20-780-350 B and 8VAC20-780-355 A and B shall be maintained while children are participating in swimming or wading activities. 1. Notwithstanding the staff-to-children ratios already indicated, at no time shall there be fewer than two staff members supervising the activity. 2. The designated certified lifeguard shall not be counted in the staff-to-children ratios."
+  },
+  {
+   "id": "swimming_lifeguard",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "If a pool, lake, or other swimming area has water depth of more than two feet, a certified lifeguard holding a current certificate must be on duty supervising children at all times when one or more children are in the water.",
+   "section": "8VAC20-780-460",
+   "page": 44,
+   "quote": "B. If a pool, lake, or other swimming area has a water depth of more than two feet, a certified lifeguard holding a current certificate shall be on duty supervising the children participating in swimming or wading activities at all times when one or more children are in the water."
+  },
+  {
+   "id": "swimming_written_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The center must maintain written permission from the parent of each child who participates in swimming or wading and a statement advising of the child's swimming skills before water above shoulder height.",
+   "section": "8VAC20-780-480",
+   "page": 45,
+   "quote": "B. The center shall maintain (i) written permission from the parent of each child who participates in swimming or wading and (ii) a statement from the parent advising of a child's swimming skills before the child is allowed in water above the child's shoulder height."
+  },
+  {
+   "id": "swimming_safety_rules",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The center must have emergency procedures and written safety rules for swimming or wading, or follow posted rules of public pools, and explain them to participating children.",
+   "section": "8VAC20-780-480",
+   "page": 45,
+   "quote": "A. The center shall have emergency procedures and written safety rules for swimming or wading or follow the posted rules of public pools that are: 1. Posted in the swimming area when the pool is located on the premises of the center; and 2. Explained to children participating in swimming or wading activities."
+  },
+  {
+   "id": "communicable_disease_exposure_notice",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "When children have been exposed to a communicable disease listed on the Department of Health chart, parents must be notified within 24 hours or the next business day, except life-threatening diseases require immediate notice.",
+   "section": "8VAC20-780-490",
+   "page": 45,
+   "quote": "C. When children at the center have been exposed to a communicable disease listed in the Department of Health's current communicable disease chart, the parents shall be notified within 24 hours or the next business day of the center's having been informed unless forbidden by law, except for life threatening diseases, which must be reported to parents immediately."
+  },
+  {
+   "id": "sick_child_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child must not attend for the day if the child has a temperature over 101°F, recurrent vomiting or diarrhea, or a communicable disease.",
+   "section": "8VAC20-780-490",
+   "page": 45,
+   "quote": "A. A child shall not be allowed to attend the center for the day if he has: 1. A temperature over 101°F; 2. Recurrent vomiting or diarrhea; or 3. A communicable disease."
+  },
+  {
+   "id": "sick_child_quiet_area",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "If a child needs to be excluded, arrangements must be made for the child to leave as soon as possible and the child must remain in the designated quiet area until leaving.",
+   "section": "8VAC20-780-490",
+   "page": 45,
+   "quote": "B. If a child needs to be excluded according to subsection A of this section, the following shall apply: 1. Arrangements shall be made for the child to leave the center as soon as possible after the signs or symptoms are noticed; and 2. The child shall remain in the designated quiet area until leaving the center."
+  },
+  {
+   "id": "handwashing",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children's hands must be washed with soap and running water or disposable wipes before and after eating and after toileting or contact with blood, feces, or urine; staff must wash hands at specified times including before feeding and after diaper changes.",
+   "section": "8VAC20-780-500",
+   "page": 46,
+   "quote": "A. Hand washing. 1. Children's hands shall be washed with soap and running water or disposable wipes before and after eating meals or snacks. 2. Children's hands shall be washed with soap and running water after toileting and any contact with blood, feces, or urine. 3. Staff shall wash their hands with soap and running water: a. Before and after helping a child use the toilet; b. Before and after a diaper change; c. After the staff member uses the toilet; d. After any contact with body fluids; e. Before feeding or helping children with feeding; and f. Before preparing or serving food or beverages."
+  },
+  {
+   "id": "diapering_surface",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The diapering surface must be used only for diapering or cleaning children and must be cleaned with soap and at least room temperature water and sanitized after each use.",
+   "section": "8VAC20-780-500",
+   "page": 46,
+   "quote": "7. The diapering surface shall be used only for diapering or cleaning children, and it shall be cleaned with soap and at least room temperature water and sanitized after each use. Tables used for children's activities or meals shall not be used for changing diapers."
+  },
+  {
+   "id": "written_medication_procedures",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The center's procedures for administering medication must include general restrictions, nonprescription consistency with manufacturer instructions, authorization duration, and methods to prevent use of outdated medication.",
+   "section": "8VAC20-780-510",
+   "page": 47,
+   "quote": "E. The center's procedures for administering medication shall: 1. Include any general restrictions of the center. 2. For nonprescription medication, be consistent with the manufacturer's instructions for age, duration, and dosage. 3. Include duration of the parent's authorization for medication, provided that it shall expire or be renewed after 10 work days. Long-term prescription drug use and over-the-counter medication may be allowed with written authorization from the child's physician and parent. 4. Include methods to prevent use of outdated medication."
+  },
+  {
+   "id": "medication_written_authorization",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Prescription and nonprescription medication must be given only with written authorization from the parent and according to the center's written medication policies.",
+   "section": "8VAC20-780-510",
+   "page": 47,
+   "quote": "B. Prescription and nonprescription medication shall be given to a child: 1. According to the center's written medication policies; and 2. Only with written authorization from the parent."
+  },
+  {
+   "id": "medication_administered_by_18",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication must be administered by a staff member who is 18 years of age or older.",
+   "section": "8VAC20-780-510",
+   "page": 47,
+   "quote": "C. Medication shall be administered by a staff member who is 18 years of age or older."
+  },
+  {
+   "id": "medication_authorization_expiry",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication authorization must expire or be renewed after 10 work days, with long-term use allowed with written authorization from the child's physician and parent.",
+   "section": "8VAC20-780-510",
+   "page": 47,
+   "quote": "3. Include duration of the parent's authorization for medication, provided that it shall expire or be renewed after 10 work days. Long-term prescription drug use and over-the-counter medication may be allowed with written authorization from the child's physician and parent."
+  },
+  {
+   "id": "toilet_training_ratio",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "For every 10 children in the process of being toilet trained, there must be at least one toilet chair, child-sized toilet, or adult-sized toilet with platform or steps and adapter seat.",
+   "section": "8VAC20-780-500",
+   "page": 47,
+   "quote": "C. Toilet training. For every 10 children in the process of being toilet trained, there shall be at least one toilet chair or one child-sized toilet, or at least one adult sized toilet with a platform or steps and adapter seat."
+  },
+  {
+   "id": "medication_locked",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication, except prescriptions designated otherwise by written physician's order, must be kept in a locked place using a safe locking method that prevents access by children.",
+   "section": "8VAC20-780-510",
+   "page": 48,
+   "quote": "L. Medication, except for those prescriptions designated otherwise by written physician's order, including refrigerated medication and staff's personal medication, shall be kept in a locked place using a safe locking method that prevents access by children."
+  },
+  {
+   "id": "medication_record",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Centers must keep a record of medication given to children, including child, amount and type, day and time, staff member, adverse reactions, and medication errors.",
+   "section": "8VAC20-780-510",
+   "page": 48,
+   "quote": "N. Centers shall keep a record of medication given children, which shall include the following: 1. Child to whom medication was administered; 2. Amount and type of medication administered to the child; 3. The day and time the medication was administered to the child; 4. Staff member administering the medication; 5. Any adverse reactions; and 6. Any medication error."
+  },
+  {
+   "id": "medication_adverse_reaction_notice",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Staff must inform parents immediately of any adverse reactions to medication administered and any medication error.",
+   "section": "8VAC20-780-510",
+   "page": 48,
+   "quote": "O. Staff shall inform parents immediately of any adverse reactions to medication administered and any medication error."
+  },
+  {
+   "id": "first_aid_cpr_classroom",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "At least one staff in each classroom or area where children are present must have current CPR and first aid certification appropriate to the age of children in care.",
+   "section": "8VAC20-780-530",
+   "page": 49,
+   "quote": "A. At least one staff in each classroom or area where children are present shall have, within 90 days of October 13, 2021: 1. Current certification in cardiopulmonary resuscitation (CPR) as appropriate to the age of the children in care from an organization such as the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council. The training shall include an in-person competency demonstration; and 2. Current certification in first aid from an organization such as the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council."
+  },
+  {
+   "id": "first_aid_cpr_two_staff",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "At least two staff members who meet CPR and first aid requirements must be present on the premises during the center's hours of operation, on field trips, and wherever children are in care.",
+   "section": "8VAC20-780-530",
+   "page": 50,
+   "quote": "C. There shall be at least two staff members who meet the requirements of subsection A of this section present on the premises during the center's hours of operation, on fieldtrips, and wherever children are in care."
+  },
+  {
+   "id": "first_aid_kit",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A first aid kit must be on each floor of each building used by children, accessible to outdoor play areas, on field trips, and wherever children are in care, with specified minimum contents.",
+   "section": "8VAC20-780-540",
+   "page": 50,
+   "quote": "A. A first aid kit shall be: 1. On each floor of each building used by children; 2. Accessible to outdoor play areas; 3. On field trips; and 4. Wherever children are in care. B. Each first aid kit shall be easily accessible to staff but not to children. C. The required first aid kits shall include at a minimum: 1. Scissors; 2. Tweezers; 3. Gauze pads; 4. Adhesive tape; 5. Band-aids, assorted types; 6. An antiseptic cleansing solution /pads; 7. Thermometer; 8. Triangular bandages; 9. Single use gloves such as surgical or examination gloves; and 10. The first aid instructional manual."
+  },
+  {
+   "id": "written_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have a written emergency preparedness plan addressing evacuation, relocation, shelter-in-place, and lockdown, developed in consultation with local or state authorities.",
+   "section": "8VAC20-780-550",
+   "page": 51,
+   "quote": "A. The center shall have a written emergency preparedness plan that addresses staff responsibility and facility readiness with respect to emergency evacuation and relocation, shelter-in-place, and lockdown."
+  },
+  {
+   "id": "emergency_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must implement a monthly practice evacuation drill, practice shelter-in-place procedures at least twice per year, and practice lockdown procedures at least annually, with documentation maintained.",
+   "section": "8VAC20-780-550",
+   "page": 52,
+   "quote": "D. The center shall implement a monthly practice evacuation drill. E. Shelter in place procedures shall be practiced a minimum of twice per year. F. Lockdown procedures shall be practiced at least annually. G. Documentation shall be maintained of emergency evacuation, shelter-in-place, and lockdown drills that includes: 1. Identity of the person conducting the drill; 2. The date and time of the drill; 3. The method used for notification of the drill; 4. The number of staff participating; 5. The number of children participating; 6. Any special conditions simulated; 7. The time it took to complete the drill; 8. Problems encountered, if any; and 9. For emergency evacuation drills only, weather conditions."
+  },
+  {
+   "id": "emergency_posted_maps",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency evacuation and shelter-in-place procedures or maps must be posted in a location conspicuous to staff and children on each floor of each building.",
+   "section": "8VAC20-780-550",
+   "page": 52,
+   "quote": "C. Emergency evacuation and shelter-in-place procedures or maps shall be posted in a location conspicuous to staff and children on each floor of each building."
+  },
+  {
+   "id": "emergency_911_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A 911 or local dial number for police, fire and emergency medical services and the number of the regional poison control center must be posted in a visible place at each telephone.",
+   "section": "8VAC20-780-550",
+   "page": 52,
+   "quote": "I. A 911 or local dial number for police, fire and emergency medical services and the number of the regional poison control center shall be posted in a visible place at each telephone."
+  },
+  {
+   "id": "parents_informed_emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Parents must be informed of the center's emergency preparedness plan.",
+   "section": "8VAC20-780-550",
+   "page": 53,
+   "quote": "L. Parents shall be informed of the center's emergency preparedness plan."
+  },
+  {
+   "id": "parent_notified_serious_injury",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The center or other appropriate official must notify the parent immediately if a child is lost, requires emergency medical treatment, or sustains a serious injury.",
+   "section": "8VAC20-780-550",
+   "page": 53,
+   "quote": "N. The center or other appropriate official shall notify the parent immediately if a child is lost, requires emergency medical treatment, or sustains a serious injury."
+  },
+  {
+   "id": "parent_notified_minor_injury",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The center must notify the parent by the end of the day of any known minor injuries.",
+   "section": "8VAC20-780-550",
+   "page": 53,
+   "quote": "O. The center shall notify the parent by the end of the day of any known minor injuries."
+  },
+  {
+   "id": "allergy_reaction_notice",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "A parent must be notified immediately of any confirmed or suspected allergic reaction and of ingestion of or contact with any food in the written care plan, even if no reaction occurred.",
+   "section": "8VAC20-780-550",
+   "page": 53,
+   "quote": "Q. A parent shall be notified immediately of any confirmed or suspected allergic reaction and the ingestion of or contact with any food in the written care plan required in 8VAC20-780-60 A 8 even if a reaction did not occur."
+  },
+  {
+   "id": "menu_posted_parents",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "A menu listing foods to be served for meals and snacks during the current one-week period must be dated, posted in a location conspicuous to parents or given to parents, list substituted food, and be kept on file for one week.",
+   "section": "8VAC20-780-560",
+   "page": 54,
+   "quote": "5. A menu listing foods to be served for meals and snacks during the current one-week period shall: a. Be dated; b. Be posted in a location conspicuous to parents or given to parents; c. List any substituted food; and d. Be kept on file for one week at the center."
+  },
+  {
+   "id": "no_food_allergy_child",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A child with a diagnosed food allergy must not be served any food identified in the written care plan.",
+   "section": "8VAC20-780-560",
+   "page": 54,
+   "quote": "P. A child with a diagnosed food allergy shall not be served any food identified in the written care plan required in 8VAC20-780-60 A 8."
+  },
+  {
+   "id": "nutrition_usda",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "When centers choose to provide meals or snacks, they must follow the most recent age-appropriate nutritional requirements of the USDA Child and Adult Care Food Program.",
+   "section": "8VAC20-780-560",
+   "page": 54,
+   "quote": "F. When centers choose to provide meals or snacks, the following shall apply: 1. Centers shall follow the most recent, age-appropriate nutritional requirements of the Child and Adult Care Food Program of the United States Department of Agriculture (USDA)."
+  },
+  {
+   "id": "choking_hazards_under_three",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children three years of age or younger may not be offered foods that are considered to be potential choking hazards.",
+   "section": "8VAC20-780-560",
+   "page": 54,
+   "quote": "4. Children three years of age or younger may not be offered foods that are considered to be potential choking hazards."
+  },
+  {
+   "id": "cross_contamination_allergy",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "When food is prepared to which a child in care is allergic, staff must take steps to avoid cross contamination to prevent an allergic reaction.",
+   "section": "8VAC20-780-560",
+   "page": 54,
+   "quote": "O. When food is prepared to which a child in care is allergic, staff shall take steps to avoid cross contamination to prevent an allergic reaction."
+  },
+  {
+   "id": "infant_feeding",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Bottle-fed infants who cannot hold their own bottles must be held when fed, and bottles must not be propped or used while the child is in the designated sleeping location.",
+   "section": "8VAC20-780-570",
+   "page": 55,
+   "quote": "B. Bottle fed infants who cannot hold their own bottles shall be held when fed. Bottles shall not be propped or used while the child is in his designated sleeping location."
+  },
+  {
+   "id": "transportation_safety",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "During transportation, Virginia safety belt and child restraint statutes must be followed, children must remain seated with arms, legs, and head inside, doors must be closed and locked, and at least one staff member or the driver must remain in the vehicle when children are present.",
+   "section": "8VAC20-780-580",
+   "page": 56,
+   "quote": "C. The center shall ensure that during transportation of children: 1. Virginia state statutes about safety belts and child restraints are followed as required by §§ 46.2-1095 through 46.2-1100 of the Code of Virginia, and stated maximum number of passengers in a given vehicle is not exceeded; 2. The children remain seated and each child's arms, legs, and head remain inside the vehicle; 3. Doors are closed properly and locked unless locks were not installed by the manufacturer of the vehicle; 4. At least one staff member or the driver always remains in the vehicle when children are present;"
+  },
+  {
+   "id": "field_trip_ratios",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff-to-children ratios must be followed on all field trips, though ratios need not be followed during transportation of school age children to and from the center.",
+   "section": "8VAC20-780-580",
+   "page": 56,
+   "quote": "F. The staff-to-children ratios of 8VAC20-780-350 B and 8VAC20-780-355 shall be followed on all field trips. The staff-to-children ratios need not be followed during transportation of school age children to and from the center. One staff member or adult is necessary in addition to the driver when 16 or more preschool or younger children are being transported in the vehicle."
+  },
+  {
+   "id": "field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parental permission for transportation and field trips must be secured before the scheduled activity.",
+   "section": "8VAC20-780-580",
+   "page": 57,
+   "quote": "L. Parental permission for transportation and field trips shall be secured before the scheduled activity."
+  },
+  {
+   "id": "children_removed_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff must verify that all children have been removed from the vehicle at the conclusion of any trip.",
+   "section": "8VAC20-780-580",
+   "page": 57,
+   "quote": "K. Staff shall verify that all children have been removed from the vehicle at the conclusion of any trip."
+  },
+  {
+   "id": "evening_overnight_care",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Evening and overnight care require separate sleeping areas for children of the opposite sex eight years of age or older.",
+   "section": "8VAC20-780-610",
+   "page": 58,
+   "quote": "E. For evening and overnight care, separate sleeping areas shall be provided for children of the opposite sex eight years of age or older."
+  },
+  {
+   "id": "animals_pets",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Animals kept on the premises must be vaccinated if applicable and removed from contact with children if ill or infested.",
+   "section": "8VAC20-780-600",
+   "page": 58,
+   "quote": "A. Animals that are kept on the premises of the center shall be vaccinated, if applicable, against diseases which present a hazard to the health or safety of children. B. Animals which are, or are suspected of being, ill or infested with external lice, fleas and ticks or internal worms shall be removed from contact with children."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "ratios_by_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must follow the staff-to-children ratios in Table 2 whenever children are in care, including 1:4 for birth up to 16 months and 1:20 for 9 through 12 years.",
+   "section": "8VAC20-780-350",
+   "page": 33,
+   "quote": "B. The staff-to-children ratios specified in Table 2 are required whenever children are in care. TABLE 2. Ratio Requirements 1. Birth up to 16 months 1:4 2. 16 months up to 24 months 1:5 3. 2 year olds 1:8 4. 3 year olds up to school age eligible 1:10 5. School age eligible up to 9 years 1:18 6. 9 years through 12 years 1:20"
+  },
+  {
+   "id": "group_size_limits",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must follow maximum group size limitations in Table 1 whenever children are in care, except school-age children are exempt from group size requirements.",
+   "section": "8VAC20-780-350",
+   "page": 33,
+   "quote": "A. The maximum group size limitations specified in Table 1 shall be followed whenever children are in care. TABLE 1. Maximum Group Size Requirements 1. Birth up to 16 months 12 2. 16 months up to 24 months 15 3. 2 year olds 24 4. 3 year olds up to school age eligible 30"
+  },
+  {
+   "id": "crib_requirements",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Cribs must meet safety standards, not be recalled, have no more than 2-3/8 inches between slats, no more than one inch between mattress and crib, and crib sides must be up and secured when a child is in the crib.",
+   "section": "8VAC20-780-440",
+   "page": 42,
+   "quote": "H. Cribs shall meet the following requirements: 1. They shall meet the Consumer Product Safety Commission Standards at the time they were manufactured; 2. They shall not have been recalled; 3. There shall be no more than six centimeters or 2-3/8 inches of space between slats; 4. There shall be no more than one inch between the mattress and the crib; and 5. End panel cut-outs in cribs shall be of a size not to cause head entrapment. K. Crib sides shall be up and the fastenings secured when a child is in the crib, except when a staff member is giving the child immediate attention."
+  },
+  {
+   "id": "infant_formula_refrigeration",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Prepared infant formula must be refrigerated, dated, and labeled with the child's name, and milk, formula, or breast milk must not be heated or warmed directly in a microwave.",
+   "section": "8VAC20-780-570",
+   "page": 55,
+   "quote": "E. Prepared infant formula shall be refrigerated, dated and labeled with the child's name. G. Milk, formula or breast milk shall not be heated or warmed directly in a microwave. Note: Water for warming milk, formula, or breast milk may be heated in a microwave."
+  },
+  {
+   "id": "restroom_ratios",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Centers must have at least one toilet and one sink per 20 preschool children and at least one standard size toilet and one sink per 30 school age children, with at least two toilets and two sinks overall.",
+   "section": "8VAC20-780-320",
+   "page": 29,
+   "quote": "A. Centers shall have at least two toilets and two sinks. E. Centers shall have at least one toilet and one sink per 20 preschool children and at least one standard size toilet and one sink per 30 school age children. When sharing restroom areas with other programs, the children in those programs shall be included in the toilet and sink ratio calculations. The toilet and sink ratio appropriate to the younger age group shall apply."
+  },
+  {
+   "id": "equipment_safety",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Play equipment used by children must meet specified safety requirements, including openings, S-hooks, and no protrusions, sharp points, shearing points, or pinch points; trampolines may not be used and infant walkers may not be used.",
+   "section": "8VAC20-780-430",
+   "page": 41,
+   "quote": "C. Play equipment used by children shall meet the following requirements: 1. Openings above the ground or floor which allow a 3-1/2 inch by 6-1/4 inch rectangle to fit through shall also allow a nine-inch circle to fit through; 2. S-hooks where provided may not be open more than the thickness of a penny; and 3. Have no protrusions, sharp points, shearing points, or pinch points. H. Trampolines may not be used. L. Infant walkers shall not be used."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0713,
+ "tokens_in": 107894,
+ "tokens_out": 23457,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

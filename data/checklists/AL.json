@@ -1,0 +1,410 @@
+{
+ "state": "AL",
+ "rulebook": "DHR Licensing and Performance Standards for Day Care Centers (eff. Sept. 13, 2021)",
+ "items": [
+  {
+   "id": "swimming_wading_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Written permission signed by each child's parent or guardian must be on file for each child participating in swimming or wading activities.",
+   "section": "C. Facilities, 6. Swimming and Wading at the Center",
+   "page": 20,
+   "quote": "Written permission signed by each child's parent(s)/guardian(s) shall be on file in the center for each child participating in swimming or wading activities."
+  },
+  {
+   "id": "away_from_center_parent_statement",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Before a child participates in away-from-center activities, a written statement signed by each parent or guardian must be on file.",
+   "section": "C. Facilities, 7. Away from center activities",
+   "page": 21,
+   "quote": "IF THE CENTER PROVIDES ACTIVITIES AWAY FROM THE CENTER, A WRITTEN STATEMENT, SIGNED BY EACH CHILD'S PARENT(S)/GUARDIAN(S), SHALL BE ON FILE IN THE CENTER PRIOR TO THE CHILD'S PARTICIPATION IN SUCH ACTIVITIES."
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Required staff-child ratios must be maintained at all times.",
+   "section": "D. Child Care Program, 1. Staffing",
+   "page": 23,
+   "quote": "Required ratios shall be maintained at all times."
+  },
+  {
+   "id": "safe_sleep_supine",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Unless a physician specifies otherwise, each infant younger than twelve months must be placed in a supine position for sleeping.",
+   "section": "D. Child Care Program, 2. Infant/Toddler Daily Program",
+   "page": 26,
+   "quote": "unless the infant has a note from a physician specifying otherwise, each infant younger than twelve (12) months, shall be placed in a supine (on his/her back) position for sleeping to lower the risks of Sudden Infant Death Syndrome (SIDS)."
+  },
+  {
+   "id": "meals_served",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children in attendance must be served breakfast or a morning snack, a nutritious midday meal, and at least one afternoon snack.",
+   "section": "D. Child Care Program, 3. Preschool/School-age Children - Daily Program",
+   "page": 30,
+   "quote": "Children in attendance shall be served breakfast or a morning snack, a nutritious midday meal, and at least one (1) afternoon snack."
+  },
+  {
+   "id": "prohibited_corporal_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The use of corporal or physical punishment is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "The use of corporal or physical punishment is prohibited, including but not limited to spanking; shaking; slapping; kicking; pushing; biting; pinching; hitting; thumping; hair pulling; ear pulling; excessive physical exercise, excessive rest, or strenuous/ bizarre posture."
+  },
+  {
+   "id": "prohibited_verbal_abuse",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The use of verbal abuse is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "The use of verbal abuse is prohibited, including but not limited to: yelling; shouting; name calling; shaming; making derogatory remarks about a child or a child's family; using language that is inappropriate, offensive, threatens, humiliates, or frightens a child;"
+  },
+  {
+   "id": "prohibited_food_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Discipline associated with food, naps, or bathroom procedures is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "The use of discipline associated with food, naps, or bathroom procedures is prohibited, including but not limited to: withholding food as punishment; use of food such as hot sauce, lemon juice, vinegar, etc., or soap, as punishment; punishment for lapses in toilet training; punishment for not sleeping during nap/rest time;"
+  },
+  {
+   "id": "prohibited_physical_restraint_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The use of physical restraint as punishment is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "The use of physical restraint as punishment is prohibited;"
+  },
+  {
+   "id": "prohibited_punishment_by_child",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Punishment administered by another child is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "Punishment administered by another child is prohibited."
+  },
+  {
+   "id": "prohibited_rough_harsh_handling",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Rough or harsh handling of children is prohibited.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "Rough or harsh handling of children, whether associated with discipline or not, is prohibited, including but not limited to: shaking; lifting or jerking by one or both arms; pushing; pulling; forcing or restricting movement; lifting or moving by grasping clothing; covering a child's head; etc."
+  },
+  {
+   "id": "prohibited_physical_activity_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical activity or outdoor time must not be taken away as punishment.",
+   "section": "D. Child Care Program, 4. Disciplinary Practices",
+   "page": 32,
+   "quote": "Physical activity/outdoor time taken away as punishment is prohibited."
+  },
+  {
+   "id": "ill_child_not_admitted",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "No child who is ill shall be admitted to the center.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": 33,
+   "quote": "No child who is ill shall be admitted to the center."
+  },
+  {
+   "id": "ill_child_separated",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child who becomes ill, has a contagious condition, or suffers an injury requiring professional medical attention must be separated promptly from the group with continuous supervision.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": 33,
+   "quote": "Any child in attendance who becomes ill, has a contagious disease or condition, or suffers an injury that requires professional medical attention shall be separated promptly from the group, but shall have continuous supervision by a staff person."
+  },
+  {
+   "id": "parent_notified_illness_injury",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The ill or injured child's parent or guardian must be notified immediately and required to come for or arrange for another designated person to come for the child.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": 33,
+   "quote": "The ill or injured child's parent(s)/guardian(s) shall be notified immediately and required to come for or arrange for another designated person to come for the child."
+  },
+  {
+   "id": "parent_access_any_time",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "The center must be open to visits from parents or guardians at any time during operating hours.",
+   "section": "D. Child Care Program, 5. Staff-Parent Communication",
+   "page": 33,
+   "quote": "The center shall be open to visits from parent(s)/guardian(s) at any time during the center's operating hours."
+  },
+  {
+   "id": "complaint_procedures",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must notify parents or guardians of procedures for making a complaint, including the name or names of persons to contact.",
+   "section": "D. Child Care Program, 5. Staff-Parent Communication",
+   "page": 33,
+   "quote": "The center shall notify parent(s)/guardian(s) of procedures for making a complaint, including name(s) of person(s) to contact."
+  },
+  {
+   "id": "contagious_disease_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "When a contagious disease or condition has been introduced into the center, parents or guardians of each exposed child must be notified.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": 34,
+   "quote": "When a contagious disease/condition (a disease/condition which can be transmitted or spread from person to person) has been introduced into the center, parent(s)/guardian(s) of each exposed child shall be notified."
+  },
+  {
+   "id": "food_allergy_written_care_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Each child with a food allergy should have a written care plan with avoidance instructions and a detailed treatment plan.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": 34,
+   "quote": "Each child with a food allergy should have a written care plan that includes:"
+  },
+  {
+   "id": "emergency_plan_to_parents",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must submit its written disaster plan to the Department and provide copies to all parents or guardians.",
+   "section": "D. Child Care Program, 7. Emergency Preparedness and Response Plans",
+   "page": 36,
+   "quote": "This emergency preparedness plan must be submitted to the Department and copies provided to all parents/guardians."
+  },
+  {
+   "id": "transportation_parent_statement",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Before a child participates in center transportation or away-from-center activities, a written statement signed by each parent or guardian must be on file.",
+   "section": "E. Transportation, 1. Transportation Provided by the Center",
+   "page": 38,
+   "quote": "IF THE CENTER PROVIDES TRANSPORTATION OR ANY ACTIVITIES AWAY FROM THE CENTER, A WRITTEN STATEMENT, SIGNED BY EACH CHILD'S PARENT(S)/GUARDIAN(S), SHALL BE ON FILE IN THE CENTER PRIOR TO THE CHILD'S PARTICIPATION IN SUCH ACTIVITIES."
+  },
+  {
+   "id": "child_passenger_restraint",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Each child must be properly secured using an appropriate child passenger restraint system meeting applicable state and federal motor vehicle safety standards.",
+   "section": "E. Transportation, 1. Transportation Provided by the Center",
+   "page": 39,
+   "quote": "Each child shall be properly secured using an aftermarket or integrated child passenger restraint system meeting applicable state and federal motor vehicle safety standards. Each child passenger restraint system shall be appropriate for the age and size of the child."
+  },
+  {
+   "id": "authorized_pickup_written_authorization",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The center must require written authorization from a parent or guardian to release a child to any person other than the parent, guardian, or persons designated on the child's preadmission form.",
+   "section": "E. Transportation, 2. Transportation Provided by Parent(s)/Guardian(s) or Other Designated Person(s)",
+   "page": 40,
+   "quote": "The center shall require written authorization from a child's parent(s)/guardian(s) to release a child to any person other than the parent(s)/guardian(s) or persons designated on the child's preadmission form."
+  },
+  {
+   "id": "unfamiliar_authorized_person_id",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The center must require unfamiliar authorized persons to show photographic identification when releasing a child.",
+   "section": "E. Transportation, 2. Transportation Provided by Parent(s)/Guardian(s) or Other Designated Person(s)",
+   "page": 40,
+   "quote": "The center shall require unfamiliar authorized persons to show photographic identification when releasing a child."
+  },
+  {
+   "id": "written_operating_policies",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must establish written operating policies, give a copy to parents at enrollment, submit a copy to the Department, and provide changes to parents and the Department.",
+   "section": "H. Administration, 1. Applicant/Licensee",
+   "page": 52,
+   "quote": "Establish written operating policies of the center. (See page 89 for requirements)"
+  },
+  {
+   "id": "admission_capacity_conforms",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The total number of children in care at any time must conform to the number specified on the license, permit, or approval.",
+   "section": "H. Administration, 3. Admission Procedures",
+   "page": 53,
+   "quote": "The total number of the children in the care of the center at any given time, including children on the premises (inside and outside), children in transit, children on field trips, or other center activities, shall conform to that which is specified on the license, permit, or approval."
+  },
+  {
+   "id": "admission_age_range_conforms",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The age range of children in care at any time must conform to the limits specified on the license, permit, or approval.",
+   "section": "H. Administration, 3. Admission Procedures",
+   "page": 53,
+   "quote": "The age range of the children in the care of the center at any given time, including children on the premises (inside and outside), children in transit, children on field trips, or other center activities, shall conform to that which is specified on the license, permit, or approval."
+  },
+  {
+   "id": "drop_in_care_conditions",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "If the center accepts drop-in care, vacancies, ratios, records, and advance arrangements must all be maintained.",
+   "section": "H. Administration, 3. Admission Procedures",
+   "page": 53,
+   "quote": "If the center accepts children for drop-in care, all of the following conditions shall be met:"
+  },
+  {
+   "id": "abuse_neglect_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Each staff person is required by law to report known or suspected child abuse or neglect to the County Department of Human Resources or local law enforcement.",
+   "section": "H. Administration, 2. Reports to the Department",
+   "page": 53,
+   "quote": "Each staff person is required by law (Code of Alabama 1975) to report known or suspected child abuse or neglect (see definition, Section A., 6, page 7) to the County Department of Human Resources or the local chief of police, or county sheriff."
+  },
+  {
+   "id": "immunization_first_day",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "On the child's first day of attendance, each eligible child must have a valid State of Alabama Certificate of Immunization on file unless an exemption or homelessness documentation applies.",
+   "section": "H. Administration, 4. Children's Records",
+   "page": 54,
+   "quote": "On the child's first day of attendance, each child from two (2) months of age to lawful school age and each child of lawful school age who is not enrolled in public or private school kindergarten shall have a valid State of Alabama Certificate of Immunization on file in the center, unless one of the following is on file in the center:"
+  },
+  {
+   "id": "confidential_children_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Children's records and information about children and their families must be kept confidential.",
+   "section": "H. Administration, 4. Children's Records",
+   "page": 54,
+   "quote": "Children's records and information about children and their families shall be kept confidential."
+  },
+  {
+   "id": "child_records_first_day",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Individual records on each child must be on file in the center on the child's first day of attendance.",
+   "section": "H. Administration, 4. Children's Records",
+   "page": 54,
+   "quote": "Individual records on each child shall be on file in the center on the child's first day of attendance."
+  },
+  {
+   "id": "policy_transportation",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include transportation policies if transportation is provided by the center.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": 90,
+   "quote": "Transportation policies if provided by the center"
+  },
+  {
+   "id": "policy_days_hours_open",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include the days and hours the center will be open.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": 90,
+   "quote": "Days and hours the center will be open"
+  },
+  {
+   "id": "policy_emergency_preparedness",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include emergency preparedness response plans.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": 90,
+   "quote": "Emergency Preparedness Response Plans (see pages 35-36)"
+  },
+  {
+   "id": "policy_disciplinary_procedures",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include disciplinary procedures, including reasons for limited use of expulsion or suspension if used.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": 90,
+   "quote": "Disciplinary procedures including reasons for limited use of expulsion or suspension if used."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "policy_statement_purpose",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include a statement of purpose.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n1.\nStatement of purpose"
+  },
+  {
+   "id": "policy_admission_procedures",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include admission procedures and requirements.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n2.\nAdmission procedures and requirements"
+  },
+  {
+   "id": "policy_fees_payment",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include fees and fee payment procedures.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n3.\nFees and fee payment procedures"
+  },
+  {
+   "id": "policy_arrival_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include arrival and departure procedures.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n4.\nArrival and departure procedures"
+  },
+  {
+   "id": "policy_feeding_program",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include the feeding program.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n7.\nFeeding program"
+  },
+  {
+   "id": "policy_health_medical",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include health and medical information.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n8.\nHealth and medical information"
+  },
+  {
+   "id": "policy_clothing_belongings",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written operating policies must include clothing and personal belongings.",
+   "section": "Appendix K. Required items to be included in operating policies",
+   "page": "[AL page 90]",
+   "quote": "The center's operating policies must include but need not be limited to:\n9.\nClothing and personal belongings"
+  },
+  {
+   "id": "medication_written_authorization",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "No medication or medical procedure may be administered without a health professional's order and a written, signed parent or guardian authorization on the required form.",
+   "section": "D. Child Care Program, 6. Health Information",
+   "page": "[AL page 34]",
+   "quote": "No medication or medical procedures (prescription or over the counter) shall be administered without being ordered by the child’s health professional and without a written, signed authorization, on the required form, from the child's parent(s)/guardian(s)."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0494,
+ "tokens_in": 96451,
+ "tokens_out": 9032,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

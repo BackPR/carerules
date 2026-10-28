@@ -1,0 +1,797 @@
+{
+ "state": "MS",
+ "rulebook": "MSDH Regulations Governing Licensure of Child Care Facilities (effective Feb. 26, 2026)",
+ "items": [
+  {
+   "id": "purpose_scope",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state the facility's purpose, scope of service, philosophy, and any religious affiliation.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "The child care facility's purpose, scope of service provided, philosophy, and any religious affiliation."
+  },
+  {
+   "id": "operator_contact",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must give the operator, director, or authority contact names, business address, and home phone number reachable after hours.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Name(s), business address, and home phone number of the operator, director or an individual in authority who can be reached after the facility’s normal hours of operation."
+  },
+  {
+   "id": "business_phone",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must list the facility's business phone number.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "The business phone number of the child care facility."
+  },
+  {
+   "id": "org_chart",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must describe the facility's lines of authority and management responsibility.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Organization chart or other description of established lines of authority of persons responsible for the child care facility's management within the organization."
+  },
+  {
+   "id": "program_ages",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must describe the programs, services, and ages of children accepted.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "The program and services provided and the ages of children accepted."
+  },
+  {
+   "id": "hours_closings",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must state hours and days of operation and holidays or other times closed.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "The hours and days of operation and holidays or other times closed."
+  },
+  {
+   "id": "admission_registration",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must explain admission and registration procedures.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "The procedures for admission and registration of children."
+  },
+  {
+   "id": "tuition_payment",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The handbook must state tuition, payment plans, and delinquent payment policies.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Tuition, plans for payment, and policies regarding delinquent payments."
+  },
+  {
+   "id": "insurance_coverage",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state types of insurance coverage for children or that accident insurance is not provided or available.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Types of insurance coverage for children, or a statement that accident insurance is not provided or available."
+  },
+  {
+   "id": "no_liability_insurance",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If the facility does not carry liability insurance, the parent must sign a statement acknowledging that fact.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "If a facility does not provide liability insurance there shall be a statement in the child’s record, signed by the parent indicating that the parent is aware that the facility does not carry liability insurance."
+  },
+  {
+   "id": "removal_reasons",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The handbook must state reasons, circumstances, and procedures for removing a child from the rolls.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Reasons/circumstances and procedures for removal of children from rolls when parents are requested by facility staff to remove a child."
+  },
+  {
+   "id": "parent_notice_withdrawal",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The handbook must state how much notice a parent must give before removing a child.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Procedures to include the amount of notice a parent is required to give the facility before removing a child."
+  },
+  {
+   "id": "max_hours",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must state the maximum hours per day or week a child may be left at the facility.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Policy governing the maximum hours per day or week that a child can be left at the child care facility."
+  },
+  {
+   "id": "safe_arrival_departure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must describe the approved procedure for safe arrival and departure, including signing children in and out.",
+   "section": "Rule 1.4.1",
+   "page": 11,
+   "quote": "Procedure, approved by the licensing authority, for assuring a child's safe arrival and departure (All children shall be signed in and out of the facility by an authorized individual.)."
+  },
+  {
+   "id": "traffic_hazards",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must describe procedures for protecting children from traffic and other hazards during arrival and departure.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Procedures for protecting children from traffic and other hazards during arrival and departure and when crossing streets."
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must state that children are released only to responsible persons with written authorization.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policy for release of children from the child care facility only to responsible persons for whom the child care facility has written authorization."
+  },
+  {
+   "id": "late_pickup",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The handbook must state the policy for late pickup and procedures if a child is not picked up.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policy governing a parent picking up a child after closing hours and procedures if a child is not picked up."
+  },
+  {
+   "id": "personal_belongings",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state policies for accepting and storing a child's personal belongings.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policies and procedures about accepting and storing a child's personal belongings."
+  },
+  {
+   "id": "discipline_policies",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must state discipline policies, including acceptable and unacceptable discipline measures.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Discipline policies including acceptable and unacceptable discipline measures."
+  },
+  {
+   "id": "transportation_safety",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The handbook must state transportation and safety policies and procedures.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Transportation and safety policies and procedures."
+  },
+  {
+   "id": "photographing_consent",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state the policy prohibiting photographing a child without parental consent.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policies prohibiting the photographing of a child without parental consent."
+  },
+  {
+   "id": "extracurricular",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state policies for a child's participation in extracurricular activities not sponsored by the facility.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policies regarding a child's participation in extracurricular activities not sponsored by the child care facility, including but not limited to baseball, softball, soccer, ballet, or gymnastics."
+  },
+  {
+   "id": "water_activities",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The handbook must state water activity policies and safety procedures, including off-site water activities.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policies regarding water activities and safety procedures. These policies shall include those water activities that take place away from the child care facility property, e.g., taking children to a public swimming pool."
+  },
+  {
+   "id": "sun_safety",
+   "topic": "program of activities",
+   "kind": "must_include",
+   "requirement": "The handbook must encourage sun safety practices and activities.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policies encouraging sun safety practices and activities."
+  },
+  {
+   "id": "medication_procedures",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The handbook must state procedures for storing and giving a child medication.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Procedures for storing and giving a child medication."
+  },
+  {
+   "id": "child_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must state the policy for reporting suspected child abuse.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Policy for reporting suspected child abuse."
+  },
+  {
+   "id": "emergency_medical_care",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The handbook must provide for emergency medical care, treatment of illnesses and accidents, and plans for medical crisis, physician services, parent notification, and religious exemption care.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Provision for emergency medical care, treatment of illnesses and accidents, which include:"
+  },
+  {
+   "id": "evacuation_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must include an evacuation plan with procedures for notifying parents of the relocation site.",
+   "section": "Rule 1.4.1",
+   "page": 12,
+   "quote": "Evacuation plan including procedures for notifying the parents of the relocation site."
+  },
+  {
+   "id": "dangerous_situations",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must state policies and procedures for handling dangerous situations.",
+   "section": "Rule 1.4.1",
+   "page": 13,
+   "quote": "Policy and procedures for handling dangerous situations, including but not limited to, dealing with violent individuals, individuals entering facility with weapons, bomb threats, or conditions posing an immediate threat to children."
+  },
+  {
+   "id": "licensing_summary",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must include a summary of licensing regulations and appendices provided by the licensing agency.",
+   "section": "Rule 1.4.1",
+   "page": 13,
+   "quote": "A summary of the licensing regulations and any appendices thereto, provided by the licensing agency."
+  },
+  {
+   "id": "signed_standards",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Each child's record must contain a parent-signed statement that licensing standards and designated materials were received.",
+   "section": "Rule 1.4.1",
+   "page": 13,
+   "quote": "Each child's record shall contain a statement signed by the child's parent, indicating that they have received a summary of licensing standards and other materials designated by the licensing agency for such distribution."
+  },
+  {
+   "id": "licensing_official",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must give the name and phone number of the MSDH licensing official responsible for inspecting the facility.",
+   "section": "Rule 1.4.1",
+   "page": 13,
+   "quote": "The name and phone number of the MSDH licensing official responsible for the inspection of the facility."
+  },
+  {
+   "id": "complaint_hotline",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must give the toll-free Child Care Facility Complaint Hot Line number.",
+   "section": "Rule 1.4.1",
+   "page": 13,
+   "quote": "The toll free phone number (1-866-489-8734) of the Child Care Facility Complaint Hot Line."
+  },
+  {
+   "id": "smoking_prohibited",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "The handbook must state that smoking or tobacco use is prohibited within the physical confines or campus at any time.",
+   "section": "Rule 1.4.2",
+   "page": 13,
+   "quote": "Smoking or the use of tobacco products in any form is prohibited within the physical confines or the campus of a child care facility at any time."
+  },
+  {
+   "id": "drugs_alcohol_prohibited",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "The handbook must state that alcohol, illegal prescription drug use, and illegal drugs are prohibited within the physical confines or campus at any time.",
+   "section": "Rule 1.4.2",
+   "page": 13,
+   "quote": "The use of alcohol, illegal use of prescription drugs, or use of illegal drugs is prohibited within the physical confines or the campus of a child care facility at any time."
+  },
+  {
+   "id": "caregiver_substances",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "The handbook must state that caregivers may not smoke, use tobacco, alcohol, or drugs anytime a child is under their care, regardless of location.",
+   "section": "Rule 1.4.2",
+   "page": 13,
+   "quote": "Smoking or the use of tobacco products in any form, use of alcohol, illegal use of prescription drugs, or use of illegal drugs by a caregiver is prohibited anytime a child is under the care of such caregiver regardless of location."
+  },
+  {
+   "id": "parental_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must assure parents of welcome access to the facility at all times.",
+   "section": "Rule 1.4.3",
+   "page": 13,
+   "quote": "Child care facilities shall assure the parent that they have welcome access to the child care facility at all times."
+  },
+  {
+   "id": "weapons_prohibited",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "The handbook must state that no firearms or other dangerous weapons are allowed in the facility.",
+   "section": "Rule 1.4.7",
+   "page": 14,
+   "quote": "There shall be no firearms or other dangerous weapons allowed in a child care facility."
+  },
+  {
+   "id": "shaken_baby_policy",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "Centers caring for children up to five years must develop and adopt policies to prevent shaken baby syndrome and abusive head trauma before licensure.",
+   "section": "Rule 1.4.8",
+   "page": 14,
+   "quote": "Each child care center licensed to care for children up to five years of age shall develop and adopt policies to prevent shaken baby syndrome and abusive head trauma prior to licensure."
+  },
+  {
+   "id": "emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must reflect a comprehensive written multi-hazard emergency preparedness, response, and recovery plan.",
+   "section": "Rule 1.4.9",
+   "page": 15,
+   "quote": "Each child care provider shall develop, implement, and maintain a comprehensive, written multi-hazard emergency preparedness, response, and recovery plan to ensure the safety and protection of all children in care during emergencies."
+  },
+  {
+   "id": "emergency_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook or operations must provide for monthly fire and tornado drills and other disaster drills at least every six months.",
+   "section": "Rule 1.4.9",
+   "page": 17,
+   "quote": "Conduct all other disaster drills at least once every six (6) months"
+  },
+  {
+   "id": "cpr_first_aid",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "At least one staff member with valid infant, child, and adult First Aid and CPR certification must be present during all hours of operation.",
+   "section": "Rule 1.4.9",
+   "page": 17,
+   "quote": "During all hours of operation, including arrival and departure, child care providers shall have at least one staff member present that:"
+  },
+  {
+   "id": "records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A child's records must be retained for one year after the child is no longer in attendance.",
+   "section": "Rule 1.6.2",
+   "page": 23,
+   "quote": "A child's records shall be retained for a period of one year after the child is no longer in attendance at the facility."
+  },
+  {
+   "id": "medication_authorization",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "A parent must provide signed written authorization to administer medication.",
+   "section": "Rule 1.6.7",
+   "page": 28,
+   "quote": "Signed written authorization to obtain emergency medical treatment and to administer medication."
+  },
+  {
+   "id": "serious_occurrence",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Serious occurrences must be documented and parents and the licensing agency notified immediately.",
+   "section": "Rule 1.7.1",
+   "page": 28,
+   "quote": "The child care facility shall document any serious occurrences involving a child in the child’s record and immediately notify the child’s parent and the licensing agency either verbally or in writing, such as email."
+  },
+  {
+   "id": "field_trip_consent",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents must give written consent for field trips, either blanket or for specific trips with date, time, and location.",
+   "section": "Rule 1.6.7",
+   "page": 28,
+   "quote": "A parent may choose either (a) to give written consent allowing their child to participate in all field trips, excursions, or series of events outside the child care facility, or (b) to give written consent only for specific trips or events that include an approved date, time, and location."
+  },
+  {
+   "id": "confidentiality",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Individual child records are confidential and may not be disclosed without prior written parental authorization.",
+   "section": "Rule 1.6.7",
+   "page": 28,
+   "quote": "Individual child records are confidential and shall not be disclosed or released without prior written authorization by the parent."
+  },
+  {
+   "id": "infant_daily_reports",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Infants and toddlers must receive daily written reports including intake, disposition, bowel movements, and eating and sleep patterns.",
+   "section": "Rule 1.7.4",
+   "page": 29,
+   "quote": "For infants and toddlers, the child care facility shall provide, to the child's parent, daily written reports that include liquid intake, child’s disposition, bowel movements, and eating and sleep patterns."
+  },
+  {
+   "id": "staff_child_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The handbook must not contradict the required staff-to-child ratios, which apply at all times including opening, closing, field trips, and water activities.",
+   "section": "Rule 1.8.2",
+   "page": 30,
+   "quote": "Staff-to-child ratios shall be met at all times, including during opening/closing, field trips and swimming or water activities whether at the child care premises or off-site."
+  },
+  {
+   "id": "mixed_age_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "In mixed-age groups, the youngest child's age determines the required staff-to-child ratio.",
+   "section": "Rule 1.8.2",
+   "page": 30,
+   "quote": "In mixed age groups, the age of the youngest child in the group determines the staff-to-child ratio."
+  },
+  {
+   "id": "rest_period_staffing",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "During rest periods, children under two may not be supervised by reduced staff, and required ratios must be maintained on the premises.",
+   "section": "Rule 1.8.2",
+   "page": 30,
+   "quote": "With the exception of children under two years of age, children may be under the direct supervision (staff in the same room) of 50 percent of the staff required by this section during rest period times, provided the required staff-to-child ratio is maintained on the premises."
+  },
+  {
+   "id": "one_classroom_supervision",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "No single individual may be responsible for children in more than one classroom at the same time.",
+   "section": "Rule 1.8.2",
+   "page": 30,
+   "quote": "At no time will a single individual be responsible for the supervision of children located in more than one classroom at any given time."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs for sleeping unless written physician orders to the contrary are in the child's record.",
+   "section": "Rule 1.9.4",
+   "page": 32,
+   "quote": "An infant shall be placed on his/her back for sleeping unless written physician orders to the contrary are in the child's record."
+  },
+  {
+   "id": "crib_items",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Pillows, blankets, sheepskins, bumpers, soft objects, stuffed toys, and loose bedding must not be in the crib.",
+   "section": "Rule 1.9.4",
+   "page": 32,
+   "quote": "Items such as but not limited to pillows, blankets, sheepskins, bumpers, soft objects, stuffed toys, loose bedding, etc., shall not be in the crib."
+  },
+  {
+   "id": "infant_outdoor",
+   "topic": "program of activities",
+   "kind": "rule",
+   "requirement": "Each infant must have at least 30 minutes of outdoor activity per day, weather permitting.",
+   "section": "Rule 1.9.5",
+   "page": 32,
+   "quote": "Each infant shall have a minimum of 30 minutes of outdoor activities per day, weather permitting."
+  },
+  {
+   "id": "tv_under_two",
+   "topic": "program of activities",
+   "kind": "rule",
+   "requirement": "Television and electronic media are not allowed for children under two or for staff in infant and toddler areas.",
+   "section": "Rule 1.9.6",
+   "page": 33,
+   "quote": "Television viewing, including video tapes and/or electronic media, is not allowed for children under the age of two or for staff in the infant and toddler area."
+  },
+  {
+   "id": "tv_two_plus",
+   "topic": "program of activities",
+   "kind": "rule",
+   "requirement": "For children age two and older, screen time is limited to one hour per day of educational content as part of the approved daily plan.",
+   "section": "Rule 1.9.6",
+   "page": 33,
+   "quote": "Television viewing, including video tapes and/or other electronic media, cell phone, or other digital media, e.g., computer, iPad®, iTouch®, etc., for children, age two and older, is limited to one hour per day, must be of educational content and a scheduled part of the approved daily plan of activities posted in the facility."
+  },
+  {
+   "id": "sick_child_isolated",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child suspected of having a serious contagious condition must be isolated and returned to the parent as soon as possible.",
+   "section": "Rule 1.12.2",
+   "page": 50,
+   "quote": "A child who is suspected of having a serious contagious condition shall be isolated and returned to the parent as soon as possible."
+  },
+  {
+   "id": "contagious_illness_notice",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Parents of all children must be notified of a contagious illness in the facility as soon as possible.",
+   "section": "Rule 1.12.2",
+   "page": 51,
+   "quote": "Parents of all children shall be notified of a contagious illness in the child care facility as soon as possible."
+  },
+  {
+   "id": "usda_meals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "All meals and snacks must comply with USDA Meal Patterns for Children in Child Care Programs.",
+   "section": "Rule 1.13.1",
+   "page": 53,
+   "quote": "All meals and snacks served to children in a child care center shall comply with the Meal Patterns for Children in Child Care Programs from the United States Department of Agriculture (USDA)."
+  },
+  {
+   "id": "infant_feeding_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A signed written feeding plan must be obtained from parents for children under one year of age.",
+   "section": "Rule 1.13.2",
+   "page": 53,
+   "quote": "A signed written feeding plan for children less than one (1) year of age shall be obtained from Parent(s)."
+  },
+  {
+   "id": "no_honey_under_one",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Honey must not be served to children less than one year of age.",
+   "section": "Rule 1.13.2",
+   "page": 53,
+   "quote": "Honey shall not be served to children less than one (1) year of age."
+  },
+  {
+   "id": "food_cut_sizes",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food for infants must be cut into pieces one-quarter inch or smaller and toddler food one-half inch or smaller.",
+   "section": "Rule 1.13.2",
+   "page": 54,
+   "quote": "Food for infants or children less than one (1) year of age shall be cut into pieces one-quarter inch or smaller, and food for toddlers shall be cut into pieces one-half inch or smaller to prevent choking."
+  },
+  {
+   "id": "weekly_menu",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The facility must provide a menu listing all meals and snacks for the current week.",
+   "section": "Rule 1.13.5",
+   "page": 54,
+   "quote": "The Center shall provide a menu listing all meals and snacks to be served during the current week."
+  },
+  {
+   "id": "milk_by_age",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children 12-24 months must be offered whole milk, and children two and older must be provided non-fat or 1% milk.",
+   "section": "Rule 1.13.8",
+   "page": 56,
+   "quote": "Twelve-twenty-four month olds must be offered whole milk at each meal and/or snack, while children aged two and older must be provided non-fat or 1% milk."
+  },
+  {
+   "id": "modified_diet",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A modified diet for medical reasons requires a written statement from a physician, RDN, or physician assistant on file.",
+   "section": "Rule 1.13.9",
+   "page": 56,
+   "quote": "When a child requires a modified diet for medical reasons, a written statement from a physician, RDN, or physician assistant shall be on file."
+  },
+  {
+   "id": "unconsumed_food",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Unconsumed food or drink served to children must be thrown away.",
+   "section": "Rule 1.13.10",
+   "page": 56,
+   "quote": "Any portions of food or drink which are served to children or placed on the table for service and are not consumed at that meal or snack by the children to whom the portions are served shall be thrown away."
+  },
+  {
+   "id": "corporal_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Corporal punishment, including hitting, spanking, beating, shaking, pinching, and biting, is prohibited.",
+   "section": "Rule 1.14.1",
+   "page": 57,
+   "quote": "Corporal punishment, including hitting, spanking, beating, shaking, pinching, biting, and other measures that produce physical pain."
+  },
+  {
+   "id": "withdrawal_food_rest_bathroom",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Withdrawing or threatening to withdraw food, rest, or bathroom opportunities is prohibited.",
+   "section": "Rule 1.14.1",
+   "page": 57,
+   "quote": "Withdrawal or the threat of withdrawal of food, rest, or bathroom opportunities."
+  },
+  {
+   "id": "abusive_language",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Abusive or profane language, including yelling or harsh tones toward children or within hearing distance, is prohibited.",
+   "section": "Rule 1.14.1",
+   "page": 57,
+   "quote": "Abusive or profane language to include but not limited to yelling at, and/or using harsh tones toward the children or in close proximity (hearing distance) to children."
+  },
+  {
+   "id": "humiliation",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Public or private humiliation, including threats of physical punishment, is prohibited.",
+   "section": "Rule 1.14.1",
+   "page": 57,
+   "quote": "Any form of public or private humiliation, including threats of physical punishment."
+  },
+  {
+   "id": "emotional_abuse",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Emotional abuse, including rejecting, terrorizing, ignoring, isolating out of view, or corrupting a child, is prohibited.",
+   "section": "Rule 1.14.1",
+   "page": 57,
+   "quote": "Any form of emotional abuse, including rejecting, terrorizing, ignoring, isolating (out of view of a caregiver), or corrupting a child."
+  },
+  {
+   "id": "time_out_under_three",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Time out is not allowed for children younger than three years of age.",
+   "section": "Rule 1.14.3",
+   "page": 58,
+   "quote": "“Time out” is not allowed for children younger than three years of age."
+  },
+  {
+   "id": "children_not_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children may not be allowed or instructed to discipline other children.",
+   "section": "Rule 1.14.4",
+   "page": 58,
+   "quote": "Children shall neither be allowed nor be instructed to discipline other children."
+  },
+  {
+   "id": "transport_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "All children must be properly restrained whenever transported in a motor vehicle.",
+   "section": "Rule 1.15.3",
+   "page": 58,
+   "quote": "All children will be properly restrained whenever they are being transported in a motor vehicle."
+  },
+  {
+   "id": "diapering_area",
+   "topic": "health and safety",
+   "kind": "rule",
+   "requirement": "Each room with diaper-wearing children must contain a diapering area with required equipment.",
+   "section": "Rule 1.16.1",
+   "page": 60,
+   "quote": "Each room in which diaper-wearing children play shall contain a diapering area."
+  },
+  {
+   "id": "handwashing_diaper",
+   "topic": "health and safety",
+   "kind": "rule",
+   "requirement": "Employees must wash hands with soap and running water before and after each diaper change.",
+   "section": "Rule 1.16.5",
+   "page": 60,
+   "quote": "Employees shall wash their hands with soap and running water before and after each diaper change."
+  },
+  {
+   "id": "lifeguard",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A certified lifeguard must be present at all swimming and water activities.",
+   "section": "Rule 1.19.2",
+   "page": 63,
+   "quote": "A person having an American Red Cross lifeguard certificate, or the equivalent as recognized by the licensing agency, shall be present at all swimming and water activities."
+  },
+  {
+   "id": "special_needs_plan",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A child with special needs must have an individual activity plan developed by a qualified person and reviewed at least every 12 months.",
+   "section": "Rule 1.20.2",
+   "page": 65,
+   "quote": "A child with special needs shall have an individual activity plan."
+  },
+  {
+   "id": "night_care_bedtime",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Night care bedtime schedules must be established in consultation with the child's parent.",
+   "section": "Rule 1.21.3",
+   "page": 66,
+   "quote": "Bedtime schedules shall be established in consultation with the child's parent."
+  },
+  {
+   "id": "school_age_screen_time",
+   "topic": "program of activities",
+   "kind": "rule",
+   "requirement": "In after-school programs, screen time is limited to one hour per day, with educational use acceptable.",
+   "section": "Rule 1.22.8",
+   "page": 69,
+   "quote": "In after school programs, screen time is limited to one hour per day. Screen or media used for educational purposes is acceptable."
+  },
+  {
+   "id": "hourly_care_limits",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Hourly child care limits care to no more than eight hours per stay and 45 hours per calendar month.",
+   "section": "Rule 1.24.2",
+   "page": 71,
+   "quote": "Limits the care of a child to no more than eight hours per stay not to exceed a total of 45 hours in any calendar month period."
+  },
+  {
+   "id": "hourly_log",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Hourly child care facilities must maintain a log with each child's name, address, phone number, and arrival and departure times.",
+   "section": "Rule 1.24.5",
+   "page": 72,
+   "quote": "hourly child care facilities shall maintain a log containing the name, address, and home phone number of each child along with the date and time of arrival and departure."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "toddler_preschool_outdoor",
+   "topic": "program of activities",
+   "kind": "rule",
+   "requirement": "Toddler, preschool, and school-age children must have at least two hours of outdoor activity per day, weather permitting.",
+   "section": "Rule 1.9.5",
+   "page": 32,
+   "quote": "Toddler, preschool, and school age children shall have a minimum of two hours of outdoor activities per day, weather permitting."
+  },
+  {
+   "id": "sick_child_return",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with a serious contagious condition may not return until certified by a physician to be no longer contagious.",
+   "section": "Rule 1.12.2",
+   "page": 50,
+   "quote": "A child having a serious contagious condition shall not be allowed to return to the child care facility until they have been certified by a physician to be no longer contagious."
+  },
+  {
+   "id": "immunization_forms",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Every child must have a Certificate of Immunization Compliance or Medical/Religious Exemption form before enrollment.",
+   "section": "Rule 1.6.3",
+   "page": 23,
+   "quote": "All children must have one of the following forms before enrollment in a licensed child care facility: Certificate of Immunization Compliance (Form 121) or Certificate of Medical/Religious Exemption (Form 122)"
+  },
+  {
+   "id": "choking_foods_under_four",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Choking-hazard foods such as peanuts, hot dogs, raw carrots, popcorn, grapes, and similar foods must not be served to children under four.",
+   "section": "Rule 1.13.7",
+   "page": 55,
+   "quote": "Foods that are associated with young children’s choking incidents, such as, but not limited to, peanuts, hot dogs, raw carrots, popcorn, fish with bones, cheese cubes, grapes, chunks of peanut butter, and any other food that is of similar shape and size of the trachea/windpipe shall not be served to children less than four (4) years of age."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0593,
+ "tokens_in": 104063,
+ "tokens_out": 14706,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

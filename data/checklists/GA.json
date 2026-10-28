@@ -1,0 +1,598 @@
+{
+ "state": "GA",
+ "rulebook": "Rules and Regulations for Child Care Learning Centers, Ga. Comp. R. & Regs. Subject 591-1-1 (Rules .01-.46), Georgia Secretary of State Rules and Regulations site",
+ "items": [
+  {
+   "id": "outdoor_activity_excusal",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "A child may be excused from outdoor activities only with documentation of medical contraindication or an occasional written parental request for a very limited time.",
+   "section": "Rule 591-1-1-.03(7)(c)",
+   "page": 8,
+   "quote": "A child may be excused from outdoor activities for a limited period of time if there is documentation that outdoor activity is medically contraindicated or there is an occasional written request by the parent that the child be excused from outdoor activities for a very limited amount of time because of special circumstances."
+  },
+  {
+   "id": "confining_equipment_limits",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children under three may not spend more than 30 consecutive minutes in confining equipment and must have daily floor play and tummy time.",
+   "section": "Rule 591-1-1-.03(6)",
+   "page": 8,
+   "quote": "Children less than three (3) years of age shall not spend more than one-half (1/2) hour of time consecutively in confining equipment, such as swings, highchairs, jumpseats, carriers or walkers."
+  },
+  {
+   "id": "nap_rest_periods",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Supervised nap or rest periods must be provided for children under five, and children who do not sleep need not remain lying down more than one hour.",
+   "section": "Rule 591-1-1-.03(12)",
+   "page": 8,
+   "quote": "Supervised nap or rest periods during the day shall be provided for children under five (5) years of age. Children who do not sleep during nap or rest periods shall not be required to remain lying down for more than one (1) hour."
+  },
+  {
+   "id": "daily_schedule_available",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "A daily schedule for each group must be posted in the group's room or area and made available to parents upon request.",
+   "section": "Rule 591-1-1-.03(13)",
+   "page": 9,
+   "quote": "The schedule must be posted in each group's room or area and made available to Parent(s) upon request."
+  },
+  {
+   "id": "admission_continued_enrollment",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A child may not be accepted or continue enrollment if the center cannot provide services necessary to protect the child's health and safety.",
+   "section": "Rule 591-1-1-.04(1)",
+   "page": 9,
+   "quote": "A Center shall not accept a child for enrollment or continue the child's enrollment in the center where the Center Staff determines that services necessary to protect the health and safety of the child while at the Center cannot be provided."
+  },
+  {
+   "id": "media_limits",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Entertainment media is limited to no more than two hours daily per child or group and must be age appropriate.",
+   "section": "Rule 591-1-1-.03(14)",
+   "page": 9,
+   "quote": "The use of entertainment media, such as television, videotaped programs or movies and video or computer games shall be limited to: no more than two (2) hours daily per child or group and shall be provided only at times when alternative activities are available for children who choose not to participate."
+  },
+  {
+   "id": "prohibited_animals",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Animals with vicious propensity, such as pit bull dogs, ferrets, and poisonous snakes, are not permitted on the premises when children are present.",
+   "section": "Rule 591-1-1-.05(1)",
+   "page": 9,
+   "quote": "No animals, such as but not limited to, pit bull dogs, ferrets, and poisonous snakes, which may have a vicious propensity, shall be permitted on the Center premises at any time there are children on the premises."
+  },
+  {
+   "id": "sick_child_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with a temperature of 101 degrees Fahrenheit or higher plus another contagious symptom must not be accepted or allowed to remain at the center.",
+   "section": "Rule 591-1-1-.07(1)",
+   "page": 10,
+   "quote": "A child shall not be accepted nor allowed to remain at the Center if the child has the equivalent of a one hundred one (101) degrees Fahrenheit or higher oral temperature and another contagious symptom, such as but not limited to, a rash, diarrhea or a sore throat."
+  },
+  {
+   "id": "parent_notification_illness_injury",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Parents must be notified immediately for professional medical attention, moderate discomfort symptoms, or health and safety risk incidents, and by end of day for less serious symptoms.",
+   "section": "Rule 591-1-1-.07(2)",
+   "page": 10,
+   "quote": "Immediately notify Parent(s) and obtain specific instructions until child can be picked up or returned to group. When professional medical attention is required, or When child experiences symptoms of moderate discomfort such as elevated temperature, vomiting or diarrhea"
+  },
+  {
+   "id": "bathroom_ratios",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Flush toilets and handwashing sinks must be provided in the required ratios for all children, with at least one flush toilet for potty-training children.",
+   "section": "Rule 591-1-1-.06(1)",
+   "page": 10,
+   "quote": "Flush toilets and hand washing sinks with running water shall be provided in the following minimum ratios for the use of all children:"
+  },
+  {
+   "id": "communicable_disease_written_notice",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Parents of all enrolled children must be notified in writing within 24 hours or the next working day of communicable illnesses identified at the center.",
+   "section": "Rule 591-1-1-.07(3)",
+   "page": 11,
+   "quote": "Parents of all children enrolled shall be notified in writing of the occurrence of any of the illnesses on the most current version of the communicable disease chart, as found on the Department's website"
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child's file must contain evidence of age-appropriate immunizations or a signed affidavit, and no child may continue enrollment more than 30 days without it.",
+   "section": "Rule 591-1-1-.08(2)",
+   "page": 12,
+   "quote": "The file shall also contain evidence of age-appropriate immunizations or a signed affidavit against such immunizations. The items shall be maintained for each child enrolled in the Center on a form approved by the Department, and no child shall continue enrollment in the Center for more than thirty (30) days without such evidence."
+  },
+  {
+   "id": "incident_medical_documentation",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must document incidents requiring professional medical attention, including child name, illness or injury, date, how it occurred, staff present, notification method, and services provided.",
+   "section": "Rule 591-1-1-.08(3)",
+   "page": 12,
+   "quote": "The file shall also contain documentation of incidents requiring professional medical attention, other than simple first aid performed by Center Staff, to include: child's name, type of illness or injury, date of illness or injury, how injury or illness occurred, Staff present, method of notifying Parent(s) and services provided to the child."
+  },
+  {
+   "id": "confidentiality_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Information about enrolled children is confidential and may not be released without written parental permission, except as allowed by rule or emergency.",
+   "section": "Rule 591-1-1-.08(4)",
+   "page": 12,
+   "quote": "Information pertaining to the children enrolled at a Center is considered confidential and may not be released by Center Staff without first obtaining written permission signed by the Parent(s)."
+  },
+  {
+   "id": "authorized_release_only",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Children may be released only to authorized persons, and staff must verify the person's identity and authorization.",
+   "section": "Rule 591-1-1-.08(7)",
+   "page": 13,
+   "quote": "The Center shall ensure that children are only released to authorized person(s), and Center Staff shall take necessary steps to determine that any such person(s) presenting to pick up a child in care is authorized by the Parent(s) of the child"
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Personnel must not use prohibited discipline, including corporal punishment, rough handling, verbal abuse, isolation, restraints, forced feeding, or withholding meals or naps.",
+   "section": "Rule 591-1-1-.11(2)",
+   "page": 16,
+   "quote": "Personnel shall not: physically or sexually abuse a child or engage or permit others to engage in sexually overt conduct in the presence of any child enrolled in the Center; inflict corporal/physical punishment upon a child;"
+  },
+  {
+   "id": "diapering_surface",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Diapers must be changed in the child's crib or on a smooth, nonporous changing surface used only for changing, cleaned with disinfectant between each change.",
+   "section": "Rule 591-1-1-.10(3)",
+   "page": 16,
+   "quote": "Diapers shall be changed in the child's own crib or on a diaper changing surface that is used for no purposes other than changing clothes in each room where infants or any other children wearing diapers are served."
+  },
+  {
+   "id": "field_trip_advance_notice",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Parents must be notified in advance of a child's participation in any field trip, including destination, date, departure time, and estimated return time.",
+   "section": "Rule 591-1-1-.13(1)",
+   "page": 17,
+   "quote": "A Center shall notify Parent(s) in advance of a child's participation in any field trip. The notice shall include the name and address of the trip destination, the date of the trip, time of departure and estimated arrival time back at the Center."
+  },
+  {
+   "id": "field_trip_written_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Written permission signed and dated by a parent is required before a child participates in any field trip.",
+   "section": "Rule 591-1-1-.13(2)",
+   "page": 17,
+   "quote": "A Center shall obtain written permission from Parent(s) in advance of the child's participation in any field trip and such permission must be signed and dated by a Parent."
+  },
+  {
+   "id": "projectile_toys",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Toys that launch projectiles are not allowed, and balloons must not be accessible to preschool children.",
+   "section": "Rule 591-1-1-.12(7)",
+   "page": 17,
+   "quote": "Toys that launch projectiles, such as dart guns, pop guns, slingshots, etc., shall not be allowed in the Center, and balloons shall not be accessible to preschool children."
+  },
+  {
+   "id": "cpr_first_aid_staffing",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "At least 50 percent of caregiver staff present must be trained in pediatric CPR and first aid, with at least one trained staff person in each classroom where children are present.",
+   "section": "Rule 591-1-1-.14(2)(a)",
+   "page": 18,
+   "quote": "When any child is present on the premises, at least fifty percent (50%) of the caregiver staff present shall be trained in pediatric cardiopulmonary resuscitation (CPR) and pediatric first aid."
+  },
+  {
+   "id": "weekly_menu",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must provide a menu listing all meals and snacks for the current week and retain menus for six months.",
+   "section": "Rule 591-1-1-.15(5)",
+   "page": 20,
+   "quote": "The Center shall provide a menu listing all meals and snacks to be served during the current week except for School-age Centers where the food may be provided by the Parent(s) by agreement between the School-age Center and the Parent(s)."
+  },
+  {
+   "id": "choking_food_restrictions",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Foods associated with choking incidents must not be served to children under four, and food must be cut appropriately for each child's age and ability.",
+   "section": "Rule 591-1-1-.15(7)",
+   "page": 21,
+   "quote": "Foods that are associated with young children's choking incidents, such as, but not limited to, peanuts, hot dogs, raw carrots, popcorn, fish with bones, cheese cubes, grapes and any other food that is of similar shape and size of the trachea/windpipe shall not be served to the children less than four (4) years of age."
+  },
+  {
+   "id": "contagious_disease_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children, parents, staff, or others with symptoms of a contagious communicable disease must not be allowed in the center.",
+   "section": "Rule 591-1-1-.17(4)",
+   "page": 26,
+   "quote": "Children, Parents, Staff, or any other persons being supervised by the Staff, shall not be allowed in the Center who knowingly have or present symptoms of a contagious communicable disease (such as fever, coughing, fatigue, muscle aches, diarrhea, etc.)"
+  },
+  {
+   "id": "medication_written_authorization",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Medications may not be dispensed without specific written authorization from the child's physician or parent, including dosage, dates, and times.",
+   "section": "Rule 591-1-1-.20(1)",
+   "page": 29,
+   "quote": "Personnel shall not dispense prescription or non-prescription medications to a child without specific written authorization from the child's physician or Parent. Such authorization will include when applicable, date; full name of the child; name of the medication;"
+  },
+  {
+   "id": "kitchen_child_access",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children are not permitted in the kitchen except as part of a planned, supervised learning experience.",
+   "section": "Rule 591-1-1-.18(12)",
+   "page": 29,
+   "quote": "Children shall not be permitted in the kitchen except as part of a planned, supervised learning experience."
+  },
+  {
+   "id": "usable_space",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "The center must have 35 square feet of usable space per child, excluding kitchens, bathrooms, halls, storage, offices, and adult furniture areas.",
+   "section": "Rule 591-1-1-.19(1)",
+   "page": 29,
+   "quote": "A Center must have thirty-five (35) square feet of usable space per child. Kitchens, bathrooms, closets, halls, storage areas or rooms, offices, rooms designated for Staff use, other single use areas and space occupied by adult size furniture shall be excluded"
+  },
+  {
+   "id": "services_hours_closings",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The written policies must describe the services provided, including ages served, days and times of operation, and days and times the center is closed.",
+   "section": "Rule 591-1-1-.21(1)(a)",
+   "page": 30,
+   "quote": "(a) A description of services to be provided which specifies the ages of children to be served, days and times of operations and days and times that the Center is closed;"
+  },
+  {
+   "id": "enrollment_admission_requirements",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The written policies must describe enrollment and admission requirements, including parents' responsibilities for supplying information and escorting the child.",
+   "section": "Rule 591-1-1-.21(1)(b)",
+   "page": 30,
+   "quote": "(b) A description of enrollment and admission requirements which specifies the Parents' responsibilities for supplying needed information to the Center and escorting the child to and from the Center;"
+  },
+  {
+   "id": "fee_payment_schedule",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The written policies must include a fee and payment schedule covering standard fees, absence and vacation fees, and other charges such as transportation and late fees.",
+   "section": "Rule 591-1-1-.21(1)(c)",
+   "page": 30,
+   "quote": "(c) A fee and payment schedule that specifies the standard fees, fees related to absences and vacations and other charges and fees such as transportation and late fees;"
+  },
+  {
+   "id": "transportation_field_trip_services",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The written policies must describe the center's transportation and field trip services.",
+   "section": "Rule 591-1-1-.21(1)(d)",
+   "page": 30,
+   "quote": "(d) A description of the Center's transportation and field trip services (see rule .36 about transportation requirements);"
+  },
+  {
+   "id": "medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The written policies must describe how medications are handled and how parents are notified of noticeable adverse reactions to prescribed medications.",
+   "section": "Rule 591-1-1-.21(1)(e)",
+   "page": 30,
+   "quote": "(e) A description of handling administration of medication (see rule .20 about medications), and notifying Parent(s) of noticeable adverse reactions to prescribed medications;"
+  },
+  {
+   "id": "illness_injury_notification_policy",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The written policies must describe parental notification for illnesses and injuries and exclusion of sick children.",
+   "section": "Rule 591-1-1-.21(1)(f)",
+   "page": 30,
+   "quote": "(f) A description of parental notification in cases of illnesses and injury and exclusion of sick children (see rule .07 about children's health);"
+  },
+  {
+   "id": "communicable_disease_notification_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The written policies must describe parental notification when a notifiable communicable disease is present.",
+   "section": "Rule 591-1-1-.21(1)(g)",
+   "page": 30,
+   "quote": "(g) A description of parental notification when a notifiable communicable disease is present (see rule .07 about children's health);"
+  },
+  {
+   "id": "medical_emergency_policy",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The written policies must describe how medical emergencies are handled.",
+   "section": "Rule 591-1-1-.21(1)(h)",
+   "page": 30,
+   "quote": "(h) A description of handling medical emergencies (see rule .07 about children's health);"
+  },
+  {
+   "id": "meals_snacks_food_from_home",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The written policies must describe meals and snacks served, including guidelines for food brought from the child's home.",
+   "section": "Rule 591-1-1-.21(1)(i)",
+   "page": 30,
+   "quote": "(i) A description of meals and snacks served, including guidelines for food brought from the child's home;"
+  },
+  {
+   "id": "parental_access_policy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written policies must include permission for parents to access all center areas used by the child.",
+   "section": "Rule 591-1-1-.21(1)(j)",
+   "page": 30,
+   "quote": "(j) Permission for access by the child's Parent(s) to all Center areas used by the child (see rule .22 about parental access);"
+  },
+  {
+   "id": "child_abuse_reporting_law",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The written policies must include child abuse reporting law requirements.",
+   "section": "Rule 591-1-1-.21(1)(k)",
+   "page": 30,
+   "quote": "(k) Child abuse reporting law requirements;"
+  },
+  {
+   "id": "behavior_management_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The written policies must describe behavior management and discipline actions, including practices regarding expulsion and suspension of enrolled children.",
+   "section": "Rule 591-1-1-.21(1)(l)",
+   "page": 31,
+   "quote": "(l) A description of behavior management and discipline actions used by the Center, to include the program's practices regarding the expulsion and suspension of children enrolled for care."
+  },
+  {
+   "id": "nondiscrimination_statement",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written policies must include a nondiscrimination statement.",
+   "section": "Rule 591-1-1-.21(1)(m)",
+   "page": 31,
+   "quote": "(m) Nondiscrimination statement; (n) Center-sponsored religious and cultural activities, if any;"
+  },
+  {
+   "id": "religious_cultural_activities",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The written policies must describe any center-sponsored religious and cultural activities.",
+   "section": "Rule 591-1-1-.21(1)(n)",
+   "page": 31,
+   "quote": "(n) Center-sponsored religious and cultural activities, if any;"
+  },
+  {
+   "id": "infant_toddler_procedures",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "If licensed for infants or toddlers, the written policies must describe diapering, toilet training, and feeding procedures.",
+   "section": "Rule 591-1-1-.21(1)(o)",
+   "page": 31,
+   "quote": "(o) If licensed for the care of an infant or toddler: Center's diapering procedures, Center's toilet training procedures, and Center's feeding procedures;"
+  },
+  {
+   "id": "emergency_preparedness_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The written policies must include a written plan for handling emergencies, including evacuation, relocation, shelter-in-place, lock-down, communication, reunification, and continuity of operations.",
+   "section": "Rule 591-1-1-.21(1)(p)",
+   "page": 31,
+   "quote": "(p) A written plan for handling emergencies, including but not limited to severe weather, fire and other emergency situations (i.e., loss of electrical power or water and death, serious injury or loss of a child, a threatening event, or natural disaster) which may occur at the Center."
+  },
+  {
+   "id": "safe_sleep_practices",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The written policies must describe safe sleep practices, including back sleeping, no soft items in cribs, appropriate sleep clothing, individual bedding, and no swaddling without physician authorization.",
+   "section": "Rule 591-1-1-.21(1)(q)",
+   "page": 31,
+   "quote": "(q) A description of the safe sleep practices followed by the Center that includes the following information: the initial placement of infants on their backs to sleep; no cover or other soft items in crib;"
+  },
+  {
+   "id": "shaken_baby_prevention",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The written policies must describe practices to prevent shaken baby syndrome and abusive head trauma in children up to five years of age.",
+   "section": "Rule 591-1-1-.21(1)(r)",
+   "page": 31,
+   "quote": "(r) A description of the practices followed by the Center to prevent shaken baby syndrome and abusive head trauma in children up to five years of age that includes the following information:"
+  },
+  {
+   "id": "parent_signed_acknowledgment",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must maintain written documentation signed by parents acknowledging that policies and procedures, safe sleep practices, progress, care issues, and participation were discussed.",
+   "section": "Rule 591-1-1-.21(2)",
+   "page": 31,
+   "quote": "The Center shall have written documentation signed by the Parent(s) in each child's file that the Director or designee has: provided to the Parent(s) a copy of the Center's policies and procedures required by this rule;"
+  },
+  {
+   "id": "expulsion_suspension_practices",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The written policies must describe behavior management and discipline actions, including practices regarding expulsion and suspension of enrolled children.",
+   "section": "Rule 591-1-1-.21(1)(l)",
+   "page": 31,
+   "quote": "(l) A description of behavior management and discipline actions used by the Center, to include the program's practices regarding the expulsion and suspension of children enrolled for care."
+  },
+  {
+   "id": "provide_copy_policies",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must provide parents with a copy of the center's policies and procedures.",
+   "section": "Rule 591-1-1-.21(4)",
+   "page": 32,
+   "quote": "The Center shall provide the Parent(s) with a copy of the Center's policies and procedures as required by this rule."
+  },
+  {
+   "id": "parental_access_all_areas",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Custodial parents must be permitted access to all child care areas at any time the child is in attendance.",
+   "section": "Rule 591-1-1-.22",
+   "page": 32,
+   "quote": "The custodial parent(s) of the child shall at any time the child is in attendance be permitted access to all child care areas of the Center and shall make his or her presence known to Center Staff prior to removing the child from the Center."
+  },
+  {
+   "id": "fire_safety_compliance",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must comply with applicable fire safety laws and regulations, including a certificate of occupancy if required.",
+   "section": "Rule 591-1-1-.25(10)",
+   "page": 33,
+   "quote": "A Center must be in compliance with applicable laws and regulations issued by the state fire marshal, the proper local fire marshal or state inspector, including a certificate of occupancy if required prior to receiving any children for care."
+  },
+  {
+   "id": "playground_fence",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Playgrounds must be protected by a four-foot or higher secure fence or other approved barrier.",
+   "section": "Rule 591-1-1-.26(4)",
+   "page": 35,
+   "quote": "Playgrounds shall be protected from traffic or other hazards by a four (4) foot or higher secure fence or other barrier approved by this Department."
+  },
+  {
+   "id": "abuse_neglect_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Suspected child abuse, neglect, or deprivation must be reported to the local county DFCS and the Department within 24 hours or the next work day.",
+   "section": "Rule 591-1-1-.29(1)",
+   "page": 36,
+   "quote": "Within twenty-four (24) hours or the next work day, the Director or designated person-in-charge shall report or cause to be reported any suspected incidents of child abuse, neglect or deprivation to the local County Division of Family and Children Services"
+  },
+  {
+   "id": "posted_license_notices",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The center must post its current license or permit, rules, communicable disease chart, emergency plans, menu, and notice of parents' right to review the latest licensure evaluation report.",
+   "section": "Rule 591-1-1-.27",
+   "page": 36,
+   "quote": "Each Center shall post in a designated area for public viewing near the front entrance the following: the Center's current License or Permit; a copy of these rules; a copy of the current communicable disease chart;"
+  },
+  {
+   "id": "prohibited_substances",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Staff, chaperones, and students-in-training must not be under the influence of or consume alcohol, marijuana, or other controlled substances on the premises during operation or where children are present.",
+   "section": "Rule 591-1-1-.28(1)",
+   "page": 36,
+   "quote": "Staff, chaperones and Students-in-Training shall not be under the influence of or consume alcohol, marijuana or other controlled substances on the Center premises during the hours of operation or at any other time or place where there are children present for whom the Center Staff is responsible."
+  },
+  {
+   "id": "required_reports_to_department",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Deaths, serious illnesses or injuries, missing children, fires, structural disasters, relocations, and operating status changes must be reported to the Department within 24 hours or the next work day.",
+   "section": "Rule 591-1-1-.29(3)",
+   "page": 37,
+   "quote": "The Director or designated person-in-charge shall report or cause to be reported to the Department within twenty-four (24) hours or the next work day: any death of a child while in the care of the Center; any serious illness or injury requiring hospitalization or professional medical attention other than first aid"
+  },
+  {
+   "id": "infant_crib_standards",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Each infant must have a safety-approved crib meeting CPSC and ASTM standards, with a firm tight-fitting mattress and individual tight-fitting sheet.",
+   "section": "Rule 591-1-1-.30(1)(a)",
+   "page": 37,
+   "quote": "A crib that is safety approved in compliance with Consumer Product Safety Commission (CPSC) and American Society of Testing and Materials International (ASTM) safety standards shall be provided for each infant."
+  },
+  {
+   "id": "safe_sleep_back_position",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs to sleep unless a physician's written statement authorizes another position.",
+   "section": "Rule 591-1-1-.30(2)",
+   "page": 39,
+   "quote": "Center Staff shall place an infant to sleep on the infant's back unless the Parent has provided a physician's written statement authorizing another sleep position for that particular infant"
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must establish groupings and maintain staff-to-child ratios by age, including maximum group sizes.",
+   "section": "Rule 591-1-1-.32(1)",
+   "page": 47,
+   "quote": "A Center must establish groupings of children for care and maintain Staff: child ratios as follows:"
+  },
+  {
+   "id": "staff_work_hours",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Staff must not regularly be scheduled for child care duties for more than 12 hours within any 24-hour period.",
+   "section": "Rule 591-1-1-.31(12)",
+   "page": 47,
+   "quote": "Staff shall not regularly be scheduled to perform child care duties for more than twelve (12) hours within any twenty-four (24) hour period."
+  },
+  {
+   "id": "annual_staff_training",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Supervisory and caregiver personnel must complete 10 clock hours of diverse training each calendar year after the first year of employment.",
+   "section": "Rule 591-1-1-.33(5)(a)",
+   "page": 50,
+   "quote": "Every calendar year after the first year of employment, all supervisory and caregiver Personnel, except independent contractors, Students-in-Training and volunteers, shall attend ten (10) clock hours of diverse training which is offered by an accredited college, university or vocational program or other Department-approved source."
+  },
+  {
+   "id": "swimming_written_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "No child may participate in a swimming activity without the parents' written permission.",
+   "section": "Rule 591-1-1-.35(6)",
+   "page": 52,
+   "quote": "No child shall participate in a swimming activity without the Parents' written permission."
+  },
+  {
+   "id": "transportation_written_authorization",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Routine transportation requires written parental authorization specifying pickup and delivery locations, times, and authorized recipients.",
+   "section": "Rule 591-1-1-.36(6)",
+   "page": 55,
+   "quote": "For routine transportation provided by the Center or on behalf of the Center, the child's Parent(s) must provide written authorization for the transportation and specify routine pick-up location, routine pick-up time, routine delivery location, routine delivery time and the name of any person authorized to receive the child."
+  },
+  {
+   "id": "transportation_plan",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transportation must include current passenger information, emergency medical information, passenger checklists, and vehicle checks by two designated staff.",
+   "section": "Rule 591-1-1-.36(7)",
+   "page": 55,
+   "quote": "For all transportation conducted by the Center or on behalf of the Center, the following requirements shall be met:"
+  },
+  {
+   "id": "travel_time_limit",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Unless accompanied by a parent, no child may be required to travel more than 45 minutes each trip between the center and destination, excluding field trips.",
+   "section": "Rule 591-1-1-.36(8)",
+   "page": 57,
+   "quote": "Unless accompanied by his or her Parent, no child shall be required to travel more than forty-five (45) minutes on each trip between the Center and destination point, excluding field trips."
+  },
+  {
+   "id": "no_unattended_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A child must never be left unattended in a vehicle.",
+   "section": "Rule 591-1-1-.36(10)",
+   "page": 57,
+   "quote": "A child shall never be left unattended in a vehicle."
+  }
+ ],
+ "dropped_unverified": [],
+ "turns": 2,
+ "cost": 0.0621,
+ "tokens_in": 90297,
+ "tokens_out": 21624,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

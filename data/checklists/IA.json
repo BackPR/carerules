@@ -1,0 +1,481 @@
+{
+ "state": "IA",
+ "rulebook": "441 IAC 109 Child care centers (rule 109.8 staff ratio)",
+ "items": [
+  {
+   "id": "compliance_docs_public",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "Written documentation of compliance conclusions for licensing visits and valid complaints is available to the public.",
+   "section": "109.3(3)",
+   "page": 3,
+   "quote": "The written documentation of the department’s conclusion as to whether a center was in compliance with licensing standards for all licensing visits and valid complaints will be available to the public."
+  },
+  {
+   "id": "enrollment_discharge_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement written policies for enrollment and discharge of children.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "field_trip_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement written policies for field trips and noncenter activities.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "discipline_behavior_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written discipline/behavior policy.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "nutrition_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written nutrition policy.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "health_safety_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement written health and safety policies, including criteria for excluding a sick child.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "transportation_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If the center transports children, it must develop and implement a written transportation policy.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement policies for enrollment and discharge of children, field trips and noncenter activities, discipline/behavior, nutrition, health and safety policies and, if transporting children, transportation policy."
+  },
+  {
+   "id": "policies_available_to_parents",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A copy of center policies and programs must be available for review by each parent when a child is admitted.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Make available for review a copy of the center policies and programs to all staff at the time of employment and each parent at the time a child is admitted to the center."
+  },
+  {
+   "id": "fee_policies_provided",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "A copy of fee policies and financial agreements must be provided to each parent when a child is admitted.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "A copy of the fee policies and financial agreements shall be provided to each parent at the time a child is admitted to the center."
+  },
+  {
+   "id": "biting_policy",
+   "topic": "health and safety",
+   "kind": "must_include",
+   "requirement": "When serving children under three, the center must have a written policy for responding to biting incidents.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "When serving children under the age of three, develop and implement a policy for responding to incidents of biting."
+  },
+  {
+   "id": "unauthorized_access_policy",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The center must have a policy to prevent unauthorized access to children.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement a policy to ensure that people do not have unauthorized access to children at the center."
+  },
+  {
+   "id": "confidentiality_policy",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The center must have a policy protecting each child's confidentiality.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement a policy for protection of each child’s confidentiality."
+  },
+  {
+   "id": "medical_dental_emergency_procedures",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have written procedures for medical and dental emergencies and ensure staff can implement them.",
+   "section": "109.4(1)",
+   "page": 4,
+   "quote": "Develop and implement procedures for medical and dental emergencies, and ensure through orientation and training that all staff are knowledgeable of and able to implement the procedures."
+  },
+  {
+   "id": "parent_access_policy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be informed in writing that they have unlimited access to their children and provider during operating hours.",
+   "section": "109.5",
+   "page": 4,
+   "quote": "The provider will inform all parents of this policy in writing at the time the child is admitted to the center."
+  },
+  {
+   "id": "parent_access_unlimited",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must have unlimited access to their children and provider during operating hours unless prohibited by court order.",
+   "section": "109.5",
+   "page": 4,
+   "quote": "Parents must be afforded unlimited access to their children and to the provider caring for their children during the center’s hours of operation or whenever their children are in the care of a provider unless parental contact is prohibited by court order."
+  },
+  {
+   "id": "mandatory_reporter_training",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Methods for identifying and reporting suspected child abuse and neglect must be discussed with all staff within 30 days of employment.",
+   "section": "109.4(3)",
+   "page": 4,
+   "quote": "Methods of identifying and reporting suspected child abuse and neglect shall be discussed with all staff within 30 days of employment."
+  },
+  {
+   "id": "licensing_contact_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The name and contact information of the department's child care licensing consultant must be posted.",
+   "section": "109.4(2)",
+   "page": 4,
+   "quote": "Name and contact information of the department’s child care licensing consultant."
+  },
+  {
+   "id": "license_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The certificate of license must be conspicuously posted at the main entrance.",
+   "section": "109.4(2)",
+   "page": 4,
+   "quote": "Certificate of license at the main entrance of the center."
+  },
+  {
+   "id": "ratios_by_age",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios must follow the age-based minimums in the rule.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "The staff-to-child ratio shall be as follows: Age of children ... Minimum ratio of staff to children"
+  },
+  {
+   "id": "combined_3_4_5_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Combined groups of three-, four-, and five-year-olds may use a ratio of one staff member to 12 children.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "Combinations of age groupings for children three, four, and five years of age may be allowed with a ratio of one staff member to every 12 children."
+  },
+  {
+   "id": "combined_18mo_3_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Children 18 months to three years may be combined, with a one-to-seven ratio if any child is under two.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "Children between 18 months and three years of age may be combined, if appropriate to the developmental needs of the child."
+  },
+  {
+   "id": "more_than_eight_children_two_staff",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "When more than eight children are present, at least two staff members must be present.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "When more than eight children are present on the licensed premises, at least two staff members shall be present."
+  },
+  {
+   "id": "nap_supervision",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "During nap time, at least one staff member must be present in every room where children are resting.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "During nap time, at least one staff member must be present in every room where children are resting."
+  },
+  {
+   "id": "brief_absence_limit",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A staff member's brief absence may not exceed five minutes when another staff person is present.",
+   "section": "109.8(2)",
+   "page": 10,
+   "quote": "Brief absences of a staff member may be allowed for no more than five minutes when another staff person is present."
+  },
+  {
+   "id": "transport_more_than_eight",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "When more than eight children are transported in one vehicle, at least two staff members must be present, one over 18.",
+   "section": "109.8(2)",
+   "page": 11,
+   "quote": "When more than eight children are being transported in one vehicle, at least two staff members must be present, one of which is over 18 years of age."
+  },
+  {
+   "id": "field_trip_additional_staff",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Off-site activities with six or more children require at least one additional staff member over the required ratio.",
+   "section": "109.8(2)",
+   "page": 11,
+   "quote": "Any child care center-sponsored program activity involving six or more children conducted away from the licensed facility shall provide a minimum of one additional staff over the required staff ratio for the protection of the children."
+  },
+  {
+   "id": "medication_procedures",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The center must have written procedures for dispensing, storing, authorizing, and recording medications.",
+   "section": "109.10(1)",
+   "page": 12,
+   "quote": "The center shall have written procedures for the dispensing, storage, authorization, and recording of all prescription medications, nonprescription medications, and nonmedicated topical products."
+  },
+  {
+   "id": "health_policies_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must establish definite health policies, including criteria for excluding a sick child.",
+   "section": "109.10",
+   "page": 12,
+   "quote": "The child care center will establish definite health policies, including the criteria for excluding a sick child from a center."
+  },
+  {
+   "id": "medication_admin_age",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Only staff over 18 may administer medication.",
+   "section": "109.10(1)",
+   "page": 12,
+   "quote": "Staff must be over 18 to administer medication."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications must be stored in original containers with directions and labels intact and inaccessible to children.",
+   "section": "109.10(1)",
+   "page": 12,
+   "quote": "All medications must be stored in their original containers, with accompanying physician or pharmacist’s directions and label intact and stored so the medications are inaccessible to children and the public."
+  },
+  {
+   "id": "medication_notation",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Each day a medication authorization is in effect, administration must be documented with name, date, time, dosage, and initials.",
+   "section": "109.10(1)",
+   "page": 12,
+   "quote": "For every day an authorization for medication is in effect and the child is in attendance, there shall be a notation of administration, including the name of the medicine, date, time, dosage given or applied, and the initials of the person administering the medication."
+  },
+  {
+   "id": "immunization_certificate",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A signed and dated immunization certificate or exemption must be on file for each enrolled child.",
+   "section": "109.9(2)",
+   "page": 12,
+   "quote": "Signed and dated valid Certificate of Immunization, Certificate of Immunization Exemption, or Provisional Certificate of Immunization, provided by the department must be on file for each child enrolled as required by 641—Chapter 7."
+  },
+  {
+   "id": "physical_exam_under_kindergarten",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Children not yet in kindergarten need a physical examination submitted at enrollment and no later than four weeks after admission.",
+   "section": "109.9(2)",
+   "page": 12,
+   "quote": "For each child not yet enrolled in kindergarten, the child care center must require a physical examination submitted at enrollment but no later than within four weeks of admission."
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The center must maintain emergency contacts and persons authorized by the parent to pick up the child.",
+   "section": "109.9(2)",
+   "page": 12,
+   "quote": "Emergency contacts and persons who can pick up the child as authorized by the parent."
+  },
+  {
+   "id": "allergy_health_needs",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The child's file must include health and medical needs, including allergies or special health needs.",
+   "section": "109.9(2)",
+   "page": 12,
+   "quote": "Health and medical needs of a child, including any allergies or special health needs, a written emergency plan and prescribed treatment."
+  },
+  {
+   "id": "infectious_disease_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must establish policies and procedures for infectious disease control and universal precautions.",
+   "section": "109.10(3)",
+   "page": 13,
+   "quote": "Centers must establish policies and procedures related to infectious disease control and the use of universal precautions with the handling of any bodily fluids that include blood, bodily excrement or discharge."
+  },
+  {
+   "id": "emergency_plans",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have written emergency plans and diagrams for fire, tornado, flood, intoxicated parents, and lost or abducted children.",
+   "section": "109.10(13)",
+   "page": 13,
+   "quote": "The center shall have written emergency plans and diagrams for responding to fire, tornado, and flood (if area is susceptible to flood) and plans for responding to intoxicated parents and lost or abducted children."
+  },
+  {
+   "id": "serious_injury_report_24h",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Serious injuries must be reported to the department within 24 hours.",
+   "section": "109.10(8)",
+   "page": 13,
+   "quote": "Serious injuries must be reported to the department within 24 hours of the incident."
+  },
+  {
+   "id": "minor_incidents_reported_same_day",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Minor injuries, health changes, or behavioral concerns must be reported to parents the same day.",
+   "section": "109.10(8)",
+   "page": 13,
+   "quote": "Incidents involving a child, including minor injuries, minor changes in health status, or other minor behavioral concerns, shall be reported to the parents, guardians, and legal custodians on the day of the incident."
+  },
+  {
+   "id": "serious_injury_verbal_immediately",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Serious injuries or significant health changes must be verbally reported to parents immediately.",
+   "section": "109.10(8)",
+   "page": 13,
+   "quote": "Incidents resulting in a serious injury, as defined in Iowa Code section 702.18, to a child in the child care facility or in the care of child care facility staff or incidents resulting in a significant change in the health status of a child must be verbally reported to the parents, guardians, and legal custodians immediately."
+  },
+  {
+   "id": "transportation_code",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must be transported according to Iowa Code section 321.446.",
+   "section": "109.10(10)",
+   "page": 13,
+   "quote": "Children must be transported pursuant to Iowa Code section 321.446."
+  },
+  {
+   "id": "field_trip_emergency_info",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Emergency telephone numbers and health plans must be taken on field trips and school transport.",
+   "section": "109.10(11)",
+   "page": 13,
+   "quote": "Emergency telephone numbers and emergency health plans, as applicable, for each child must be taken by staff when transporting children to and from school and on field trips and non-center-sponsored activities away from the premises."
+  },
+  {
+   "id": "emergency_drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire and tornado emergency procedures must be practiced and documented at least once a month.",
+   "section": "109.10(13)",
+   "page": 14,
+   "quote": "Emergency plan procedures must be practiced and documented at least once a month for fire and for tornado."
+  },
+  {
+   "id": "discipline_policy_written",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must have a written discipline policy provided to parents at admission.",
+   "section": "109.12(2)",
+   "page": 16,
+   "quote": "The center shall have a written policy that shall be provided to staff at the start of employment and to parents at the time of admission."
+  },
+  {
+   "id": "diapering_procedures_posted",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Diapering, sanitation, and hand-washing procedures must be posted and implemented in every diapering area.",
+   "section": "109.12(4)",
+   "page": 16,
+   "quote": "Diapering, sanitation, and hand-washing procedures shall be posted and implemented in every diapering area."
+  },
+  {
+   "id": "corporal_punishment_prohibited",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Corporal punishment, including spanking, shaking, and slapping, is prohibited.",
+   "section": "109.12(2)",
+   "page": 16,
+   "quote": "Corporal punishment, including spanking, shaking, and slapping."
+  },
+  {
+   "id": "humiliating_punishment_prohibited",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Punishment that is humiliating, frightening, painful, or locking a child in a room or closet is prohibited.",
+   "section": "109.12(2)",
+   "page": 16,
+   "quote": "Punishment that is humiliating or frightening or that causes pain to the child. Children shall never be locked in a room or closet."
+  },
+  {
+   "id": "verbal_abuse_prohibited",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Verbal abuse, threats, or derogatory remarks about a child or family are prohibited.",
+   "section": "109.12(2)",
+   "page": 16,
+   "quote": "No child shall be subjected to verbal abuse, threats, or derogatory remarks about the child or the child’s family."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must always be placed on their backs for sleep.",
+   "section": "109.12(4)",
+   "page": 16,
+   "quote": "Infants shall always be placed on their backs for sleep."
+  },
+  {
+   "id": "safe_sleep_no_soft_surfaces",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants may not sleep on beds, sofas, air mattresses, or other soft surfaces.",
+   "section": "109.12(4)",
+   "page": 16,
+   "quote": "Infants shall not be allowed to sleep on a bed, sofa, air mattress or other soft surface."
+  },
+  {
+   "id": "food_from_home_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must establish and give parents a written policy on food brought from home for children under five not in school.",
+   "section": "109.13(4)",
+   "page": 17,
+   "quote": "The center shall establish policies regarding food brought from home for children under five years of age who are not enrolled in school. A copy of the written policy shall be given to the parent at admission."
+  },
+  {
+   "id": "meal_intervals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children present two hours or longer must be offered food at intervals of two to three hours unless asleep.",
+   "section": "109.13(1)",
+   "page": 17,
+   "quote": "Children remaining at the center two hours or longer shall be offered food at intervals of not less than two hours or more than three hours apart unless the child is asleep."
+  }
+ ],
+ "dropped_unverified": [],
+ "turns": 1,
+ "cost": 0.0192,
+ "tokens_in": 20997,
+ "tokens_out": 9009,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

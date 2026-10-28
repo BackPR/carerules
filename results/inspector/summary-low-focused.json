@@ -1,0 +1,184 @@
+[
+ {
+  "state": "FL",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 1,
+  "defective_other_conflicts": 0,
+  "clean_score": 95,
+  "defective_score": 52,
+  "cost": 0.0479,
+  "seconds": [
+   17.0,
+   12.7
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "Allergy lists are posted in the kitchen and each classroom."
+  ],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "IL",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 98,
+  "defective_score": 65,
+  "cost": 0.0508,
+  "seconds": [
+   18.1,
+   15.3
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "NC",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 60,
+  "cost": 0.062,
+  "seconds": [
+   14.2,
+   16.6
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "NJ",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 1,
+  "defective_other_conflicts": 0,
+  "clean_score": 95,
+  "defective_score": 56,
+  "cost": 0.051,
+  "seconds": [
+   19.0,
+   12.3
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "nap-time ratios are 1 teacher for 10 children under 18 months, 12 children from 18 months to 2\u00bd years, or 20 children 2\u00bd and older, with a teacher always in the"
+  ],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "OR",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 57,
+  "cost": 0.0434,
+  "seconds": [
+   9.6,
+   12.8
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "PA",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 32,
+  "cost": 0.0725,
+  "seconds": [
+   18.4,
+   10.1
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "TX",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 0,
+  "defective_other_conflicts": 0,
+  "clean_score": 100,
+  "defective_score": 54,
+  "cost": 0.0303,
+  "seconds": [
+   6.5,
+   10.0
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [],
+  "other_conflict_quotes": []
+ },
+ {
+  "state": "CA",
+  "effort": "low",
+  "planted": 5,
+  "planted_flagged": 5,
+  "planted_on_right_item": 5,
+  "removed": 3,
+  "removed_missing": 3,
+  "removed_missing_or_partial": 3,
+  "clean_false_conflicts": 1,
+  "defective_other_conflicts": 0,
+  "clean_score": 72,
+  "defective_score": 45,
+  "cost": 0.1351,
+  "seconds": [
+   20.5,
+   10.4
+  ],
+  "missed": [],
+  "clean_conflict_quotes": [
+   "A teacher watches and listens to sleeping babies at all times and physically checks each sleeping baby every 15 minutes, writing down the time and their initial"
+  ],
+  "other_conflict_quotes": []
+ }
+]

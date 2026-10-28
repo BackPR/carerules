@@ -1,0 +1,689 @@
+{
+ "state": "WA",
+ "rulebook": "Chapter 110-300 WAC, Foundational Quality Standards for Early Learning Programs (Last Update: 7/1/26)",
+ "items": [
+  {
+   "id": "nondiscrimination_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have a written nondiscrimination policy addressing the protected factors listed in the rule.",
+   "section": "WAC 110-300-0030",
+   "page": 19,
+   "quote": "An early learning program must have a written nondiscrimination policy addressing at least the factors listed in subsection (1) of this section."
+  },
+  {
+   "id": "developmental_screening_info",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must inform parents or guardians about the importance of developmental screenings for children birth through age five.",
+   "section": "WAC 110-300-0055",
+   "page": 20,
+   "quote": "An early learning provider must inform parents or guardians about the importance of developmental screenings for each child from birth through age five."
+  },
+  {
+   "id": "school_readiness_materials",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "At least once per calendar year, the center must supply parents or guardians kindergarten or school readiness materials when developmentally appropriate.",
+   "section": "WAC 110-300-0065",
+   "page": 20,
+   "quote": "At least once per calendar year, an early learning provider must supply to parents or guardians kindergarten or school readiness materials when developmentally appropriate for enrolled children."
+  },
+  {
+   "id": "screen_time_limits",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "If screen time is offered, it must be educational and age appropriate, must not occur during meals or snacks, and must not exceed two and one-half hours per week for children over 24 months through preschool in full-day care.",
+   "section": "WAC 110-300-0155",
+   "page": 39,
+   "quote": "Total screen time must not exceed two and one-half hours per week for each child over twenty-four months of age through preschool in full-day care (one and one-quarter hours per child in half-day care)."
+  },
+  {
+   "id": "weapons_safety",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Firearms, guns, weapons, and ammunition must not be on the premises of a center early learning program.",
+   "section": "WAC 110-300-0165",
+   "page": 40,
+   "quote": "Ensuring firearms, guns, weapons, and ammunition are not on the premises of a center early learning program."
+  },
+  {
+   "id": "meal_snack_schedule",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals and snacks must be served not less than two hours and not more than three hours apart unless the child is asleep, with required numbers based on hours in care.",
+   "section": "WAC 110-300-0180",
+   "page": 46,
+   "quote": "Meals and snacks must be served not less than two hours and not more than three hours apart unless the child is asleep;"
+  },
+  {
+   "id": "menus_nutrition",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals, snacks, and beverages must comply with current USDA CACFP or National School Lunch and School Breakfast Program standards, and menus must be dated.",
+   "section": "WAC 110-300-0185",
+   "page": 47,
+   "quote": "Meals, snack foods, and beverages provided to children in care must comply with the requirements contained in the most current edition of the USDA Child and Adult Care Food Program (CACFP) standards, or the USDA National School Lunch and School Breakfast Program standards."
+  },
+  {
+   "id": "food_allergy_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "For a child with a known food allergy or special dietary requirement, the center must obtain written instructions in an individual care plan from the child's health care provider and parent or guardian.",
+   "section": "WAC 110-300-0186",
+   "page": 48,
+   "quote": "An early learning provider must obtain written instructions (the individual care plan) from the child's health care provider and parent or guardian when caring for a child with a known food allergy or special dietary requirement due to a health condition."
+  },
+  {
+   "id": "written_food_plan",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "A written food plan must be developed by the provider and parent or guardian, signed by all parties, and followed when accommodating special feeding needs, diets, preferences, or other needs.",
+   "section": "WAC 110-300-0190",
+   "page": 48,
+   "quote": "A written food plan must be developed by the provider and a child's parent or guardian, signed by all parties, and followed when accommodating a child's: (a) Special feeding needs;"
+  },
+  {
+   "id": "parent_provided_food",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "If a parent provides meals, the center must notify the parent in writing of USDA CACFP requirements and supplement meals that do not satisfy them if necessary.",
+   "section": "WAC 110-300-0190",
+   "page": 49,
+   "quote": "If a parent or guardian provides meals for their child, an early learning provider must: (a) Notify the parent or guardian in writing of the USDA CACFP requirements for each meal; and (b) Supplement a child's meal that does not satisfy USDA CACFP requirements if necessary."
+  },
+  {
+   "id": "illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "An ill child must be sent home or reasonably separated if the illness prevents normal participation, requires more care than staff can give, risks others, or may spread.",
+   "section": "WAC 110-300-0205",
+   "page": 54,
+   "quote": "An ill child must be sent home or reasonably separated from other children if: (a) The illness or condition prevents the child from participating in normal activities;"
+  },
+  {
+   "id": "illness_symptoms",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child must be excluded for specified symptoms such as fever with behavior change, repeated vomiting, diarrhea, rash, open sores, lice, ringworm, scabies, or appearing severely ill.",
+   "section": "WAC 110-300-0205",
+   "page": 54,
+   "quote": "Unless covered by an individual care plan or protected by the ADA, an ill child, staff member, or other individual must be sent home or isolated from children in care if the ill individual has:"
+  },
+  {
+   "id": "contagious_disease_notice",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Within 24 hours of learning of a diagnosed contagious disease, the center must provide written notice to the department, local health jurisdiction, and parents or guardians.",
+   "section": "WAC 110-300-0205",
+   "page": 54,
+   "quote": "At the first opportunity, but in no case longer than twenty-four hours of learning that an enrolled child, staff member, volunteer, or household member has been diagnosed by a health care professional with a contagious disease pursuant to WAC 246-110-010(3), as now and hereafter amended, an early learning provider must provide written notice to the department, the local health jurisdiction, and the parents or guardians of the enrolled children."
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Parents or guardians must provide proof of vaccination or acquired immunity on or before the child's first day, and providers must receive current immunization records upon enrollment and annually thereafter.",
+   "section": "WAC 110-300-0210",
+   "page": 55,
+   "quote": "On or before their children's first day of attending an early learning program, the parents or guardians of enrolled children must give to early learning providers proof of vaccination or acquired immunity for the vaccine-preventable disease, required under RCW 43.216.690 and chapter 246-105 WAC."
+  },
+  {
+   "id": "immunization_exclusion",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Providers must exclude a child from care according to the criteria in WAC 246-105-080 and may exclude exempt children during an outbreak of a vaccine-preventable disease.",
+   "section": "WAC 110-300-0210",
+   "page": 56,
+   "quote": "Early learning providers must exclude a child from care according to the criteria listed in WAC 246-105-080."
+  },
+  {
+   "id": "medication_consent",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication must not be given without written and signed consent from the parent or guardian, and must be administered according to the label directions.",
+   "section": "WAC 110-300-0215",
+   "page": 56,
+   "quote": "An early learning provider must not give medication to any child without written and signed consent from that child's parent or guardian, must administer medication pursuant to directions on the medication label, and using appropriate cleaned and sanitized medication measuring devices."
+  },
+  {
+   "id": "medication_training",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Staff must not give medication unless they have completed required medication training and competency assessment.",
+   "section": "WAC 110-300-0215",
+   "page": 56,
+   "quote": "An early learning provider must not give medication to a child if the provider has not successfully completed: (a) An orientation about the early learning program's medication policies and procedures; (b) The department standardized training course in medication administration that includes a competency assessment pursuant to WAC 110-300-0106(10) or equivalent training;"
+  },
+  {
+   "id": "pet_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If pets or animals are kept on the premises, the center must have and follow a pet and animal policy and provide written notice to parents and guardians.",
+   "section": "WAC 110-300-0225",
+   "page": 61,
+   "quote": "If an early learning provider keeps pets or animals on the early learning program premises: (a) The provider must have and follow a pet and animal policy; and (b) Provide written notice to children's parents and guardians."
+  },
+  {
+   "id": "pest_control_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have a pest control policy and notify parents or guardians at least 48 hours before pesticide application, unless an emergency.",
+   "section": "WAC 110-300-0255",
+   "page": 68,
+   "quote": "If pesticides are used, the early learning provider must notify the parents or guardians of enrolled children what pesticide will be applied and where it will be applied no less than forty-eight hours before application, unless in cases of emergency (such as a wasp nest)."
+  },
+  {
+   "id": "rest_period",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "A supervised daily rest period must be offered for children preschool age and younger who remain in care more than six hours per day or show a need for rest.",
+   "section": "WAC 110-300-0265",
+   "page": 69,
+   "quote": "An early learning provider must offer a supervised daily rest period for children preschool age and younger who remain in care for more than six hours per day, or who show a need for rest."
+  },
+  {
+   "id": "overnight_approval",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Overnight care between 9 p.m. and 5 a.m. requires department approval when any enrolled child sleeps three or more hours at the program.",
+   "section": "WAC 110-300-0270",
+   "page": 70,
+   "quote": "An early learning provider must be approved by the department to provide overnight care between nine o'clock at night and five o'clock in the morning when any enrolled child sleeps for three or more hours at the program."
+  },
+  {
+   "id": "safe_sleep_practices",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs to sleep, actively supervised with visible checks every 15 minutes, and cribs must not contain blankets, toys, pillows, or bumpers.",
+   "section": "WAC 110-300-0291",
+   "page": 76,
+   "quote": "Placing an infant to sleep on their back or following the current standard of American Academy of Pediatrics. If an infant turns over while sleeping, the provider must return the infant to their back until the infant is able to independently roll from back to front and front to back;"
+  },
+  {
+   "id": "safe_sleep_violation_notice",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "After a safe sleep violation, the center must post the notice for two weeks or until corrected and provide parents a letter and safe sleep information within five business days.",
+   "section": "WAC 110-300-0291",
+   "page": 77,
+   "quote": "Within five business days of receiving notice of the violation, provide all parents and guardians of enrolled children with: (i) A letter describing the safe sleep violation; and (ii) Written information on safe sleep practices for infants."
+  },
+  {
+   "id": "individual_care_plan",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must develop an individual care plan for each child with special needs and notify the department when such a child is enrolled or identified.",
+   "section": "WAC 110-300-0300",
+   "page": 79,
+   "quote": "An early learning provider must develop an individual care plan for each child with special needs and must notify the department when a child with special needs is enrolled or identified in the early learning program."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff must not use prohibited discipline such as spanking, hitting, shaming, humiliation, or other listed harmful practices.",
+   "section": "WAC 110-300-0331",
+   "page": 84,
+   "quote": "An early learning provider, staff member, or household member is prohibited from using the following behaviors and discipline of children:"
+  },
+  {
+   "id": "physical_restraint_limits",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical restraint may only be used when a child's safety or others' safety is threatened, must be gentle and minimal, and must be reported and documented.",
+   "section": "WAC 110-300-0335",
+   "page": 85,
+   "quote": "Physical restraint must only be used if a child's safety or the safety of others is threatened and must be: (a) Limited to holding a child as gently as possible to accomplish restraint;"
+  },
+  {
+   "id": "expulsion_limits",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "A child may be expelled only for serious safety concerns that cannot be reduced or eliminated through reasonable modifications.",
+   "section": "WAC 110-300-0340",
+   "page": 86,
+   "quote": "An early learning provider may expel a child only if: (a) The child exhibits behavior that presents a serious safety concern for that child or others; and (b) The program is not able to reduce or eliminate the safety concern through reasonable modifications."
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Only a child's parent or guardian, authorized staff, government representatives with verifiable authority, or a person authorized in writing or by phone by the parent may have unsupervised access to a child in care.",
+   "section": "WAC 110-300-0345",
+   "page": 87,
+   "quote": "An early learning provider must only allow the following persons to have unsupervised access to a child in care: (a) That child's own parent or guardian;"
+  },
+  {
+   "id": "supervision",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Staff must supervise children by scanning, visibly checking, positioning themselves to see all areas, and being available to assist or redirect children.",
+   "section": "WAC 110-300-0345",
+   "page": 87,
+   "quote": "An early learning provider must supervise children in care by: (a) Scanning the environment looking and listening for both verbal and nonverbal cues to anticipate problems and plan accordingly;"
+  },
+  {
+   "id": "water_supervision",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "During water activities, the center must meet the supervision requirements, including 1:1 ratio for infants and keeping toddlers within arm's length.",
+   "section": "WAC 110-300-0350",
+   "page": 88,
+   "quote": "During water activities, an early learning provider must: (a) Ensure a one-to-one (1:1) staff-to-child ratio for infants; (b) Hold or have continuous touch of infants, nonambulatory toddlers, and children with special needs as required; and (c) Keep toddlers within arm's length."
+  },
+  {
+   "id": "center_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Center classrooms must meet the maximum group sizes and staff-to-child ratios for each age group.",
+   "section": "WAC 110-300-0356",
+   "page": 92,
+   "quote": "In each classroom or well-defined space, the maximum group size and ratio of center staff members to children, including children related to staff or the licensee, must be:"
+  },
+  {
+   "id": "daily_schedule",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "The center must have an established program and daily schedule that includes active outdoor play time, scheduled meals, rest periods, and other applicable routines.",
+   "section": "WAC 110-300-0360",
+   "page": 97,
+   "quote": "An early learning provider must have an established program and daily schedule that is familiar to children."
+  },
+  {
+   "id": "family_communication_plan",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include a family engagement and partnership communication plan.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "A family engagement and partnership communication plan;"
+  },
+  {
+   "id": "photo_video_permission",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The center must obtain a parent or guardian's permission for photography, videotaping, or surveillance of their child.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "A parent or guardian's permission for photography, videotaping, or surveillance of their child;"
+  },
+  {
+   "id": "substance_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state the center's alcohol, tobacco, cannabis use and prohibition of illegal drugs policy.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Alcohol, tobacco, cannabis use and prohibition of illegal drugs;"
+  },
+  {
+   "id": "curriculum_philosophy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must include the center's curriculum philosophy on how children learn and develop and how it is implemented.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Curriculum philosophy on how children learn and develop, and how this philosophy is implemented;"
+  },
+  {
+   "id": "child_guidance_plan",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include a child guidance plan that includes restraint policies and forbids corporal punishment.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Child guidance plan, which includes restraint policies and forbidding corporal punishment;"
+  },
+  {
+   "id": "ratios_classroom_types",
+   "topic": "staff-to-child ratios",
+   "kind": "must_include",
+   "requirement": "The handbook must state staff-to-child ratios and classroom types offered, if applicable.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Early learning program staff-to-child ratios and classroom types offered, if applicable;"
+  },
+  {
+   "id": "special_needs_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If the center cares for children with specific or special needs, the handbook must include a policy for that care.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Care for children with specific or special needs;"
+  },
+  {
+   "id": "infant_toddler_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If infant or toddler care is offered, the handbook must include policies covering diapering, feeding, toilet training, child sleep pattern, and safe sleep requirements.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Infant and toddler care, covering: (A) Diapering; (B) Feeding; (C) Toilet training; (D) Child sleep pattern; and (E) Safe sleep requirements."
+  },
+  {
+   "id": "religious_cultural_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If religious or cultural activities are offered, the handbook must include a policy including how holidays will be celebrated.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Religious and cultural activities, including how holidays will be celebrated;"
+  },
+  {
+   "id": "weapons_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must explain how weapons on the premises are secured.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "How weapons on the premises are secured."
+  },
+  {
+   "id": "hours_closures",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must state program days and hours of operation, including closure dates and observed holidays.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Program days and hours of operation, including closure dates and observed holidays;"
+  },
+  {
+   "id": "child_record_info",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The handbook must explain what information is required for the child's record and how it is kept current and confidential.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Information required for the child's record, including: (i) The importance and plan for keeping the information current; (ii) A plan to keep the child's information confidential; and (iii) Who may legally access the child's information."
+  },
+  {
+   "id": "kindergarten_transition",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If applicable, the handbook must include a kindergarten transition plan.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "A kindergarten transition plan, if applicable;"
+  },
+  {
+   "id": "parent_supplies",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state what parents or guardians must supply for their child, such as extra clothing or diapers.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "What parents or guardians must supply for their child (for example: Extra clothing or diapers);"
+  },
+  {
+   "id": "parent_access_areas",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state permission for a parent or guardian's access to areas of the early learning program during business hours.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Permission for a parent or guardian's access to areas of the early learning program during business hours;"
+  },
+  {
+   "id": "duty_to_report",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must state the provider and staff's duty to report incidents, including reporting suspected abuse or neglect of a child or youth.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "The early learning provider and program staff's duty to report incidents including reporting suspected abuse or neglect of a child or youth;"
+  },
+  {
+   "id": "mixed_age_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If mixed age groups are used, the handbook must include a policy for them, including when children may be in a mixed age group.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Policies regarding mixed age groups, if applicable (including when children may be in a mixed age group);"
+  },
+  {
+   "id": "max_daily_care",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "A child may be kept in care up to a maximum of ten hours each day, with limited extensions based on parent work, agreed schedule, or travel.",
+   "section": "WAC 110-300-0455",
+   "page": 110,
+   "quote": "An early learning provider may keep a child in care up to a maximum of ten hours each day. If needed, the maximum time may be extended based upon the parent or guardian's work, an agreed upon alternate schedule, or travel to and from the early learning program."
+  },
+  {
+   "id": "attendance_records",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Daily attendance records must document each child's name, date of care, arrival and departure times, and parent or authorized person signature.",
+   "section": "WAC 110-300-0455",
+   "page": 110,
+   "quote": "These records must clearly document: (a) The name of the child; (b) The date of care; (c) Child arrival and departure times from the early learning program; (d) Signature or electronic signature of parent, guardian or other authorized person at the time of arrival and departure;"
+  },
+  {
+   "id": "parent_access_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A child's parent or guardian must be allowed access to all of their own child's records.",
+   "section": "WAC 110-300-0460",
+   "page": 111,
+   "quote": "A child's parent or guardian must be allowed access to all of their own child's records."
+  },
+  {
+   "id": "emergency_plan_review",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The emergency preparedness plan must be reviewed with parents or guardians when a child is enrolled and when the plan is updated.",
+   "section": "WAC 110-300-0470",
+   "page": 114,
+   "quote": "Be reviewed with parents or guardians when a child is enrolled and when the plan is updated."
+  },
+  {
+   "id": "emergency_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must practice and record fire and evacuation drills monthly and earthquake, lockdown, or shelter-in-place drills every three months.",
+   "section": "WAC 110-300-0470",
+   "page": 115,
+   "quote": "Fire and evacuation drill once each calendar month; (b) Earthquake, lockdown, or shelter-in-place drill once every three calendar months;"
+  },
+  {
+   "id": "abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "When there is reasonable cause to believe a child has suffered abuse or neglect, the provider must report it to law enforcement or the department.",
+   "section": "WAC 110-300-0475",
+   "page": 115,
+   "quote": "Pursuant to RCW 26.44.030, when an early learning provider has reasonable cause to believe that a child has suffered abuse or neglect, that provider must report such incident, or cause a report to be made, to the proper law enforcement agency or the department."
+  },
+  {
+   "id": "injury_incident_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Serious injuries and situations requiring emergency response must be reported to parents or guardians and the department within required time frames, with written incident reports submitted within 24 hours.",
+   "section": "WAC 110-300-0475",
+   "page": 116,
+   "quote": "In addition to reporting to the department by phone or email, an early learning provider must submit a written incident report of the following on a department form within 24 hours:"
+  },
+  {
+   "id": "parent_notice_injury",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The provider must immediately report a child's death, serious injury, need for emergency or poison services, or an incident reported to health authorities to the parent or guardian.",
+   "section": "WAC 110-300-0475",
+   "page": 116,
+   "quote": "An early learning provider must immediately report to the parent or guardian: (a) Their child's death, serious injury, need for emergency or poison services; or (b) An incident involving their child that was reported to the local health jurisdiction or the department of health."
+  },
+  {
+   "id": "transportation_rules",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "During travel to an off-site activity, the center must maintain ratios, active supervision, first-aid/CPR certification, attendance checks, and never leave children unattended in a vehicle.",
+   "section": "WAC 110-300-0480",
+   "page": 117,
+   "quote": "During travel to an off-site activity, an early learning provider must: (a) Have the health history, appropriate medication (if applicable), emergency information, and emergency medical authorization forms accessible for each child being transported;"
+  },
+  {
+   "id": "termination_reasons",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "Services may be terminated due to a parent or guardian's inability to meet program expectations and requirements, such as unpaid bills, continual late arrivals, or inappropriate or unsafe behavior.",
+   "section": "WAC 110-300-0485",
+   "page": 118,
+   "quote": "An early learning provider may terminate a child's services due to that child's parent or guardian's inability to meet the expectations and requirements of the early learning program."
+  },
+  {
+   "id": "child_restraint_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must have and follow a child restraint policy, and only trained staff may restrain a child in accordance with the rule.",
+   "section": "WAC 110-300-0490",
+   "page": 118,
+   "quote": "An early learning provider must have and follow a child restraint policy that contains behavior management and practices, pursuant to WAC 110-300-0335."
+  },
+  {
+   "id": "health_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must have and follow a written health policy reviewed and approved by the department.",
+   "section": "WAC 110-300-0500",
+   "page": 119,
+   "quote": "An early learning provider must have and follow a written health policy reviewed and approved by the department that includes the topics listed in subsection (2) of this section."
+  },
+  {
+   "id": "medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The health policy must include medication management, storage, administration, and documentation.",
+   "section": "WAC 110-300-0500",
+   "page": 119,
+   "quote": "Medication management, storage, administration and documentation;"
+  },
+  {
+   "id": "consistent_care_policy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must have and follow a policy that promotes consistent care of children.",
+   "section": "WAC 110-300-0495",
+   "page": 119,
+   "quote": "An early learning program must have and follow a policy that promotes the consistent care of children."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "expulsion_policy",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The center must have and follow an expulsion policy and include it in the handbook.",
+   "section": "WAC 110-300-0450",
+   "page": 108,
+   "quote": "Expulsion policy;"
+  },
+  {
+   "id": "dual_language_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If dual language learning is offered, the handbook must include a policy for it.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Dual language learning;"
+  },
+  {
+   "id": "transportation_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If transportation or off-site field trips are offered, the handbook must include a policy for them.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Transportation and off-site field trips;"
+  },
+  {
+   "id": "water_activities_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If water activities are offered, the handbook must include a policy for them.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Water activities;"
+  },
+  {
+   "id": "overnight_care_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If overnight care is offered, the handbook must include a policy for it.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Overnight care; and"
+  },
+  {
+   "id": "enrollment_disenrollment",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state enrollment and disenrollment requirements.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Enrollment and disenrollment requirements;"
+  },
+  {
+   "id": "fees_payment",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The handbook must state fees and payment plans.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Fees and payment plans;"
+  },
+  {
+   "id": "signin_signout",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must state sign-in and sign-out requirements.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Sign-in and sign-out requirements;"
+  },
+  {
+   "id": "termination_policy",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The handbook must include the center's termination of services policy.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Termination of services policy;"
+  },
+  {
+   "id": "emergency_preparedness_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must include the center's emergency preparedness plan.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Emergency preparedness plan;"
+  },
+  {
+   "id": "where_to_find_policies",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must describe where parents or guardians may find and review the health policy, staff policies, consistent care policy, menus, liability insurance, inspection reports, enforcement notices, and other relevant policies.",
+   "section": "WAC 110-300-0450",
+   "page": 109,
+   "quote": "Description of where the parent or guardian may find and review the early learning program's: (i) Health policy; (ii) Staff policies, if applicable; (iii) Consistent care policy; (iv) Menus; (v) Liability insurance; (vi) Inspection reports and notices of enforcement actions, if applicable; and (vii) Other relevant program policies."
+  },
+  {
+   "id": "signed_handbook_review",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Each enrolled child's record must have signed documentation stating the parent or guardian reviewed the handbook and early learning program policies.",
+   "section": "WAC 110-300-0450",
+   "page": 108,
+   "quote": "Each enrolled child's record must have signed documentation stating the parent or guardian reviewed the handbook and early learning program policies."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0966,
+ "tokens_in": 203261,
+ "tokens_out": 12759,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

@@ -1,0 +1,2156 @@
+{
+ "state": "MO",
+ "rulebook": "5 CSR 25-500, Licensing Rules for Group Child Care Homes and Child Care Centers (Secretary of State)",
+ "items": [
+  {
+   "id": "org_written_policies",
+   "topic": "organization and administration",
+   "kind": "must_include",
+   "requirement": "Written policies and procedures must clearly establish job responsibilities and lines of administrative authority.",
+   "section": "5 CSR 25-500.032",
+   "page": 4,
+   "quote": "Each child care facility shall be organized according to written policies and procedures which clearly establish job responsibilities and lines of administrative authority."
+  },
+  {
+   "id": "licensing_written_policies_parents",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies provided to parents must include program goals, admission, care, and discharge of children, a narrative description of child care practices and concepts, and discipline and guidance policies.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "Written policies provided to parents shall include: 1. Program goals; 2. Admission, care, and discharge of children; 3. Narrative description of child care practices and concepts; and 4. Discipline and guidance policies;"
+  },
+  {
+   "id": "safe_sleep_policy_required",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "A written safe sleep policy is required if the facility's application includes children under 12 months.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "A written safe sleep policy, if the facility’s application includes children under twelve (12) months of age in the requested age range;"
+  },
+  {
+   "id": "license_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The license must be posted near the entrance of the facility where it can be seen easily by parents or visitors.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "Once granted, the license shall be posted near the entrance of the facility where it may be seen easily by parents or others who visit."
+  },
+  {
+   "id": "licensing_contact_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The name, address, and telephone number of the provider, owner, board president or chairperson, and managers or members must be posted prominently near the license.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "The name(s), address(es), and telephone number(s) shall be posted prominently near the license for all of the following, as applicable:"
+  },
+  {
+   "id": "background_screening",
+   "topic": "personnel",
+   "kind": "rule",
+   "requirement": "Child care staff members must have qualifying background screening results on file as required before initial issuance of the license.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "The child care provider and child care staff members, as defined by 5 CSR 25-600.010 Definitions, shall have qualifying background screening results on file as required by 5 CSR 25-600.020 General Requirements, prior to initial issuance of the license."
+  },
+  {
+   "id": "fire_safety_approval",
+   "topic": "licensing",
+   "kind": "rule",
+   "requirement": "Prior to granting a license, the provider must meet the fire safety requirements.",
+   "section": "5 CSR 25-500.042",
+   "page": 5,
+   "quote": "Prior to the granting of a license, the provider shall meet the requirements of 5 CSR 25-500.087 Fire Safety."
+  },
+  {
+   "id": "no_discrimination",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The provider must not deny a child admission to or the benefits of any program on the basis of race, sex, religion, or national origin.",
+   "section": "5 CSR 25-500.042",
+   "page": 6,
+   "quote": "The provider shall not deny a child admission to, or the benefits of, any program provided by the group child care home or child care center on the basis of race, sex, religion, or national origin."
+  },
+  {
+   "id": "family_care_safety_registry",
+   "topic": "personnel",
+   "kind": "rule",
+   "requirement": "The provider must conduct a Family Care Safety Registry check for all child care staff members within 30 days prior to the anniversary date on the license.",
+   "section": "5 CSR 25-500.052",
+   "page": 6,
+   "quote": "The child care provider shall conduct a Family Care Safety Registry check for all child care staff members within thirty (30) days prior to the anniversary date as printed on the license;"
+  },
+  {
+   "id": "annual_declaration",
+   "topic": "licensing",
+   "kind": "rule",
+   "requirement": "The provider must submit an Annual Declaration for Licensed Facility form and other required items at least 30 calendar days prior to the anniversary date on the license.",
+   "section": "5 CSR 25-500.052",
+   "page": 6,
+   "quote": "The provider shall submit the following to the department on an annual basis, at least thirty (30) calendar days prior to the anniversary date as printed on the license: (A) An Annual Declaration for Licensed Facility form"
+  },
+  {
+   "id": "fire_inspection",
+   "topic": "licensing",
+   "kind": "rule",
+   "requirement": "Evidence of compliance with a fire and safety inspection conducted by the State Fire Marshal or designee must be on file and available for review.",
+   "section": "5 CSR 25-500.052",
+   "page": 6,
+   "quote": "Evidence of compliance with a fire and safety inspection as conducted by the State Fire Marshal or his/her designee;"
+  },
+  {
+   "id": "sanitation",
+   "topic": "licensing",
+   "kind": "rule",
+   "requirement": "Evidence of compliance with local, state, or both sanitation requirements must be on file and available for review.",
+   "section": "5 CSR 25-500.052",
+   "page": 6,
+   "quote": "Evidence of compliance with local, state, or both, sanitation requirements;"
+  },
+  {
+   "id": "premises_safe",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "The premises must be safe and suitable for the care of children.",
+   "section": "5 CSR 25-500.082",
+   "page": 6,
+   "quote": "The premises shall be safe and suitable for the care of children."
+  },
+  {
+   "id": "premises_conform",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "The premises must conform to fire and safety requirements of the State Fire Marshal and state or local zoning, building, and sanitation requirements.",
+   "section": "5 CSR 25-500.082",
+   "page": 6,
+   "quote": "The premises shall conform to the fire and safety requirements of the State Fire Marshal or his/her designee and requirements for state or local zoning, building and sanitation."
+  },
+  {
+   "id": "no_smoking",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "No person may smoke or otherwise use tobacco products in any area of the facility during the period when children cared for under the license are present.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "No person shall smoke or otherwise use tobacco products in any area of the child care facility during the period of time when children cared for under the license are present."
+  },
+  {
+   "id": "weapons",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Ammunition, guns, hunting knives, bows and arrows, or other weapons must be stored in a locked cabinet or locked closet.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Ammunition, guns, hunting knives, bows and arrows or other weapons shall be stored in a locked cabinet or locked closet."
+  },
+  {
+   "id": "hazardous_inaccessible",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Flammable liquids, matches, cleaning supplies, poisonous materials, medicines, alcoholic beverages, hazardous personal care items, and other hazardous items must be inaccessible to children.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "All flammable liquids, matches, cleaning supplies, poisonous materials, medicines, alcoholic beverages, hazardous personal care items or other hazardous items shall be inaccessible to children."
+  },
+  {
+   "id": "floor_space",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "At least 35 square feet of usable floor space must be provided for each preschool and school-age child coming into the facility for day care.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "At least thirty-five (35) square feet of usable floor space shall be provided for each preschool and school-age child coming into the facility for day care."
+  },
+  {
+   "id": "clean_pest_free",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "The facility must be clean at all times and free of dirt, insects, spiders, rodents, or other pests.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "The facility shall be clean at all times and free of dirt, insects, spiders, rodents or other pests."
+  },
+  {
+   "id": "emergency_numbers_posted",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Telephone numbers for the police, fire department, ambulance, and other emergency numbers must be posted near the telephone.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Telephone numbers for the police, fire department, ambulance and other emergency telephone numbers shall be posted near the telephone."
+  },
+  {
+   "id": "temperature",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Room temperature must be no less than 68 degrees Fahrenheit and no more than 85 degrees Fahrenheit when measured two feet from the floor.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "The temperature of the rooms shall be no less than sixty-eight degrees Fahrenheit (68°F) and no more than eighty-five degrees Fahrenheit (85°F) when measured two feet (2') from the floor."
+  },
+  {
+   "id": "lighting",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Artificial or natural lighting must supply at least 10 footcandles of light throughout each room used for child care.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Artificial or natural lighting shall supply at least ten (10) footcandles of light throughout each room used for child care."
+  },
+  {
+   "id": "screens",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Open windows and doors must be screened securely, and barriers must be provided to prevent children from falling against or from windows less than 24 inches from the floor unless constructed of safety glass.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Open windows and doors shall be screened securely. Barriers to prevent children from falling against windows or falling from windows shall be provided when windows are less than twenty-four inches (24\") from the floor"
+  },
+  {
+   "id": "glass_doors",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Clear glass doors must be marked plainly at varying heights to avoid impact.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Clear glass doors shall be marked plainly at varying heights to avoid impact."
+  },
+  {
+   "id": "concrete_floors",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Concrete floors in areas counted as child care space must be covered with carpet, tile, linoleum, or other floor covering.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Concrete floors in areas counted as child care space shall be covered with carpet, tile, linoleum or other floor covering."
+  },
+  {
+   "id": "indoor_equipment_pads",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Floor surfaces under indoor equipment over 24 inches high must be protected with pads or mats that cushion a child's fall, and carpeting alone is not acceptable.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Floor surfaces under indoor equipment over twenty-four inches (24\") in height, from which children might fall and be injured, shall be protected with pads or mats which will effectively cushion the fall of a child."
+  },
+  {
+   "id": "crawl_area",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "For smaller licensed facilities, a crawl area protected by stable dividers must be provided with a resilient and washable floor covering mopped and sanitized daily.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "A crawl area protected by stable dividers shall be provided. The area shall have a resilient and washable floor covering which shall be mopped and sanitized daily."
+  },
+  {
+   "id": "school_age_space",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "If school-age children are in care, there must be space apart from the preschool program equipped for their use.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "If school-age children are in care, there shall be space apart from the preschool program equipped for their use."
+  },
+  {
+   "id": "family_living_separate",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "In a facility located in a provider's permanent residence, the area used for child care, including play space and bathrooms, must be separate from family living quarters.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "In a facility located in a provider’s permanent residence, the area used for child care, including play space and bathrooms, shall be separate from the family living quarters."
+  },
+  {
+   "id": "staff_break_area",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "An area for staff breaks must be provided in the facility separate from child care space.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "An area for staff breaks shall be provided in the facility separate from child care space."
+  },
+  {
+   "id": "office_space",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Space must be provided for office equipment, records, and business transactions, and it must not interfere with children's play areas.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Space shall be provided for office equipment, the making and keeping of records and for transaction of business. This space shall not interfere with the children’s play areas."
+  },
+  {
+   "id": "storage_personal",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Each child must be provided individual space, accessible to the child, for storage of clothing and other personal belongings.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Each child shall be provided individual space, accessible to the child, for storage of each childs’ clothing and other personal belongings."
+  },
+  {
+   "id": "storage_play_materials",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Storage space for play materials must be provided, with some space on low shelves accessible to children.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Storage space for play materials shall be provided. Some of the space shall be on low shelves and accessible to the children."
+  },
+  {
+   "id": "no_access_unapproved",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Children must have no access to areas not approved for child care.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Children shall have no access to areas not approved for child care."
+  },
+  {
+   "id": "stairways",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Stairways in approved child care space must be well-lighted and free of obstructions, and stairways with more than three steps must have a handrail children can reach.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Stairways in approved child care space shall be well-lighted and free of obstructions. Stairways in approved child care space having more than three (3) steps shall have a handrail the children can reach."
+  },
+  {
+   "id": "railings",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Porches, decks, stairwells, or other areas with a drop-off of more than 24 inches must have an approved railing or barrier constructed to prevent crawling, falling through, or entrapment.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Porches, decks, stairwells or other areas in approved child care space having a drop-off of more than twenty-four inches (24\") from which children might fall and be injured shall have an approved railing or approved barrier."
+  },
+  {
+   "id": "safety_gates",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Approved safety gates at stairways and doors must be provided and used as needed.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Approved safety gates at stairways and doors shall be provided and used as needed."
+  },
+  {
+   "id": "outlet_covers",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Protective outlet covers or twist-lock outlets must be used in areas accessible to children.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Protective outlet covers or twist-lock outlets shall be used in areas accessible to the children."
+  },
+  {
+   "id": "dry_temperature_ventilated",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "The facility must be dry, temperature controlled, well-ventilated, and free of drafts, and children must not be overheated or chilled.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "The facility shall be dry, temperature controlled, well-ventilated and free of drafts. Children shall not be overheated or chilled."
+  },
+  {
+   "id": "walls_floors",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Walls, ceilings, and floors must be finished with material that can be cleaned easily and be free of splinters, cracks, and chipping paint, with lead-free paint used on all painted surfaces.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Walls, ceilings and floors shall be finished with material which can be cleaned easily and shall be free of splinters, cracks and chipping paint. Floor covering shall be in good condition. Lead-free paint shall be used for all painted surfaces."
+  },
+  {
+   "id": "no_access_unapproved_children",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Children must have no access to areas not approved for child care.",
+   "section": "5 CSR 25-500.082",
+   "page": 7,
+   "quote": "Children shall have no access to areas not approved for child care."
+  },
+  {
+   "id": "fence",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "A fenced outdoor play area must be available, and for facilities initially licensed after the effective date or new fences in existing facilities, the fence must be at least 42 inches high.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "A fenced outdoor play area shall be available on or adjoining the day care property. The play area shall be located so it is convenient and the children can gain access to it without hazard. For facilities initially licensed after the effective date of these rules or for the installation of new fences in existing facilities, the fence shall be at least forty-two inches (42\") high."
+  },
+  {
+   "id": "bathroom_ratio",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "One flush toilet and one adjacent handwashing facility with running water must be available for every 20 children.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "One (1) flush toilet and one (1) adjacent handwashing facility with running water shall be available for every twenty (20) children."
+  },
+  {
+   "id": "diapering_table",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "A safe diapering table with a waterproof washable surface must be used and located within or adjacent to the group space so the caregiver can maintain supervision.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "A safe diapering table with a waterproof washable surface shall be used for changing diapers. The diapering table shall be located within or adjacent to the group space so the caregiver using the diapering table can maintain supervision of his/her group of children at all times."
+  },
+  {
+   "id": "infant_toddler_floors",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Floors in infant and toddler areas must be tile, linoleum, or wood, mopped and sanitized daily, and new facilities or new infant and toddler space must not use carpet.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "Floors shall be tile, linoleum or wood and shall be mopped and sanitized daily. Washable area rugs that are laundered daily may be used. Centers initially licensed after the effective date of these rules or facilities adding new infant/toddler space shall not use carpet;"
+  },
+  {
+   "id": "infant_toddler_refrigeration",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "New infant and toddler space must provide refrigeration for bottles and a method for heating bottles in the infant and toddler unit.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "Facilities initially licensed after the effective date of these rules or facilities adding new infant/toddler space shall provide refrigeration for bottles and a method for heating bottles in the infant/toddler unit;"
+  },
+  {
+   "id": "infant_toddler_passageways",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Infant and toddler areas may not be used by staff or older children as passageways to other areas of the building.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "Infant/toddler areas may not be used by staff or older children as passageways to other areas of the building."
+  },
+  {
+   "id": "potty_chairs",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "One potty chair, junior commode, or toilet with an adapter seat must be provided for every four children being toilet trained, located in the bathroom and emptied, cleaned, and disinfected after each use.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "One (1) potty chair, junior commode or toilet with an adapter seat shall be provided for every four (4) children being toilet trained. Potty chairs shall be located in the bathroom and shall be emptied, cleaned and disinfected after each use."
+  },
+  {
+   "id": "staff_bathroom",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "If a center is licensed for more than 50 children, a separate bathroom or bathroom stall must be available for staff.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "If a center is licensed for more than fifty (50) children, a separate bathroom or bathroom stall shall be available for staff."
+  },
+  {
+   "id": "school_age_bathroom",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "When a center offers care for school-age children in first grade or above, it must provide separate girls' and boys' bathrooms or designate one bathroom for 20 or fewer school-age children.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "When a center offers care for school-age children in first grade or above, bathroom facilities shall be provided as follows: A. Separate girls’ and boys’ bathrooms shall be provided; or B. If twenty (20) or fewer school-age children are in care, one (1) bathroom may be designated for school-age children only."
+  },
+  {
+   "id": "kitchen",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "A kitchen is required for meal preparation unless meals are catered from an approved source, and kitchens used for meal preparation must have sufficient equipment including a stove, sink, hot and cold running water, refrigerator, and storage.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "A kitchen shall be required for meal preparation unless meals are catered from a source approved by the local or state sanitarian, or both."
+  },
+  {
+   "id": "kitchen_not_play",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Kitchens must not be used for children's play activities unless part of the learning program with adult supervision, and must not be used for napping or as passageways for children.",
+   "section": "5 CSR 25-500.082",
+   "page": 8,
+   "quote": "Kitchens shall not be used for children’s play activities unless the activities are part of the learning program and the children are supervised by adults."
+  },
+  {
+   "id": "animals",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Animals that may pose a threat must not be permitted on the premises or must be penned securely in an area inaccessible to children, and animal pens must be kept clean.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "Animals which may pose a threat to the health or safety of children shall not be permitted on the premises or shall be penned securely in an area which is inaccessible to the children."
+  },
+  {
+   "id": "swimming_pools",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Children using swimming or wading pools must be instructed in water safety and supervised by an adult at all times, with additional lifeguard or water safety requirements based on pool depth.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "Children using swimming or wading pools shall be instructed in water safety and supervised by an adult at all times."
+  },
+  {
+   "id": "outdoor_fall_zone",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "The fall-zone area under and around outdoor equipment must be covered with impact-absorbing materials, and concrete, asphalt, carpet, grass, or bare soil is not acceptable.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "The fall-zone area under and around outdoor equipment where children might fall and be injured shall be covered with impact-absorbing materials which will effectively cushion the fall of a child."
+  },
+  {
+   "id": "outdoor_supervision",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Adult supervision must be provided at all times when children are outside, and for children three or older ratios may be one and one-half times indoor ratios while required indoor ratios are maintained on the premises.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "Adult supervision shall be provided at all times when children are outside. For children three (3) years of age and above, staff/child ratios may be one and one-half (1 1/2) times the indoor staff/child ratios."
+  },
+  {
+   "id": "infant_toddler_outdoor_separate",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Outdoor play space for infants and toddlers must be separate from that used for older children or used at different times, with stated exceptions.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "Outdoor play space for infants and toddlers shall be separate from that used for older children or the same space shall be used at different times."
+  },
+  {
+   "id": "infant_toddler_ratios_outdoor",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios for infants, toddlers, and two-year-olds must be maintained at all times.",
+   "section": "5 CSR 25-500.082",
+   "page": 9,
+   "quote": "Staff/child ratios for infant/toddlers and two (2)-year olds shall be maintained at all times."
+  },
+  {
+   "id": "fire_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Child care staff must conduct at least one fire drill each month and a disaster drill at least every three months.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "Child care staff shall conduct at least one (1) fire drill each month and a disaster drill at least every three (3) months."
+  },
+  {
+   "id": "evacuation_plan_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The evacuation and emergency plan for fires and tornadoes must be posted conspicuously and include drill routes and special instructions for infants and nonambulatory children.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "The evacuation/emergency plan for fires and tornadoes shall be posted conspicuously and shall include the route for the drills and special instructions for infants and nonambulatory children."
+  },
+  {
+   "id": "fire_reporting",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The provider must immediately report any fire in the facility to the Office of the State Fire Marshal and the Department of Health, Bureau of Child Care Safety and Licensure.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "The provider shall immediately report any fire in the facility to the Office of the State Fire Marshal and the Department of Health, Bureau of Child Care Safety and Licensure."
+  },
+  {
+   "id": "fire_inspection_annual",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The Missouri Division of Fire Safety must inspect the facility annually for the capacity specified on the license application and fire inspection request, including overlap care approval.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "The Missouri Division of Fire Safety shall inspect the facility annually for the capacity specified on the license application and the fire inspection request. The inspection shall include a determination of whether or not the facility is approved for overlap care"
+  },
+  {
+   "id": "no_access_fire_unapproved",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Children must have no access to areas of the building that do not meet fire safety requirements.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "Children shall have no access to areas of the building that do not meet fire safety requirements."
+  },
+  {
+   "id": "christmas_trees",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fresh-cut Christmas trees must not be used unless treated with a flame resistant material, with documentation of treatment on file.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "No fresh-cut Christmas trees shall be used unless they are treated with a flame resistant material. Documentation of the treatment shall be on file at the facility"
+  },
+  {
+   "id": "hangings_draperies",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Hangings or draperies must not be placed over exit doors or located to conceal or obscure any exit, and all must be treated with flame retardant material with verification on file.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "Hangings or draperies shall not be placed over exit doors or located to conceal or obscure any exit. All hangings and draperies shall be treated with a flame retardant material with verification of the treatment on file"
+  },
+  {
+   "id": "artwork_walls",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Art work and teaching materials attached directly to walls must not exceed 30 percent of wall area, and none may be hung from ceilings or in doorways.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "Art work and teaching materials attached directly to the walls shall not exceed thirty percent (30%) of the wall area. No art work or teaching materials shall be hung from the ceilings or in the doorways."
+  },
+  {
+   "id": "mirrors",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Mirrors must not be placed on exit doors or adjacent to any exit that may confuse the direction of exit.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "Mirrors shall not be placed on exit doors or adjacent to any exit that may confuse the direction of exit."
+  },
+  {
+   "id": "house_numbers",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "House numbers must be plainly visible from the street in case of emergency.",
+   "section": "5 CSR 25-500.087",
+   "page": 10,
+   "quote": "The house numbers shall be plainly visible from the street in case of emergency."
+  },
+  {
+   "id": "exits",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Each level occupied by children must have at least two remotely located means of egress, and each door opening in a means of egress must be at least 28 inches wide.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Each level occupied by children shall have at least two (2) remotely located means of egress. Each door opening in a means of egress shall be at least twenty-eight inches (28\") wide."
+  },
+  {
+   "id": "no_locked_egress",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "No door in a required means of egress may be locked against egress travel when the building is occupied, and dead bolt locks requiring a key from the inside must not be used.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "No door in a means of egress shall be locked against egress travel when the building is occupied. Locking devices that impede or prohibit egress or that cannot be disengaged easily shall not be used."
+  },
+  {
+   "id": "mixed_occupancy",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "When a facility is located in a building with mixed occupancies, the other occupancies must be separated from the facility by at least a one-hour fire barrier.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "When a facility is located in a building containing mixed occupancies, the other occupancies shall be separated from the facility by at least a one (1)-hour fire barrier;"
+  },
+  {
+   "id": "high_hazard",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "No facility may be located next to a high hazard area or occupancy.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "No facility shall be located next to a high hazard area or occupancy."
+  },
+  {
+   "id": "no_exit_through_hazardous",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Children must not exit through a kitchen, bathroom, storage room, furnace room, garage, or other area deemed hazardous by the fire inspector.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Children shall not exit through a kitchen, bathroom, storage room, furnace room, garage, or any other rooms or areas deemed hazardous by the fire inspector."
+  },
+  {
+   "id": "no_ladder_rooms",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "No room or space accessible only by a ladder, folding stairs, overhead door, or trap door may be occupied at any time.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "No room or space that is accessible only by a ladder, folding stairs, overhead door, or through a trap door shall be occupied at any time."
+  },
+  {
+   "id": "dead_end",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Dead-ends must not exceed 20 feet.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Dead-ends as defined by 19 CSR 30-62.087(1)(B) Fire Safety shall not exceed twenty feet (20')."
+  },
+  {
+   "id": "door_swing",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Exit doors must swing in the direction of egress travel and be marked with a lighted exit sign with a 90-minute battery backup.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Exit doors shall swing in the direction of egress travel and shall be marked with a lighted exit sign with a battery backup of ninety (90) minutes."
+  },
+  {
+   "id": "panic_hardware",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Any door in a required means of egress from a facility with an occupant load of 100 or more or any facility caring for children during nighttime hours must be equipped with panic hardware or fire exit hardware.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Any door in a required means of egress from a facility having an occupant load of one hundred (100) or more persons, or any facility caring for children during nighttime hours, shall be equipped with panic hardware or fire exit hardware."
+  },
+  {
+   "id": "closet_latches",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Closet door latches must be designed so children can open them from the inside, and bathroom door locks must permit opening from the outside in an emergency with the device readily accessible to staff.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Closet door latches shall be designed so children can open the doors from the inside. Bathroom door locks shall be designed to permit opening of the door from the outside in an emergency."
+  },
+  {
+   "id": "emergency_lighting",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities initially licensed or areas initially approved on or after the effective date, and altered spaces, must have emergency lighting with a 90-minute battery backup to light the path of egress.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "facilities initially licensed and areas initially approved for child care on or after the effective date of this rule, shall have emergency lighting with a ninety (90)-minute battery backup installed to light the path of egress."
+  },
+  {
+   "id": "stair_width",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Stairs must be at least 44 inches wide in facilities with 50 or more occupants and at least 36 inches wide in facilities with fewer than 50 occupants.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Stairs in facilities with fifty (50) or more occupants shall be at least forty-four inches (44\") wide. Stairs in facilities with less than fifty (50) occupants shall be at least thirty-six inches (36\") wide."
+  },
+  {
+   "id": "volunteer_fire_department",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities served by a volunteer or membership fire department must be a member in good standing, with a copy of membership or receipt on file.",
+   "section": "5 CSR 25-500.087",
+   "page": 11,
+   "quote": "Facilities served by a volunteer or membership fire department shall be a member in good standing with the fire department."
+  },
+  {
+   "id": "infants_two_exits",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities caring for children under 24 months must have two means of egress from each dedicated room, with one leading directly outside at level exit discharge unless the entire facility is protected by an approved supervised automatic sprinkler system.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Facilities caring for children under the age of twenty-four (24) months shall have two (2) means of egress out of each room that is dedicated for their use. One (1) means of egress shall lead directly outside at level exit discharge."
+  },
+  {
+   "id": "level_below_ground",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Areas used for day care must not be located more than one level below ground level.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Areas used for day care shall not be located more than one (1) level below ground level."
+  },
+  {
+   "id": "travel_distance",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Travel distance between any room door intended as an exit access or an exit must not exceed 100 feet, or 150 feet from any point in a room, with possible increases in sprinklered buildings.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "The travel distance between any room door intended as an exit access or an exit shall not exceed one hundred feet (100'). This travel distance may be increased by fifty feet (50') in buildings protected throughout by a supervised automatic sprinkler system"
+  },
+  {
+   "id": "windows_rescue",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Every room or space greater than 300 square feet used by children must have at least one outside window for emergency rescue and ventilation, with specified exceptions.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Every room or space greater than three hundred (300) square feet used by children shall have at least one (1) outside window for emergency rescue and ventilation."
+  },
+  {
+   "id": "handrails",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Handrails must be mounted 34 to 38 inches above treads, have at least 1.5 inches clearance from the wall, and be 1.5 to 2 inches in diameter.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Handrails shall be mounted at least thirty-four inches (34”), and no more than thirty-eight inches (38\"), above the surface of the treads. They shall have a clearance of at least one and one-half inches (1 1/2\") from the wall."
+  },
+  {
+   "id": "balusters",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Stairs with no walls on either side must have balusters with no more than 4 inches between each baluster.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Stairs with no walls on either side shall have balusters placed on the sides. There shall be no more than four inches (4\") between each baluster."
+  },
+  {
+   "id": "ramps",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Ramps used in an exit discharge must be at least 44 inches wide for facilities with 50 or more occupants and at least 36 inches wide for fewer, with specified slope, handrail, and slip-resistant requirements.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Ramps used in an exit discharge shall be at least forty-four inches (44\") wide if the facility has fifty (50) or more occupants. They shall be at least thirty-six inches (36\") wide if the facility has less than fifty (50) occupants."
+  },
+  {
+   "id": "door_threshold",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The elevation of interior floor surfaces through doorways must not present a tripping hazard.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "The elevation of interior floor surfaces through doorways shall not present a tripping hazard."
+  },
+  {
+   "id": "level_exit_discharge",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Where children occupy a level below or above the level of exit discharge, at least one means of egress must discharge directly to the outside, with specified vertical travel limits and remote arrangement.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Where children are occupying a level below or above the level of exit discharge (basement or second floor), at least one (1) means of egress shall be an exit discharging directly to the outside."
+  },
+  {
+   "id": "vertical_openings",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Vertical openings must be enclosed and protected with a one-hour fire barrier.",
+   "section": "5 CSR 25-500.087",
+   "page": 12,
+   "quote": "Vertical openings shall be enclosed and protected with a one (1)-hour fire barrier."
+  },
+  {
+   "id": "fire_extinguisher",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "At least one portable 5 lb., 2A-10 BC fire extinguisher must be provided in all facilities, located in or near the kitchen or as required by the fire inspector.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "At least one portable, 5 lb., 2A-10 BC, fire extinguisher shall be required in all facilities. One (1) fire extinguisher shall be located in or near the kitchen or a location required by the fire inspector."
+  },
+  {
+   "id": "smoke_detectors",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Smoke detectors must be installed in each room where children are cared for and other areas deemed necessary by the fire inspector, and must be operational at all times.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "A smoke detector(s) shall be installed in each room where children are being cared for and all other areas that are deemed necessary by the fire inspector."
+  },
+  {
+   "id": "carbon_monoxide",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities using equipment or appliances that pose a potential carbon monoxide risk, including facilities with attached garages, must install carbon monoxide detectors according to manufacturer instructions.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "Facilities using equipment or appliances that pose a potential carbon monoxide risk, including facilities with attached garages, shall install a carbon monoxide detector(s)."
+  },
+  {
+   "id": "fire_alarm",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "All facilities must have a manual fire alarm system with pull stations at each exit door and at least one horn or strobe light on each floor, except one-room facilities with exits directly outside at level exit discharge.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "All facilities shall have a manual fire alarm system. Pull stations shall be mounted at each exit door and at least one (1) horn or strobe light shall be installed in a central location on each floor."
+  },
+  {
+   "id": "interior_finish",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Interior wall and ceiling finishes must meet NFPA 101 requirements, and textile materials, foam plastic, or other highly flammable or toxic materials must not be used as interior finishes.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "Interior wall and ceiling finishes throughout shall meet the requirements of the latest edition of the National Fire Protection Association, Chapter 101, Life Safety Code."
+  },
+  {
+   "id": "floor_finish",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Interior floor finishes within corridors and exits must be Class I or II in accordance with the Life Safety Code.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "Interior floor finishes within corridors and exits shall be Class I or II in accordance with Chapter 6 of the latest edition of the Life Safety Code."
+  },
+  {
+   "id": "wall_studs",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities initially licensed or areas initially approved on or after the effective date, and altered spaces, must have wall studs, ceiling joists, and floor joists covered with a minimum of Class C finish with no exposed studs or joists.",
+   "section": "5 CSR 25-500.087",
+   "page": 13,
+   "quote": "facilities initially licensed and areas initially approved for child care on or after the effective date of this rule, shall have wall studs, ceiling joists, and floor joists that are covered with a minimum of Class C finish with no exposed studs or joists."
+  },
+  {
+   "id": "heating",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Unvented fuel-fired room heaters, portable electrical space heaters, and floor furnaces must not be used during child care hours.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Unvented fuel-fired room heaters, portable electrical space heaters, or floor furnaces shall not be used during child care hours."
+  },
+  {
+   "id": "fire_alarm_full_coverage",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Day care centers caring for more than 50 children at one time must have a full coverage fire alarm system with smoke detectors in each room and throughout hallways and heat detectors in the attic, kitchen, and mechanical rooms.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Day care centers caring for more than fifty (50) children at one time shall have a full coverage fire alarm system. Smoke detectors shall be installed in each room, throughout hallways, and in other locations as deemed necessary by the fire inspector."
+  },
+  {
+   "id": "fire_alarm_monitoring",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Day care centers caring for more than 100 children at one time must have a fire alarm system that notifies a monitoring company or the fire department, with the contract on file.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Day care centers caring for more than one hundred (100) children at one time shall have a fire alarm system that notifies a monitoring company or the fire department."
+  },
+  {
+   "id": "sprinkler_above_second",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "When child care space is located above the second floor, the entire building must be protected by a supervised automatic sprinkler system.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "When child care space is located above the second floor, the entire building shall be protected by a supervised automatic sprinkler system."
+  },
+  {
+   "id": "sprinkler_testing",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities with a supervised automatic fire sprinkler system must have the system tested and approved annually by a fire sprinkler company, with the report on file.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Facilities that have a supervised automatic fire sprinkler system installed shall have the system tested and approved annually by a fire sprinkler company."
+  },
+  {
+   "id": "range_hood",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities using a commercial stove, deep fryer, two home-type ranges side-by-side, or a home-type range producing grease-laden vapor must be equipped with a range hood and extinguishing system.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Facilities using a commercial stove, deep fryer, two (2) home-type ranges placed side-by-side, or a home-type range that produces grease laden vapor, shall be equipped with a range hood and extinguishing system"
+  },
+  {
+   "id": "gas_shutoff",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "New or altered facilities must have gas shut-off valves located next to all gas appliances, furnaces, and water heaters.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Gas shut-off valves shall be located next to all gas appliances, furnaces, and water heaters;"
+  },
+  {
+   "id": "furnace_garage",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "If a furnace or water heater is located inside a garage, it must be at least 18 inches above the finished floor and enclosed in a fire resistant room.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "If a furnace or water heater is located inside a garage, it shall be at least eighteen inches (18\") above the finished floor and enclosed inside a fire resistant room as provided in 19 CSR 30-62.087(10) Fire Safety."
+  },
+  {
+   "id": "furnace_venting",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Furnaces must be vented properly, with flue pipes constructed of galvanized pipe or manufacturer-recommended material and secured by screws at every joint.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Furnaces shall be vented properly. Furnace flue pipes shall be constructed of galvanized pipe or material recommended by the manufacturer. Galvanized pipe shall be secured by screws at every joint in the pipe."
+  },
+  {
+   "id": "water_heater_permit",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Facilities with a water heater over 200,000 Btu per hour input or heating with a boiler must have a valid permit from the Division of Fire Safety posted on the premises.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Facilities with a water heater over two hundred thousand (200,000) British thermal units (Btus) per hour input or larger, or that is heating with a boiler, shall have a valid permit from the Division of Fire Safety posted on the premises."
+  },
+  {
+   "id": "combustion_air",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Furnace rooms and rooms containing water heaters must have adequate combustion air, with specified vent opening sizes and locations and appliance clearances.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Furnace rooms and rooms containing water heaters shall have adequate combustion air for the units. The vent size openings for the combustion air shall be measured at one (1) square inch per one thousand (1,000) Btu input"
+  },
+  {
+   "id": "fan_shutdown",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Furnace or air-handling equipment with airflow of 2,000 cubic feet per minute or more must have a fan shut-down switch and duct smoke detectors interconnected with the fire alarm system.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Furnace or air-handling equipment that has an air flow of two thousand (2,000) cubic feet of air per minute or more shall have a fan shut-down switch and duct smoke detectors that are interconnected with the fire alarm system."
+  },
+  {
+   "id": "hvac_installation",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Air conditioning, heating, ventilating duct work, and related equipment must be installed safely and in good operating condition as determined by the fire inspector.",
+   "section": "5 CSR 25-500.087",
+   "page": 14,
+   "quote": "Air conditioning, heating, ventilating duct work, and related equipment shall be installed safely and be in good operating condition as determined by the fire inspector."
+  },
+  {
+   "id": "disaster_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The facility must develop, implement, and maintain a written disaster and emergency plan.",
+   "section": "5 CSR 25-500.090",
+   "page": 15,
+   "quote": "The facility shall develop, implement, and maintain policies and procedures for responding to a disaster emergency, including a written plan for:"
+  },
+  {
+   "id": "electrical_covers",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Protective covers or inserts for electrical receptacles must be installed in all areas occupied by children.",
+   "section": "5 CSR 25-500.087",
+   "page": 15,
+   "quote": "Protective covers or inserts for electrical receptacles shall be installed in all areas occupied by children."
+  },
+  {
+   "id": "extension_cords",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Electrical extension cords must not be used unless approved in writing by the fire inspector.",
+   "section": "5 CSR 25-500.087",
+   "page": 15,
+   "quote": "Electrical extension cords shall not be used unless approved in writing by the fire inspector."
+  },
+  {
+   "id": "electrical_wiring",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Electrical wiring must be installed and maintained in good working order, and unsafe or improperly installed wiring may require inspection by a licensed electrician before fire safety approval.",
+   "section": "5 CSR 25-500.087",
+   "page": 15,
+   "quote": "Electrical wiring shall be installed and maintained in good working order. If the fire inspector considers the wiring to be unsafe for the occupants or it is installed improperly, an inspection by a licensed electrician may be required prior to fire safety approval."
+  },
+  {
+   "id": "disaster_plan_available",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "A copy of the disaster and emergency plan must be readily available in the office area and in each room used for care of children.",
+   "section": "5 CSR 25-500.090",
+   "page": 16,
+   "quote": "At all times, a copy of the facility’s disaster and emergency plan is readily available in the office area and in each room used for care of children;"
+  },
+  {
+   "id": "emergency_info_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Emergency contact information, evacuation route diagrams, and special instructions must be posted in each child care room and beside each telephone.",
+   "section": "5 CSR 25-500.090",
+   "page": 16,
+   "quote": "The following information is posted in each room used for child care and beside each telephone in the facility:"
+  },
+  {
+   "id": "disaster_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "All staff and children must participate in a disaster or emergency drill at least every three months.",
+   "section": "5 CSR 25-500.090",
+   "page": 16,
+   "quote": "at least every three (3) months, all staff and children at the facility have participated in a disaster or emergency drill based on the facility’s disaster and emergency plan."
+  },
+  {
+   "id": "sleep_equipment",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "An individual cot or bed must be provided for each child who naps or sleeps, with an individually assigned sheet and blanket for each child 12 months or older, and upper bunk beds must not be used.",
+   "section": "5 CSR 25-500.092",
+   "page": 16,
+   "quote": "An individual cot or bed shall be provided for each child who naps or sleeps. An individually assigned sheet and blanket shall be provided for each child twelve (12) months and older who naps or sleeps. Upper levels of bunk beds shall not be used."
+  },
+  {
+   "id": "crib_standards",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "Cribs and playpens must meet CPSC and ASTM safety standards and be free of soft objects, loose bedding, or other items that can increase the risk of entrapment, suffocation, or strangulation.",
+   "section": "5 CSR 25-500.092",
+   "page": 16,
+   "quote": "Cribs, portable cribs, and playpens shall be free of soft objects, loose bedding, or any object that can increase the risk of entrapment, suffocation, or strangulation."
+  },
+  {
+   "id": "play_materials",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "Preschool and school-age children 24 months or older must have an ample variety of age-appropriate toys and materials, with a minimum of 40 approved items for every 10 children and at least four items from each required category.",
+   "section": "5 CSR 25-500.092",
+   "page": 17,
+   "quote": "A minimum of forty (40) approved items shall be required for every ten (10) children in the licensed capacity of the facility."
+  },
+  {
+   "id": "infant_toys",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "Infants and toddlers must have safe toys that are washed when soiled, with at least one approved item from each required category for each infant and toddler in licensed capacity.",
+   "section": "5 CSR 25-500.092",
+   "page": 17,
+   "quote": "Toys and materials shall include a minimum of one (1) approved item from each of the following categories for each infant and toddler in the licensed capacity of the facility:"
+  },
+  {
+   "id": "outdoor_equipment",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "Outdoor equipment must be constructed safely, in good condition, free of sharp, loose, or pointed parts, and painted only with lead-free paint.",
+   "section": "5 CSR 25-500.092",
+   "page": 17,
+   "quote": "All outdoor equipment shall be constructed safely, in good condition and free of sharp, loose or pointed parts. Only lead-free paint shall be used."
+  },
+  {
+   "id": "trampolines",
+   "topic": "furniture, equipment and materials",
+   "kind": "rule",
+   "requirement": "Trampolines must not be used, although mini-trampolines, aerobic bouncers, or similar small jumping equipment may be used with close supervision.",
+   "section": "5 CSR 25-500.092",
+   "page": 17,
+   "quote": "Trampolines shall not be used. Mini-trampolines, aerobic bouncers or other similar small jumping equipment may be used with close supervision."
+  },
+  {
+   "id": "abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "All staff must acquaint themselves with the child abuse and neglect law and report any suspected child abuse or neglect to the Children's Division.",
+   "section": "5 CSR 25-500.102",
+   "page": 18,
+   "quote": "All staff shall acquaint themselves with the child abuse and neglect law and shall make a report of any suspected child abuse or neglect to the Children’s Division at the toll-free number 1-800-392-3738 or online at https://apps.dss.mo.gov/OnlineCanReporting/default.aspx."
+  },
+  {
+   "id": "first_aid_cpr",
+   "topic": "personnel",
+   "kind": "rule",
+   "requirement": "The licensee must have documentation of current age-appropriate first aid and CPR certification for enough staff to provide one caregiver per 20 children in licensed capacity, with at least one certified caregiver on site at all times.",
+   "section": "5 CSR 25-500.102",
+   "page": 18,
+   "quote": "The licensee shall have documentation on file at the facility of current certification in age-appropriate first aid and cardiopulmonary resuscitation (CPR) training for a sufficient number of child care staff to ensure that there is one (1) caregiver at the facility for every twenty (20) children in the licensed capacity."
+  },
+  {
+   "id": "orientation",
+   "topic": "personnel",
+   "kind": "rule",
+   "requirement": "Caregivers employed on or after August 30, 2019 must receive a facility orientation within seven days of employment or volunteering and before being left alone with children.",
+   "section": "5 CSR 25-500.102",
+   "page": 18,
+   "quote": "The child care provider shall ensure that within seven (7) days of employment or volunteering, and before being left alone with children, that caregivers employed on or after August 30, 2019, receive a facility orientation."
+  },
+  {
+   "id": "safe_sleep_training",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Staff and volunteers in facilities licensed for infants under one year must complete department-approved safe sleep training every three years and before licensure or within 30 days of employment or volunteering.",
+   "section": "5 CSR 25-500.102",
+   "page": 21,
+   "quote": "Every three (3) years, the child care provider, group child care home provider, child care staff members, and volunteers in a group child care home or child care center licensed to provide care for infants less than one (1) year of age shall successfully complete department-approved training regarding the American Academy of Pediatrics (AAP) safe sleep recommendations"
+  },
+  {
+   "id": "training",
+   "topic": "personnel",
+   "kind": "rule",
+   "requirement": "The center director, group child care home provider, all other caregivers, and volunteers counted in ratios must obtain at least 12 clock hours of child-care-related training during each calendar year.",
+   "section": "5 CSR 25-500.102",
+   "page": 21,
+   "quote": "The center director, group child care home provider, all other caregivers, and those volunteers who are counted in staff/child ratios shall obtain at least twelve (12) clock hours of child-care related training during each calendar year."
+  },
+  {
+   "id": "ratios_maintained",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios must be maintained at all times according to the age and group requirements in the rule.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "Staff/child ratios shall be maintained at all times. (A) The staff/child ratio and group size shall be followed as outlined in the chart below unless it meets an exception"
+  },
+  {
+   "id": "ratio_infants_toddlers",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "For infants, toddlers, and two-year-olds, the minimum staff-to-child ratio is 1:4 and the maximum group size is 8.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "Infants, toddlers, and 2-year-olds Birth to 36 months 1:4 8"
+  },
+  {
+   "id": "ratio_two_year_olds_only",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Groups composed solely of two-year-olds require a 1:8 staff-to-child ratio and a maximum group size of 16.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "2-year-olds Groups composed solely of children 24 to 36 months 1:8 16"
+  },
+  {
+   "id": "ratio_three_four",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Groups composed solely of three- and four-year-olds require a 1:10 staff-to-child ratio and a maximum group size of 20.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "3 through 4-year-olds Groups composed solely of children 3 to 4 years old 1:10 20"
+  },
+  {
+   "id": "ratio_five_plus",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Groups composed solely of children five years or older require a 1:16 staff-to-child ratio and a maximum group size of 32.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "5-year-olds and up Groups composed solely of children 5 years or older 1:16 32"
+  },
+  {
+   "id": "ratio_mixed_type_1",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A mixed group with no more than four two-year-olds and at least one older child requires a 1:10 staff-to-child ratio and a maximum group size of 20.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "Mixed ages (Type 1) 2-year-olds and older, with a maximum of four (4) 2-year-olds A mixed group of children consisting of no more than 4 children ages 24 to 36 months, and at least one child older than 36 months 1:10 20"
+  },
+  {
+   "id": "ratio_mixed_type_2",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A mixed group with more than four two-year-olds and at least one older child requires a 1:8 staff-to-child ratio and a maximum group size of 16.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "Mixed ages (Type 2) 2-year-olds and older, with more than four (4) 2-year-olds"
+  },
+  {
+   "id": "naptime_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "During naptime, groups of children two years or older need not maintain staff-to-child ratio in the napping area but must not exceed group size, and the required ratio must be maintained on the premises.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "During naptime, groups composed of children two (2) years old and older shall not be required to maintain staff/ child ratio within the napping area, but shall not exceed group size limitations."
+  },
+  {
+   "id": "outdoor_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "During outdoor play, staff-to-child ratios may be one and one-half times indoor ratios if no children two or younger are present, and required indoor ratios must be maintained on the premises.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "During outdoor play, staff/child ratios may be one and one-half (1 1/2) times the indoor staff/child ratios if children two (2) years of age or younger are not present in the outdoor play space."
+  },
+  {
+   "id": "director_not_in_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "In centers with attendance of more than 50 children, the center director or person in charge is not counted in staff-to-child ratios except during naptime or on an emergency substitute basis.",
+   "section": "5 CSR 25-500.112",
+   "page": 22,
+   "quote": "If a center has an attendance of more than fifty (50) children, the center director or individual in charge shall not be included in staff/child ratios except during naptime or on an emergency substitute basis."
+  },
+  {
+   "id": "medical_exam_staff",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "All persons working in the facility during child care hours, including volunteers counted in ratios, must have a medical examination report on file at initial licensure or within 30 days following employment.",
+   "section": "5 CSR 25-500.122",
+   "page": 22,
+   "quote": "All persons working in a child care facility in any capacity during child care hours, including volunteers counted in staff/ child ratios, shall be in good physical and emotional health with no physical or mental conditions which would interfere with child care responsibilities."
+  },
+  {
+   "id": "tb_screening",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Medical examination reports must include either a TB risk assessment completed and signed by a health care professional or a negative tuberculin skin test completed not more than 12 months before beginning work.",
+   "section": "5 CSR 25-500.122",
+   "page": 22,
+   "quote": "Medical examination reports shall include either a Tuberculosis (TB) Risk Assessment form, completed and signed by a health care professional, or a negative tuberculin skin test (TST) completed not more than twelve (12) months before beginning work in the facility."
+  },
+  {
+   "id": "admission_written_policies",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The provider must establish, implement, and maintain written policies on program goals, admission, safe sleep for children under one, care, and discharge, and give parents a copy at enrollment.",
+   "section": "5 CSR 25-500.132",
+   "page": 23,
+   "quote": "The provider shall establish, implement, and maintain written policies pertaining to the program goals, admission, safe sleep practices for children less than one (1) year of age, care, and discharge of children, and shall provide a copy to the parent(s) at the time of enrollment."
+  },
+  {
+   "id": "safe_sleep_training_expectations",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must list the licensee's expectations regarding how and when caregivers are trained on safe sleep.",
+   "section": "5 CSR 25-500.132",
+   "page": 23,
+   "quote": "The policy shall list the licensee’s expectations regarding how and when caregivers are to be trained on safe sleep;"
+  },
+  {
+   "id": "medical_exam_children",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A medical examination report for each infant, toddler, or preschool child must be required within 30 days following admission and completed not more than 12 months prior to admission.",
+   "section": "5 CSR 25-500.122",
+   "page": 23,
+   "quote": "The provider, within thirty (30) days following the admission of each infant, toddler, or preschool child, shall require a medical examination report signed by a licensed physician or registered nurse who is under the supervision of a licensed physician and completed not more than twelve (12) months prior to admission."
+  },
+  {
+   "id": "school_age_health_report",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The parent of a school-age child must provide a health history report at enrollment indicating health history, current health problems, and necessary care restrictions.",
+   "section": "5 CSR 25-500.122",
+   "page": 23,
+   "quote": "The parent(s) of a school-age child shall provide a report at the time of enrollment indicating the child’s health history, any current health problems, and any restrictions necessary for the child’s care."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must require children under one year of age to be placed on their backs to sleep.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "A requirement that children less than one (1) year of age be placed on their backs to sleep;"
+  },
+  {
+   "id": "safe_sleep_alternative_statement",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must require a written statement from the infant's licensed health care provider before allowing alternative sleep positions or special sleeping arrangements.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "A requirement that the facility shall receive a written statement from the infant’s licensed health care provider stating that the infant requires alternative sleep positions or special sleeping arrangements that differ from those set forth in 19 CSR 30-62.182(2)(C) prior to allowing the infant to be placed in a sleep position that is not on his or her back;"
+  },
+  {
+   "id": "safe_sleep_supervision",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must include supervision of infants during nap and sleep times, including staff positioning, nap room lighting, physical checks, and prohibitions on equipment that interferes with supervision.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Supervision of infants during nap/sleep times, to include: A. Positioning of staff; B. Lighting in the nap room; C. Physical checks of the child to ensure he or she is not overheated or in distress; and D. Prohibitions against the use of any equipment such as a sound machine that may interfere with the caregiver’s ability to see or hear a child who may be distressed;"
+  },
+  {
+   "id": "safe_sleep_environment",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must state that cribs and playpens must have a firm mattress and tight-fitting sheets and be free of loose bedding, bumper pads, pillows, and soft toys.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "The policy shall state that cribs and playpens must have a firm mattress and tight fitting sheets, be free of loose bedding, bumper pads, pillows, and soft toys;"
+  },
+  {
+   "id": "safe_sleep_head_uncovered",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must require infants' heads to be uncovered during nap and sleep times.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Shall require infants’ heads be uncovered during nap/ sleep times;"
+  },
+  {
+   "id": "safe_sleep_no_cover_cribs",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must prohibit covering cribs or playpens with blankets or bedding.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Shall prohibit covering cribs or playpens with blankets or bedding;"
+  },
+  {
+   "id": "safe_sleep_no_smoking",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The infant safe sleep policy must prohibit smoking in the child care home during the hours children are in care.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Shall prohibit smoking in the child care home during the hours children are in care;"
+  },
+  {
+   "id": "safe_sleep_give_policy",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The provider must give the parent or guardian of each infant a copy of the safe sleep policy upon the child's enrollment.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Shall require giving the parent(s) or guardian(s) of each infant in care a copy of the provider’s safe sleep policy upon the child’s enrollment."
+  },
+  {
+   "id": "admission_age",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Only children two years of age or older may be accepted for care unless the facility is specifically licensed to include infant and toddler care.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Only children two (2) years of age and older shall be accepted for care unless the facility has been specifically licensed to include infant/toddler care."
+  },
+  {
+   "id": "special_needs_plan",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A child with a special physical, developmental, or behavioral need must have an individualized plan for specialized care from a professionally qualified source on file.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "A child who has a special physical, developmental, or behavioral need shall have on file an individualized plan for specialized care from a professionally qualified source."
+  },
+  {
+   "id": "admission_procedure",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The provider must develop and implement an admission procedure that includes a personal interview, a communication plan, discussion of ill child care, discussion of school-age closing plans, and completion of required written information before the child is accepted.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "The provider shall develop and implement a procedure for admitting children which shall include: (A) A personal interview with the parent(s) and child to exchange information and arrive at a mutual decision about admitting a child;"
+  },
+  {
+   "id": "written_info_before_accepted",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Before a child is accepted for care, parents must complete written information including records, development and behavior information, infant and toddler diet plans, emergency instructions, immunization information, and required permissions.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Completion by the parent(s) of the following written information which shall be on file before the child is accepted for care:"
+  },
+  {
+   "id": "emergency_medical_instructions",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Parents must provide written instructions for action if they or their designated physician cannot be reached in an emergency and permission for emergency medical care.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "Instructions for action to be taken if the parent(s) or physician designated by the parent(s) cannot be reached in an emergency and permission for emergency medical care;"
+  },
+  {
+   "id": "related_children_form",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "If care is provided for children related to the center owner or group child care home provider, the parent must complete and sign a department-supplied form before the children are accepted for care.",
+   "section": "5 CSR 25-500.132",
+   "page": 24,
+   "quote": "If care is provided for children related to the center owner(s) or group day care home provider, the parent(s) shall complete and sign a form which is supplied by the department"
+  },
+  {
+   "id": "discharge",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "A child who demonstrates an inability to benefit from care or whose presence is detrimental to other children may be discharged after attempts to meet the child's individual needs.",
+   "section": "5 CSR 25-500.132",
+   "page": 25,
+   "quote": "After attempts have been made to meet a child’s individual needs, any child who demonstrates an inability to benefit from the care offered by the child care provider or whose presence is detrimental to other children may be discharged from the facility."
+  },
+  {
+   "id": "care_discontinued",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "Care may be discontinued if the provider and parent cannot establish a mutually satisfactory working relationship.",
+   "section": "5 CSR 25-500.132",
+   "page": 25,
+   "quote": "Care of a child may be discontinued if the provider and the parent(s) cannot establish a mutually satisfactory working relationship."
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must have access to the facility at any time during child care hours.",
+   "section": "5 CSR 25-500.132",
+   "page": 25,
+   "quote": "Parents shall have access to the facility at any time during child care hours."
+  },
+  {
+   "id": "nighttime_care",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Nighttime care may be offered only if the facility is specifically licensed for nighttime care and meets the additional nighttime care requirements.",
+   "section": "5 CSR 25-500.142",
+   "page": 25,
+   "quote": "If nighttime care is to be offered on a regular basis, rules shall be met as set forth for nighttime care and the facility shall be specifically licensed to include nighttime care."
+  },
+  {
+   "id": "overlap_care",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Overlap care may exceed licensed capacity by no more than one-third for no more than two hours total in any 24-hour child care day and requires written department approval.",
+   "section": "5 CSR 25-500.162",
+   "page": 25,
+   "quote": "The number in care shall never be more than one-third (1/3) over the licensed capacity of the facility at the time of overlap. The overlap period(s) shall not exceed two (2) hours total in any twenty-four- (24-) hour child-care day."
+  },
+  {
+   "id": "discipline_prohibited_physical",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Physical punishment, including spanking, slapping, shaking, biting, or pulling hair, is prohibited.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Physical punishment including, but not limited to, spanking, slapping, shaking, biting, or pulling hair shall be prohibited."
+  },
+  {
+   "id": "discipline_no_humiliation",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "No discipline technique that is humiliating, threatening, or frightening may be used, and children must not be shamed, ridiculed, or spoken to harshly, abusively, or with profanity.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "No discipline technique which is humiliating, threatening, or frightening to children shall be used. Children shall not be shamed, ridiculed, or spoken to harshly, abusively, or with profanity."
+  },
+  {
+   "id": "discipline_no_closet",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Children must not be placed in a closet, a locked or unlit room, or any other frightening place.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Children shall not be placed in a closet, a locked or unlit room, or any other place which is frightening."
+  },
+  {
+   "id": "discipline_no_food_rest_toilet",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Punishment or threat of punishment must not be associated with food, rest, or toilet training.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Punishment or threat of punishment shall not be associated with food, rest, or toilet training."
+  },
+  {
+   "id": "discipline_separation",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Brief, supervised separation from the group may be used based on a guideline of one minute of separation for each year of the child's age.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Brief, supervised separation from the group may be used based on a guideline of one (1) minute of separation for each year of the child’s age."
+  },
+  {
+   "id": "discipline_rules",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "The provider must establish simple, understandable rules for children's behavior and explain them to the children.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "The provider shall establish simple, understandable rules for children’s behavior and shall explain them to the children."
+  },
+  {
+   "id": "arrival_dismissal",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A caregiver must personally admit each child on arrival and personally dismiss each child on departure, and children may be dismissed only to a parent, guardian, legal custodian, or approved individual.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "A caregiver personally shall admit each child upon arrival and personally shall dismiss each child upon departure. Children shall be dismissed only to the parent(s), guardian, legal custodian, or to individuals approved by the parent(s), guardian, or legal custodian."
+  },
+  {
+   "id": "supervision",
+   "topic": "child care program",
+   "kind": "rule",
+   "requirement": "Caregivers must not leave any child without competent supervision.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Caregivers shall not leave any child without competent supervision."
+  },
+  {
+   "id": "no_abuse",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Children must not be subjected to child abuse or neglect as defined by section 210.110, RSMo.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Children shall not be subjected to child abuse/neglect as defined by section 210.110, RSMo."
+  },
+  {
+   "id": "emergency_school_closings",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "On emergency school closing days, the facility may exceed licensed capacity by one-third for enrolled school-age children, but this excess is not in addition to overlap care excess.",
+   "section": "5 CSR 25-500.172",
+   "page": 26,
+   "quote": "The provider shall be permitted to exceed for the day the licensed capacity of the facility by one-third (1/3). The one-third (1/3) excess attendance for emergency school closings shall not be in addition to the one-third (1/3) excess attendance allowed for overlap care."
+  },
+  {
+   "id": "nap_rest",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Preschool children who do not sleep must rest on cots or beds at least 30 minutes but must not be forced to remain longer than one hour.",
+   "section": "5 CSR 25-500.182",
+   "page": 26,
+   "quote": "Preschool children who do not sleep shall rest on cots or beds at least thirty (30) minutes, but shall not be forced to remain on cots or beds for longer than one (1) hour."
+  },
+  {
+   "id": "daily_schedule",
+   "topic": "child care program",
+   "kind": "must_include",
+   "requirement": "A daily schedule must be established in written form and include activities for all ages of children in care.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "A daily schedule shall be established in written form which shall include activities for all ages of children in care."
+  },
+  {
+   "id": "outdoor_play",
+   "topic": "child care program",
+   "kind": "rule",
+   "requirement": "Children in attendance a full day must receive at least one hour of outdoor play unless prevented by weather or special medical reasons.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "A total of at least one (1) hour of outdoor play for children in attendance a full day unless prevented by weather or special medical reasons."
+  },
+  {
+   "id": "infant_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "A child under 12 months of age must be placed on his or her back to sleep.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "A child under twelve (12) months of age shall be placed on his/her back to sleep;"
+  },
+  {
+   "id": "infant_sleep_head_uncovered",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "An infant's head and face must remain uncovered during sleep.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "An infant’s head and face shall remain uncovered during sleep;"
+  },
+  {
+   "id": "infant_sleep_overdressing",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "An infant must not be overdressed when sleeping, with no more than one layer more than an adult would wear to be comfortable.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "An infant shall not be overdressed when sleeping to avoid overheating. Infants should be dressed appropriately for the environment, with no more than one (1) layer more than an adult would wear to be comfortable in that environment;"
+  },
+  {
+   "id": "infant_sleep_alternative_instructions",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "If an infant requires alternative sleep positions or special sleeping arrangements, written instructions signed by the infant's licensed health care provider must be on file.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "When, in the opinion of the infant’s licensed health care provider, an infant requires alternative sleep positions or special sleeping arrangements that differ from those set forth in this rule, the provider shall have on file at the facility written instructions, signed by the infant’s licensed health care provider"
+  },
+  {
+   "id": "tummy_time",
+   "topic": "child care program",
+   "kind": "rule",
+   "requirement": "Infants under one year must receive supervised tummy time to promote healthy development.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "Supervised “tummy time” for children under one (1) year of age to promote healthy development;"
+  },
+  {
+   "id": "diapering_clean",
+   "topic": "child care program",
+   "kind": "rule",
+   "requirement": "The diapering table must be cleaned thoroughly with a disinfectant after each use, and the child must not be left unattended on the diapering table.",
+   "section": "5 CSR 25-500.182",
+   "page": 27,
+   "quote": "The diapering table shall be cleaned thoroughly with a disinfectant after each use."
+  },
+  {
+   "id": "ill_child_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children exhibiting specified symptoms, such as diarrhea more than once, severe coughing, fever over 100 degrees by mouth, vomiting more than once, or severe itching, must be sent home.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "If children exhibit any of the following symptoms, they must be sent home:"
+  },
+  {
+   "id": "ill_child_remain",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Unless determined otherwise by the parent or provider, a child with no more than one listed symptom may remain in care.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "Unless determined otherwise by the parent(s) or provider, a child with no more than one (1) of the following symptoms may remain in care:"
+  },
+  {
+   "id": "ill_child_isolation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "An ill child must be kept isolated from other children until the parent arrives, and a caregiver must remain in close proximity.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "The ill child shall be kept isolated from the other children until the parent(s) arrives."
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may be given to a child only with dated, written permission from the parent stating the length of time medication may be given.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "All medication shall be given to a child only with the dated, written permission of the parent(s) stating the length of time medication may be given."
+  },
+  {
+   "id": "medication_container",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Prescription medication must be in the original container and labeled with the child's name, administration instructions, times and amounts, and physician's name; nonprescription medication must be in the original container and labeled by the parent.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "Prescription medication shall be in the original container and labeled with the child’s name, instructions for administration, including the times and amounts for dosages and the physician’s name."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "All medication must be stored out of reach of children or in a locked container, returned to storage immediately after use, and refrigerated medication kept separate from food.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "All medication shall be stored out of reach of children or in a locked container."
+  },
+  {
+   "id": "medication_record",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "The date and time of administration, name of the individual giving medication, and quantity given must be recorded promptly and filed in the child's record.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "The date and time(s) of administration, the name of the individual giving the medication and the quantity of any medication given shall be recorded promptly after administration."
+  },
+  {
+   "id": "immunization_required",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "No child may enroll in or attend a facility caring for 10 or more children unless adequately immunized, and the parent must provide satisfactory evidence of required immunizations.",
+   "section": "5 CSR 25-500.192",
+   "page": 28,
+   "quote": "No child shall be permitted to enroll in or attend any day care facility caring for ten (10) or more children unless the child has been immunized adequately against vaccine-preventable childhood illnesses specified by the department"
+  },
+  {
+   "id": "immunization_exemption",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A child who has not completed all immunizations may enroll if immunization has begun or if a parent files a medical or guardian exemption statement.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "A child who has not completed all immunizations appropriate for his/her age may enroll, if—"
+  },
+  {
+   "id": "immunization_outbreak",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "In the event of an outbreak or suspected outbreak of a vaccine-preventable disease, the administrator must follow control measures instituted by the local health authority or department.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "In the event of an outbreak or suspected outbreak of a vaccine-preventable disease in the facility, the administrator of the facility shall follow the control measures instituted by the local health authority or the department, or both"
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "The administrator must prepare an immunization record for each child and make an annual summary report by January 15, with records available for department review.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "The administrator of each day care facility shall prepare a record of immunization of each child enrolled in or attending the facility. An annual summary report shall be made by January 15"
+  },
+  {
+   "id": "accidents_injuries",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "In case of accident or injury, the provider must notify the parent immediately, follow the parent's written instructions for emergency medical care, and note the date and circumstance in the child's record.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "In case of accident or injury to a child, the provider shall notify the parent(s) immediately. If the child requires emergency medical care, the provider shall follow the parent’s(s’) written instructions."
+  },
+  {
+   "id": "meal_schedule",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The required meal schedule must include breakfast or a midmorning snack, lunch, and a midafternoon snack for children in daytime care, with no more than four hours between any meal or snack, and school-age children must be served a snack after school.",
+   "section": "5 CSR 25-500.202",
+   "page": 29,
+   "quote": "The required meal schedule shall include breakfast or a midmorning snack, lunch and a midafternoon snack for children in care during daytime hours, with a maximum time of four (4) hours between any meal or snack. School-age children shall be served a snack after school."
+  },
+  {
+   "id": "milk_with_meals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "One serving of fluid milk must be served with each meal.",
+   "section": "5 CSR 25-500.202",
+   "page": 29,
+   "quote": "One (1) serving of fluid milk shall be served with each meal."
+  },
+  {
+   "id": "evening_snack",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children in care during evening hours must be served a snack, and upon parental request must be served supper and breakfast if spending the night.",
+   "section": "5 CSR 25-500.202",
+   "page": 29,
+   "quote": "Children in care during evening hours shall be served a snack. Upon parental request, children in care during evening hours shall be served supper and children spending the night shall be served breakfast."
+  },
+  {
+   "id": "nutritious_snacks",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Snacks must consist of fruit juice, raw fruit or vegetable, milk, crackers, cheese, peanut butter, or similar nutritious food.",
+   "section": "5 CSR 25-500.202",
+   "page": 29,
+   "quote": "Snacks of fruit juice, raw fruit or vegetable, milk, crackers, cheese, peanut butter or similar nutritious food shall be served."
+  },
+  {
+   "id": "handwashing",
+   "topic": "health care",
+   "kind": "rule",
+   "requirement": "Caregivers must wash their hands with soap and running water after toileting or assisting a child, after diapering, before food preparation or serving, and at other times as needed.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "Caregivers shall wash their hands with soap and running water after toileting or assisting a child with toileting, after diapering a child, before food preparation or serving of food and at other times as needed."
+  },
+  {
+   "id": "children_handwashing",
+   "topic": "health care",
+   "kind": "rule",
+   "requirement": "Caregivers must teach children to wash their hands before eating and after toileting.",
+   "section": "5 CSR 25-500.192",
+   "page": 29,
+   "quote": "Caregivers shall teach children to wash their hands before eating and after toileting."
+  },
+  {
+   "id": "school_age_sack_meals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "If a facility is licensed exclusively for school-age care, a child may be permitted to bring sack meals, and the provider must supply one serving of fluid milk with each sack meal and nutritious snacks.",
+   "section": "5 CSR 25-500.202",
+   "page": 29,
+   "quote": "If the facility is licensed exclusively for school-age care, the child may be permitted to bring sack meals. The provider shall supply one (1) serving of fluid milk with each sack meal and shall supply nutritious snacks."
+  },
+  {
+   "id": "infant_diet_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infants must be served nourishing foods appropriate to their nutritional requirements and developmental stages as specified by the parent in a written diet plan, and the plan must be followed and updated.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "The provider shall serve nourishing foods appropriate for the infant’s nutritional requirements and developmental stages as specified by his/her parent(s) in a written diet plan."
+  },
+  {
+   "id": "bottle_feeding",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Until infants can hold a bottle comfortably, they must be held by a caregiver during bottle feeding, and bottles must not be propped.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "Until infants can hold a bottle comfortably, they shall be held by a caregiver during bottle feeding. Bottles shall not be propped."
+  },
+  {
+   "id": "drinking_water",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Drinking water must be located conveniently near playrooms and the playground so children may drink as they wish, using water fountains or individual cups.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "Drinking water shall be located conveniently near playrooms and the playground so children may be free to drink as they wish. Water fountains or individual cups shall be used."
+  },
+  {
+   "id": "mealtime_atmosphere",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Mealtime atmosphere must be enjoyable and relaxed, no child may be forced to eat, and children must be encouraged to set their own pace.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "Mealtime atmosphere shall be enjoyable and relaxed. No child shall be forced to eat, but shall be encouraged to set his/ her own pace according to personal preferences."
+  },
+  {
+   "id": "field_trip_consent",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parental consent must be on file at the facility for field trips and transportation.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Written parental consent shall be on file at the facility for field trips and transportation."
+  },
+  {
+   "id": "transport_safety",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "All children must be seated in a permanent seat and restrained by seat belts or child restraint devices as required by Missouri law.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "All children shall be seated in a permanent seat and restrained by seat belts or child restraint devices as required by Missouri law."
+  },
+  {
+   "id": "transport_no_unattended",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must not be left unattended in a vehicle at any time.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Children shall not be left unattended in a vehicle at any time."
+  },
+  {
+   "id": "transport_headcounts",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Head counts must be taken before leaving the facility, after entering the vehicle, during a field trip, after bathroom trips, after returning to the vehicle, and when back at the facility.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Head counts shall be taken before leaving the facility, after entering the vehicle, during a field trip, after taking the children to bathrooms, after returning to the vehicle and when back at the facility."
+  },
+  {
+   "id": "transport_driver",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The driver of any vehicle used to transport children must be at least 18 years old and have a valid driver's license as required by Missouri law.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "The driver of any vehicle used to transport children shall be no less than eighteen (18) years of age and shall have a valid driver’s license as required by Missouri law."
+  },
+  {
+   "id": "transport_release",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must be released only to a parent or authorized individual, and the vehicle operator must wait until the child is in that person's custody.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Children shall be released only to the parent(s) or individual(s) authorized by the parent(s)."
+  },
+  {
+   "id": "transport_inspect_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "When children leave the vehicle, the vehicle must be inspected to ensure no children are left on or under seats.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "When children leave the vehicle, the vehicle shall be inspected to ensure that no children are left on or under seats."
+  },
+  {
+   "id": "milk_supply",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The water and milk supply and method of dispensing must be approved by local or state health authorities, powdered milk must not be used except for cooking, and milk substitutes must not be used.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "The water and milk supply, and the method of dispensing, shall be approved by local or state health authorities, or both. Powdered milk shall not be used except for cooking purposes."
+  },
+  {
+   "id": "food_sanitation",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "State or local rules governing food service sanitation must be maintained in the storage, preparation, and service of foods.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "State or local rules, or both, governing food service sanitation shall be maintained in the storage, preparation and service of foods."
+  },
+  {
+   "id": "infant_feeding_self",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "When an infant or toddler shows evidence of wanting to feed himself or herself, the child must be encouraged and permitted to do so.",
+   "section": "5 CSR 25-500.202",
+   "page": 31,
+   "quote": "When an infant/toddler shows evidence of wanting to feed him/herself, the child shall be encouraged and permitted to do so."
+  },
+  {
+   "id": "transport_no_campers",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must not be transported in campers, trailers, or in the back of trucks.",
+   "section": "5CSR 25-500.212",
+   "page": 31,
+   "quote": "Children shall not be transported in campers, trailers or in the back of trucks."
+  },
+  {
+   "id": "transport_identifying_info",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Identifying information regarding the provider, the children, and each child's parents' names, addresses, and telephone numbers must be carried in the vehicle.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Identifying information regarding the name of the provider, the names of the children and the names, addresses and telephone numbers of each child’s parent(s) shall be carried in the vehicle."
+  },
+  {
+   "id": "transport_ratios",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Staff-to-child ratios must be maintained at any time the provider transports children away from the facility.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Staff/child ratios shall be maintained at any time the provider transports children away from the facility."
+  },
+  {
+   "id": "transport_seated",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must remain seated while the vehicle is in motion, doors must be locked, order must be maintained, and children must not be left unattended.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Children shall be required to remain seated while the vehicle is in motion."
+  },
+  {
+   "id": "transport_curb_side",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must enter and leave the vehicle from the curbside unless the vehicle is in a protected area or driveway, and must be assisted when necessary.",
+   "section": "5 CSR 25-500.212",
+   "page": 31,
+   "quote": "Children shall enter and leave the vehicle from the curbside unless the vehicle is in a protected area or driveway."
+  },
+  {
+   "id": "records_individual_file",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "An individual file must be kept for each child with identifying, parent, emergency contact, physician, authorized pickup, and transportation information.",
+   "section": "5 CSR 25-500.222",
+   "page": 31,
+   "quote": "An individual file shall be kept to identify each child and enable the provider to communicate with the parent(s), guardian, or legal custodian of the child in an emergency."
+  },
+  {
+   "id": "confidentiality_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Children's records must be confidential, protected from unauthorized examination, and available to parents upon request.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "All records of children shall be confidential, protected from unauthorized examination, and available to the parent(s) upon request."
+  },
+  {
+   "id": "records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Individual children's records must be retained at least one year after the child discontinues attendance, and daily attendance records must be kept at least one year.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "Individual children’s records shall be retained a minimum of one (1) year after the child discontinues attendance."
+  },
+  {
+   "id": "records_accessible",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Enrollment, medical examination, and attendance records must be filed in a place known to caregivers, accessible at all times, and not locked or removed during operating hours.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "All enrollment records, medical examination records, and attendance records shall be filed in a place known to caregivers and shall be accessible at all times."
+  },
+  {
+   "id": "variance_request",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "A provider may request a variance from a rule in writing, and the department must approve it if it does not endanger the health or safety of children.",
+   "section": "5 CSR 25-500.230",
+   "page": 32,
+   "quote": "Any provider may request a variance from a rule. The request for a variance shall be submitted in writing to the department and shall include the rule(s) for which a variance is requested and the reason(s) the provider requests the variance."
+  },
+  {
+   "id": "health_info_file",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Health information must be retained in each child's individual file, including medical examination reports, medication authorization and records, accident or injury information, and significant observations.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "Health information shall be retained in each child’s individual file and shall include: (A) A medical examination report for each infant, toddler, or preschool child or a health report for each school-age child"
+  },
+  {
+   "id": "staff_attendance_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Daily staff and volunteer attendance records must be maintained and kept on file for at least one year.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "Daily staff and volunteer attendance records shall be maintained and kept on file a minimum of one (1) year."
+  },
+  {
+   "id": "background_screening_file",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A copy of qualifying background screening results must be kept on file for child care staff members.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "A copy of qualifying background screening results shall be kept on file for child care staff members, as required by 5 CSR 25- 600.020 General Requirements."
+  },
+  {
+   "id": "records_available_department",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "All records must be available in the facility for inspection by the department upon request.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "All records shall be available in the facility for inspection by the department upon request."
+  },
+  {
+   "id": "records_submitted",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Records and reports must be submitted to the department as required.",
+   "section": "5 CSR 25-500.222",
+   "page": 32,
+   "quote": "Records and reports shall be submitted to the department as required."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "irregular_care",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Children enrolled for irregular or intermittent care are accepted only by appointment and must not cause the facility to exceed its licensed capacity.",
+   "section": "5 CSR 25-500.132",
+   "page": "[MO page 24]",
+   "quote": "Children enrolled on an irregular or intermittent basis shall be accepted only by appointment and shall not cause the facility to exceed its licensed capacity."
+  },
+  {
+   "id": "outdoor_space",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "A minimum of 75 square feet of outdoor play area per child at the time of use must be provided, with enough area for one-third of licensed capacity and no less than 750 square feet.",
+   "section": "5 CSR 25-500.082",
+   "page": "[MO page 8]",
+   "quote": "A minimum of seventy-five (75) square feet of outdoor play area per child at the time of use shall be provided. A sufficient area shall be available to accommodate one-third (1/3) the licensed capacity of the facility at one (1) time, with no less than seven hundred fifty (750) square feet."
+  },
+  {
+   "id": "telephone",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "A telephone in working order must be available for incoming and outgoing calls, and any answering machine must be turned on so messages can be heard.",
+   "section": "5 CSR 25-500.082",
+   "page": "[MO page 7]",
+   "quote": "A telephone in working order shall be available for incoming and outgoing calls. If a telephone answering machine is used, it must be turned on so incoming messages can be heard and parents’ calls can be returned promptly."
+  },
+  {
+   "id": "infant_toddler_space",
+   "topic": "physical environment",
+   "kind": "rule",
+   "requirement": "For facilities with more than four infants or toddlers or more than 20 children, new infant and toddler space must provide at least 45 square feet per infant or toddler, with no more than eight infants or toddlers or 16 two-year-olds in a group and no more than 24 in a room.",
+   "section": "5 CSR 25-500.082",
+   "page": "[MO page 7]",
+   "quote": "For facilities initially licensed for infant/toddler care after the effective date of these rules or facilities adding new infant/toddler space, at least forty-five (45) square feet of usable floor space shall be provided in the facility for each infant and toddler."
+  },
+  {
+   "id": "risers_treads",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Stair risers must be no more than 7 inches and no less than 4 inches high, tread depth must be at least 10 inches, and headroom must be at least 6 feet 8 inches.",
+   "section": "5 CSR 25-500.087",
+   "page": "[MO page 11]",
+   "quote": "The maximum height of risers shall be seven inches (7\") with a minimum height of four inches (4\"). The minimum tread depth shall be ten inches (10\")."
+  },
+  {
+   "id": "hazardous_rooms",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Rooms such as boiler, furnace, water heater, combustible storage, hazardous materials, laundry, and maintenance areas must be separated by one-hour fire barriers, with janitorial closet doors self-closing and equipped with a fire alarm initiating device, and these areas must be inaccessible to children.",
+   "section": "5 CSR 25-500.087",
+   "page": "[MO page 13]",
+   "quote": "The following rooms and areas used for the storage, processing, or use of materials shall be separated from the remainder of the building by fire barriers having a fire resistance rating of at least one (1) hour of protection:"
+  },
+  {
+   "id": "transport_licensed_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "All vehicles used to transport children must be licensed in accordance with Missouri law.",
+   "section": "5 CSR 25-500.212",
+   "page": "[MO page 31]",
+   "quote": "All vehicles used to transport children shall be licensed in accordance with Missouri law."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.124,
+ "tokens_in": 150469,
+ "tokens_out": 53151,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

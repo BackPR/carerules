@@ -1,0 +1,14 @@
+AL: 36 items verified, 8 dropped, 2 turns, $0.049
+AR: 48 items verified, 2 dropped, 2 turns, $0.050
+CO: 84 items verified, 1 dropped, 2 turns, $0.176
+DC: 60 items verified, 7 dropped, 2 turns, $0.114
+IA: 52 items verified, 0 dropped, 1 turns, $0.019
+MO: 231 items verified, 7 dropped, 2 turns, $0.124
+MS: 83 items verified, 4 dropped, 2 turns, $0.059
+NC: 107 items verified, 3 dropped, 2 turns, $0.160
+ND: 81 items verified, 1 dropped, 2 turns, $0.041
+NJ: 57 items verified, 15 dropped, 2 turns, $0.072
+NM: 35 items verified, 19 dropped, 2 turns, $0.070
+OK: 0 items verified, 0 dropped, 1 turns, $0.117
+OR: 47 items verified, 0 dropped, 2 turns, $0.073
+SC: 53 items verified, 13 dropped, 2 turns, $0.193

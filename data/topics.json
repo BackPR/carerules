@@ -1,0 +1,22 @@
+[
+ {"topic": "ratio_infant", "ask": "Staff-to-child ratio for the youngest age group the rulebook sets (usually infants). Answer: children per staff member."},
+ {"topic": "ratio_3yo", "ask": "Staff-to-child ratio for 3-year-olds. Answer: children per staff member."},
+ {"topic": "ratio_4yo", "ask": "Staff-to-child ratio for 4-year-olds. Answer: children per staff member."},
+ {"topic": "ratio_school_age", "ask": "Staff-to-child ratio for school-age children (use the oldest school-age band if there are several). Answer: children per staff member."},
+ {"topic": "group_4yo", "ask": "Maximum group size for 4-year-olds. Answer: number of children."},
+ {"topic": "staff_min_age", "ask": "Minimum age for a caregiver/teacher counted in ratio (not an aide or volunteer unless the rule says so). Answer: years."},
+ {"topic": "director_qualification", "ask": "One concrete minimum qualification for a center director (education, credential or experience). Answer: short text."},
+ {"topic": "training_hours_annual", "ask": "Hours of ongoing/annual training required for caregiving staff per year. Answer: hours."},
+ {"topic": "indoor_sqft", "ask": "Minimum usable indoor space per child. Answer: square feet."},
+ {"topic": "outdoor_sqft", "ask": "Minimum outdoor play space per child (per child on the playground at one time, or per licensed capacity: say which). Answer: square feet."},
+ {"topic": "hot_water_temp", "ask": "Maximum hot water temperature at sinks/taps children use. Answer: degrees Fahrenheit."},
+ {"topic": "med_authorization", "ask": "What must the center have before giving a child medication (e.g. written parent authorization)? Answer: short text."},
+ {"topic": "fire_drill_frequency", "ask": "How often fire (evacuation) drills must be held. Answer: short text, e.g. 'monthly'."},
+ {"topic": "records_retention", "ask": "How long a specific record (attendance, child records, medication log, etc.: name it) must be kept. Answer: duration."},
+ {"topic": "safe_sleep_position", "ask": "Required sleep position for infants. Answer: short text."},
+ {"topic": "injury_report_deadline", "ask": "Deadline to report a serious injury/incident to the licensing agency (or to parents if that's all the rule sets: say which). Answer: duration."},
+ {"topic": "immunization_deadline", "ask": "When a child's immunization record must be on file (e.g. on admission, within N days). Answer: short text or days."},
+ {"topic": "first_aid_cpr", "ask": "CPR/first-aid requirement: how many/which staff must be certified, or present at all times. Answer: short text."},
+ {"topic": "crib_spacing", "ask": "Minimum distance between cribs or cots/mats. Answer: inches or feet."},
+ {"topic": "license_duration", "ask": "How long a license is valid, or how often it must be renewed. Answer: duration."}
+]

@@ -1,0 +1,1067 @@
+{
+ "state": "OK",
+ "rulebook": "OKDHS Licensing Requirements for Child Care Programs, Pub. 14-05 (effective 11/1/2025)",
+ "items": [
+  {
+   "id": "annual_parent_conferences",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Documentation of annual parent conferences offered must be maintained.",
+   "section": "340:110-3-281.4(b)(14)",
+   "page": 9,
+   "quote": "Documentation is maintained, per OAC 340:110-3-281.2(c)"
+  },
+  {
+   "id": "policy_provided_parents",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Program policies must be provided to parents upon enrollment and when revisions are made.",
+   "section": "340:110-3-278(d)(1)(A)",
+   "page": 13,
+   "quote": "are provided to: (A) parents upon enrollment and when revisions are made"
+  },
+  {
+   "id": "policy_brief_description",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include a brief program description.",
+   "section": "340:110-3-278(d)(2)(A)",
+   "page": 13,
+   "quote": "at least, include items (A) through (L), unless a statement is included addressing non-applicable items:"
+  },
+  {
+   "id": "policy_ages_accepted",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state the ages of children accepted.",
+   "section": "340:110-3-278(d)(2)(B)",
+   "page": 13,
+   "quote": "(A) brief program description; (B) ages of children accepted;"
+  },
+  {
+   "id": "policy_hours_closings",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state days and hours of operation, including days closed such as holidays.",
+   "section": "340:110-3-278(d)(2)(C)",
+   "page": 13,
+   "quote": "days and hours of operation including days closed, such as holidays"
+  },
+  {
+   "id": "policy_compliance_file_location",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state the compliance file location.",
+   "section": "340:110-3-278(d)(2)(D)",
+   "page": 13,
+   "quote": "(C) days and hours of operation including days closed, such as holidays; (D) compliance file location;"
+  },
+  {
+   "id": "policy_emergency_info",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include relevant emergency plans and procedures information for parents.",
+   "section": "340:110-3-278(d)(2)(E)",
+   "page": 13,
+   "quote": "relevant emergency plans and procedures information for parents"
+  },
+  {
+   "id": "policy_health_inclusion_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state health inclusion, separation, and exclusion criteria, including head lice and other infestations.",
+   "section": "340:110-3-278(d)(2)(F)",
+   "page": 13,
+   "quote": "health inclusion, separation, and exclusion criteria, including head lice and other infestations"
+  },
+  {
+   "id": "policy_medication_conditions",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state whether the program administers medication and under what conditions.",
+   "section": "340:110-3-278(d)(2)(G)",
+   "page": 13,
+   "quote": "whether the program administers medication and under what conditions"
+  },
+  {
+   "id": "policy_discipline_methods",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "The parent handbook must describe behavior management and discipline methods.",
+   "section": "340:110-3-278(d)(2)(H)",
+   "page": 13,
+   "quote": "(G) whether the program administers medication and under what conditions; (H) behavior management and discipline methods;"
+  },
+  {
+   "id": "policy_expulsion",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include an expulsion policy.",
+   "section": "340:110-3-278(d)(2)(I)",
+   "page": 13,
+   "quote": "(H) behavior management and discipline methods; (I) expulsion policy;"
+  },
+  {
+   "id": "policy_mandatory_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state mandatory reporting of suspected child abuse and neglect.",
+   "section": "340:110-3-278(d)(2)(J)",
+   "page": 13,
+   "quote": "mandatory reporting of suspected child abuse and neglect"
+  },
+  {
+   "id": "policy_infant_safe_sleep",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include an infant safe sleep environment description.",
+   "section": "340:110-3-278(d)(2)(K)",
+   "page": 13,
+   "quote": "(J) mandatory reporting of suspected child abuse and neglect; (K) infant safe sleep environment description;"
+  },
+  {
+   "id": "policy_building_access",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for gaining building access when the entrance is secured.",
+   "section": "340:110-3-278(d)(2)(L)(i)",
+   "page": 13,
+   "quote": "gaining building access when the entrance is secured"
+  },
+  {
+   "id": "policy_receiving_releasing",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for receiving and releasing children, including caller identification for authorized pickup.",
+   "section": "340:110-3-278(d)(2)(L)(ii)",
+   "page": 13,
+   "quote": "receiving and releasing children, including methods for caller identification authorizing child pick-up"
+  },
+  {
+   "id": "policy_child_not_arrive",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for notifying parents when a child does not arrive as required.",
+   "section": "340:110-3-278(d)(2)(L)(iii)",
+   "page": 13,
+   "quote": "notifying parents when a child does not arrive as required"
+  },
+  {
+   "id": "policy_health_monitoring",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for monitoring children's health as required.",
+   "section": "340:110-3-278(d)(2)(L)(iv)",
+   "page": 13,
+   "quote": "monitoring children's health as required"
+  },
+  {
+   "id": "policy_communicable_disease_exposure",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for notifying parents of communicable disease exposure while maintaining confidentiality.",
+   "section": "340:110-3-278(d)(2)(L)(v)",
+   "page": 13,
+   "quote": "notifying parents of communicable disease exposure, while maintaining confidentiality of the ill child or personnel"
+  },
+  {
+   "id": "policy_infestation_exposure",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for notifying parents of infestation exposure while maintaining confidentiality.",
+   "section": "340:110-3-278(d)(2)(L)(vi)",
+   "page": 13,
+   "quote": "notifying of infestation exposure, while maintaining confidentiality of the infected child or personnel"
+  },
+  {
+   "id": "policy_illness_injury_poison",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for handling illnesses, injuries, and poison exposures, including when children are off-site.",
+   "section": "340:110-3-278(d)(2)(L)(vii)",
+   "page": 13,
+   "quote": "handling illnesses, injuries, and poison exposures, including when children are off-site"
+  },
+  {
+   "id": "policy_medication_storage_administration",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for storing, administering, returning, and medication disposal.",
+   "section": "340:110-3-278(d)(2)(L)(viii)",
+   "page": 13,
+   "quote": "storing, administering, returning, and medication disposal"
+  },
+  {
+   "id": "policy_medical_waste",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for storing, using, returning, and medical waste disposal such as syringes, needles, and lancets.",
+   "section": "340:110-3-278(d)(2)(L)(ix)",
+   "page": 13,
+   "quote": "storing, using, returning, and medical waste disposal, such as syringes, needles, and lancets"
+  },
+  {
+   "id": "policy_sun_safety",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for using sun safety methods such as sunscreen and protecting children from over-exposure to the sun.",
+   "section": "340:110-3-278(d)(2)(L)(x)",
+   "page": 13,
+   "quote": "using sun safety methods, such as sunscreen and protecting children from over-exposure to the sun"
+  },
+  {
+   "id": "policy_insect_repellent",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for using insect repellent.",
+   "section": "340:110-3-278(d)(2)(L)(xi)",
+   "page": 13,
+   "quote": "(x) using sun safety methods, such as sunscreen and protecting children from over-exposure to the sun; (xi) using insect repellent;"
+  },
+  {
+   "id": "liability_insurance_exception_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "When program liability insurance is not maintained or the program reports being self-insured, the insurance exception notification must be posted at the main entrance.",
+   "section": "340:110-3-278(b)",
+   "page": 13,
+   "quote": "program liability insurance is maintained, unless an exception, per the Oklahoma Child Care Facilities Licensing Act, Section 404.3 of Title 10 of the Oklahoma Statutes (10 O.S. § 404.3), is posted"
+  },
+  {
+   "id": "vehicle_insurance_maintained",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Vehicle insurance must be maintained and documentation available.",
+   "section": "340:110-3-278(c)",
+   "page": 13,
+   "quote": "Vehicle insurance is maintained, per OAC 340:110-3-281.2(c) and (d)"
+  },
+  {
+   "id": "policy_transporting_children",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for transporting children.",
+   "section": "340:110-3-278(d)(2)(L)(xiii)",
+   "page": 14,
+   "quote": "(xii) managing children's personal belongings; (xiii) transporting children; (xiv) notifying parents of field trips;"
+  },
+  {
+   "id": "policy_field_trip_notification",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for notifying parents of field trips.",
+   "section": "340:110-3-278(d)(2)(L)(xiv)",
+   "page": 14,
+   "quote": "(xiii) transporting children; (xiv) notifying parents of field trips;"
+  },
+  {
+   "id": "policy_late_field_trip_arrival",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for receiving children arriving late for field trips when the group has left the facility.",
+   "section": "340:110-3-278(d)(2)(L)(xv)",
+   "page": 14,
+   "quote": "receiving children arriving late for field trips when the group has left the facility"
+  },
+  {
+   "id": "policy_meals_snacks_field_trips",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for providing meals and snacks, including field trips.",
+   "section": "340:110-3-278(d)(2)(L)(xvi)",
+   "page": 14,
+   "quote": "providing meals and snacks, including field trips"
+  },
+  {
+   "id": "personnel_policy_when_two_plus",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "When the program has two or more personnel, personnel policies must be provided to personnel upon employment and when revisions are made.",
+   "section": "340:110-3-278(e)(1)",
+   "page": 14,
+   "quote": "are provided to personnel upon employment and when revisions are made"
+  },
+  {
+   "id": "volunteer_policy_when_used",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "When the program uses volunteers, volunteer policies must be provided to volunteers upon starting service and when revisions are made.",
+   "section": "340:110-3-278(f)(1)",
+   "page": 14,
+   "quote": "are provided to volunteers upon starting service and when revisions are made"
+  },
+  {
+   "id": "emergency_plans_required",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency plans must be individualized, followed, and maintained, and include procedures for specified situations and child considerations.",
+   "section": "340:110-3-279(a)",
+   "page": 15,
+   "quote": "The program is required to have emergency plans that are: (A) individualized to the program and operating hours"
+  },
+  {
+   "id": "first_aid_kit_supplies",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "First aid kits must contain specified supplies and be accessible to personnel and inaccessible to children.",
+   "section": "340:110-3-279(d)",
+   "page": 16,
+   "quote": "First aid kits are accessible to personnel at all times and inaccessible to children"
+  },
+  {
+   "id": "drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Monthly fire and tornado drills must be conducted and documented.",
+   "section": "340:110-3-279(g)(1)(C)(i)",
+   "page": 18,
+   "quote": "Monthly. Monthly drills include: (I) fire drills conducted by evacuating and meeting at pre-determined locations; and (II) tornado drills conducted by sheltering in pre-determined on-site locations"
+  },
+  {
+   "id": "abuse_report_hotline",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Suspected child abuse or neglect must be reported promptly to the OKDHS Child Abuse and Neglect Hotline.",
+   "section": "340:110-3-280(b)(1)",
+   "page": 19,
+   "quote": "OKDHS Child Abuse and Neglect Hotline at 1-800-522-3511"
+  },
+  {
+   "id": "licensing_notification_next_business_day",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The owner, responsible entity, or director must notify Licensing by the next business day of specified changes, incidents, injuries, deaths, and diseases.",
+   "section": "340:110-3-280(a)(1)",
+   "page": 19,
+   "quote": "The owner, responsible entity, or director notifies Licensing by the next Oklahoma Human Services (OKDHS) business day of"
+  },
+  {
+   "id": "licensing_notification_30_days_prior",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "Licensing must be notified at least 30 calendar days prior to anticipated closings, location changes, facility changes, business entity changes, name changes, or licensed capacity changes.",
+   "section": "340:110-3-280(a)(2)",
+   "page": 19,
+   "quote": "The owner, responsible entity, or director notifies Licensing at least 30-calendar days prior to"
+  },
+  {
+   "id": "parent_notification_immediate",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be notified immediately of specified urgent situations such as a child not arriving, injury needing physician evaluation, poison exposure, or animal bite breaking skin.",
+   "section": "340:110-3-280(d)(1)",
+   "page": 20,
+   "quote": "The program notifies parents immediately of: (A) a child not arriving at the facility on his or her own as scheduled"
+  },
+  {
+   "id": "parent_notification_prompt",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be promptly notified when a child is separated due to illness or infestation or has a suspected allergic reaction.",
+   "section": "340:110-3-280(d)(2)",
+   "page": 20,
+   "quote": "The program promptly notifies parents when a child: (A) is separated from the group due to an illness or infestation"
+  },
+  {
+   "id": "health_department_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "The program must promptly or by the next health department business day notify the local or state health department of specified diseases and outbreaks.",
+   "section": "340:110-3-280(c)",
+   "page": 20,
+   "quote": "The program promptly notifies the local or OSDH of a known case in individuals associated with the program"
+  },
+  {
+   "id": "heinous_abuse_notification",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Upon receiving notice of a substantiated heinous and shocking abuse finding, the facility must notify parents using an OKDHS-provided form within 72 hours by certified mail.",
+   "section": "340:110-3-280(d)(4)",
+   "page": 21,
+   "quote": "immediately attempted but not later than 72 hours of notice receipt from OKDHS; and (ii) provided by certified mail"
+  },
+  {
+   "id": "parent_notification_pickup",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be notified upon child pickup of daily happenings, changes in physical or emotional state, minor injuries, illness symptoms, exposures, medication administration, animal bites, and implemented emergency plans.",
+   "section": "340:110-3-280(d)(3)",
+   "page": 21,
+   "quote": "The program notifies parents upon child pick up of: (A) daily happenings"
+  },
+  {
+   "id": "field_trip_prior_notification",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents must be notified prior to each field trip of the date, time, and location.",
+   "section": "340:110-3-280(d)(5)",
+   "page": 21,
+   "quote": "Prior to each field trip, the program notifies parents of the date, time, and location"
+  },
+  {
+   "id": "animals_tobacco_weapons_notification",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be notified upon enrollment and prior to changes in the presence of animals, tobacco or simulated tobacco use, and weapons.",
+   "section": "340:110-3-280(d)(6)",
+   "page": 21,
+   "quote": "Upon enrollment and prior to changes. The program notifies parents upon enrollment and prior to a change in the presence of: (A) animals; (B) tobacco or simulated tobacco use; and (C) weapons"
+  },
+  {
+   "id": "notice_to_parents_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The Notice to Parents publication must be posted at the main entrance.",
+   "section": "340:110-3-281.1(b)(2)",
+   "page": 23,
+   "quote": "Oklahoma Human Services (OKDHS) Publication No. 14-01, Notice to Parents, is posted"
+  },
+  {
+   "id": "emergency_plans_posted_evacuation_routes",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Evacuation routes must be posted on each floor.",
+   "section": "340:110-3-281.1(c)(7)",
+   "page": 23,
+   "quote": "Evacuation routes. A floor plan with primary and secondary evacuation routes from each area of the building is posted on each floor"
+  },
+  {
+   "id": "weekly_menu_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The weekly menu, including dates and substitutions, must be posted in a prominent location and in the kitchen.",
+   "section": "340:110-3-281.1(c)(8)",
+   "page": 23,
+   "quote": "Weekly menu. The menu, including dates and substitutions, is posted"
+  },
+  {
+   "id": "personnel_in_charge_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The director's full name and at least one additional personnel responsible in the director's absence must be posted.",
+   "section": "340:110-3-281.1(c)(4)",
+   "page": 23,
+   "quote": "The program posts the director's full name and at least one additional personnel responsible for the program in the director's absence"
+  },
+  {
+   "id": "child_abuse_hotline_notice_posted",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "A notice of the Child Abuse and Neglect Hotline number and requirement to report suspected abuse or neglect must be posted.",
+   "section": "340:110-3-281.1(c)(5)",
+   "page": 23,
+   "quote": "A notice of the Child Abuse and Neglect Hotline number and requirement to report suspected abuse or neglect is posted"
+  },
+  {
+   "id": "permit_license_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The OKDHS permit or license must be posted in a prominent location for parents and the public.",
+   "section": "340:110-3-281.1(c)(1)",
+   "page": 23,
+   "quote": "Permit or license. The OKDHS permit or license is posted"
+  },
+  {
+   "id": "star_certificate_posted",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "The OKDHS Star certificate must be posted.",
+   "section": "340:110-3-281.1(c)(3)",
+   "page": 23,
+   "quote": "Star certificate. OKDHS Star certificate is posted"
+  },
+  {
+   "id": "tobacco_free_notice_posted",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "A tobacco-free environment notice must be posted at the main entrance and not combined with other posted items.",
+   "section": "340:110-3-281.1(b)(1)",
+   "page": 23,
+   "quote": "Tobacco-free environment notice. The notice is not combined with other posted items"
+  },
+  {
+   "id": "allergies_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children's food and life-threatening allergies must be posted, including full name and location of life-threatening condition medications.",
+   "section": "340:110-3-281.1(i)(7)",
+   "page": 24,
+   "quote": "The program posts children's food and life-threatening allergies, including the child's full name, and location of any life-threatening condition medications"
+  },
+  {
+   "id": "ratios_group_sizes_posted",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Applicable ratios and group sizes must be posted in classrooms.",
+   "section": "340:110-3-281.1(i)(4)",
+   "page": 24,
+   "quote": "Ratios and group sizes. The applicable program-type ratios and group sizes, per OAC 340 Appendix GG - Ratios and Group Sizes are posted"
+  },
+  {
+   "id": "daily_schedule_posted",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "A daily classroom schedule with required content must be posted.",
+   "section": "340:110-3-281.1(i)(5)",
+   "page": 24,
+   "quote": "Daily classroom schedule. The program posts a schedule with the required content, per OAC 340:110-3-289(b)"
+  },
+  {
+   "id": "weekly_lesson_plans_posted",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Weekly lesson plans with dates and required content must be posted.",
+   "section": "340:110-3-281.1(i)(6)",
+   "page": 24,
+   "quote": "Weekly lesson plans. The program posts lesson plans with the dates and required content, per OAC 340:110-3-289(d)"
+  },
+  {
+   "id": "microwave_warning_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A microwave warning must be posted on all microwaves.",
+   "section": "340:110-3-281.1(f)",
+   "page": 24,
+   "quote": "OKDHS Publication No. 97-27, Microwave Warning, is posted"
+  },
+  {
+   "id": "hand_washing_procedures_posted",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Hand washing procedures must be posted near sinks.",
+   "section": "340:110-3-281.1(g)",
+   "page": 24,
+   "quote": "The program posts OKDHS Publication No. 14-02 – Hand Washing Procedures Using Paper Towels or OKDHS Publication No. 14-03 – Hand Washing Procedures Using Mechanical Hand Dryers"
+  },
+  {
+   "id": "licensing_requirements_accessible",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The licensing requirements publication must be accessible in a prominent location for parents and the public.",
+   "section": "340:110-3-281.2(b)(1)",
+   "page": 26,
+   "quote": "Oklahoma Department of Human Services (DHS) Publication No. 14-05, Licensing Requirements for Child Care Programs, is accessible"
+  },
+  {
+   "id": "compliance_file_maintained",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A compliance file with specified monitoring, investigation, and waiver documents must be maintained together with most recent on top and child identifying information removed.",
+   "section": "340:110-3-281.2(b)(3)",
+   "page": 26,
+   "quote": "The compliance file includes items within the last 120 calendar days, at a minimum"
+  },
+  {
+   "id": "transportation_attendance_documented",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transportation attendance must be immediately documented each time a child enters and exits the vehicle.",
+   "section": "340:110-3-281.2(d)(5)",
+   "page": 28,
+   "quote": "Attendance is: (A) immediately documented each time each child enters and exits the vehicle"
+  },
+  {
+   "id": "child_passenger_check",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Before leaving the vehicle, the driver or last personnel must document completion of at least two methods of inspecting all areas for remaining children.",
+   "section": "340:110-3-281.2(d)(6)",
+   "page": 29,
+   "quote": "the driver or last personnel in the vehicle documents completion of at least two methods of inspecting all areas of the vehicle for any remaining children"
+  },
+  {
+   "id": "child_info_form_paper_only",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Child information must be completed by the parent prior to the first day of attendance and be paper only.",
+   "section": "340:110-3-281.4(b)(1)",
+   "page": 32,
+   "quote": "completed by the parent prior to the child's first day of attendance; and (B) paper only"
+  },
+  {
+   "id": "infant_daily_record",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Daily records for infants and 1-year-olds must be available in the classroom and include prompt documentation of eating, diapering, and sleeping.",
+   "section": "340:110-3-281.4(b)(2)",
+   "page": 32,
+   "quote": "Daily records for 1-year-olds and younger are available in the child's classroom and include prompt documentation of eating, diapering, and sleeping activities"
+  },
+  {
+   "id": "verbal_pickup_authorization_documented",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Verbal authorizations for child pickup must be documented with date, time, validity period, and full names.",
+   "section": "340:110-3-281.4(b)(3)",
+   "page": 32,
+   "quote": "personnel document the authorization, including the: (A) authorization date and time; (B) time period the authorization is valid"
+  },
+  {
+   "id": "specialized_service_permission",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Signed and dated parent permission is required for specialized service professionals.",
+   "section": "340:110-3-281.4(b)(4)",
+   "page": 32,
+   "quote": "Signed and dated parent permission is available"
+  },
+  {
+   "id": "food_reward_exception_plan",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "A food reward exception requires a behavior modification plan with director and parent signatures and date signed.",
+   "section": "340:110-3-281.4(b)(5)",
+   "page": 32,
+   "quote": "A behavior modification plan is available and includes content, per OAC 340:110-3-288(d), director and parent signatures, and the date signed"
+  },
+  {
+   "id": "immunization_record_before_first_day",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "An immunization record or exemption must be obtained prior to the first day of attendance and updated when additional vaccines are received.",
+   "section": "340:110-3-281.4(b)(6)",
+   "page": 32,
+   "quote": "An immunization record or exemption is obtained prior to the first day of attendance and is updated when the child receives additional vaccines"
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Signed parent permission for each medication must be obtained prior to administration.",
+   "section": "340:110-3-281.4(b)(7)",
+   "page": 32,
+   "quote": "Signed parent permission for each medication is obtained, prior to administration"
+  },
+  {
+   "id": "medication_administration_documented",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Each dose administered, excluding diaper cream, must be immediately documented.",
+   "section": "340:110-3-281.4(b)(8)",
+   "page": 32,
+   "quote": "Each dose administered, excluding diaper cream is immediately documented"
+  },
+  {
+   "id": "injury_poison_report",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "An injury or poison exposure report must be completed for each injury or poison exposure occurring while in care.",
+   "section": "340:110-3-281.4(b)(9)",
+   "page": 32,
+   "quote": "An OKDHS or program form containing similar information is completed for each injury or poison exposure occurring while in care"
+  },
+  {
+   "id": "infant_safe_sleep_statements",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Written statements from licensed physicians, signed parent permissions, or both are required when infant safe sleep exceptions apply.",
+   "section": "340:110-3-281.4(b)(10)",
+   "page": 33,
+   "quote": "Written statements from licensed physicians, signed parent permissions, or both are available when required"
+  },
+  {
+   "id": "transportation_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Signed parent permission for transportation must be obtained prior to transportation and include vehicle, driver, and pickup/drop-off plan information.",
+   "section": "340:110-3-281.4(b)(11)",
+   "page": 33,
+   "quote": "Signed parent permission: (A) is obtained prior to transportation"
+  },
+  {
+   "id": "field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Signed parent permission for field trips must be obtained prior to the field trip and maintained for at least 12 months.",
+   "section": "340:110-3-281.4(b)(12)",
+   "page": 33,
+   "quote": "Signed parent permission is obtained prior to the field trip, and documentation is maintained for at least 12 months from the trip"
+  },
+  {
+   "id": "higher_risk_activity_permission_plan",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "A higher risk activity plan must be provided to parents and signed parent permission obtained prior to the activity.",
+   "section": "340:110-3-281.4(b)(13)",
+   "page": 33,
+   "quote": "A plan is provided to parents, and signed parent permission is obtained prior to the activity"
+  },
+  {
+   "id": "swimming_skills_statement",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "A signed and dated parent statement regarding the water depth a child may swim in must be obtained prior to water activity.",
+   "section": "340:110-3-281.4(b)(15)",
+   "page": 33,
+   "quote": "A signed and dated parent statement regarding the water depth the child may swim in is obtained prior to the water activity"
+  },
+  {
+   "id": "special_diet_infants",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Written statements from licensed physicians are required for special diets for infants when required.",
+   "section": "340:110-3-281.4(b)(16)",
+   "page": 33,
+   "quote": "Written statements from licensed physicians are maintained when required"
+  },
+  {
+   "id": "licensed_capacity_not_exceeded",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The number of children in care at one time, on- or off-site, must not exceed licensed capacity.",
+   "section": "340:110-3-285(a)",
+   "page": 49,
+   "quote": "The maximum number of children in care at one time, whether on- or off-site, does not exceed the licensed capacity specified on the current permit or license"
+  },
+  {
+   "id": "ratios_maintained_all_times",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Required staff-to-child ratios must be maintained at all times.",
+   "section": "340:110-3-286(a)",
+   "page": 50,
+   "quote": "The program is required to maintain ratios at all times"
+  },
+  {
+   "id": "supervision_all_times",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Supervision must be maintained at all times.",
+   "section": "340:110-3-287(a)",
+   "page": 52,
+   "quote": "The program is required to maintain supervision at all times"
+  },
+  {
+   "id": "transportation_no_unattended_children",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must never be left unattended in vehicles.",
+   "section": "340:110-3-287(h)(1)",
+   "page": 52,
+   "quote": "Children are never left unattended in vehicles"
+  },
+  {
+   "id": "prohibited_physical_discipline",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Personnel are prohibited from physical discipline such as shaking, hitting, spanking, pinching, and similar actions.",
+   "section": "340:110-3-288(c)(1)(A)",
+   "page": 54,
+   "quote": "actions that could cause pain, such as shaking, hitting, striking with an object, spanking, swatting, thumping, pinching"
+  },
+  {
+   "id": "prohibited_psychological_discipline",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Personnel are prohibited from psychological or emotional discipline such as humiliating, rejecting, or neglecting a child.",
+   "section": "340:110-3-288(c)(2)(A)",
+   "page": 54,
+   "quote": "humiliating, rejecting, or neglecting a child"
+  },
+  {
+   "id": "timeout_limit",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Time-out is limited to one minute or less for each year of age and only for children 2 years or older.",
+   "section": "340:110-3-288(b)(11)(A)",
+   "page": 54,
+   "quote": "Personnel use this method only with children 2 years of age and older"
+  },
+  {
+   "id": "food_not_reward",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "Food must not be used to obtain or reward desired behaviors, except under an approved exception plan.",
+   "section": "340:110-3-288(d)",
+   "page": 55,
+   "quote": "Food is not used to obtain or reward desired behaviors"
+  },
+  {
+   "id": "animals_parents_notified",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be notified of animals' presence upon enrollment and prior to changes.",
+   "section": "340:110-3-292(a)(3)",
+   "page": 62,
+   "quote": "Parents are notified of animals' presence, per Oklahoma Administrative Code (OAC) 340:110-3-280(d)"
+  },
+  {
+   "id": "prohibited_animals",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Common hosts of rabies ineligible for USDA-approved rabies vaccinations and wild or dangerous animals are prohibited on-site.",
+   "section": "340:110-3-292(b)(1)",
+   "page": 62,
+   "quote": "Prohibited animals on-site, unless the requirements specifically state otherwise, include: (A) common hosts of rabies ineligible for United States Department of Agriculture (USDA)-approved rabies vaccinations; and (B) wild or dangerous animals"
+  },
+  {
+   "id": "parent_permission_required_list",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Parent permission is required for medication administration, specialized service professionals, transportation, field trips, higher risk activities, and swaddling.",
+   "section": "340:110-3-293(a)(1)",
+   "page": 65,
+   "quote": "Parent permission is maintained, per Oklahoma Administrative Code (OAC) 340:110-3-281.4(b), and required for: (A) medication administration; (B) services provided by a specialized service professional; (C) transportation; (D) field trips; (E) higher risk activities; and (F) swaddling"
+  },
+  {
+   "id": "parents_reasonable_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents of enrolled children must be allowed reasonable access to facility areas used by children.",
+   "section": "340:110-3-293(c)",
+   "page": 65,
+   "quote": "Parents of enrolled children are allowed reasonable access to facility areas used by children"
+  },
+  {
+   "id": "family_engagement_four_options",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "The program must provide at least four family engagement options from the listed choices.",
+   "section": "340:110-3-293(d)",
+   "page": 65,
+   "quote": "The program provides at least four of the options in (1) through (6) of this subsection"
+  },
+  {
+   "id": "tobacco_free",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Tobacco use is prohibited in the presence and sight of children during hours of operation, including off-site, and in facility buildings and outdoor play areas at all times.",
+   "section": "340:110-3-294(g)(5)(A)",
+   "page": 67,
+   "quote": "Tobacco use is prohibited in: (i) the presence and sight of children during the hours of operation, including off-site; (ii) facility buildings and outdoor play areas, at all times"
+  },
+  {
+   "id": "medication_designated_personnel",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications may only be administered by designated personnel and only to the child whose full name is on the container label.",
+   "section": "340:110-3-295(d)(1)",
+   "page": 68,
+   "quote": "Medications are only administered: (A) by the designated personnel per OAC 340:110-3-281.2(c), with the exception of diaper cream; and (B) to the child whose full name is on the container label"
+  },
+  {
+   "id": "medication_inaccessible",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications must be inaccessible to children.",
+   "section": "340:110-3-295(e)",
+   "page": 68,
+   "quote": "Medications are inaccessible to children per OAC 340:110-3-303(g)"
+  },
+  {
+   "id": "medication_original_container",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications must be maintained in the original container, labeled with the child's full name, and stored according to the label.",
+   "section": "340:110-3-295(f)",
+   "page": 68,
+   "quote": "Medications are: (1) maintained in the original container; (2) labeled with the child's full name; (3) stored according to the container label, including temperature"
+  },
+  {
+   "id": "infant_no_soft_bedding",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Soft products such as quilts, comforters, pillows, stuffed toys, and bumper pads are prohibited in infant rest equipment.",
+   "section": "340:110-3-296(b)(2)(B)(iii)",
+   "page": 69,
+   "quote": "Soft products, such as quilts, comforters, sheepskins, pillows, stuffed toys, and bumper pads are prohibited inside and on the side of infant rest equipment"
+  },
+  {
+   "id": "infant_back_sleeping",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their back for sleeping unless a medical reason is documented.",
+   "section": "340:110-3-296(b)(2)(C)(i)",
+   "page": 70,
+   "quote": "Infants are placed on their back for sleeping, unless there is a medical reason an infant should not sleep in this position"
+  },
+  {
+   "id": "rest_time_1_through_4",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children 1 year through 4 years must be provided a rest time.",
+   "section": "340:110-3-296(c)(1)",
+   "page": 70,
+   "quote": "Children are provided a rest time"
+  },
+  {
+   "id": "diaper_checked_hourly",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Diapers must be checked hourly and when a child exhibits behavior suggesting a wet or soiled diaper.",
+   "section": "340:110-3-297(a)(1)(A)",
+   "page": 71,
+   "quote": "checked hourly and when a child exhibits behavior suggesting a wet or soiled diaper"
+  },
+  {
+   "id": "diaper_procedures_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Diaper changing procedures must be posted in diaper changing areas.",
+   "section": "340:110-3-297(a)(2)",
+   "page": 71,
+   "quote": "per Oklahoma Administrative Code (OAC) 340 Appendix KK – Diaper Changing Procedures. The procedures are posted"
+  },
+  {
+   "id": "nutrition_cacfp",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals and snacks must meet current CACFP guidelines, except for infants.",
+   "section": "340:110-3-298(b)(1)",
+   "page": 73,
+   "quote": "Meals and snacks are required to meet the current Child and Adult Care Food Program (CACFP) guidelines"
+  },
+  {
+   "id": "water_freely_available",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Safe drinking water must be freely available to children at all times.",
+   "section": "340:110-3-298(b)(3)",
+   "page": 73,
+   "quote": "Safe drinking water is freely available to children at all times"
+  },
+  {
+   "id": "no_sweetened_drinks",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The program must not provide drinks sweetened artificially or with sugar, including soda.",
+   "section": "340:110-3-298(b)(6)",
+   "page": 73,
+   "quote": "The program does not provide drinks sweetened artificially or with sugar, including soda"
+  },
+  {
+   "id": "no_caffeinated_drinks",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The program must not provide caffeinated drinks, including soda and energy drinks.",
+   "section": "340:110-3-298(b)(7)",
+   "page": 73,
+   "quote": "The program does not provide caffeinated drinks, including soda and energy drinks"
+  },
+  {
+   "id": "infant_no_honey_peanut_butter",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infants must not be fed honey or peanut butter.",
+   "section": "340:110-3-298(f)(9)(B)",
+   "page": 74,
+   "quote": "infants are not fed honey or peanut butter"
+  },
+  {
+   "id": "bottle_not_propped",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Bottles must not be propped by any means at any time.",
+   "section": "340:110-3-298(f)(5)(A)",
+   "page": 74,
+   "quote": "Bottles are not propped by any means at any time"
+  },
+  {
+   "id": "outdoor_play_fencing",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Outdoor play areas must be enclosed by a building or fence meeting height and condition requirements.",
+   "section": "340:110-3-301(c)(5)",
+   "page": 87,
+   "quote": "Outdoor play areas are enclosed by a building or fence"
+  },
+  {
+   "id": "use_zones",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Use zones around play equipment must meet clearance requirements and not overlap, with stated exceptions.",
+   "section": "340:110-3-301(c)(10)",
+   "page": 87,
+   "quote": "Use zones are defined, per OAC 340:110-3-275"
+  },
+  {
+   "id": "impact_absorbing_materials",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Impact-absorbing materials are required in use zones for climbers, swings, slides, and revolving equipment.",
+   "section": "340:110-3-301(c)(11)",
+   "page": 88,
+   "quote": "Impact-absorbing materials: (A) are required in use zones for: (i) climbers; (ii) swings; (iii) slides; and (iv) revolving equipment"
+  },
+  {
+   "id": "vehicle_first_aid_kit",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Vehicles transporting children must have a first aid kit.",
+   "section": "340:110-3-305(f)(1)",
+   "page": 95,
+   "quote": "Vehicles have a first aid kit, per OAC 340:110-3-279(d)"
+  },
+  {
+   "id": "passenger_restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must remain properly secured in a child passenger restraint system or individual seat belt unless the vehicle is exempt.",
+   "section": "340:110-3-305(g)(3)",
+   "page": 96,
+   "quote": "Children remain properly secured in child passenger restraint system, such as a car or booster seat or an individual seat belt complying with applicable state laws"
+  },
+  {
+   "id": "center_food_service_meals",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Child care centers must provide meals and snacks for 2-year-olds through 5-year-olds who are not attending or have not completed kindergarten.",
+   "section": "340:110-3-306(d)",
+   "page": 98,
+   "quote": "Programs provide meals and snacks per OAC 340:110-3-298(c) for 2-year-olds through 5-year-olds who are not attending or have not completed kindergarten"
+  },
+  {
+   "id": "single_age_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Single-age groups must follow the listed ratios and maximum group sizes by age.",
+   "section": "340 Appendix GG",
+   "page": 117,
+   "quote": "Infants 1:4 8 1-year-olds 1:6 12 2-year-olds 1:8 16 3-year-olds 1:12 24"
+  },
+  {
+   "id": "illness_exclusion_fever",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Children with fever of 100 degrees axillary or 101 degrees oral with another sign or symptom must be excluded from programs serving only well children.",
+   "section": "340 Appendix JJ",
+   "page": 124,
+   "quote": "Fever, defined as axillary (armpit) temperature of 100 degrees or higher, or oral temperature of 101 degrees or higher, with another sign or symptom of illness"
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "policy_personal_belongings",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The parent handbook must state procedures for managing children's personal belongings.",
+   "section": "340:110-3-278(d)(2)(L)(xii)",
+   "page": "[OK page 7]",
+   "quote": "(xi) using insect repellent; (xii) managing children's personal belongings;"
+  },
+  {
+   "id": "mixed_age_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Mixed-age groups must follow the listed ratios and limits on younger children per teaching personnel.",
+   "section": "340 Appendix GG",
+   "page": "[OK page 112]",
+   "quote": "Infants and older 1:8 No more than two under 2 years of age per teaching personnel"
+  },
+  {
+   "id": "hand_hygiene_visibly_dirty",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Hands must be washed when visibly dirty and after specified activities.",
+   "section": "340 Appendix HH",
+   "page": "[OK page 114]",
+   "quote": "Visibly Dirty Hands When hands are visibly dirty Hand Wash*"
+  }
+ ],
+ "turns": 2,
+ "cost": 0.106,
+ "tokens_in": 208493,
+ "tokens_out": 18834,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

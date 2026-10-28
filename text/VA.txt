@@ -1,0 +1,1345 @@
+Chapter 780. Standards for Licensed Child Day Centers
+8VAC20-780-10. Definitions.
+The following words and terms when used in this chapter shall have the following meanings unless the context clearly indicates otherwise:
+"Adult" means any individual 18 years of age or older.
+"Age and stage appropriate" means the curriculum, environment, equipment, and adult-child interactions are suitable for the ages of the children within a group and the individual needs of any child.
+"Age groups":
+1. "Infant" means children from birth to 16 months.
+2. "Toddler" means children from 16 months up to two years.
+3. "Preschool" means children from two years up to the age of eligibility to attend public school, five years by September 30.
+4. "School age" means children eligible to attend public school, age five or older by September 30 of that same year. Four-year-old or five-year-old children included in a group of school age children may be considered school age during the summer months if the children will be entering kindergarten that year.
+"Attendance" means the actual presence of an enrolled child.
+"Balanced mixed-age grouping" means a program using a curriculum designed to meet the needs and interests of children in the group and is planned for children who enter the program at three through five years of age. The enrollment in the balance mixed-age grouping comprises a relatively even allocation of children in each of three ages (three to six years) and is designed for children and staff to remain together with turnover planned only for the replacement of exiting students with children of ages that maintain the class balance.
+"Body fluids" means urine, feces, saliva, blood, nasal discharge, eye discharge, and injury or tissue discharge.
+"Camp" means a child day camp that is a child day center for school age children that operates during the summer vacation months only. Four-year-old children who will be five by September 30 of the same year may be included in a camp for school age children.
+"Center" means a child day center.
+"Child" means any individual under 18 years of age.
+"Child day center" means a child day program offered to (i) two or more children younger than 13 years of age in a facility that is not the residence of the provider or of any of the children in care or (ii) 13 or more children at any location.
+"Child day program" means a regularly operating service arrangement for children where, during the absence of a parent or guardian, a person or organization has agreed to assume responsibility for the supervision, protection, and well-being of a child younger than 13 years of age for less than a 24-hour period. "Child day program" does not include programs such as drop-in playgrounds or clubs for children when there is no service arrangement with the child's parent.
+"Children with special needs" means children with developmental disabilities, intellectual disabilities, emotional disturbance, sensory or motor impairment, or significant chronic illness who require special health surveillance or specialized programs, interventions, technologies, or facilities.
+"Cleaned" means treated in such a way to reduce the amount of filth through the use of water with soap or detergent or the use of an abrasive cleaner on inanimate surfaces.
+"Communicable disease" means a disease caused by a microorganism (bacterium, virus, fungus, or parasite) that can be transmitted from person to person via an infected body fluid or respiratory spray, with or without an intermediary agent (such as a louse or mosquito) or environmental object (such as a table surface). Some communicable diseases are reportable to the local health authority.
+"Department" means the Virginia Department of Education.
+"Department's representative" means an employee or designee of the Virginia Department of Education, acting as the authorized agent of the superintendent.
+"Evening care" means care provided after 7 p.m. but not through the night.
+"Good character and reputation" means knowledgeable and objective people agree that the individual (i) maintains business, professional, family, and community relationships which are characterized by honesty, fairness, and truthfulness and (ii) demonstrates a concern for the well-being of others to the extent that the individual is considered suitable to be entrusted with the care, guidance, and protection of children. Relatives by blood or marriage and people who are not knowledgeable of the individual, such as recent acquaintances, shall not be considered objective references.
+"Group of children" means the children assigned to a staff member or team of staff members.
+"Group size" means the number of children assigned to a staff member or team of staff members occupying an individual room or area.
+"High school program completion or the equivalent" means an individual has earned a high school diploma, passed a high school equivalency examination approved by the Board of Education, or has completed a program of home instruction in accordance with § 22.1-254.1 of the Code of Virginia equivalent to high school completion.
+"Homeless child" means a child who lacks a fixed, regular, and adequate nighttime residence and includes a child who is:
+1. Living in a car, park, public space, abandoned building, substandard housing, bus or train station, or similar settings;
+2. Sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; sometimes referred to as doubled-up;
+3. Living in a motel, hotel, trailer park, or camping ground due to lack of alternative adequate accommodations;
+4. Living in a congregate, temporary, emergency, or transitional shelter;
+5. Awaiting or in foster care placement;
+6. Abandoned in a hospital;
+7. Living in a primary nighttime residence that is a public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings; or
+8. A migratory child as defined in 20 USC § 6399 who qualifies as homeless because the child is living in circumstances described in subdivisions 1 through 6 of this definition.
+"Independent contractor" means an entity that enters into an agreement to provide specialized services or staff for a specified period of time.
+"Individual service, education or treatment plan" means a plan identifying the child's strengths, needs, general functioning and plan for providing services to the child. The service plan includes specific goals and objectives for services, accommodations, and intervention strategies. The service, education or treatment plan clearly shows documentation and reassessment or evaluation strategies.
+"Intervention strategies" means a plan for staff action that outlines methods, techniques, cues, programs, or tasks that enable the child to successfully complete a specific goal.
+"Licensee" means any individual, corporation, partnership, association, limited liability company, local government, state agency, including any department institution, authority, instrumentality, board, other administrative agency of the Commonwealth, or other legal or commercial entity that operates or maintains a child day center to whom the license is issued.
+"Lockdown" means a situation where children are isolated from a security threat and access within and to the facility is restricted.
+"Minor injury" means a wound or other specific damage to the body such as abrasions, splinters, bites that do not break the skin, and bruises.
+"Overnight care" means care provided after 7 p.m. and through the night.
+"Parent" means the biological or adoptive parent or legal guardian of a child enrolled in or in the process of being admitted to a center.
+"Physician" means an individual licensed to practice medicine in any of the 50 states or the District of Columbia.
+"Physician's designee" means a physician, licensed nurse practitioner, licensed physician assistant, licensed nurse (R.N. or L.P.N.), or health assistant acting under the supervision of a physician.
+"Primitive camp" means a camp where places of abode, water supply system, or permanent toilet and cooking facilities are not usually provided.
+"Programmatic experience" means time spent working directly with children in a group that is located away from the child's home. Work time shall be computed on the basis of full-time work experience during the period prescribed or equivalent work time over a longer period. Experience settings may include a child day program, family day home, child day center, boys and girls club, field placement, elementary school, or a faith-based organization.
+"Resilient surfacing" means:
+1. For indoor and outdoor use underneath and surrounding equipment, impact absorbing surfacing materials that comply with minimum safety standards when tested in accordance with the procedures described in the American Society for Testing and Materials' standard F1292-99 as shown in Figures 2 (Compressed Loose Fill Synthetic Materials Depth Chart) and 3 (Use Zones for Equipment) on pages 6-7 of the National Program for Playground Safety's "Selecting Playground Surface Materials: Selecting the Best Surface Material for Your Playground," February 2004.
+2. Hard surfaces such as asphalt, concrete, dirt, grass, or flooring covered by carpet or gym mats do not qualify as resilient surfacing.
+"Sanitized" means treated in such a way to remove bacteria and viruses from inanimate surfaces through using a disinfectant solution (i.e., bleach solution or commercial chemical disinfectant) or physical agent (e.g., heat). The surface of the item is sprayed or dipped into the disinfectant solution and allowed to air dry on the surface for a minimum of two minutes or according to the disinfectant solution instructions.
+"Serious injury" means a wound or other specific damage to the body such as unconsciousness; broken bones; dislocation; deep cut requiring stitches; poisoning; concussion; or a foreign object lodged in eye, nose, ear, or other body orifice.
+"Shaken baby syndrome" or "abusive head trauma" means a traumatic injury that is inflicted upon the brain of an infant or young child. The injury can occur during violent shaking, causing the child's head to whip back and forth, the brain to move about, and blood vessels in the skull to stretch and tear.
+"Shelter-in-place" means the movement of occupants of the building to designated protected spaces within the building.
+"Short-term program" means a child day center that operates less than 12 weeks a year.
+"Special needs child day program" means a program exclusively serving children with special needs.
+"Specialty camps" means those centers that have an educational or recreational focus on one subject such as dance, drama, music, or sports.
+"Sponsor" means an individual, partnership, association, public agency, corporation, or other legal entity in whom the ultimate authority and legal responsibility is vested for the administration and operation of a center subject to licensure.
+"Staff" means administrative, activity, and service personnel including the licensee when the licensee is an individual who works in the center, and any persons counted in the staff-to-children ratios or any persons working with a child without sight and sound supervision of a staff member.
+"Staff positions" are defined as follows:
+1. "Aide" means the individual designated to be responsible for helping the program leader in supervising children and in implementing the activities and services for children. Aides may also be referred to as assistant teachers or child care assistants.
+2. "Program leader" means the individual designated to be responsible for the direct supervision of children and for implementation of the activities and services for a group of children. Program leaders may also be referred to as child care supervisors or teachers.
+3. "Program director" means the primary, onsite director or coordinator designated to be responsible for developing and implementing the activities and services offered to children, including the supervision, orientation, training, and scheduling of staff who work directly with children, whether or not personally performing these functions.
+4. "Administrator" means a manager or coordinator designated to be in charge of the total operation and management of one or more centers. The administrator may be responsible for supervising the program director or, if appropriately qualified, may concurrently serve as the program director. The administrator may perform staff orientation or training or program development functions if the administrator meets the qualifications of 8VAC20-780-190 and a written delegation of responsibility specifies the duties of the program director.
+"Standard precautions" means an approach to infection control. According to the concept of standard precautions, all human blood and certain human body fluids are treated as if known to be infectious for human immunodeficiency virus (HIV), hepatitis B virus (HBV), and other bloodborne pathogens.
+"Superintendent" means Superintendent of Public Instruction.
+"Therapeutic child day program" means a specialized program, including therapeutic recreation programs, exclusively serving children with special needs when an individual service, education, or treatment plan is developed and implemented with the goal of improving the functional abilities of the children in care.
+"Volunteer" means a person who works at the center and:
+1. Is not paid;
+2. Is not counted in the staff-to-children ratios; and
+3. Is in sight and sound supervision of a staff member when working with a child.
+Any unpaid person not meeting this definition shall be considered "staff" and shall meet staff requirements.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-10 derived from VR175-08-01 § 1.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 16, Issue 18, eff. June 21, 2000; Volume 21, Issue 12, eff. June 1, 2005; Volume 23, Issue 20, eff. July 11, 2007; Volume 28, Issue 7, eff. January 5, 2012; amended and renumbered as 22VAC40-185-10, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended, Volume 36, Issue 2, eff. October 17, 2019; former 22VAC40-185-10 amended and renumbered, Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-20. Legal authority.
+A. Chapter 14.1, Article 3 (§ 22.1-289.010 et seq.) and Article 4 (§ 22.1-289.030 et seq.) of Title 22 of the Code of Virginia describes the responsibility of the Department of Education for the regulation of child day programs.
+B. Section 22.1-16 of the Code of Virginia authorizes the State Board of Education to promulgate regulations to carry out its powers and duties. Pursuant to § 22.1-289.046 of the Code of Virginia, for child day programs that operate at a location that is currently approved by the Department of Education for school occupancy and that houses a public school during the school year, the public school building; vehicles that are owned by the public school and used to transport children attending the child day program; and meals served to children that are prepared by the public school are not subject to inspection or approval.
+C. Nothing in this chapter shall be construed to contradict or to negate any provisions of the Code of Virginia which may apply to child day centers.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-20 derived from VR175-08-01 § 1.2, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-20, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-30. Purpose and applicability.
+A. The purpose of these standards is to protect children under the age of 13 years who are separated from their parents during a part of the day by:
+1. Ensuring that the activities, services, and facilities of centers are conducive to the well-being of children; and
+2. Reducing risks in the environment.
+B. The standards in this chapter apply to child day centers as defined in 8VAC20-780-10 that are required to be licensed by the department.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-30 derived from VR175-08-01 § 1.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-30, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+Part II
+Administration
+8VAC20-780-40. Operational responsibilities.
+A. Applications for licensure shall conform with Article 3 (§ 22.1-289.010 et seq.) and Article 4 (§ 22.1-289.030 et seq.) of Chapter 14.1, of Title 22.1 of the Code of Virginia and the regulation entitled General Procedures and Information for Licensure, 8VAC20-820.
+B. Pursuant to § 22.1-289.034 of the Code of Virginia and the regulation entitled Background Checks for Child Day Programs and Family Day Systems, 8VAC20-770, the applicant and any agent at the time of application who is or will be involved in the day-to-day operations of the center or who is or will be alone with, in control of, or supervising one or more of the children, shall be of good character and reputation; shall not have been convicted of a barrier crime as defined in § 19.2-392.02 of the Code of Virginia; and is not the subject of a founded complaint of child neglect or abuse within or outside the Commonwealth.
+C. The sponsor shall afford the superintendent or his agents the right at all reasonable times to inspect facilities and to interview his agents, employees, and any child or other person within his custody or control, provided that no private interviews may be conducted with any child without prior notice to the parent of such child.
+D. The license shall be posted in a place conspicuous to the public (§ 22.1-289.011 of the Code of Virginia).
+E. The operational responsibilities of the licensee shall include ensuring that the center's activities, services, and facilities are maintained in compliance with these standards, the center's own policies and procedures that are required by these standards, and the terms of the current license issued by the department.
+F. Every center shall ensure that advertising is not misleading or deceptive as required by § 22.1-289.027 of the Code of Virginia.
+G. The center shall meet the proof of child identity and age requirements as stated in § 22.1-289.049 of the Code of Virginia.
+H. The sponsor shall maintain public liability insurance for bodily injury for each center site with a minimum limit of at least $500,000 each occurrence and with a minimum limit of $500,000 aggregate.
+1. A public sponsor may have equivalent self-insurance that is in compliance with the Code of Virginia.
+2. Evidence of insurance coverage shall be made available to the department's representative upon request.
+I. The center shall develop written procedures for injury prevention.
+J. Injury prevention procedures shall be updated at least annually based on documentation of injuries and a review of the activities and services.
+K. The center shall develop written procedures for prevention of shaken baby syndrome or abusive head trauma, including coping with crying babies, safe sleeping practices, and sudden infant death syndrome awareness.
+L. The center shall inform all staff who work with children of children's allergies, sensitivities, and dietary restrictions.
+M. The center shall maintain, in a way that is accessible to all staff who work with children, a current written list of all children's allergies, sensitivities, and dietary restrictions documented in the allergy plan required in 8VAC20-780-60 A 8. This list shall be dated and kept confidential in each room or area where children are present.
+N. The center shall develop written playground safety procedures that shall include:
+1. Provision for active supervision by staff to include positioning of staff in strategic locations, scanning play activities, and circulating among children; and
+2. Method of maintaining resilient surface.
+O. Hospital-operated centers may temporarily exceed their licensed capacity during a natural disaster or other catastrophe or emergency situation and shall develop a written plan for emergency operations, for submission to and approval by the Department of Education.
+P. When children 13 years or older are enrolled in the program and receive supervision in the licensed program, they shall be counted in the number of children receiving care and the center shall comply with the standards for these children.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-50 derived from VR175-08-01 § 2.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-40, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended, Virginia Register Volume 32, Issue 6, eff. July 1, 2017; Volume 33, Issue 2, eff. October 19, 2016. of the Code of Virginia; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-50. General recordkeeping; reports.
+A. Staff and children's records shall be treated confidentially. Exception: Children's records shall be made available to parents on request, unless otherwise ordered by the court.
+B. Records and reports on children and staff required by this chapter shall be maintained and made accessible for two years after termination of services or separation from employment unless specified otherwise.
+C. Records may be kept at a central location except as stated otherwise in these standards.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-70 derived from VR175-08-01 § 2.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-50, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Virginia Register Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-60. Children's records.
+A. Each center shall maintain and keep at the center a separate record for each child enrolled which shall contain the following information:
+1. Name, nickname (if any), sex, and birth date of the child;
+2. Name, home address, and home phone number of each parent who has custody;
+3. When applicable, work phone number and place of employment of each parent who has custody;
+4. Name and phone number of child's physician;
+5. Name, address, and phone number of two designated people to call in an emergency if a parent cannot be reached;
+6. Names of persons authorized to pick up the child. Appropriate legal paperwork shall be on file when the custodial parent requests the center not to release the child to the other parent;
+7. Allergies and intolerance to medication or any other substances, and actions to take in an emergency situation;
+8. A written care plan for each child with a diagnosed food allergy, to include instructions from a physician regarding the food to which the child is allergic and the steps to be taken in the event of a suspected or confirmed allergic reaction;
+9. Chronic physical problems and pertinent developmental information and any special accommodations needed;
+10. Written agreements between the parent and the center as required by 8VAC20-780-90;
+11. Documentation of child updates and confirmation of up-to-date information in the child's record as required by 8VAC20-780-420 E 3;
+12. Any blanket permission slips and opt out requests;
+13. Previous child day care and schools attended by the child;
+14. Name of any additional programs or schools that the child is concurrently attending and the grade or class level;
+15. Documentation of viewing proof of the child's identity and age;
+16. First and last dates of attendance;
+17. Documentation of health information as required by 8VAC20-780-130, 8VAC20-780-140, and 8VAC20-780-150; and
+18. Documentation of the enrollment of a homeless child enrolled under provision of 8VAC20-780-130 C or 8VAC20-780-140 A.
+B. The requirements in subdivision A 17 of this section does not apply, and the center is not required to maintain duplicates of the school's health record if:
+1. The center is located on the same premises where a child attends school;
+2. The child's record has a statement verifying the school's possession of the health record; and
+3. The school's records are accessible during the center's hours of operation.
+C. The proof of identity, if reproduced or retained by the child day program or both, shall be destroyed upon the conclusion of the requisite period of retention. The procedures for the disposal, physical destruction or other disposition of the proof of identity containing social security numbers shall include all reasonable steps to destroy such documents by (i) shredding, (ii) erasing, or (iii) otherwise modifying the social security numbers in those records to make them unreadable or indecipherable by any means.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-80 derived from VR175-08-01 § 2.4, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-60, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-70. Staff records.
+The following staff records shall be kept for each staff person:
+1. Name, address, verification of age requirement, job title, and date of employment or volunteering; and name, address, and telephone number of a person to be notified in an emergency which shall be kept at the center.
+2. For staff hired after March 1, 1996, documentation that two or more references as to character and reputation as well as competency were checked before employment or volunteering. If a reference check is taken over the phone, documentation shall include:
+a. Dates of contact;
+b. Names of persons contacted;
+c. The firms contacted;
+d. Results; and
+e. Signature of person making call.
+3. Background checks as required by the regulation entitled Background Checks for Licensed Child Day Programs and Family Day Systems (8VAC20-770).
+4. Documentation to demonstrate that the individual possesses the education, certification, and experience required by the job position, and orientation and training as required in 8VAC20-780-240 and 8VAC20-780-245.
+5. First aid, cardiopulmonary resuscitation, and other certifications as required by the responsibilities held by the staff member.
+6. Health information as required by 8VAC20-780-160 and 8VAC20-780-170.
+7. Information, to be kept at the center, about any health problems that may interfere with fulfilling the job responsibilities.
+8. Date of separation from employment.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-90 derived from VR175-08-01 § 2.5, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-70, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-80. Attendance records; reports.
+A. For each group of children, the center shall maintain a written record of daily attendance that documents the arrival and departure of each child in care as it occurs.
+B. Reports shall be filed and maintained as follows:
+1. The center shall inform the superintendent's representative as soon as practicable but not to exceed one business day of the circumstances surrounding the following incidents:
+a. Death of a child while under the center's supervision;
+b. Missing child when local authorities have been contacted for help; or
+c. The suspension or termination of all child care services for more than 24 hours as a result of an emergency situation and any plans to resume child care.
+2. The center shall inform the department's representative as soon as practicable, but not to exceed two business days, of any injury to a child that occurs while the child is under the supervision of the center and requires outside medical attention.
+3. Any suspected incident of child abuse shall be reported in accordance with § 63.2-1509 of the Code of Virginia.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-100 derived from VR175-08-01 § 2.6, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-80, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-90. Parental agreements.
+A written agreement between the parent and the center shall be in each child's record by the first day of the child's attendance. The agreement shall be signed by the parent and include:
+1. An authorization for emergency medical care should an emergency occur when the parent cannot be located immediately unless the parent states in writing an objection to the provision of such care on religious or other grounds;
+2. A statement that the center will notify the parent when the child becomes ill and that the parent will arrange to have the child picked up as soon as possible if so requested by the center; and
+3. A statement that the parent will inform the center within 24 hours or the next business day after his child or any member of the immediate household has developed any reportable communicable disease, as defined by the State Board of Health, except for life threatening diseases which must be reported immediately.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-110 derived from VR175-08-01 § 2.7, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-90, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-100. Enrollment procedures of therapeutic child day programs and special needs child day programs.
+Before the child's first day of attendance, there shall be personal communication between the director, or his designee, and the parent to determine:
+1. The child's level of general functioning as related to physical, affective/emotional, cognitive and social skills required for participation; and
+2. Any special medical procedures needed.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-120 derived from VR175-08-01; § 2.8, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-100, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-110. Individual assessment for therapeutic child day programs.
+A. An individual assessment completed within six months before the child's attendance or 30 days after the first day of attendance shall be maintained for each child.
+B. An individual assessment shall be reviewed and updated for each child no less than once every 12 months.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-130 derived from VR175-08-01 § 2.9, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-110, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-120. Individual service, education or treatment plan for therapeutic child day programs.
+A. An individual service, education or treatment plan:
+1. Shall be developed for each child by the director or his designee and primary staff responsible for plan implementation;
+2. Shall be implemented within 60 days after the first day of the child's attendance.
+B. The child's individual service, education or treatment plan shall be developed, reviewed, and revised every three months and rewritten annually by the director or his designee and primary staff responsible for plan implementation. This shall be done in partnership with the parent, residential care provider or advocate.
+C. A copy of the initial plan and subsequent or amended service, education or treatment plans shall be maintained in the child's record and a copy given to the child's parent.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-140 derived from VR175-08-01 § 2.9, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-120, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-130. Immunizations for children.
+A. The center shall obtain documentation that each child has received the immunizations required by the State Board of Health before the child can attend the center.
+B. The center may allow a child to attend contingent upon a conditional enrollment for a period of 90 days if the child received at least one dose of each of the required vaccines and the child possesses a plan from a physician or local health department for completing his immunization requirements within the ensuing 90 calendar days. If the child requires more than two doses of hepatitis B vaccine, the conditional enrollment period, for hepatitis B vaccine only, shall be 180 calendar days.
+C. If a child is homeless and does not have documentation of the required immunizations, the center may allow the child to attend during a grace period of no more than 90 days to allow the parent or guardian time to obtain documentation of required immunizations.
+D. Documentation related to the child's conditional enrollment shall be maintained in the child's record.
+E. The center shall obtain documentation of additional immunizations once every six months for children under the age of two years.
+F. The center shall obtain documentation of additional immunizations once between each child's fourth and sixth birthdays.
+G. Pursuant to subsection C of § 22.1-271.2 of the Code of Virginia, documentation of immunizations is not required for any child whose:
+1. Parent submits an affidavit to the center on the current form approved by the Virginia Department of Health stating that the administration of immunizing agents conflicts with the parent's or child's religious tenets or practices; or
+2. Physician or a local health department states on a Department of Health-approved form that one or more of the required immunizations may be detrimental to the child's health, indicating the specific nature and probable duration of the medical condition or circumstance that contraindicates immunization.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-150 derived from VR175-08-01 § 2.11, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-130, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-140. Physical examinations for children.
+A. Each child shall have a physical examination by or under the direction of a physician:
+1. Before the child's attendance; or
+2. Within 30 days after the first day of attendance.
+If a child is homeless and does not have documentation of a physical examination, the center may allow the child to attend during a grace period of no more than 90 days to allow the parent or guardian time to obtain documentation of the required physical examination.
+B. If the child has had a physical examination prior to attendance, it shall be within the time period prescribed in this subsection:
+1. Within two months prior to attendance for children six months of age and younger;
+2. Within three months prior to attendance for children aged seven months through 18 months;
+3. Within six months prior to attendance for children aged 19 months through 24 months; and
+4. Within 12 months prior to attendance for children two years of age through five years of age.
+C. When a child transfers from a facility licensed by the Virginia Department of Education, approved by a licensed family day system, or voluntarily registered by the Virginia Department of Education, a new physical examination is not required if a copy of the physical examination from the originating program is maintained in the child's record.
+D. Pursuant to subsection D of § 22.1-270 of the Code of Virginia, physical examinations are not required for any child whose parent objects on religious grounds. The parent must submit a signed statement noting that the parent objects on religious grounds and certifying that to the best of the parent's knowledge the child is in good health and free from communicable or contagious disease.
+E. A new physical examination is not required for a school age child if a copy of the physical examination required for his entry into a Virginia public kindergarten or elementary school is kept in the child's record.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-160 derived from VR175-08-01 § 2.12, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-140, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-150. Form and content of immunizations and physical examination reports for children.
+A. The current form required by the Virginia Department of Health or a physician's form shall be used to report immunizations received and the results of the required physical examination.
+B. Each report shall include the date of the physical examination and dates immunizations were received and shall be signed by a physician, his designee, or an official of a local health department.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-170 derived from VR175-08-01 § 2.13, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-150, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-160. Tuberculosis screening for staff and independent contractors.
+A. Each staff member and individual from an independent contractor shall submit documentation of a negative tuberculosis screening.
+1. Documentation of the screening shall be submitted at the time of employment and prior to coming into contact with children.
+2. The documentation shall have been completed within the last 30 calendar days of the date of employment and be signed by a physician, physician's designee, or an official of the local health department.
+B. Acceptable forms of documentation of tuberculosis screening are:
+1. A clearance statement signed by a physician, the physician's designee or an official of the local health department. This statement shall include language that the individual does not have any current symptoms of active tuberculosis, does not have either a risk factor for acquiring tuberculosis infection or a risk factor for progression to active tuberculosis disease as defined by the local health department, or has been treated for these conditions in the past, and is currently free of tuberculosis in a communicable form. Individuals who have a risk factor for progression to active tuberculosis disease as defined by the Virginia Department of Health shall submit documentation as stated in subdivision 2 or 3 of this subsection.
+2. The results of a negative tuberculin skin test (TST). The documentation shall include the date the test was given and results of the test and be signed by a physician, physician's designee or an official of the local health department.
+3. The results of a chest x-ray negative for active tuberculosis disease. The documentation shall include the date of the test and location where the examination was performed.
+C. At least every two years from the date of the initial screening or testing, or more frequently if recommended by a licensed physician or the local health department, staff members and individuals from independent contractors shall obtain and submit the results of a follow-up tuberculosis screening as stated in subsection B of this section.
+D. Any staff member or individual from an independent contractor who develops symptoms compatible with active tuberculosis disease, regardless of the date of the last tuberculosis screening or assessment, shall obtain and submit within 14 days a determination of noncontagiousness by a physician or local health department.
+1. Until such determination is made, that staff member may not be permitted to work at the center.
+2. Any staff member or individual from an independent contractor who comes in contact with a known active case of tuberculosis or who tests positive on a tuberculin skin test, regardless of the date of the last tuberculosis screening or assessment, shall submit within 30 days a statement indicating that all needed follow-up for the incident has been completed and that the individual is free of tuberculosis in a communicable form. This statement shall be signed by a physician, physician's designee or an official of the local health department.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-180 derived from VR175-08-01 § 2.14, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-160, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-170. Physical and mental health of staff and volunteers.
+A. When there is evidence that the safety of children may be jeopardized by contact with a staff member or volunteer because of the physical health or mental health of such staff member or volunteer, the licensee shall, at a minimum, prohibit the employee or volunteer from engaging in contact with the children or participation in the food service program until a physician or a clinical psychologist skilled in the diagnosis and treatment of mental illness confirms that any risk has been eliminated or can be reduced to an acceptable level by reasonable accommodations.
+B. The requirement of subsection A of this section should not be construed as a mandatory precondition to any other employment action that an employer may otherwise take.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-190 derived from VR175-08-01 § 2.15, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-170, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+Part III
+Staff Qualifications and Training
+8VAC20-780-180. General qualifications.
+A. Staff shall be:
+1. Of good character and reputation;
+2. Capable of carrying out assigned responsibilities;
+3. Capable of accepting training and supervision; and
+4. Capable of communicating effectively both orally and in writing as applicable to the job responsibility.
+B. Staff who work directly with children shall be capable of communicating with emergency personnel.
+C. Staff who drive a vehicle transporting children shall disclose any moving traffic violation that occurred five years prior to or during employment or assignment as a driver.
+D. For therapeutic child day programs and special needs child day programs, staff who work with children shall have knowledge of the groups being served and skills specific to the special needs of the children in care including functional abilities, accommodations, assessment techniques, behavior management, and medical and health concerns.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-200 derived from VR175-08-01 § 3.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; Errata, 21:13 VA.R. 1941 March 7, 2005; amended and renumbered as 22VAC40-185-180, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-190. Program director qualifications.
+A. Program directors shall be at least 21 years of age and shall meet one of the following:
+1. A graduate degree in a child-related field such as elementary education, nursing, or recreation from a college or university and six months of programmatic experience;
+2. An endorsement or bachelor's degree in a child-related field such as elementary education, nursing, or recreation from a college or university and one year of programmatic experience;
+3. Forty-eight semester hours or 72 quarter hours of college credit from a college or university of which 12 semester hours or 18 quarter hours are in child-related subjects and one year of programmatic experience;
+4. Two years of programmatic experience with one year in a staff supervisory capacity and at least one of the following education backgrounds:
+a. A one-year early childhood certificate from a college or university that consists of at least 30 semester hours;
+b. A child development credential that requires:
+(1) High school program completion or the equivalent;
+(2) 480 hours working with children in a group which could include a supervised practicum;
+(3) Determination of competency in promoting children's development, providing a safe and healthy environment, managing the classroom environment or childhood program, and promoting positive and productive relationships with parents or guardians; and
+(4) At least 120 hours of child-related training taught by an individual or by an organization with expertise in early childhood teacher preparation provided that the training facilitator:
+(a) Documents the student's mastery and competence;
+(b) Observes the student's application of competence in a classroom setting;
+(c) Has a combination of at least six years of education (leading to a degree or credential in a child-related field) or programmatic experience; and
+(d) Has at least 12 semester hours or 180 hours in a child-related field, a child development credential or equivalent, and two years of programmatic experience with one year in a staff supervisory capacity; or
+c. A certification of qualification from an internationally or nationally recognized Montessori organization.
+B. Program directors without management experience shall have one college course in a business-related field, 10 hours of management training, or one child care management course that satisfactorily covers the management functions of:
+1. Planning;
+2. Budgeting;
+3. Staffing; and
+4. Monitoring.
+Management experience is defined as at least six months of on-the-job training in an administrative position that requires supervising, orienting, training, and scheduling staff.
+C. For program directors of therapeutic child day programs and special needs child day programs, education and programmatic experience shall be in the group care of children with special needs.
+D. Notwithstanding subsection A of this section, a person between 19 and 21 years of age may serve as a program director at a short-term program serving only school age children if the program director has daily supervisory contact by a person at least 21 years of age who meets one of the program director qualification options.
+E. A program director employed prior to October 13, 2021, who met the education and experience qualifications in effect immediately prior to October 13, 2021, and who has been continuously employed as a child day center director, is considered to have met the requirements of this section.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-230 derived from VR175-08-01 § 3.4, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-190, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-200. Program directors and back-up for program directors.
+A. The center shall have a qualified program director or a qualified back-up program director who meets one of the director qualifications who shall regularly be on site at least 50% of the center's hours of operation.
+B. For centers offering multiple shifts, a qualified program director or qualified back-up director shall regularly be on site at least 50% of the day shift and at least two hours during the evening shift and two hours during the night shift.
+C. For centers employing one or more program leaders who are qualified under subsection C of 8VAC20-780-210 but not under subsection A of that section, the qualified program director or qualified back-up program director shall be on site at least 75% of the center's hours of operation.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-250 derived from VR175-08-01 § 3.6, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-200, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-210. Program leader qualifications.
+A. Program leaders shall be at least 18 years of age, have fulfilled a high school program completion or the equivalent, and meet one of the following:
+1. Have one of the program director qualifications in 8VAC20-780-190;
+2. Have an endorsement or bachelor's degree in a child-related field such as, but not limited to, elementary education, nursing, or recreation, from a college or university;
+3. Have three months of programmatic experience and at least one of the following education backgrounds:
+a. A one year early childhood certificate from a college or university that consists of at least 30 semester hours;
+b. A child development credential by an organization listed in § 22.1-289.048 of the Code of Virginia;
+c. A teaching diploma from an internationally or nationally recognized Montessori organization; or
+4. Have six months of supervised programmatic experience.
+a. Within six months before being promoted or beginning work or one month after being promoted or beginning work, a minimum of 12 hours of training shall be received related to the care of children, including but not limited to:
+(1) Child development;
+(2) Playground safety;
+(3) Health and safety issues; and
+(4) Preventing and reporting child abuse and neglect.
+b. Such training may take place on site while not supervising children. Such training hours shall increase according to the following:
+(1) Program leaders hired or promoted after June 1, 2006
+16 hours
+(2) Program leaders hired or promoted after June 1, 2007
+20 hours
+(3) Program leaders hired or promoted after June 1, 2008
+24 hours
+B. For program leaders of therapeutic child day programs and special needs child day programs, at least three months of programmatic experience shall be in the group care of children with special needs.
+C. Notwithstanding the experience requirements in subsection A of this section, program leaders at short-term programs may have only one season of programmatic experience, provided that this experience shall include at least 200 hours, of which up to 24 hours can be formal training, working directly with children in a group.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-260 derived from VR175-08-01 § 3.7, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-210, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-220. Aides.
+Aides shall be at least 16 years of age.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-280 derived from VR175-08-01 § 3.9, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-220, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-230. Independent contractors; volunteers.
+A. Individuals from independent contractors shall not be counted in the staff-to-children ratios unless they meet the qualifications for the applicable position.
+B. Individuals from independent contractors who do not meet staff qualifications shall, when in the presence of children, be within sight and sound supervision of a staff member.
+C. Volunteers who work with children shall be at least 13 years of age.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-290 derived from VR175-08-01 § 3.10, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-230, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-240. Staff training orientation.
+A. The Virginia Department of Education-sponsored orientation course shall be completed within 90 calendar days of employment.
+B. Staff shall complete orientation training in subsection C of this section prior to the staff member working alone with children and no later than seven days of the date of assuming job responsibilities.
+C. Orientation training shall be appropriate to the age of the children in care and include all of the following facility specific topics:
+1. Job responsibilities and to whom they report;
+2. The policies and procedures listed in subsection D of this section, 8VAC20-780-420 A, and the standards in this chapter that relate to the staff member's responsibilities;
+3. The center's playground safety procedures unless the staff member will have no responsibility for playground activities or equipment;
+4. Recognizing child abuse and neglect and the legal requirements for reporting suspected child abuse as required by § 63.2-1509 of the Code of Virginia;
+5. Confidential treatment of personal information about children in care and their families;
+6. The center's policies and procedures on the administration of medication;
+7. Emergency preparedness and response planning for emergencies resulting from a natural disaster or a human-caused event such as violence at a child care facility and the emergency preparedness plan as required by 8VAC20-780-550 A through K;
+8. Prevention of sudden infant death syndrome and use of safe sleep practices;
+9. Prevention of shaken baby syndrome and abusive head trauma, including procedures to cope with crying babies or distraught children;
+10.Prevention of and response to emergencies due to food and other allergic reactions including:
+a. Recognizing the symptoms of an allergic reaction;
+b. Responding to allergic reactions;
+c. Preventing exposure to the specific food and other substances to which the child is allergic; and
+d. Preventing cross contamination; and
+11. Prevention and control of disease.
+D. Prior to working alone with children and within seven days of the first day of employment, staff shall be provided in writing with the center's information listed in 8VAC20-780-420 A and the following:
+1. Procedures for supervising a child who may arrive after scheduled classes or activities including field trips have begun;
+2. Procedures to confirm absence of a child when the child is scheduled to arrive from another program or from an agency responsible for transporting the child to the center;
+3. Procedures for identifying where attending children are at all times, including procedures to ensure that all children are accounted for before leaving a field trip site and upon return to the center;
+4. Procedures for action in case of lost or missing children, ill or injured children, medical emergencies, and general emergencies;
+5. Policy for any administration of medication;
+6. Emergency evacuation, relocation, shelter-in-place, and lockdown procedures; and
+7. Precautions in transporting children, if applicable.
+E. Within 30 days of the first day of employment, staff must complete orientation training in first aid and cardiopulmonary resuscitation (CPR), as appropriate to the age of the children in care.
+F. Before assuming job responsibilities, staff who work with children in therapeutic child day programs and special needs child day programs shall receive training in:
+1. Standard precautions procedures;
+2. Activity adaptations;
+3. Medication administration;
+4. Disabilities precautions and health issues; and
+5. Appropriate intervention strategies.
+G. Volunteers who work more than six hours per week shall receive training on the center's emergency procedures within the first week of volunteering.
+H. In a cooperative preschool center that is organized, administered, and maintained by parents of children in care, parent volunteers, or other persons who participate and volunteer in a cooperative preschool center on behalf of a child attending such cooperative preschool center, including such volunteers who are counted in the staff-to-child ratios required in 8VAC20-780-340, shall complete four hours of training per year, and shall be exempt from orientation requirements applicable to staff of child day programs. This orientation exemption shall not apply to any parent volunteer or other person as referred to in this subsection if the cooperative preschool center has entered into a contract with the department or a local department to provide child care services funded by the Child Care and Development Block Grant.
+I. Documentation of orientation training shall be kept by the center in a manner that allows for identification by individual staff member, is considered part of the staff member's record, and shall include:
+1. Name of staff;
+2. Training topics;
+3. Training delivery method;
+4. The entity or individual providing training; and
+5. The date of training.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-310 derived from VR175-08-01 § 3.12, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; Volume 23, Issue 20, eff. July 11, 2007; Volume 24, Issue 10, eff. March 6, 2008; amended and renumbered as 22VAC40-185-240, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; Volume 36, Issue 2, eff. October 17, 2019; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-245. Ongoing training.
+A. Staff shall complete annually a minimum of 16 hours of training appropriate to the age of children in care.
+B. Training completed to meet the requirements of this section shall be in addition to completing orientation requirements in 8VAC20-780-240.
+C. Staff who do not work with a group of children at the center shall only be required to complete annual training on emergency preparedness and response, child abuse and neglect, and mandated reporter requirements.
+D. Staff who work with a group of children at the center and are employed at a short-term program shall only be required to obtain a minimum of 10 hours of staff training per year.
+E. In a cooperative preschool center that is organized, administered, and maintained by parents of children in care, parent volunteers, or other persons who participate and volunteer in a cooperative preschool center on behalf of a child attending such cooperative preschool center, including such volunteers who are counted in the staff-to-child ratios required in 8VAC20-780-340, shall complete four hours of training per year and shall be exempt from training requirements applicable to staff of child day programs. This training exemption shall not apply to any parent volunteer or other person as referred to in this subsection if the cooperative preschool center has entered into a contract with the department or a local department to provide child care services funded by the Child Care and Development Block Grant.
+F. Volunteers who work more than six hours per week shall be required to complete annual training on the center's emergency procedures.
+G. For therapeutic child day programs and special needs child day programs, staff who work directly with children shall annually complete four additional hours of training. At least eight hours of annual training shall be on topics related to the care of children with special needs.
+H. Annual training shall be relevant to staff's job responsibilities and the care of children, and include topics such as:
+1. Child development including physical, cognitive, social, and emotional development;
+2. Behavior management and positive guidance techniques;
+3. Prevention and control of infectious diseases;
+4. Prevention of sudden infant death syndrome and use of safe sleep practices;
+5. Prevention of and response to emergencies due to food and other allergic reactions including:
+a. Recognizing the symptoms of an allergic reaction;
+b. Responding to allergic reactions;
+c. Preventing exposure to the specific food and other substances to which the child is allergic; and
+d. Preventing cross contamination;
+6. The center's policies and procedures on the administration of medication;
+7. Building and physical premises safety, including identification of and protection from hazards that can cause bodily injury such as electrical hazards, bodies of water, and vehicular traffic;
+8. Prevention of shaken baby syndrome and abusive head trauma including procedures to cope with crying babies or distraught children;
+9. Signs and symptoms of child abuse and neglect and requirements for mandated reporters;
+10. Emergency preparedness and response planning for emergencies resulting from a natural disaster or a human-caused event such as violence at a child care facility and the center's specific emergency preparedness plan as required 8VAC20-780-550 A through K;
+11. Handling and storage of hazardous materials and the appropriate disposal of diapers and other items contaminated by body fluids;
+12. CPR and first aid;
+13. Precautions in transporting children if applicable; and
+14. If applicable, the recommended care requirements related to the care and development of children with special needs.
+I. Training on the center's emergency preparedness plan shall be completed annually and each time the plan is updated.
+J. Medication administration:
+1. To safely perform medication administration practices listed in 8VAC20-780-510, whenever the center has agreed to administer prescribed medications, the administration shall be performed by a staff member or independent contractor who has satisfactorily completed a training program for this purpose approved by the Board of Nursing and taught by a registered nurse, licensed practical nurse, nurse practitioner, physician assistant, doctor of medicine or osteopathic medicine, or pharmacist pursuant to § 54.1-3408 of the Code of Virginia; or administration shall be performed by a staff member or independent contractor who is licensed by the Commonwealth of Virginia to administer medications.
+a. The approved training curriculum and materials shall be reviewed by the department at least every three years and revised as necessary.
+b. Staff required to have the training shall be retrained at three-year intervals.
+2. To safely perform medication administration practices listed in 8VAC20-780-510, whenever the center has agreed to administer over-the-counter medications other than topical skin gel, cream, or ointment, the administration must be performed by a staff member or independent contractor who has satisfactorily completed a training course developed or approved by the Department of Education in consultation with the Department of Health and the Board of Nursing and taught by a registered nurse, licensed practical nurse, nurse practitioner, physician assistant, doctor of medicine or osteopathic medicine, or pharmacist; or administration shall be performed by a staff member or independent contractor who is licensed by the Commonwealth of Virginia to administer medications.
+a. The course, which shall include competency guidelines, shall reflect currently accepted safe medication administration practices, including instruction and practice in topics such as reading and following manufacturer's instructions; observing relevant laws, policies, and regulations; and demonstrating knowledge of safe practices for medication storage and disposal, recording and reporting responsibilities, and side effects and emergency recognition and response.
+b. The approved training curriculum and materials shall be reviewed by the department at least every three years and revised as necessary.
+c. Staff required to have the training shall be retrained at three-year intervals.
+3. Any child for whom emergency medications (such as albuterol, glucagon, and epinephrine auto injector) have been prescribed shall always be in the care of a staff member or independent contractor who meets the requirements in subdivision 1 of this subsection.
+K. Daily health observation training shall include the following:
+1. Components of daily health check for children;
+2. Inclusion and exclusion of the child from the class when the child is exhibiting physical symptoms that indicate possible illness;
+3. Descriptions of how diseases are spread and the procedures or methods for reducing the spread of disease;
+4. Information concerning the Virginia Department of Health Notification of Reportable Diseases pursuant to 12VAC5-90-80 and 12VAC5-90-90, also available from the local health department and the website of the Virginia Department of Health; and
+5. Staff occupational health and safety practices in accordance with Occupational Safety and Health Administration's bloodborne pathogens regulation (29 CFR 1910.1030).
+L. There shall always be at least one staff member on duty who has obtained within the last three years instruction in performing the daily health observation of children.
+M. Documentation of training shall be kept by the center in a manner that allows for identification by individual staff member, is considered part of the staff member's record, and shall include:
+1. Name of staff;
+2. Training topic;
+3. Evidence that training on each topic required in this section has been completed;
+4. Training delivery method;
+5. The entity or individual providing training;
+6. The number of training hours or credit hours received; and
+7. The date of training.
+N. Medication administration training required in subsection J of this section and daily health observation training required in subsection K of this section may count toward the annual training hours required in this section.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Derived from Virginia Register Volume 38, Issue 2, eff. October 13, 2021.
+Part IV
+Physical Plant
+8VAC20-780-250. Approval from other agencies; requirements prior to initial licensure.
+A. Before issuance of the first license and before use of newly constructed, renovated, remodeled, or altered buildings or sections of buildings, written documentation of the following shall be provided by the center to the licensing representative:
+1. Approval by the authority having jurisdiction that each building meets building and fire codes or that a plan of correction has been approved; and
+Exception: Any building which is currently approved for school occupancy and which houses a public or private school during the school year shall be considered to have met the requirements of subdivision 1 of this subsection when housing a center only serving children two and a half years of age or older.
+2. Approval from the local health department, or approval of a plan of correction, for meeting requirements for:
+a. Water supply;
+b. Sewage disposal system; and
+c. Food service, if applicable.
+B. For buildings built before 1978, the following shall be submitted before the initial license is issued:
+1. A written statement from a person licensed in Virginia as an asbestos inspector and management planner as required by § 22.1-289.052 of the Code of Virginia and the requirements of the Asbestos Hazard Emergency Response Act (15 USC § 2641 et seq.); and
+2. A written statement that the response actions to abate any risk to human health have been or will be initiated in accordance with a specific schedule and plan as recommended by the asbestos management planner in accordance with § 22.1-289.052 of the Code of Virginia.
+C. A notice regarding the presence and location of asbestos containing materials and advising that the asbestos inspection report and management plan are available for review shall be posted.
+Exception: The provisions of subsections B and C of this section do not apply to centers located in buildings required to be inspected according to Article 5 (§ 2.2-1162 et seq.) of Chapter 11 of Title 2.2 of the Code of Virginia.
+D. Before the first license is issued, camps shall notify the responsible fire department and the responsible emergency medical service of the camp location and hours of operation.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-320 derived from VR175-08-01 § 4.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-250, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-260. Approval from other agencies; requirements subsequent to initial licensure.
+A. The center shall provide to the licensing representative an annual fire inspection report from the appropriate fire official having jurisdiction.
+Exception: If a center is located in a building currently housing a public or private school, the school's annual fire inspection report shall be accepted.
+B. After the first license, annual approval from the health department shall be provided, or approvals of a plan of correction, for meeting requirements for:
+1. Water supply;
+2. Sewage disposal system; and
+3. Food service, if applicable.
+C. For those buildings where asbestos containing materials are detected and not removed:
+1. A signed, written statement that the center is following the recommendations of the management plan shall be submitted to the department before subsequent licenses are issued; and
+2. The notice regarding the presence and location of asbestos containing materials and advising that the asbestos inspection report and management plan are available for review shall continue to be posted.
+3. Exception: The provisions of this subsection do not apply to child day centers located in buildings required to be inspected according to Article 5 (§ 2.2-1162 et seq.) of Chapter 11 of Title 2.2 of the Code of Virginia.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-330 derived from VR175-08-01 § 4.2, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-260, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-270. Building maintenance.
+A. Areas and equipment of the center, inside and outside, shall be maintained in a clean, safe and operable condition. Unsafe conditions shall include, but not be limited to, splintered, cracked or otherwise deteriorating wood; chipped or peeling paint; visible cracks, bending or warping, rusting or breakage of any equipment; head entrapment hazards; and protruding nails, bolts or other components that could entangle clothing or snag skin.
+B. Heat shall be supplied from a heating system approved in accordance with the Uniform Statewide Building Code (USBC, 13VAC5-62) except for camps. The heating system shall:
+1. Be installed to prevent accessibility of children to the system; and
+2. Have appropriate barriers to prevent children from being burned, shocked, or injured from heating equipment. In addition, proper supervision shall be available to prevent injury.
+3. Exception: In case of emergency, portable heaters may be used in accordance with the manufacturer's instructions.
+C. In inside areas occupied by children, the temperature shall be maintained no lower than 68°F.
+D. Fans or other cooling systems shall be used when the temperature of inside areas occupied by children exceeds 80°F.
+E. Drinking fountains or individual disposable cups with safe drinking water shall be accessible at all times.
+F. Equipment shall include, but not be limited to, the following:
+1. Outside lighting provided at entrances and exits used by children before sunrise or after sundown; and
+2. An in-service, nonpay telephone.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-340 derived from VR175-08-01 § 4.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-270, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-280. Hazardous substances and other harmful agents.
+A. No center shall be located where conditions exist that would be hazardous to the health and safety of children.
+B. Hazardous substances such as cleaning materials, insecticides, and pesticides shall be kept in a locked place using a safe locking method that prevents access by children.
+1. If a key is used, the key shall not be accessible to the children.
+2. Exception: Cleaning supplies to clean and sanitize the diapering area or toilet chairs do not need to be kept locked during diapering or toilet training time as long as they are inaccessible to children.
+C. Pesticides or insecticides shall not be stored in areas used by children or in areas used for food preparation or storage.
+D. Cleaning and sanitizing materials shall not be located above food, food equipment, utensils or single-service articles and shall be stored in areas physically separate from food.
+E. Cleaning materials (e.g., detergents, sanitizers and polishes) and insecticides/pesticides shall be stored in areas physically separate from each other.
+F. Hazardous substances shall be stored in the original container unless this container is of such a large size that its use would be impractical.
+G. If hazardous substances are not kept in original containers, the substitute containers shall clearly indicate their contents and shall not resemble food or beverage containers.
+H. Cosmetics, medications, or other harmful agents shall not be stored in areas, purses or pockets that are accessible to children.
+I. Hazardous art and craft materials shall not be used with children.
+J. Smoking shall be prohibited in the interior of a center that is not used for residential purposes.
+K. In residential areas of the center and outside the center, smoking shall be prohibited in the presence of children.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-350 derived from VR175-08-01 § 4.4, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-280, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-290. General physical plant requirements for centers serving children of preschool age or younger.
+In areas used by children of preschool age or younger, the following shall apply:
+1. Guardrails and handrails shall be provided in accordance with the USBC (13VAC5-62) in effect at time of first occupancy or construction.
+2. Fans, when used, shall be out of reach of children and cords shall be secured so as not to create a tripping hazard.
+3. Electrical outlets shall have protective covers that are of a size that cannot be swallowed by children.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-360 derived from VR175-08-01 § 4.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-290, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-300. General physical plant requirements for centers serving school age children.
+A. Any building which is currently approved for school occupancy and which houses a school during the school year shall be considered to have met the building requirements in this chapter when housing a center only serving school age children.
+B. Portable camping equipment for heating or cooking that is not required to be approved by the building official shall bear the label of a nationally recognized inspection agency and be used in accordance with the manufacturer's specifications, except for charcoal and wood burning cooking equipment.
+C. No cooking or heating shall occur in tents except as provided by the USBC (13VAC5-62).
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-370 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended, Virginia Register Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-300, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-310. Areas.
+A. Indoor space shall be measured inside wall-to-wall excluding spaces not routinely used by children as referenced in subdivisions 1 and 2 of this subsection:
+1. Areas not routinely used for children's activities shall not be calculated as available space.
+2. Space not calculated shall include, but not be limited to, offices, hallways, restrooms, kitchens, storage rooms or closets.
+B. There shall be 25 square feet of indoor space available per child until subdivisions 1 and 2 of this subsection take effect.
+1. Effective June 1, 2008, applicants must have 35 square feet of indoor wall-to-wall space per child.
+2. Current licensees and subsequent licensees at currently licensed facilities may continue to provide 25 square feet per child.
+3. New additions shall have 35 square feet of indoor wall-to-wall space per child effective June 1, 2008.
+C. Space in areas used by infants shall be calculated separately from space for older children. There shall be a minimum of 25 square feet of space per infant excluding space occupied by cribs and changing tables or a minimum of 35 square feet of available space per infant including space occupied by cribs and changing tables.
+D. Camps for school age children are not required to meet this space requirement. However, when weather prevents outdoor activities, the required indoor space per child shall be provided either at the program site or at a predesignated, approved location off site.
+E. When children are on the outdoor play area, at least 75 square feet of space per child shall be provided at any one time.
+F. Centers licensed for the care of infants and toddlers shall provide a separate playground area for these children that has at least 25 square feet of unpaved surface per infant/toddler on the outdoor area at any one time. This space may be counted as part of the 75 square feet required in subsection B of this section.
+G. A separate space shall be designated for children who are ill or injured.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-380 derived from VR175-08-01 § 4.7, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-310, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-320. Restroom areas and furnishings.
+A. Centers shall have at least two toilets and two sinks.
+B. Each restroom area provided for children shall:
+1. Be within a contained area, readily available and within the building used by the children (Restrooms used by school age children at camps are not required to be located within the building);
+2. Have toilets that are flushable;
+3. Have sinks located near the toilets and that are supplied with running warm water that does not exceed 120°F (Camps are exempt from the requirement that running water be warm); and
+4. Be equipped with soap, toilet paper, and disposable towels or an air dryer within reach of children.
+C. For restrooms available to males, urinals shall not be substituted for more than one-half the required number of toilets.
+D. An adult size toilet with privacy shall be provided for staff use. Staff toilets may be counted in the number of required toilets for children only if children are allowed unrestricted access to them. Primitive camps are not required to have a toilet with privacy for staff.
+E. Centers shall have at least one toilet and one sink per 20 preschool children and at least one standard size toilet and one sink per 30 school age children. When sharing restroom areas with other programs, the children in those programs shall be included in the toilet and sink ratio calculations. The toilet and sink ratio appropriate to the younger age group shall apply.
+F. When child size toilets, urinals, and low sinks are not available in restrooms used by children of preschool age and younger, one or more platforms or sets of steps shall be provided.
+G. A restroom used for school age children that contains more than one toilet shall have at least one toilet enclosed.
+H. Restrooms used by school age children at primitive camps are not required to have:
+1. Sinks, if adequate water, supplies, and equipment for hand washing are available; and
+2. Flushable toilets, if the number of sanitary privies or portable toilets constructed and operated in accordance with the applicable law and regulations of the Virginia Department of Health meets the toilet ratio stated in subsection E of this section. No privy or outdoor toilet shall be located within 75 feet of other buildings or camp activities.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-390 derived from VR175-08-01 § 4.8, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-320, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-330. Play areas.
+A. Playgrounds shall be located and designed to protect children from hazards.
+B. Where playground equipment is provided, resilient surfacing shall comply with minimum safety standards when tested in accordance with the procedures described in the American Society for Testing and Materials standard F1292-99 as shown in Figures 2 (Compressed Loose Fill Synthetic Materials Depth Chart) and 3 (Use Zones for Equipment) on pages 6-7 of the National Program for Playground Safety's "Selecting Playground Surface Materials: Selecting the Best Surface Material for Your Playground," February 2004, and shall be under equipment with moving parts or climbing apparatus to create a fall zone free of hazardous obstacles. Fall zones are defined as the area underneath and surrounding equipment that requires a resilient surface. A fall zone shall encompass sufficient area to include the child's trajectory in the event of a fall while the equipment is in use. Falls zones shall not include barriers for resilient surfacing. Where steps are used for accessibility, resilient surfacing is not required.
+C. Ground supports shall be covered with materials that protect children from injury.
+D. Swing seats shall be constructed with flexible material.
+1. Exceptions: Nonflexible molded swing seats may be used only in a separate infant or toddler play area.
+2. Swings made specifically for a child with a special need shall be permitted in any area as long as a staff member is positioned to see and protect other children who might walk into the path of the swing.
+E. Sandboxes with bottoms which prevent drainage shall be covered when not in use.
+F. A shady area shall be provided on playgrounds during the months of June, July, and August.
+EXCEPTION: The requirements of this section shall not prohibit child day programs providing care for school-age children at a location that is currently approved by the Department of Education or recognized as a private school by the State Board of Education for school occupancy and that houses a public or private school during the school year from permitting school-age children to use outdoor play equipment and areas approved for use by students of the school during school hours.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-410 derived from VR175-08-01 § 4.10, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; Volume 28, Issue 7, eff. January 5, 2012; amended and renumbered as 22VAC40-185-330, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+Part V
+Staffing and Supervision
+8VAC20-780-340. Supervision of children.
+A. When staff are supervising children, they shall always ensure their care, protection, and guidance.
+B. During the center's hours of operation, one adult on the premises shall be in charge of the administration of the center. This person shall be either the administrator or an adult appointed by the licensee or designated by the administrator.
+C. During the stated hours of operation, there always shall be on the premises and on field trips when one or more children are present one staff member who meets the qualifications of a program leader or program director and an immediately available staff member, volunteer or other employee who is at least 16 years of age, with direct means for communication between the two of them. The volunteer or other employee shall have received instruction in how to contact appropriate authorities if there is an emergency.
+D. In each grouping of children at least one staff member who meets the qualifications of a program leader or program director shall be regularly present. Such a program leader shall supervise no more than two aides.
+E. Exception: A program leader is not required in each grouping of children during the first and last hour of operation when a center operates more than six hours per day and during the designated rest period if the following are met: (i) there is a staff member in the group who is over 18 years of age and has at least three months of programmatic experience at the center; (ii) there is an additional staff person on site who meets program leader qualifications, is not counted in the staff-to-children ratios and is immediately available to help if needed; and (iii) there is a direct means for communicating between these two staff members.
+F. Children under 10 years of age always shall be within actual sight and sound supervision of staff, except that staff need only be able to hear a child who is using the restroom provided that:
+1. There is a system to assure that individuals who are not staff members or persons allowed to pick up a child in care do not enter the restroom area while in use by children; and
+2. Staff check on a child who has not returned from the restroom after five minutes. Depending on the location and layout of the restroom, staff may need to provide intermittent sight supervision of the children in the restroom area during this five-minute period to assure the safety of children and to provide assistance to children as needed.
+G. Children 10 years of age and older shall be within actual sight and sound supervision of staff except when the following requirements are met:
+1. Staff can hear or see the children (video equipment, intercom systems, or other technological devices shall not substitute for staff being able to directly see or hear children);
+2. Staff are nearby so they can provide immediate intervention if needed;
+3. There is a system to ensure that staff know where the children are and what they are doing;
+4. There is a system to ensure that individuals who are not staff members or persons allowed to pick up children in care do not enter the areas where children are not under sight supervision; and
+5. Staff provide sight and sound supervision of the children at variable and unpredictable intervals not to exceed 15 minutes.
+H. When the outdoor activity area is not adjacent to the center, there shall be at least two staff members on the outdoor activity area whenever one or more children are present.
+I. Staff shall greet each child upon arrival at the center and oversee each child's departure from the center.
+J. Staff shall not allow a child to leave the center unsupervised.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-430 derived from VR175-08-01 § 5.2, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-340, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-350. Staff-to-children ratio and group size requirements.
+A. The maximum group size limitations specified in Table 1 shall be followed whenever children are in care.
+TABLE 1. Maximum Group Size Requirements
+Age
+Maximum Group Size
+1.
+Birth up to 16 months
+12
+2.
+16 months up to 24 months
+15
+3.
+2 year olds
+24
+4.
+3 year olds up to school age eligible
+30
+B. The staff-to-children ratios specified in Table 2 are required whenever children are in care.
+TABLE 2. Ratio Requirements
+Age
+Ratio (staff: children)
+1.
+Birth up to 16 months
+1:4
+2.
+16 months up to 24 months
+1:5
+3.
+2 year olds
+1:8
+4.
+3 year olds up to school age eligible
+1:10
+5.
+School age eligible up to 9 years
+1:18
+6.
+9 years through 12 years
+1:20
+C. When children are in ongoing mixed age groups, the staff-to-children ratio and group size applicable to the youngest child in the group shall apply to the entire group.
+D. Group size limitations shall not apply during:
+1. Designated rest periods as described in this section;
+2. Outdoor activity as described in 8VAC20-780-370, 8VAC20-780-380, and 8VAC20-780-390;
+3. Transportation and field trips as described in 8VAC20-780-580;
+4. Meals and snacks served as described in 8VAC20-780-560; or
+5. Special group activities, or during the first and last hour of operation when the center operates more than six hours per day.
+E. Group size requirements in subsection A of this section do not apply to children school age eligible through 12 years of age.
+F. The center shall develop and implement a written policy and procedure that describes how the center will ensure that each group of children receives care by consistent staff or team of staff members.
+G. Staff shall be counted in the required staff-to-children ratios only when they are directly supervising children.
+H. A child volunteer 13 years of age or older not enrolled in the program shall not be counted as a child in the staff-to-children ratio requirements.
+I. For children ages 16 months through preschool age, during the designated rest period, when children are resting or in an inactive state, the following rest period ratios are permitted if the requirements of subsections J through N of this section are met:
+1. Children 16 through 24 months of age: one staff per 10 children.
+2. Children two years of age: one staff per 16 children.
+3. Children of preschool age: one staff per 20 children.
+J. Staff required by rest period ratios shall be within sight and sound at all times in the same space as the resting or sleeping children.
+K. In addition to the staff required by rest period ratios, an additional staff member shall always be available on-site to offer immediate assistance. The staff required by rest period ratios shall be able to summon the additional staff member without leaving the room or area of the sleeping or resting children.
+L. Once at least half of the children in the resting room or area are awake and off their mats or cots, the staff-to-children ratio shall meet the ratios as required in subsection B of this section.
+M. One staff member shall not supervise more than one room or area during rest time.
+N. Centers providing evening and overnight care shall meet the requirements of subsections I through this subsection N of this section during sleep periods.
+O. The ratio for balanced-mixed-age groupings of children shall be one staff member for every 14 children provided:
+1. The center has additional staff who are readily accessible in the event of an emergency to maintain a ratio of one staff member for every 10 children when three-year-olds are included in the balanced-mixed-age group; and
+2. The lead teacher has received at least eight hours of training in classroom management of balanced-mixed-age groupings.
+P. A maximum group size of 28 shall be followed whenever children in care are in balanced-mixed-age groupings.
+Q. With a parent's written permission and a written assessment by the program director and program leader, a center may choose to assign a child to a different age group if such age group is more appropriate for the child's developmental level and the staff-to-children ratio and group size shall be for the established age group.
+1. If such developmental placement is made for a child with a special need, a written assessment by a recognized agency or professional shall be required at least annually. These assignments are intended to be a permanent new group and staff members for the child.
+2. A center may temporarily reassign a child from his regular group and staff members for reasons of administrative necessity but not casually or repeatedly disrupt a child's schedule and attachment to his staff members and group.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-440 derived from VR175-08-01 § 5.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-350, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-355. Staff-to-children ratio requirements for therapeutic and special needs program staff.
+A. For therapeutic child day programs, in each grouping of children of preschool age or younger, the following ratios of staff to children are required according to the special needs of the children in care:
+1. For children with severe and profound disabilities, multiple special needs, serious medical need, or serious emotional disturbance: one staff member to three children.
+2. For children diagnosed as having an intellectual disability with significant sub-average intellectual functioning and deficits in adaptive behavior, or with physical and sensory disabilities, or with autism: one staff member to four children.
+3. For children diagnosed as having an intellectual disability in the mild range of development, children with a developmental delay, or children diagnosed with attention deficit/hyperactivity disorder (ADHD): one staff member to five children.
+4. For children diagnosed with specific learning disabilities: one staff member to six children.
+5. When children with varied special needs are included in a group, the staff-to-children ratio applicable to the child with the most significant special need in the group shall apply to the entire group.
+6. Whenever 8VAC20-780-350 B requires more staff than 8VAC20-780-355 A because of the children's ages, 8VAC20-780-350 B shall take precedence over 8VAC20-780-355 A.
+B. For therapeutic child day programs, in each grouping of school age children, the following ratios of staff to children are required according to the special needs of the children in care:
+1. For children with severe and profound disabilities, autism, multiple special needs, serious medical need, or serious emotional disturbance: one staff member to four children.
+2. For children diagnosed as having an intellectual disability with significant sub-average intellectual functioning and deficits in adaptive behavior, or with physical and sensory disabilities, ADHD, or other health impairments: one staff member to five children.
+3. For children diagnosed as having an intellectual disability in the mild range of development, or developmentally delayed: one staff member to six children.
+4. For children diagnosed with specific learning disabilities or speech or language impairments: one staff member to eight children.
+5. When children with varied special needs are included in a group, the staff-to-children ratio applicable to the child with the most significant special need in the group shall apply to the entire group.
+C. Group size requirements in 8VAC20-780-350 A do not apply to therapeutic child day programs.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Derived from Virginia Register Volume 38, Issue 2, eff. October 13, 2021.
+Part VI
+Programs
+8VAC20-780-360. Daily activities.
+A. The variety of daily activities for all age groups shall be age and stage appropriate and provide opportunities for teacher-directed, self-directed, and self-chosen tasks and activities; a balance of active and quiet activities; individual and group activities; and curiosity and exploration.
+Exception: Specialty camps do not need to provide opportunities for self-chosen tasks and curiosity and exploration.
+B. For a child who cannot move without help, staff shall offer to change the places and position of the child at least every 30 minutes or more frequently depending on the child's individual needs.
+C. Children shall be allowed to sleep or rest as individually needed.
+D. For a child in a therapeutic child day program, daily activities shall be in accordance with the program's individual plan for such child.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-451 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended, Virginia Register Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-360, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-370. Daily activities for infants.
+There shall be a flexible daily schedule for infants based on their individual needs. During the day, infants shall be provided with:
+1. Sleep as needed.
+a. When an infant is placed in his crib, he shall be placed on his back (supine).
+b. When an infant is able to easily turn over from the back (supine) to the belly (prone) position and he is placed in his crib, he shall still be put on his back (supine) but allowed to adopt whatever position he prefers. This applies unless otherwise directed by the infant's physician in writing.
+c. If the side position is used, caregivers shall bring the dependent arm forward to lessen the likelihood of the infant rolling into a belly (prone) position.
+d. Resting or sleeping infants shall be individually checked every 15-20 minutes.
+e. An infant who falls asleep in a play space specified in subdivision 5 a of this section may remain in that space if comfortable and safe.
+2. Food as specified in 8VAC20-780-560 and 8VAC20-780-570.
+3. Outdoor time if weather and air quality allow based upon the Air Quality Color Code Chart as provided by the Department of Environmental Quality.
+4. Comfort as needed.
+5. Play spaces.
+a. Play spaces may include, but are not limited to, cribs, infant seats, play yards, exercise chairs or saucers (but not walkers), infant swings, high chairs, and floor space.
+b. The variety of play spaces shall cumulatively offer:
+(1) Room for extensive movement (rolling, crawling, or walking) and exploration;
+(2) A diversity of sensory and perceptual experiences; and
+(3) Equipment and toys that support large and small motor development.
+c. Staff shall provide frequent opportunities for infants to creep, crawl, toddle and walk.
+d. Infants shall be protected from older children.
+e. Staff shall provide awake infants not playing on the floor or ground a change in play space at least every 30 minutes or more often as determined by the individual infant's needs.
+f. Staff shall change the position of an awake infant playing on the floor or ground and the selection of toys available to the infant every 30 minutes or more often as determined by the individual infant's needs.
+g. Infants, who cannot turn themselves over and are awake, shall be placed on their stomachs a total of 30 minutes each day to facilitate upper body strength and to address misshapen head concerns.
+6. Stimulation and language development activities, including but not limited to staff reading, talking to, showing pictures to, naming objects for, playing with and engaging in positive interactions (such as smiling, cuddling, and making eye contact) with infants.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-461 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended, Virginia Register Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-370, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-380. Daily activities for toddlers and preschoolers.
+A. There shall be a posted daily schedule that allows for flexibility as children's needs require. The daily schedule need not apply on days occupied a majority of the time by a field trip or other special event. The daily schedule shall include opportunities for:
+1. Outdoor activity, weather and air quality allowing, for at least:
+a. Fifteen minutes per day or session if the center operates up to three hours per day or session;
+b. Thirty minutes per day or session if the center operates between three and five hours per day or session; or
+c. One hour per day or session if the center operates more than five hours per day or session.
+2. Sleep or rest.
+a. Centers operating five or more hours per day shall have a designated rest period for at least one hour but no more than two hours.
+(1) Cribs, cots, beds, or mats shall be used.
+(2) After the first 30 minutes, children not sleeping may engage in quiet activities.
+b. A child who falls asleep in a place other than his designated sleeping location may remain in that space if comfortable and safe.
+c. Sleeping toddlers shall be individually checked every 30 minutes.
+3. Meals and snacks as specified in 8VAC20-780-560 and 8VAC20-780-570.
+4. Small and large motor activities, language and communication experiences, sensory experiences, art or music activities, and play acting or social living.
+B. Staff shall encourage language development by having conversations with children that give them time to initiate and respond, by labeling and describing objects and events, having storytelling time and by expanding the children's vocabulary.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-471 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended, Virginia Register Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-380, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-390. Daily activities for school age children.
+A. Before or after school, the center shall provide an opportunity for children to do homework or projects or hobbies in a suitable area. In the afternoon, there shall be an opportunity for large motor activities at least 25% of the time.
+B. On nonschool days, the daily activity shall include opportunities for large motor activities at least 25% of the time; small motor activities; projects, hobbies, or homework in a suitable place; art or music activities; outdoor activity in accordance with 8VAC20-780-380 A 1 and food as specified in 8vAC20-780-560 and 8VAC20-780-570.
+Exception: Specialty camps are not required to meet the requirements of this subsection.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-481 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-390, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-400. Behavioral guidance.
+A. In order to promote the child's physical, intellectual, emotional, and social well-being and growth, staff shall interact with the child and one another to provide needed help, comfort, support and:
+1. Respect personal privacy;
+2. Respect differences in cultural, ethnic, and family backgrounds;
+3. Encourage decision-making abilities;
+4. Promote ways of getting along;
+5. Encourage independence and self-direction; and
+6. Use consistency in applying expectations.
+B. Behavioral guidance shall be constructive in nature, age and stage appropriate, and shall be intended to redirect children to appropriate behavior and resolve conflicts.
+C. When time out is used as a behavior guidance technique:
+1. It shall be used sparingly and shall not exceed one minute for each year of the child's age;
+2. It shall be appropriate to the child's developmental level and individual needs;
+3. It shall not be used with infants or toddlers;
+4. The child shall be in a safe, lighted, well-ventilated place, and within actual sight and sound of a staff member; and
+5. The child shall not be left alone inside or outside the center.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-484 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-400, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-410. Forbidden actions.
+The following actions or threats thereof are forbidden:
+1. Physical punishment, striking a child, roughly handling or shaking a child, restricting movement through binding or tying, forcing a child to assume an uncomfortable position, or exercise as punishment;
+2. Enclosure in a small confined space or any space that the child cannot freely exit himself; however, this does not apply to the use of equipment such as cribs, play yards, high chairs, and safety gates when used with children preschool age or younger for their intended purpose;
+3. Punishment by another child;
+4. Separation from the group so that the child is away from the hearing and vision of a staff member;
+5. Withholding or forcing of food or rest;
+6. Verbal remarks which are demeaning to the child;
+7. Punishment for toileting accidents; and
+8. Punishment by applying unpleasant or harmful substances.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-487 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended and renumbered as 22VAC40-185-410, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-420. Parental involvement.
+A. Before the child's first day of attending, parents shall be provided in writing the following:
+1. The center's philosophy and any religious affiliation;
+2. Operating information, including the hours and days of operation and holidays or other times closed, and the phone number where a message can be given to staff;
+3. The center's transportation policy;
+4. The center's policies for the arrival and departure of children, including procedures for verifying that only persons authorized by the parent are allowed to pick up the child, picking up children after closing, and when a child is not picked up for emergency situations including inclement weather or natural or man-made disasters;
+5. The center's policy regarding any medication or medical procedures that will be given;
+6. The center's policy regarding application of:
+a. Sunscreen;
+b. Diaper ointment or cream; and
+c. Insect repellent.
+7. Description of established lines of authority for staff;
+8. Policy for reporting suspected child abuse as required by § 63.2-1509 of the Code of Virginia;
+9. The custodial parent's right to be admitted to the center as required by § 22.1-289.054 of the Code of Virginia;
+10. Policy for communicating an emergency situation with parents;
+11. The appropriate general daily schedule for the age of the enrolling child;
+12. Food policies;
+13. Discipline policies including acceptable and unacceptable discipline measures; and
+14. Termination policies.
+B. Staff shall promptly inform parents when persistent behavioral problems are identified; such notification shall include any disciplinary steps taken in response.
+C. A custodial parent shall be admitted to any child day program. Such right of admission shall apply only while the child is in the child day program (§ 22.1-289.054 of the Code of Virginia).
+D. The center shall provide opportunities for parental involvement in center activities.
+E. Communication.
+1. For each infant, the center shall post a daily record which can be easily accessed by both the parent and the staff working with the child. The record shall contain the following information:
+a. The amount of time the infant slept;
+b. The amount of food consumed and the time;
+c. A description and time of bowel movements;
+d. Developmental milestones; and
+e. For infants, who are awake and cannot turn over by themselves, the amount of time spent on their stomachs.
+2. If asked by parents, staff shall provide feedback about daily activities, physical well-being, and developmental milestones.
+3. Parents shall be provided at least semiannually in writing information on their child's development, behavior, adjustment, and needs.
+a. Staff shall provide at least semiannual scheduled opportunities for parents to provide feedback on their children and the center's program.
+b. Staff shall request at least annually parent confirmation that the required information in the child's record is up to date.
+c. Such sharing of information shall be documented.
+d. Short-term programs (as defined in 8VAC20-780-10) are exempt from this requirement.
+4. Parents shall be informed of reasons for termination of services.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-490 derived from VR175-08-01 § 6.5, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-420, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-430. Equipment and materials.
+A. Furnishings, equipment, and materials shall be of an appropriate size for the child using it.
+B. Materials and equipment available shall be age and stage appropriate for the children and shall include an adequate supply as appropriate for each age group of arts and crafts materials, texture materials, construction materials, music and sound materials, books, social living equipment, and manipulative equipment.
+C. Play equipment used by children shall meet the following requirements:
+1. Openings above the ground or floor which allow a 3-1/2 inch by 6-1/4 inch rectangle to fit through shall also allow a nine-inch circle to fit through;
+2. S-hooks where provided may not be open more than the thickness of a penny; and
+3. Have no protrusions, sharp points, shearing points, or pinch points.
+D. The unenclosed climbing portion of slides and climbing equipment used by toddlers and preschool children shall not be more than seven feet high and must be located over resilient surfacing where outdoors, and shall not be more than five feet high where indoors.
+E. Centers may not install after June 1, 2005, any slide or climbing equipment to be used by preschoolers or toddlers when the climbing portion of the equipment is more than six feet in height.
+F. The climbing portions of indoor slides and climbing equipment over 18 inches shall not be over bare flooring.
+G. The climbing portions of indoor slides and climbing equipment 36 inches or more shall be located over a resilient surface.
+H. Trampolines may not be used.
+EXCEPTION: The requirements of subsections A through H of this section shall not prohibit child day programs providing care for school-age children at a location that is currently approved by the Department of Education or recognized as a private school by the State Board of Education for school occupancy and that houses a public or private school during the school year from permitting school-age children to use outdoor play equipment and areas approved for use by students of the school during school hours.
+I. If combs, toothbrushes, or other personal articles are used, they shall be individually assigned.
+J. Disposable products shall be used once and discarded.
+K. Provision shall be made for an individual place for each child's personal belongings.
+L. Infant walkers shall not be used.
+M. Play yards where used shall:
+1. Meet the Juvenile Products Manufacturers Association (JPMA) and the American Society for Testing and Materials (ASTM) requirements and shall retain the manufacturer's label documenting product compliance with current safety standards at the time they were manufactured;
+2. Not be used after recalled;
+3. Not use any pillows or filled comforters;
+4. Not be used for the designated sleeping areas;
+5. Not be occupied by more than one child; and
+6. Be sanitized each day of use or more often as needed.
+N. Upon being informed that a product has been recalled, center staff shall remove the item from the center.
+O. Where portable water coolers are used, they shall be of cleanable construction, maintained in a cleaned condition, kept securely closed and so designed that water may be withdrawn from the container only by water tap or faucet.
+P. Drinking water which is transported to camp sites shall be in closed containers.
+Q. Therapeutic child day programs and special needs child day programs serving children who use wheelchairs shall provide cushioned vinyl-covered floormats for use when activities require children to be out of their wheelchairs.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-500 derived from VR175-08-01 § 6.6, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; Volume 28, Issue 7, eff. January 5, 2012; amended and renumbered as 22VAC40-185-430, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-440. Cribs, cots, rest mats, and beds.
+A. Cribs, cots, rest mats or beds shall be provided for children during the designated rest period and not be occupied by more than one child at a time.
+B. Cribs, cots, rest mats, and beds shall be identified for use by a specific child.
+C. Double decker cribs, cots, or beds, or other sleeping equipment when stacked shall not be permitted.
+D. Occupied cribs, cots, rest mats, and beds shall be at least 2-1/2 feet from any heat producing appliance.
+E. There shall be at least 12 inches of space between occupied cots, beds, and rest mats.
+Exception: Twelve inches of space are not required where cots, beds, or rest mats are located adjacent to a wall or a divider as long as one side is open at all times to allow for passage.
+F. If rest mats are used, they shall have cushioning and be sanitized on all sides weekly or before use by another child.
+G. Cribs shall be used for children under 12 months of age and for children over 12 months of age who are not developmentally ready to sleep on a cot or mat.
+H. Cribs shall meet the following requirements:
+1. They shall meet the Consumer Product Safety Commission Standards at the time they were manufactured;
+2. They shall not have been recalled;
+3. There shall be no more than six centimeters or 2-3/8 inches of space between slats;
+4. There shall be no more than one inch between the mattress and the crib; and
+5. End panel cut-outs in cribs shall be of a size not to cause head entrapment.
+I. Cribs shall be placed where objects outside the crib such as cords from blinds or curtains are not within reach of infants or toddlers.
+J. There shall be at least:
+1. Twelve inches of space between the sides and ends of occupied cribs except where they touch the wall; and
+2. Thirty inches of space between service sides of occupied cribs and other furniture where that space is the walkway for staff to gain access to any occupied crib.
+K. Crib sides shall be up and the fastenings secured when a child is in the crib, except when a staff member is giving the child immediate attention.
+L. Pillows and filled comforters shall not be used by children under two years of age.
+M. Use of crib bumper pads shall be prohibited.
+N. Toys or objects hung over an infant in a crib and crib gyms that are strung across the crib may not be used for infants over five months of age or infants who are able to push up on their hands and knees.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-510 derived from VR175-08-01 § 6.7, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-440, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-450. Linens.
+A. Cribs, cots, mats and beds used by children other than infants during the designated rest period or during evening and overnight care shall have linens consisting of a top cover and a bottom cover or a one-piece covering which is open on three edges. Cribs when being used by infants shall have a bottom cover.
+B. Linens shall be assigned for individual use.
+C. Linens shall be clean and washed at least weekly.
+1. Crib sheets shall be clean and washed daily.
+2. When centers wash the linens, the water shall be above 140°F or the dryer shall heat the linens above 140°F as verified by the manufacturer or a sanitizer shall be used according to the manufacturer's instructions.
+D. Pillows when used shall be assigned for individual use and covered with pillow cases.
+E. Mattresses when used shall be covered with a waterproof material which can be cleaned and sanitized.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-520 derived from VR175-08-01 § 6.8, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-450, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-460. Swimming and wading activities; staff and supervision.
+A. The staff-to-children ratios required by 8VAC20-780-350 B and 8VAC20-780-355 A and B shall be maintained while children are participating in swimming or wading activities.
+1. Notwithstanding the staff-to-children ratios already indicated, at no time shall there be fewer than two staff members supervising the activity.
+2. The designated certified lifeguard shall not be counted in the staff-to-children ratios.
+B. If a pool, lake, or other swimming area has a water depth of more than two feet, a certified lifeguard holding a current certificate shall be on duty supervising the children participating in swimming or wading activities at all times when one or more children are in the water.
+C. The lifeguard certification shall be obtained from an organization such as the American Red Cross, the YMCA, or the Boy Scouts.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-540 derived from VR175-08-01 § 6.10, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-460, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-470. Pools and equipment.
+A. When permanent swimming or wading pools are located on the premises of the center, the following shall apply:
+1. The manufacturer's specifications for operating the pool shall be followed as well as any local ordinances and any Department of Health requirements for swimming pools;
+2. Pools constructed, renovated, or remodeled after April 1, 1986, shall have a statement in writing of their inspection and approval from the local building official when such approval is required;
+3. Outdoor swimming pools shall be enclosed by safety fences and gates which are in compliance with the applicable edition of the Virginia USBC (13VAC5-62) and shall be kept locked when the pool is not in use;
+4. Entrances to indoor swimming pools shall be locked when the pool is not in use; and
+5. A whistle or other audible signaling device, a buoy or a lemon line, a reach pole, and a backboard shall be available at the swimming or wading site.
+B. If children are allowed to swim in a lake or other place other than a pool, safe swimming areas shall be clearly marked and there shall be appropriate water safety equipment.
+C. Piers, floats, and platforms shall be in good repair and where used for diving, the minimum water depth shall be stated on the deck or planking.
+D. If portable wading pools without integral filter systems are used, they shall be emptied after the use of each group of children, rinsed, and filled with clean water, or more frequently as necessary.
+E. Children who are not toilet trained may not use portable wading pools.
+F. After each day's use, portable wading pools shall be emptied, sanitized, and stored in a position to keep them clean and dry.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-550 derived from VR175-08-01 § 6.11, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-470, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-480. Swimming and wading; general.
+A. The center shall have emergency procedures and written safety rules for swimming or wading or follow the posted rules of public pools that are:
+1. Posted in the swimming area when the pool is located on the premises of the center; and
+2. Explained to children participating in swimming or wading activities.
+B. The center shall maintain (i) written permission from the parent of each child who participates in swimming or wading and (ii) a statement from the parent advising of a child's swimming skills before the child is allowed in water above the child's shoulder height.
+C. Staff shall have a system for accounting for all children in the water.
+D. Outdoor swimming activities shall occur only during daylight hours unless underwater and deck lighting is provided.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-560 derived from VR175-08-01 § 6.12, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-480, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+Part VII
+Special Care Provisions and Emergencies
+8VAC20-780-490. Preventing the spread of disease.
+A. A child shall not be allowed to attend the center for the day if he has:
+1. A temperature over 101°F;
+2. Recurrent vomiting or diarrhea; or
+3. A communicable disease.
+B. If a child needs to be excluded according to subsection A of this section, the following shall apply:
+1. Arrangements shall be made for the child to leave the center as soon as possible after the signs or symptoms are noticed; and
+2. The child shall remain in the designated quiet area until leaving the center.
+C. When children at the center have been exposed to a communicable disease listed in the Department of Health's current communicable disease chart, the parents shall be notified within 24 hours or the next business day of the center's having been informed unless forbidden by law, except for life threatening diseases, which must be reported to parents immediately.
+D. The center shall consult the local department of health if there is a question about the communicability of a disease.
+E. When any surface has been contaminated with body fluids, it shall be cleaned and sanitized.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-570 derived from VR175-08-01 § 7.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-490, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-500. Hand washing and toileting procedures.
+A. Hand washing.
+1. Children's hands shall be washed with soap and running water or disposable wipes before and after eating meals or snacks.
+2. Children's hands shall be washed with soap and running water after toileting and any contact with blood, feces, or urine.
+3. Staff shall wash their hands with soap and running water:
+a. Before and after helping a child use the toilet;
+b. Before and after a diaper change;
+c. After the staff member uses the toilet;
+d. After any contact with body fluids;
+e. Before feeding or helping children with feeding; and
+f. Before preparing or serving food or beverages.
+4. If running water is not available, a germicidal cleansing agent administered per manufacturer's instruction may be used.
+B. Diapering; soiled clothing.
+1. The diapering area shall be accessible and within the building used by children.
+2. There shall be sight and sound supervision for all children when a child is being diapered.
+3. The diapering area shall have the following:
+a. A sink with running warm water not to exceed 120°F;
+b. Soap, disposable towels, and single use gloves such as surgical or examination gloves;
+c. A nonabsorbent surface for diapering or changing shall be used. For children younger than three years, this surface shall be a changing table or countertop designated for changing;
+d. The appropriate disposal container as required by subdivision 6 of this subsection; and
+e. A leakproof covered receptacle for soiled linens.
+4. When a child's clothing or diaper becomes wet or soiled, the child shall be cleaned and changed immediately.
+5. Disposable diapers shall be disposed in a leakproof or plastic-lined storage system that is either foot-operated or used in such a way that neither the staff member's hand nor the soiled diaper touches an exterior surface of the storage system during disposal.
+6. When cloth diapers are used, a separate leakproof storage system as specified in subdivision 5 of this subsection shall be used for each individual child.
+7. The diapering surface shall be used only for diapering or cleaning children, and it shall be cleaned with soap and at least room temperature water and sanitized after each use. Tables used for children's activities or meals shall not be used for changing diapers.
+8. Individual disposable barriers may be used between each diaper change. If the changing surface becomes soiled, the surface shall be cleaned and sanitized before another child is diapered.
+9. Staff shall ensure the immediate safety of a child during diapering.
+C. Toilet training. For every 10 children in the process of being toilet trained, there shall be at least one toilet chair or one child-sized toilet, or at least one adult sized toilet with a platform or steps and adapter seat.
+1. The location of these items shall allow for sight and sound supervision of children in the classroom if necessary for the required staff-to-children ratios to be maintained.
+2. Toilet chairs shall be emptied promptly and cleaned and sanitized after each use.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-575 derived from Virginia Register Volume 14, Issue 21, eff. September 1, 1998; amended, Virginia Register Volume 21, Issue 12, eff. June 1, 2005; Errata, 21:13 VA.R. 1941 March 7, 2005; amended and renumbered as 22VAC40-185-500, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 21, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-510. Medication.
+A. The decision to administer medicines at a facility may be limited by center policy to administer:
+1. Prescribed medications;
+2. Over-the-counter or nonprescription medications; or
+3. No medications except those required for emergencies or by law.
+B. Prescription and nonprescription medication shall be given to a child:
+1. According to the center's written medication policies; and
+2. Only with written authorization from the parent.
+C. Medication shall be administered by a staff member who is 18 years of age or older.
+D. Nonprescription medication shall be administered by a staff member or independent contractor who meets the requirements in 8VAC20-780-245 J 1 or J 2.
+E. The center's procedures for administering medication shall:
+1. Include any general restrictions of the center.
+2. For nonprescription medication, be consistent with the manufacturer's instructions for age, duration, and dosage.
+3. Include duration of the parent's authorization for medication, provided that it shall expire or be renewed after 10 work days. Long-term prescription drug use and over-the-counter medication may be allowed with written authorization from the child's physician and parent.
+4. Include methods to prevent use of outdated medication.
+F. The medication authorization shall be available to staff during the entire time it is effective.
+G. Medication shall be labeled with the child's name, the name of the medication, the dosage amount, and the time or times to be given.
+H. Nonprescription medication shall be in the original container with the direction label attached.
+I. The center may administer prescription medication that would normally be administered by a parent or guardian to a child provided:
+1. The medication is administered by a staff member or an independent contractor who meets the requirements in 8VAC20-780-245 J;
+2. The center has obtained written authorization from a parent or guardian;
+3. The center administers only those drugs that were dispensed from a pharmacy and maintained in the original, labeled container; and
+4. The center administers drugs only to the child identified on the prescription label in accordance with the prescriber's instructions pertaining to dosage, frequency, and manner of administration.
+J. When needed, medication shall be refrigerated.
+K. When medication is stored in a refrigerator used for food, the medications shall be stored together in a container or in a clearly defined area away from food.
+L. Medication, except for those prescriptions designated otherwise by written physician's order, including refrigerated medication and staff's personal medication, shall be kept in a locked place using a safe locking method that prevents access by children.
+M. If a key is used, the key shall not be accessible to the children.
+N. Centers shall keep a record of medication given children, which shall include the following:
+1. Child to whom medication was administered;
+2. Amount and type of medication administered to the child;
+3. The day and time the medication was administered to the child;
+4. Staff member administering the medication;
+5. Any adverse reactions; and
+6. Any medication error.
+O. Staff shall inform parents immediately of any adverse reactions to medication administered and any medication error.
+P. When an authorization for medication expires, the parent shall be notified that the medication needs to be picked up within 14 days or the parent must renew the authorization. Medications that are not picked up by the parent within 14 days will be disposed of by the center by either dissolving the medication down the sink or flushing it down the toilet.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-580 derived from VR175-08-01 § 7.2, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; Volume 23, Issue 20, eff. July 11, 2007; amended and renumbered as 22VAC40-185-510, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-520. Over-the-counter skin products.
+A. All nonprescription drugs and over-the-counter skin products shall be used in accordance with the manufacturer's recommendations. Nonprescription drugs and over-the-counter skin products shall not be kept or used beyond the expiration date of the product.
+B. If sunscreen is used, the following requirements shall be met:
+1. Written parent authorization noting any known adverse reactions shall be obtained;
+2. Sunscreen shall be in the original container and labeled with the child's name;
+3. Sunscreen does not need to be kept locked but shall be inaccessible to children under five years of age or those children in a therapeutic child day program or special needs child day program;
+4. Any center-kept sunscreen shall be hypo-allergenic and have a minimum SPF of 15;
+5. Staff members without medication administration training may apply sunscreen, unless it is prescription sunscreen, in which case the storing and application of sunscreen must meet medication-related requirements; and
+6. Children nine years of age and older may administer their own sunscreen if supervised.
+C. If diaper ointment or cream is used, the following requirements shall be met:
+1. Written parent authorization noting any known adverse reactions shall be obtained;
+2. These products shall be in the original container and labeled with the child's name;
+3. These products do not need to be kept locked but shall be inaccessible to children;
+4. A record shall be kept that includes the child's name, date of use, frequency of application and any adverse reactions; and
+5. Staff members without medication administration training may apply diaper ointment, unless it is prescription diaper ointment, in which case the storing and application of diaper ointment must meet medication-related requirements.
+D. If insect repellent is used, the following requirements shall be met:
+1. Written parent authorization noting any known adverse reactions shall be obtained;
+2. Insect repellent shall be in the original container and labeled with the child's name;
+3. Insect repellent does not need to be kept locked but shall be inaccessible to children;
+4. A record shall be kept that includes the child's name, date of use, frequency of application and any adverse reactions;
+5. Manufacturer's instructions for age, duration and dosage shall be followed; and
+6. Staff members without medication administration training may apply insect repellent, unless it is prescription insect repellent, in which case the storing and application of insect repellent must meet medication-related requirements.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-585 derived from Virginia Register Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-520, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-530. First aid training and cardiopulmonary resuscitation (CPR).
+A. At least one staff in each classroom or area where children are present shall have, within 90 days of October 13, 2021:
+1. Current certification in cardiopulmonary resuscitation (CPR) as appropriate to the age of the children in care from an organization such as the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council. The training shall include an in-person competency demonstration; and
+2. Current certification in first aid from an organization such as the American Red Cross, American Heart Association, American Safety and Health Institute, or National Safety Council.
+B. CPR and first aid certification training may count toward the annual training hours required in 8VAC20-780-245.
+C. There shall be at least two staff members who meet the requirements of subsection A of this section present on the premises during the center's hours of operation, on fieldtrips, and wherever children are in care.
+D. Primitive camps shall have a staff member on the premises during the hours of operation who has at least current certification in first responder training.
+E. Staff who is a registered nurse or licensed practical nurse with a current license from the Board of Nursing shall not be required to obtain first aid certification.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-590 derived from VR175-08-01 § 7.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-530, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-540. First aid and emergency supplies.
+A. A first aid kit shall be:
+1. On each floor of each building used by children;
+2. Accessible to outdoor play areas;
+3. On field trips; and
+4. Wherever children are in care.
+B. Each first aid kit shall be easily accessible to staff but not to children.
+C. The required first aid kits shall include at a minimum:
+1. Scissors;
+2. Tweezers;
+3. Gauze pads;
+4. Adhesive tape;
+5. Band-aids, assorted types;
+6. An antiseptic cleansing solution /pads;
+7. Thermometer;
+8. Triangular bandages;
+9. Single use gloves such as surgical or examination gloves; and
+10. The first aid instructional manual.
+D. The following emergency supplies shall be required at the center and be available on field trips:
+1. Activated charcoal preparation (to be used only on the direction of a physician or the center's local poison control center); and
+2. An ice pack or cooling agent.
+E. The following nonmedical emergency supplies shall be required:
+1. One working, battery-operated flashlight on each floor of each building that is used by children; and
+2. One working, battery-operated radio in each building used by children and any camp location without a building.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-600 derived from VR175-08-01 § 7.4, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-540, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-550. Procedures for emergencies.
+A. The center shall have a written emergency preparedness plan that addresses staff responsibility and facility readiness with respect to emergency evacuation and relocation, shelter-in-place, and lockdown. The plan, which shall be developed in consultation with local or state authorities, shall include the most likely to occur emergency scenario or scenarios, including fire, severe storms, loss of utilities, natural disaster, chemical spills, intruder, violence at or near the center, terrorism specific to the locality, and other situations, including facility damage that requires evacuation, lockdown, or shelter-in-place.
+B. The emergency preparedness plan shall contain procedural components for:
+1. Sounding of alarms, such as intruder, evacuation, lockdown, and shelter-in-place for tornado or chemical hazards;
+2. Emergency communication to include:
+a. Establishment of center emergency officer and back-up officer to include 24-hour contact telephone number for each;
+b. Notification of local authorities, such as fire and rescue, law enforcement, emergency medical services, poison control, health department, and parents and local media; and
+c. Availability and primary use of communication tools;
+3. Evacuation to include:
+a. Assembly points, methods to account for all children at the assembly point and relocation site, primary and secondary means of egress, and complete evacuation of the buildings;
+b. Securing of essential documents, including attendance records, parent contact information, emergency contact information, and information on allergies or food intolerances;
+c. Methods to ensure any health care needs to include medications and care plans; emergency contact information for staff; and supplies are taken to the assembly point or relocation site;
+d. Method of communication with parents and emergency responders;
+e. Accommodations or special requirements for infants, toddlers, and children with special needs to ensure their safety during evacuation or relocation; and
+f. Procedures to reunite children with a parent or authorized person designated by the parent to pick up the child;
+4. Shelter-in-place to include:
+a. Scenario applicability, such as tornado or chemical spill, inside assembly points, methods to account for all children at the safe locations, and primary and secondary means of access and egress;
+b. Securing of essential documents, including attendance records, parent contact information, emergency contact information, and information on allergies;
+c. Methods to ensure any health care needs to include medications and care plans; emergency contact information for staff; and supplies are taken to the assembly point or relocation site;
+d. Method of communication with parents and emergency responders;
+e. Accommodations or special requirements for infants, toddlers, and children with special needs to ensure their safety during shelter-in-place; and
+f. Procedures to reunite children with a parent or authorized person designated by the parent to pick up the child;
+5. Lockdown, to include:
+a. Facility containment procedures, such as closing of fire doors or other barriers, scenario applicability, assembly points, and methods to account for all children at the safe locations;
+b. Method of communication with parents and emergency responders;
+c. Accommodations or special requirements for infants, toddlers, and children with special needs to ensure their safety during lockdown; and
+d. Procedures to reunite children with a parent or authorized person designated by the parent to pick up the child;
+6. Continuity of operations to ensure that essential functions are maintained during an emergency;
+7. Staff training requirement, drill frequency, and plan review and update; and
+8. Other special procedures developed with local authorities.
+C. Emergency evacuation and shelter-in-place procedures or maps shall be posted in a location conspicuous to staff and children on each floor of each building.
+D. The center shall implement a monthly practice evacuation drill.
+E. Shelter in place procedures shall be practiced a minimum of twice per year.
+F. Lockdown procedures shall be practiced at least annually.
+G. Documentation shall be maintained of emergency evacuation, shelter-in-place, and lockdown drills that includes:
+1. Identity of the person conducting the drill;
+2. The date and time of the drill;
+3. The method used for notification of the drill;
+4. The number of staff participating;
+5. The number of children participating;
+6. Any special conditions simulated;
+7. The time it took to complete the drill;
+8. Problems encountered, if any; and
+9. For emergency evacuation drills only, weather conditions.
+H. The center shall maintain a record of the dates of the practice drills for one year. For centers offering multiple shifts, the simulated drills shall be divided evenly among the various shifts.
+I. A 911 or local dial number for police, fire and emergency medical services and the number of the regional poison control center shall be posted in a visible place at each telephone.
+J. Each camp location shall have an emergency preparedness plan and warning system.
+K. The center shall prepare a document containing local emergency contact information, potential shelters, hospitals, evacuation routes, etc., that pertain to each site frequently visited or of routes frequently driven by center staff for center business such as field trips or pick up or drop off of children to or from schools etc. This document must be kept in vehicles that centers use to transport children to and from the center.
+L. Parents shall be informed of the center's emergency preparedness plan.
+M. Based on local authorities and documented normal ambulance operation, if an ambulance service is not readily accessible within 10 to 15 minutes, other transportation shall be available for use in case of emergency.
+N. The center or other appropriate official shall notify the parent immediately if a child is lost, requires emergency medical treatment, or sustains a serious injury.
+O. The center shall notify the parent by the end of the day of any known minor injuries.
+P. The center shall maintain a written record of children's serious and minor injuries in which entries are made the day of occurrence. The record shall include the following:
+1. Date and time of injury;
+2. Name of injured child;
+3. Type and circumstance of the injury;
+4. Staff present and treatment;
+5. Date and time when parents were notified;
+6. Any future action to prevent recurrence of the injury;
+7. Staff and parent signatures or two staff signatures; and
+8. Documentation on how parent was notified.
+Q. A parent shall be notified immediately of any confirmed or suspected allergic reaction and the ingestion of or contact with any food in the written care plan required in 8VAC20-780-60 A 8 even if a reaction did not occur.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-610 derived from VR175-08-01 § 7.5, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-550, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+Part VIII
+Special Services
+8VAC20-780-560. Nutrition and food services.
+A. Centers shall schedule appropriate times for snacks or meals, or both, based on the hours of operation and time of the day (e.g., a center open only for after school care shall schedule an afternoon snack; a center open from 7 a.m. to 1 p.m. shall schedule a morning snack and midday meal).
+B. The center shall ensure that children arriving from a half-day, morning program who have not yet eaten lunch receive a lunch.
+C. The center shall schedule snacks or meals so that there is a period of at least 1-1/2 hours but no more than three hours between each meal or snack unless there is a scheduled rest or sleep period for children between the meals and snacks.
+D. Drinking water or other beverage not containing caffeine shall be offered at regular intervals to nonverbal children.
+E. In environments of 80°F or above, attention shall be given to the fluid needs of children at regular intervals. Children in such environments shall be encouraged to drink fluids as outlined in subsection D of this section.
+F. When centers choose to provide meals or snacks, the following shall apply:
+1. Centers shall follow the most recent, age-appropriate nutritional requirements of the Child and Adult Care Food Program of the United States Department of Agriculture (USDA).
+2. Children shall be allowed second helpings of food listed in the USDA's child and adult care meal patterns.
+3. Centers offering both meals and snacks shall serve a variety of nutritious foods and shall serve at least three sources of vitamin A and at least three sources of vitamin C on various days each week.
+4. Children three years of age or younger may not be offered foods that are considered to be potential choking hazards.
+5. A menu listing foods to be served for meals and snacks during the current one-week period shall:
+a. Be dated;
+b. Be posted in a location conspicuous to parents or given to parents;
+c. List any substituted food; and
+d. Be kept on file for one week at the center.
+6. Powdered milk shall not be used except for cooking.
+G. When food is brought from home, the following shall apply:
+1. The food container shall be sealed and clearly dated and labeled in a way that identifies the owner;
+2. The center shall have extra food or shall have provisions to obtain food to serve to children so they can have an appropriate snack or meal if they forget to bring food from home, bring an inadequate meal or snack, or bring perishable food; and
+3. Unused portions of opened food shall be discarded by the end of the day or returned to the parent.
+H. If a catering service is used, it shall be approved by the local health department.
+I. Contaminated or spoiled food shall not be served to children.
+J. Tables and high chair trays shall be:
+1. Sanitized before and after each use for feeding; and
+2. Cleaned at least daily.
+K. Children shall be encouraged to feed themselves.
+L. Staff shall sit with children during meal times.
+M. No child shall be allowed to drink or eat while walking around.
+N. Food shall be prepared, stored, and transported in a clean and sanitary manner.
+O. When food is prepared to which a child in care is allergic, staff shall take steps to avoid cross contamination to prevent an allergic reaction.
+P. A child with a diagnosed food allergy shall not be served any food identified in the written care plan required in 8VAC20-780-60 A 8.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-620 derived from VR175-08-01 § 8.1, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-560, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-570. Special feeding needs.
+A. High chairs, infant carrier seats, or feeding tables shall be used for children under 12 months who are not held while being fed.
+1. Children using infant seats or high chairs shall be supervised during snacks and meals.
+2. When a child is placed in an infant seat or high chair, the protective belt shall be fastened securely.
+B. Bottle fed infants who cannot hold their own bottles shall be held when fed. Bottles shall not be propped or used while the child is in his designated sleeping location.
+C. The record of each child on formula shall contain:
+1. The brand of formula; and
+2. The child's feeding schedule.
+D. Infants shall be fed on demand or in accordance with parental instructions.
+E. Prepared infant formula shall be refrigerated, dated and labeled with the child's name.
+F. Heated formula and baby food shall be stirred or shaken and tested for temperature before serving to children.
+G. Milk, formula or breast milk shall not be heated or warmed directly in a microwave. Note: Water for warming milk, formula, or breast milk may be heated in a microwave.
+H. Prepared baby food not consumed during that feeding by an infant may be used by that same infant later in the same day, provided that the food is not served out of the baby jar and is dated and stored in the refrigerator; otherwise, it shall be discarded or returned to the parent at the end of the day. Formula or breast milk shall not remain unrefrigerated for more than two hours and may not be reheated.
+I. A one-day's emergency supply of disposable bottles, nipples, and commercial formulas appropriate for the children in care shall be maintained at the center.
+J. Breastfeeding shall be permitted.
+K. Staff shall feed semisolid food with a spoon unless written instructions from a physician or physician's designee state differently.
+L. For therapeutic child day programs and special needs child day programs, the consistency of food shall be appropriate to a child's special feeding needs. Necessary and adaptive feeding equipment and feeding techniques shall be used for children with special feeding needs.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-630 derived from VR175-08-01 § 8.2, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-570, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-580. Transportation and field trips.
+A. If the center provides transportation, the center shall be responsible from the time the child boards the vehicle until returned to the parents or person designated by the parent.
+B. Any vehicle used by the center for the transportation of children shall meet the following requirements:
+1. The vehicle shall be manufactured for the purpose of transporting people seated in an enclosed area;
+2. The vehicle's seats shall be attached to the floor;
+3. The vehicle shall be insured with at least the minimum limits established by Virginia state statutes;
+4. The vehicle shall meet the safety standards set by the Department of Motor Vehicles and shall be kept in satisfactory condition to assure the safety of children; and
+5. If volunteers supply personal vehicles, the center is responsible for ensuring that the requirements of this subsection are met.
+C. The center shall ensure that during transportation of children:
+1. Virginia state statutes about safety belts and child restraints are followed as required by §§ 46.2-1095 through 46.2-1100 of the Code of Virginia, and stated maximum number of passengers in a given vehicle is not exceeded;
+2. The children remain seated and each child's arms, legs, and head remain inside the vehicle;
+3. Doors are closed properly and locked unless locks were not installed by the manufacturer of the vehicle;
+4. At least one staff member or the driver always remains in the vehicle when children are present;
+5. The following information is in transportation vehicles:
+a. Emergency numbers as specified in 8VAC20-780-550 I and K;
+b. The center's name, address, and phone number;
+c. A list of the names of the children being transported; and
+d. Allergy care plan and information as specified in 8VAC20-780-60 A 7 and A 8; and
+6. Staff who transport children shall be 18 years of age or older.
+D. When entering and leaving vehicles, children shall enter and leave the vehicle from the curb side of the vehicle or in a protected parking area or driveway.
+E. Children shall cross streets at corners or crosswalks or other designated safe crossing point if no corner or crosswalk is available.
+F. The staff-to-children ratios of 8VAC20-780-350 B and 8VAC20-780-355 shall be followed on all field trips. The staff-to-children ratios need not be followed during transportation of school age children to and from the center. One staff member or adult is necessary in addition to the driver when 16 or more preschool or younger children are being transported in the vehicle.
+G. The center shall make provisions for providing children on field trips with adequate food and water.
+H. If perishable food is taken on field trips, the food shall be stored in insulated containers with ice packs to keep the food cold.
+I. Before leaving on a field trip, a schedule of the trip's events and locations shall be posted and visible at the center site.
+J. There shall be a communication plan between center staff and staff who are transporting children or on a field trip.
+K. Staff shall verify that all children have been removed from the vehicle at the conclusion of any trip.
+L. Parental permission for transportation and field trips shall be secured before the scheduled activity.
+M. If a blanket permission is used instead of a separate written permission, the following shall apply:
+1. Parents shall be notified of the field trip; and
+2. Parents shall be given the opportunity to withdraw their children from the field trip.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-640 derived from VR175-08-01 § 8.3, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-580, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021; Volume 38, Issue 2, eff. October 13, 2021.
+8VAC20-780-590. Transportation for nonambulatory children.
+A. For therapeutic child day programs and special needs child day programs providing transportation, nonambulatory children shall be transported in a vehicle which is equipped with a ramp or hydraulic lift to allow entry and exit.
+B. Wheelchairs shall be equipped with restraining devices and shall be securely fastened to the floor when used to seat children in a vehicle.
+C. Arrangements of wheelchairs in a vehicle shall not impede access to exits.
+D. For therapeutic child day programs and special needs child day programs, when the center is responsible for providing transportation, the center shall develop a plan based on the needs of the children in care to assure their safe supervision during on-loading, off-loading and transporting.
+E. When 16 or more children are being transported, there shall be at least one center aide or adult besides the driver, for each group of 16.
+F. For therapeutic child day programs and special needs child day programs, if a child has a known seizure disorder or neurological, genetic or physiological disability causing increased medical risk and that child is being transported, one center aide or adult who is not the driver and who is trained in CPR shall be present in the vehicle.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-650 derived from VR175-08-01 § 8.4, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998;Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-590, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-600. Animals and pets.
+A. Animals that are kept on the premises of the center shall be vaccinated, if applicable, against diseases which present a hazard to the health or safety of children.
+B. Animals which are, or are suspected of being, ill or infested with external lice, fleas and ticks or internal worms shall be removed from contact with children.
+C. If a child is bitten by an animal, an attempt shall be made to confine the animal for observation or laboratory analysis for evidence of rabies.
+D. The site of the bite shall be washed with soap and water immediately, and the child's physician or local health department shall be contacted as soon as possible for medical advice.
+E. The center shall report the animal bite incident to the local health department.
+F. Manure shall be removed from barns, stables and corrals at least once a day and stored and disposed of in a manner to prevent the breeding of flies.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-660 derived from VR175-08-01 § 8.5, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-600, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; renumbered Volume 37, Issue 24, eff. July 1, 2021.
+8VAC20-780-610. Evening and overnight care.
+A. For evening care, beds with mattresses or cots with at least one inch of dense padding shall be used by children who sleep longer than two hours and are not required to sleep in cribs.
+Exception: Camps providing evening care on an occasional basis are not required to meet the requirements of this subsection if sleeping bags or cots are used.
+B. For overnight care, beds with mattresses or cots with at least two inches of dense padding shall be used by children who are not required to sleep in cribs.
+Exception: Camps providing overnight care on an occasional basis are not required to meet the requirements of this subsection if sleeping bags or cots are used.
+C. For overnight care which occurs for a child on a weekly or more frequent basis, beds with mattresses shall be used.
+D. In addition to 8VAC20-780-450 about linens, bedding appropriate to the temperature and other conditions of the rest area shall be provided.
+E. For evening and overnight care, separate sleeping areas shall be provided for children of the opposite sex eight years of age or older.
+F. If sleeping bags are used, 8VAC20-780-440 A through E about rest furnishings shall also apply to the use of sleeping bags.
+G. Camps may use bunk beds if children are at least eight years of age.
+H. In centers providing overnight care, an operational tub or shower with heated and cold water shall be provided.
+Exception: Primitive camps are not required to have a tub or shower.
+I. When bath towels are used, they shall be assigned for individual use.
+J. Activities for children in evening or overnight care shall include, as time allows, age-appropriate activities as described in 8VAC20-780-360 through 8VAC20-780-390.
+K. Quiet activities shall be available immediately before bedtime.
+L. For children receiving evening or overnight care, the provider shall offer an evening snack.
+Statutory Authority
+§§ 22.1-16 and 22.1-289.046 of the Code of Virginia.
+Historical Notes
+Former 22VAC15-30-670 derived from VR175-08-01 § 8.6, eff. November 1, 1993; amended, Virginia Register Volume 12, Issue 4, eff. March 1, 1996; Volume 14, Issue 21, eff. September 1, 1998; Volume 21, Issue 12, eff. June 1, 2005; amended and renumbered as 22VAC40-185-610, Virginia Register Volume 29, Issue 1, eff. November 1, 2012; amended and renumbered Volume 37, Issue 24, eff. July 1, 2021.
+Forms (8VAC20-780)
+Documents Incorporated by Reference (8VAC20-780)
+F406-02 ASTM Standard Consumer Safety Specification for Non-Full-Size Baby Cribs/Play Yards, October 2003.
+F1292-99 ASTM Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment, August 10, 1999.
+"Selecting Playground Surface Materials: Guidelines for Selecting the Best Surface Material for Your Playground," National Program for Playground Safety, University of Northern Iowa, February 2004.
+Air Quality Color Code Chart, Virginia Department of Environmental Quality, April 2004.
+

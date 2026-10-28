@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "fire_drills",
+      "original": "Fire drills are held every month, and we keep a record of each one.",
+      "planted": "Fire drills are held twice a year, in the spring and fall, and we keep a record of each one.",
+      "why": "10A NCAC 09 .0604(t) requires fire drills to be practiced monthly, with records maintained; two drills a year falls far short."
+    },
+    {
+      "item_id": "safe_sleep_sitting_devices",
+      "original": "A baby who falls asleep in a car seat, swing, stroller, or bouncy seat is moved to a crib right away.",
+      "planted": "A baby who dozes off in a swing or car seat may finish the nap there as long as a teacher can see her.",
+      "why": "10A NCAC 09 .0606(a)(10) prohibits infants 12 months or younger from sleeping in sitting devices such as car safety seats, strollers, swings, and infant carriers, and requires an infant who falls asleep in one to be moved to a crib, bassinet, play pen, mat, or cot."
+    },
+    {
+      "item_id": "release_authorized_only",
+      "original": "We release children only to the people you list on your child's enrollment application.",
+      "planted": "If someone who is not on your enrollment application needs to pick up your child, just call us and we will release your child to that person after checking a photo ID.",
+      "why": "10A NCAC 09 .0801(c) says administrators and staff shall release a child only to an individual listed on the application; a phone call does not add someone to the signed application."
+    },
+    {
+      "item_id": "beverages_limited",
+      "original": "We serve water, breast milk or formula, unflavored whole milk for children 12 to 23 months, unflavored low-fat or skim milk for children 2 and older, and no more than 6 ounces of 100% fruit juice per day.",
+      "planted": "We serve water, breast milk or formula, unflavored whole milk for children 12 to 23 months, unflavored low-fat or skim milk for children 2 and older, and up to 12 ounces of 100% fruit juice per day.",
+      "why": "10A NCAC 09 .0901(f)(7) limits 100 percent fruit juice to 6 ounces per day for all ages; 12 ounces doubles the limit."
+    },
+    {
+      "item_id": "screen_time_under_three",
+      "original": "We do not use TV, videos, tablets, or computers with children under 3.",
+      "planted": "Toddlers and twos may watch a short educational video, about 20 minutes, after lunch.",
+      "why": "10A NCAC 09 .0510(f) prohibits screen time, including television, videos, video games, and computer use, for children under three years of age; toddlers and twos are under three."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "cleaning_schedule",
+      "text": "## Cleaning Schedule\n\n- **Daily:** Wash and sanitize tables before and after meals, diaper-changing tables after each use, toilets, sinks, and high chairs. Sanitize mouthed toys. Sweep and mop floors, vacuum rugs, and empty trash.\n- **Weekly:** Sanitize cribs, cots, and mats, and launder cot sheets and blankets (sooner if soiled). Clean cubbies, refrigerators, and door handles.\n- **Monthly:** Deep-clean carpets, wash walls and windows, clean storage shelves, and scrub outdoor toys."
+    },
+    {
+      "item_id": "smoking_restriction_notice",
+      "text": "## Smoke-Free and Tobacco-Free Center\n\nDogwood Lantern is completely smoke-free and tobacco-free. No one may smoke or use tobacco products, including e-cigarettes, cigars, smokeless tobacco, or hookah, anywhere on our property or during any outing. Signs are posted at each entrance, and this handbook is our written notice of this rule to every family."
+    },
+    {
+      "item_id": "supplemental_food_opt_out",
+      "text": "## Opting Out of Center Food\n\nYou may choose to send all of your child's meals, snacks, and drinks from home instead of eating the food we provide. To opt out, you will sign a statement acknowledging your decision; we keep it in your child's file and give you a copy. Opting out applies to all meals and snacks, not to specific days or menu items. If a meal or snack is not sent, we will serve one from our menu."
+    }
+  ]
+}

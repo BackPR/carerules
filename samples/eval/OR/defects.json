@@ -1,0 +1,48 @@
+{
+  "conflicts": [
+    {
+      "item_id": "rule_ratios_table_3a",
+      "original": "In the Fern Room, two teachers care for no more than 10 toddlers, which keeps us at one teacher for every five children.",
+      "planted": "In the Fern Room, two teachers care for up to 14 toddlers, which keeps us at one teacher for every seven children.",
+      "why": "OAR 414-305-0400(6)(a), Table 3A: children 24 to 36 months require at least 1 staff to 5 children with a maximum group size of 10; 1:7 in a group of 14 exceeds both."
+    },
+    {
+      "item_id": "rule_emergency_drills",
+      "original": "We practice a fire evacuation drill every month, and every other month we also practice another part of our plan, such as an earthquake drill, shelter-in-place, or lockdown.",
+      "planted": "We practice a fire evacuation drill every three months, and once a year we also practice another part of our plan, such as an earthquake drill, shelter-in-place, or lockdown.",
+      "why": "OAR 414-305-0210(6): evacuation drills must be practiced monthly and one other aspect of the emergency plan every other month; quarterly and yearly is too infrequent."
+    },
+    {
+      "item_id": "rule_medication_permission",
+      "original": "Before we give any medicine, prescription or over-the-counter, you must complete and sign a dated medication authorization form for that medicine.",
+      "planted": "Before we give any medicine, prescription or over-the-counter, simply tell your child's teacher at drop-off what to give and when; no form is needed.",
+      "why": "OAR 414-305-1030(1)(a): before giving any prescription or non-prescription medication the center must have a signed, dated, written parent authorization on file (phone consent is allowed only for a single dose of non-prescription medicine, signed at pickup)."
+    },
+    {
+      "item_id": "rule_abuse_report_immediate",
+      "original": "Every staff member is a mandatory reporter and must report any suspicion of abuse or neglect immediately to the Oregon Child Abuse Hotline (1-855-503-7233), DHS Child Welfare, or law enforcement.",
+      "planted": "Staff members who suspect abuse or neglect bring their concern to the director, who decides whether a report to the Oregon Child Abuse Hotline (1-855-503-7233) is needed.",
+      "why": "OAR 414-305-0270(3): any staff member who has reason to believe a child has been abused or neglected must personally report immediately to the Oregon Child Abuse Hotline, DHS Child Welfare, or law enforcement; routing it through the director, who may decide not to report, violates this."
+    },
+    {
+      "item_id": "rule_safe_sleep_back",
+      "original": "Infants are always placed on their backs to sleep, on the firm, flat mattress of their own crib.",
+      "planted": "Infants are placed to sleep on their back, side, or tummy, whichever you tell us your baby prefers, on the firm, flat mattress of their own crib.",
+      "why": "OAR 414-305-0630(1)(b): infants must be placed on their backs to sleep; alternative sleep positions require a CCLD-approved exception with a physician's medical reason (0630(2)), not parent preference."
+    }
+  ],
+  "removals": [
+    {
+      "item_id": "policy_suspension_expulsion",
+      "text": "## Keeping Every Child Enrolled\n\nOur goal is for every child to stay with us. When a teacher has ongoing concerns about a child's behavior, or right after any unsafe incident, the teacher asks the director for support. The director responds within one business day by observing, adjusting routines or staffing, and coaching the teacher, and may add visual schedules or a support plan.\n\nIf those steps aren't enough, we request help from Every Child Belongs, Oregon's free program that helps centers support young children, and at the same time invite you to an in-person conference to plan together. We document the behaviors, triggers, and strategies tried. A temporary safety-based break from care is used only for serious safety threats and ends as soon as supports are in place."
+    },
+    {
+      "item_id": "policy_visitor_access",
+      "text": "## Visitors\n\nVisitors such as repair workers, vendors, and student observers sign our visitor log with their name, reason for visiting, and times in and out. Any adult who is not enrolled in the Central Background Registry is always accompanied by a staff member and is never alone with children."
+    },
+    {
+      "item_id": "policy_safety_portal",
+      "text": "You can also look up information about any child care provider, including us, on Oregon's child care safety portal."
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+ "state": "DC",
+ "rulebook": "OSSE Final Rulemaking, Licensing of Child Development Facilities (Dec. 2016, full text)",
+ "items": [
+  {
+   "id": "infant_formula_discard",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "After each feeding, unused formula must be discarded within one hour and unused breast milk must be discarded if less than one ounce, otherwise returned to the parent.",
+   "section": "156.2(i)",
+   "page": 28,
+   "quote": "After each feeding, discard any unused: (1) Formula within one hour of feeding; and (2) Breast milk, if less than one ounce, otherwise return remaining breast milk to the parent(s) or guardian(s);"
+  },
+  {
+   "id": "osse_public_list",
+   "topic": "complaints and licensing contact",
+   "kind": "rule",
+   "requirement": "OSSE maintains and makes available to the public by electronic means a list of licensed Facilities with monitoring dates, results, corrective actions, substantiated complaints, and deaths, serious injuries, or substantiated abuse.",
+   "section": "111.9",
+   "page": 51,
+   "quote": "OSSE shall maintain and make available to the public by electronic means, a list of all of the Facilities licensed that includes the following information for each licensed Facility:"
+  },
+  {
+   "id": "no_unattended_children",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Children shall not be left alone in any room, outdoors, or in vehicles, even momentarily, without staff present.",
+   "section": "120.4",
+   "page": 61,
+   "quote": "Children shall not be left alone in any room, outdoors, or in vehicles, even momentarily, without staff present."
+  },
+  {
+   "id": "supervision_all_times",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Children shall be supervised while at the Facility by responsible staff and volunteers who can see and hear them at all times.",
+   "section": "120.1",
+   "page": 61,
+   "quote": "Children shall be supervised while at the Facility by responsible staff and volunteers who can see and hear the children supervised at all times including but not limited to when they are napping or sleeping, on the playground, on field trips, on vehicular and non-vehicular excursions, and during all water activities and water play activities."
+  },
+  {
+   "id": "staff_assigned_group",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A staff member must be assigned to supervise specific children, know their names and whereabouts, be physically present, and state how many are in care.",
+   "section": "120.5",
+   "page": 61,
+   "quote": "A staff member shall be assigned to supervise specific children whose names and whereabouts the staff member shall know and with whom the staff member shall be physically present. Staff shall be able to state how many children are in their care at all times."
+  },
+  {
+   "id": "center_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Centers must maintain specified adult-to-child ratios and maximum group sizes by age.",
+   "section": "121.3(a)",
+   "page": 62,
+   "quote": "A licensed Child Development Facility (“Licensee”) shall maintain the adult-to-child ratios and group sizes as specified herein:"
+  },
+  {
+   "id": "ratios_all_times",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Minimum adult-to-child ratios must be met at all times, including non-peak hours, nap or rest periods, and vehicles during transport.",
+   "section": "121.2",
+   "page": 62,
+   "quote": "Minimum adult-to-child ratios shall be met at all times, including non-peak hours, during nap or rest periods, and in vehicles during transport."
+  },
+  {
+   "id": "two_staff_per_group",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Child Development Centers must have at least two staff members supervising each group at all times.",
+   "section": "121.8",
+   "page": 63,
+   "quote": "Child Development Centers shall have at least two (2) staff members supervising each group at all times."
+  },
+  {
+   "id": "fire_drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A center must perform fire drills at least monthly and maintain a written log.",
+   "section": "122.24",
+   "page": 68,
+   "quote": "A Licensee shall perform fire drills, at least monthly, with a written log of the fire drills maintained at the Child Development Facility."
+  },
+  {
+   "id": "written_policies_available",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A center must establish and implement written policies and procedures, keep them current, make them available to parents, and use them to govern operations.",
+   "section": "127.3",
+   "page": 78,
+   "quote": "A Licensee shall establish and implement written policies and procedures which shall be kept current and made available to the parent(s) and guardian(s) and used to govern the operations of the Facility."
+  },
+  {
+   "id": "enrollment_admission_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Written policies must describe enrollment and admission requirements, including parents' responsibilities for supplying needed information and escorting the child.",
+   "section": "127.4(b)",
+   "page": 78,
+   "quote": "A description of enrollment and admission requirements s specifying the parent(s)’ or guardian(s)’ responsibilities for supplying needed information to the Facility and escorting the child to and from the Facility;"
+  },
+  {
+   "id": "fees_payment_policy",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "Written policies must include a fee and payment schedule specifying standard fees, absence and vacation fees, and other charges such as transportation and late fees.",
+   "section": "127.4(c)",
+   "page": 78,
+   "quote": "A fee and payment schedule specifying the standard fees, fees related to absences and vacations and other charges and fees such as transportation and late fees;"
+  },
+  {
+   "id": "hours_closings_policy",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "Written policies must describe services provided, ages served, days and times of operation, and days and times the Facility is closed.",
+   "section": "127.4(a)",
+   "page": 78,
+   "quote": "A description of services to be provided, specifying the ages of children to be served, days and times of operation, and days and times that the Facility is closed;"
+  },
+  {
+   "id": "transport_fieldtrip_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Written policies must describe the Facility's transportation and field trip services.",
+   "section": "127.4(d)",
+   "page": 78,
+   "quote": "A description of the Facility’s transportation and field trip services;"
+  },
+  {
+   "id": "medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Written policies must describe procedures for administering prescription and non-prescription medication and notifying parents of noticeable adverse reactions.",
+   "section": "127.4(e)",
+   "page": 78,
+   "quote": "A description of the Facility’s procedures for administering medication, both prescription and non-prescription, and notifying parent(s) and guardian(s) of noticeable adverse reactions to medications;"
+  },
+  {
+   "id": "illness_exclusion_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Written policies must describe procedures for notifying parents when a child is ill or injured and the policy for excluding sick children.",
+   "section": "127.4(f)",
+   "page": 78,
+   "quote": "A description of the Facility’s procedure for notifying parent(s) and guardian(s) when their child is ill or injured, and the Facility’s policy regarding the exclusion of sick children;"
+  },
+  {
+   "id": "communicable_disease_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Written policies must describe procedures for notifying parents when a child, employee, or volunteer has a communicable disease.",
+   "section": "127.4(g)",
+   "page": 78,
+   "quote": "A description of the Facility’s procedure for notifying parent(s) and guardian(s) when a child, employee, or volunteer at the Facility has a communicable disease;"
+  },
+  {
+   "id": "parent_access_all_times",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "A center must provide parents and guardians access to their children at all times while at the Facility.",
+   "section": "127.2",
+   "page": 78,
+   "quote": "A Licensee shall provide parent(s) and guardian(s) with access to their child(ren) at all times while at the Facility."
+  },
+  {
+   "id": "medical_emergency_policy",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Written policies must describe procedures for handling medical emergencies.",
+   "section": "127.4(h)",
+   "page": 79,
+   "quote": "A description of the Facility’s procedure for handling medical emergencies;"
+  },
+  {
+   "id": "meals_food_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Written policies must describe meals and snacks served and guidelines or requirements for food brought by a child.",
+   "section": "127.4(i)",
+   "page": 79,
+   "quote": "A description of meals and snacks served, and guidelines or requirements for food brought by a child to the Facility;"
+  },
+  {
+   "id": "parent_access_policy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Written policies must state that parents have access to all Facility areas used by their child and describe any conditions on that access.",
+   "section": "127.4(j)",
+   "page": 79,
+   "quote": "A statement that parent(s) and guardian(s) have access to all Facility areas used by their child (and a description of any conditions placed on that access);"
+  },
+  {
+   "id": "shaken_baby_policy",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "Written policies must describe procedures for identifying and preventing shaken baby syndrome and abusive head trauma in infants, if applicable.",
+   "section": "127.4(l)",
+   "page": 79,
+   "quote": "The Facility’s procedures for identifying and preventing shaken baby syndrome and abusive head trauma in infants, if applicable;"
+  },
+  {
+   "id": "behavior_management_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Written policies must describe behavior management practices used at the Facility.",
+   "section": "127.4(m)",
+   "page": 79,
+   "quote": "A description of behavior management practices used at the Facility;"
+  },
+  {
+   "id": "safe_sleep_policy",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Written policies must describe safe sleep practices, including back sleeping, no soft items in cribs, appropriate sleep clothing, individual bedding, moving infants to cribs, and no swaddling or positioning devices.",
+   "section": "127.4(p)",
+   "page": 79,
+   "quote": "A description of the safe sleep practices followed by the Center that includes the following information: (1) When setting an infant down to sleep, the infant will be placed on his or her back; (2) No covers or other soft items are allowed in cribs; (3) A description of what constitutes appropriate sleep clothing for infants to be provided by parent or guardian; (4) A statement that individual crib, cot or mat and bedding is provided, and the changing and cleaning practices for these items; (5) A statement that infants who fall asleep in other equipment, on the floor or elsewhere will be moved to a crib to sleep; and (6) A statement that no swaddling or positioning devices will be used at the Facility."
+  },
+  {
+   "id": "provide_policies_copy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "A center must maintain written documentation that it provided parents a copy of the Facility's current policies and procedures.",
+   "section": "127.5",
+   "page": 80,
+   "quote": "A Licensee shall maintain written documentation that the Facility has provided the parent(s) with a copy of the Facility’s current policies and procedures."
+  },
+  {
+   "id": "unusual_incident_notify",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A center must immediately notify OSSE of any unusual incident that may adversely affect the health, safety, or welfare of enrolled children.",
+   "section": "128.1",
+   "page": 80,
+   "quote": "A Licensee shall immediately notify OSSE of any unusual incident that may adversely affect the health, safety, or welfare of any enrolled child or children by submitting a completed OSSE Unusual Incident Report form to OSSE’s Child Care Complaint email address."
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A center must maintain a designation of individuals authorized to receive the child at the end of each session.",
+   "section": "130.2(h)",
+   "page": 85,
+   "quote": "Designation of individuals authorized to receive the child at the end of each session;"
+  },
+  {
+   "id": "parent_disclosure_policy",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "A center must inform parents in writing of the Facility's policy regarding disclosure of information.",
+   "section": "130.10",
+   "page": 88,
+   "quote": "A Licensee shall inform the parent(s) or guardian(s) of all enrolled children, in writing, of the Facility’s policy regarding disclosure of information."
+  },
+  {
+   "id": "confidentiality",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A center must conform to laws protecting a child's confidential information, keep records in a secured location with limited access, and not disclose information except as permitted.",
+   "section": "130.9",
+   "page": 88,
+   "quote": "A Licensee shall conform to applicable Federal and District of Columbia laws and regulations protecting a child’s confidential information, shall keep all confidential records in a secured location with limited access, and shall not disclose information concerning an individual child or the child’s parent(s) or guardian(s) to persons other than the Facility staff or government officials acting in the course of their duties, unless the parent(s) or guardian(s) grant written permission for the disclosure, or unless disclosure is necessary in an emergency situation."
+  },
+  {
+   "id": "record_suspensions_expulsions",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "A center must maintain a record of any suspensions or expulsions for each enrolled child.",
+   "section": "130.7",
+   "page": 88,
+   "quote": "A Licensee shall maintain and provide to OSSE upon request, for each enrolled child, a record of any suspensions or expulsions."
+  },
+  {
+   "id": "separation_brief",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Separation used as discipline must be brief, appropriate to the child's age and development, and the child must remain in the same room as a supervising staff member.",
+   "section": "141.5",
+   "page": 110,
+   "quote": "Separation from other children or planned program activities when used as behavior management or discipline shall be brief in duration and shall be appropriate to the child’s age and developmental level and to the circumstances necessitating the discipline. A separated child shall remain in the same room as a supervising staff member."
+  },
+  {
+   "id": "no_delegation_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Authority to manage behavior or discipline shall never be delegated to another child.",
+   "section": "141.6",
+   "page": 110,
+   "quote": "Authority to manage behavior or discipline shall never be delegated to another child."
+  },
+  {
+   "id": "back_sleeping",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Unless otherwise ordered by a physician or qualified health care practitioner, each infant shall be placed on his or her back for sleeping.",
+   "section": "146.2(a)",
+   "page": 116,
+   "quote": "Unless otherwise ordered by a physician or other qualified health care practitioner, each infant shall be placed on his or her back for sleeping;"
+  },
+  {
+   "id": "no_soft_items",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Soft materials or objects such as pillows, quilts, comforters, sheepskins, blankets, and stuffed toys shall not be permitted in an infant's sleep environment.",
+   "section": "146.2(d)",
+   "page": 116,
+   "quote": "Soft materials or objects, such as pillows, quilts, comforters, sheepskins, blankets, and stuffed toys, shall not be permitted in an infant's sleep environment;"
+  },
+  {
+   "id": "no_propped_bottle",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "An infant shall be removed from his or her crib for all feedings and shall not be fed by means of a propped bottle.",
+   "section": "146.2(g)",
+   "page": 116,
+   "quote": "An infant shall be removed from his or her crib for all feedings, and shall not be fed by means of a propped bottle."
+  },
+  {
+   "id": "medical_sleep_position",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "If there is a medical reason a child cannot sleep on his or her back, the center must obtain a signed statement from the child's health practitioner and keep it in the child's record.",
+   "section": "146.3",
+   "page": 116,
+   "quote": "If there is a medical reason a child cannot sleep on his/her back, then the Licensee shall obtain a signed statement from the child’s health practitioner stating a different sleep position is required. This statement shall remain in the child’s record at the Facility."
+  },
+  {
+   "id": "emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A center must develop and maintain an emergency and disaster plan with procedures for evacuation, relocation, shelter-in-place, lock-down, notifying parents, reuniting, addressing needs, contacting authorities, listing contacts, and posting the plan.",
+   "section": "148.4",
+   "page": 117,
+   "quote": "A Licensee shall develop and maintain an emergency and disaster plan with established procedures for the following:"
+  },
+  {
+   "id": "emergency_plan_parent_info",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "A center must inform and update parents and guardians at least annually about the Facility's emergency and disaster plan.",
+   "section": "148.7",
+   "page": 118,
+   "quote": "A Licensee shall inform and update parents and guardians of enrolled children at least annually about the Facility’s emergency and disaster plan."
+  },
+  {
+   "id": "exclude_symptoms",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child exhibiting specified illness symptoms must be excluded from the Facility.",
+   "section": "151.2",
+   "page": 122,
+   "quote": "A Licensee shall exclude a child from a Facility while exhibiting symptoms of illness including, but not limited to, the following:"
+  },
+  {
+   "id": "notify_parents_illness",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "If staff observe illness symptoms during care, parents must be notified immediately and the child removed within two hours.",
+   "section": "151.1(b)",
+   "page": 122,
+   "quote": "If, during the time a child is at the Facility, the Facility staff observes one (1) or more symptoms of an illness identified in Subsection 151.2, the Licensee shall notify the child’s parent(s) or guardian(s) immediately. A Licensee shall require that the parent(s) or guardian(s) remove the child from the Facility within two (2) hours after the notification was provided;"
+  },
+  {
+   "id": "health_exam_immunization",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must submit complete documentation of a comprehensive physical health examination and up-to-date immunizations before the first day of services and at least annually thereafter.",
+   "section": "152.1",
+   "page": 124,
+   "quote": "A Licensee shall ensure that each child attending a Facility shall, prior to the child’s first day of services and at least annually thereafter, submit to the Facility and to OSSE upon request, appropriate, complete documentation of a comprehensive physical health examination, which shall include evidence of age-appropriate health examinations or screenings and up-to-date immunizations, and, for each child three (3) years of age or older, evidence of an oral health examination."
+  },
+  {
+   "id": "immunization_before_entering",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must be immunized according to 22-B DCMR before entering the Facility, unless exempted.",
+   "section": "152.3",
+   "page": 125,
+   "quote": "Pursuant to D.C. Official Code §§ 38-501 et seq. and 22-B DCMR §§ 130.1 et seq., each child shall be immunized according to the requirements set forth in 22-B DCMR §§ 131-137 before entering the Facility, unless the child is part of a group exempted from this requirement in Subsection 152.10."
+  },
+  {
+   "id": "grace_period_homeless_foster",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A child experiencing homelessness or in foster care has a 60-day grace period from the first day of service to submit required health documentation.",
+   "section": "152.2",
+   "page": 125,
+   "quote": "A Licensee shall provide a sixty (60) day grace period from the first day of service to submit documentation required in Subsection 152.1 for a child experiencing homelessness or a child who is a ward of the District in foster care."
+  },
+  {
+   "id": "annual_exam_grace",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Annual health and oral examinations include a 30-day grace period from the child's birthday or required examination date.",
+   "section": "152.7",
+   "page": 125,
+   "quote": "An enrolled child’s compliance with requirement to have annual health and oral examinations shall include a thirty (30) day grace period from the child’s birthday or date of required annual examination for parents to meet all required health and oral examinations."
+  },
+  {
+   "id": "immunization_grace",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Immunizations include a 10-day grace period from the child's birthday or required annual immunization date.",
+   "section": "152.8",
+   "page": 125,
+   "quote": "An enrolled child’s’ compliance with the requirement to be immunized, shall include a ten (10) day grace period from the child’s birthday or date of required annual immunization for all required immunizations."
+  },
+  {
+   "id": "lead_testing",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Parents of children under six must submit documentation of blood tests for lead poisoning at specified ages.",
+   "section": "152.4",
+   "page": 125,
+   "quote": "In addition to the information otherwise required under this section, each parent or guardian of a child under six (6) years of age attending a Facility shall submit, and the Licensee shall maintain and provide to OSSE upon request, documentation with respect to blood tests for lead poisoning as follows:"
+  },
+  {
+   "id": "immunization_exemptions",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Immunization exemptions are allowed for religious objection or medical condition.",
+   "section": "152.10",
+   "page": 126,
+   "quote": "The following groups are exempted from receiving the immunizations required in Subsection 152.3: (a) Children whose parents object on religious grounds; and (b) Children whose medical condition requires that immunizations not be given or for whom immunization is determined to be not medically advisable."
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may not be administered unless parental permission is documented, a licensed practitioner approved administration and dosage, and the administrator completed approved training or is a licensed nurse or medication technician.",
+   "section": "153.1",
+   "page": 126,
+   "quote": "A Licensee shall not administer medication or treatment to a child in care, with the exception of emergency first aid, whether prescription or non-prescription, unless:"
+  },
+  {
+   "id": "prescription_one_dose_home",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Prescription medication may not be administered unless at least one dose was given to the child at home at a previous date or time.",
+   "section": "153.2",
+   "page": 127,
+   "quote": "A Licensee shall not administer prescription medication to a child unless at least one (1) dose of the medication has been given to the child at home at a previous date or time."
+  },
+  {
+   "id": "medication_log",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Each medication administration must be entered in an OSSE-approved medication log with date, time, medication, dosage, method, and administrator.",
+   "section": "153.5",
+   "page": 127,
+   "quote": "A Licensee shall maintain a medication log, on a form approved by OSSE. Each time medication is administered to a child, a staff person shall enter the date, time of day, medication, medication dosage, method of administration, and the name of the person administering the medication in the medication log."
+  },
+  {
+   "id": "daily_last_dose_statement",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "For each child receiving medication, the center must obtain a daily written statement from the parent indicating when the last dose was administered before arrival.",
+   "section": "153.6",
+   "page": 127,
+   "quote": "For each child for whom medication is administered at the Facility, a Licensee shall obtain a daily written statement from the parent or guardian, indicating when the last dose was administered prior to the child’s arrival to the Facility."
+  },
+  {
+   "id": "nonprescription_topical_consent",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Nonprescription topical ointments may be applied only after written consent from the parent or guardian.",
+   "section": "153.8",
+   "page": 128,
+   "quote": "After receiving written consent from a child’s parent(s) or guardian(s), a Licensee may apply nonprescription topical ointments, including petroleum jelly, diaper rash products, sunscreen, or insect repellent supplied by the child's parent(s) or guardian(s) without prior approval of a licensed health care practitioner."
+  },
+  {
+   "id": "food_allergy_care_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A center must have a written care plan for each child with a food allergy prepared by the parent, guardian, or licensed health care practitioner, including foods to avoid and a treatment plan.",
+   "section": "154.1",
+   "page": 129,
+   "quote": "A Licensee shall have a written care plan for each child with a food allergy prepared for the Facility by the child’s parent(s), guardian(s), or licensed health care practitioner, which shall include:"
+  },
+  {
+   "id": "menus_cacfp",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Planned daily menus and foods actually served must be varied, suitable to ages and development, and consistent with CACFP meal pattern requirements and nutrition standards.",
+   "section": "155.2",
+   "page": 130,
+   "quote": "A Licensee shall ensure that planned daily menus, and the foods that are actually served by the Facility, are varied, suitable to the ages and developmental levels of the children, and consistent with the meal pattern requirements and nutrition standards specified by the Child and Adult Care Food Program."
+  },
+  {
+   "id": "post_menus",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A center must plan and publicly post menus for all foods served, including snacks, modify them as necessary, and maintain them for at least three years.",
+   "section": "155.3",
+   "page": 130,
+   "quote": "A Licensee shall plan and publicly post menus for all foods served, including snacks, and shall modify the menus as necessary to reflect foods actually served. A Licensee shall maintain the menus at the Facility’s premises for at least three (3) years."
+  },
+  {
+   "id": "transport_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Before any child may be transported while under care, the center must obtain signed permission from the child's parent or guardian.",
+   "section": "158.5",
+   "page": 136,
+   "quote": "Before any child may be transported while under the care of a Facility, the Licensee shall obtain signed permission from the child’s parent(s) or guardian(s)."
+  },
+  {
+   "id": "dwi_policy_written",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "A center must advise all parents, guardians, and volunteers in writing of the policy prohibiting persons convicted of DWI or DUI within the previous three years from transporting enrolled children.",
+   "section": "158.12",
+   "page": 137,
+   "quote": "A Licensee shall also prohibit any other person, including a parent, guardian, or volunteer, who has been convicted of a DWI, DUI, or an equivalent offense within the previous three (3) years, from transporting any children (other than their own) who are enrolled at the Facility, by motor vehicle, to or from the Facility, and shall advise all parents, guardians, and volunteers of this policy in writing."
+  },
+  {
+   "id": "restraints",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Each child transported must be properly restrained in an approved child safety restraint system or seat belt.",
+   "section": "158.15",
+   "page": 137,
+   "quote": "A Licensee shall ensure that each child transported in a motor vehicle while under the care of the Facility is properly restrained in an approved child safety restraint system or a seat belt, as required by applicable District of Columbia laws and regulations."
+  },
+  {
+   "id": "no_unattended_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "No child may be left unattended in a vehicle at any time, regardless of conditions.",
+   "section": "158.18",
+   "page": 138,
+   "quote": "A Licensee shall ensure that no child is left unattended in a vehicle at any time, regardless of conditions."
+  },
+  {
+   "id": "firstaid_cpr_in_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "At least one staff member trained and currently certified in First Aid and CPR for children must be present in each vehicle when children are transported.",
+   "section": "158.22",
+   "page": 138,
+   "quote": "A Licensee shall ensure that at least one staff member trained and currently certified in First Aid and CPR for children is present in each vehicle when children are being transported."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "child_abuse_reporting_policy",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "Written policies must include child abuse reporting law requirements.",
+   "section": "127.4(k)",
+   "page": 78,
+   "quote": "The policies and procedures shall be consistent with all applicable Federal and local laws and regulations and shall include, but are not limited to, the following: (k) Child abuse reporting law requirements;"
+  },
+  {
+   "id": "nondiscrimination_policy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Written policies must include a nondiscrimination statement.",
+   "section": "127.4(n)",
+   "page": 78,
+   "quote": "The policies and procedures shall be consistent with all applicable Federal and local laws and regulations and shall include, but are not limited to, the following: (n) Nondiscrimination statement;"
+  },
+  {
+   "id": "infant_toddler_care_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Written policies must describe diapering, toilet training, and feeding procedures if the center is licensed for infant or toddler care.",
+   "section": "127.4(o)",
+   "page": 78,
+   "quote": "If licensed for the care of an infant or toddler, the Facility’s: (1) Diapering procedures; (2) Toilet training procedures; and (3) Feeding procedures;"
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Positive behavior support shall not include physical harm, fear or shaming, derogatory remarks, confinement, force feeding, withholding necessities, or restraints.",
+   "section": "141.4",
+   "page": 109,
+   "quote": "Positive behavior support or discipline shall not include any of the following methods of discipline and the use of any of them by the Licensee, and the staff members, is prohibited:"
+  },
+  {
+   "id": "readmission_written_permission",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child treated for illness symptoms may be readmitted only with written permission and continuing care instructions from a licensed health care practitioner.",
+   "section": "151.4",
+   "page": 123,
+   "quote": "A child who exhibits one (1) or more symptoms of an illness identified in Subsection 151.2, and who has been treated for the symptom(s) by a licensed health care practitioner, may be readmitted to the Facility only with written permission, and written instructions for continuing care if needed, from a licensed health care practitioner."
+  },
+  {
+   "id": "self_administration",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Before a child may self-administer medication, the center must have a physician's written order and parent's written request and establish a written procedure.",
+   "section": "153.12",
+   "page": 128,
+   "quote": "Before a child may self-administer medication while in care, a Licensee shall: (a) Have a written order from the child’s physician and the written request of the child’s parent for the child’s self-administration of medication; and (b) In consultation with the child’s parent, establish a written procedure for self-administration of medication by the child based on the physician’s written order."
+  },
+  {
+   "id": "abuse_neglect_report",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Any staff member who knows or has reasonable cause to suspect abuse or neglect must immediately make an oral report to the CFSA hotline and the Metropolitan Police Department.",
+   "section": "128.5",
+   "page": 81,
+   "quote": "make or cause to be made an immediate oral report to: (a) The Child Protective Services Division of the Child and Family Services Agency (CFSA), via the CFSA twenty-four (24) hour Child Abuse and Neglect Hotline (202-671-SAFE); and (b) The Metropolitan Police Department."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.114,
+ "tokens_in": 206368,
+ "tokens_out": 26205,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

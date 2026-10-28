@@ -1,0 +1,1004 @@
+{
+ "state": "NC",
+ "rulebook": "Chapter 9 Child Care Rules, effective July 1, 2025 (DCDEE)",
+ "items": [
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must be allowed access during operating hours to contact the child or evaluate caregiving space and care, after notifying the on-site administrator.",
+   "section": "10A NCAC 09 .0205",
+   "page": 6,
+   "quote": "The parent of a child enrolled in a child care center shall be allowed access to the center during its operating hours for the purposes of contacting the child or evaluating caregiving space at the center and the care provided by the center for the child. The parent shall notify the on-site administrator of his or her presence upon entering the premises."
+  },
+  {
+   "id": "parent_access_court_orders",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents subject to custody court orders may access the center only in accordance with the court order.",
+   "section": "10A NCAC 09 .0205",
+   "page": 6,
+   "quote": "Parents subject to court orders related to custody of a child enrolled in a child care center shall only be allowed access to the center in accordance with the court order."
+  },
+  {
+   "id": "disqualified_persons",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The operator must not knowingly permit a person convicted of a reportable conviction on the premises.",
+   "section": "10A NCAC 09 .0205",
+   "page": 6,
+   "quote": "The child care operator shall not knowingly permit a person on the premises of a child care center who has been convicted of a \"reportable conviction\" as defined in G.S. 14-208.6(4)."
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child must have an immunization record on file, and children's records must be available for Division review.",
+   "section": "10A NCAC 09 .0302",
+   "page": 8,
+   "quote": "children's records that include an application for enrollment, medical and immunization records, and permission to seek emergency medical care;"
+  },
+  {
+   "id": "records_available",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "All required records must be available at the center during operating hours for Division review.",
+   "section": "10A NCAC 09 .0304",
+   "page": 9,
+   "quote": "Each center shall maintain records as described in 10A NCAC 09 .0302(d) and shall make them available to the Division for review."
+  },
+  {
+   "id": "outdoor_time",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Children must have minimum daily outdoor time when weather conditions permit, based on program hours and ages.",
+   "section": "10A NCAC 09 .0508",
+   "page": 11,
+   "quote": "When children are in care and weather conditions permit, there shall be outdoor time, either as part of a small group, a whole group, or individual activity, for no less than the following durations:"
+  },
+  {
+   "id": "screen_time_preschool",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Screen time for preschool children three and older must stimulate a developmental domain, be limited to 30 minutes per day and 2.5 hours per week, and be documented.",
+   "section": "10A NCAC 09 .0510",
+   "page": 12,
+   "quote": "when screen time is provided on any electronic media device with a visual display, it shall be: (A) offered to stimulate a developmental domain in accordance with the North Carolina Foundations for Early Learning and Development as referenced in Rule .0508 of this Section; (B) limited to 30 minutes per day and no more than a total of two and a half hours per week, per child; and (C) documented on a cumulative log or the activity plan"
+  },
+  {
+   "id": "activity_areas",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Each group must have at least four of the five activity areas available daily, with the fifth available at least monthly.",
+   "section": "10A NCAC 09 .0510",
+   "page": 12,
+   "quote": "For each group of children in care, the center shall provide daily four of the five activity areas listed in G.S. 110-91(12) as follows:"
+  },
+  {
+   "id": "screen_time_under_three",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Screen time is prohibited for children under three years of age.",
+   "section": "10A NCAC 09 .0510",
+   "page": 13,
+   "quote": "Screen time, including television, videos, video games, and computer usage, shall be prohibited for children under three years of age."
+  },
+  {
+   "id": "operating_hours",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must state the days and hours the center operates.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "The operational policies shall include at least the following information: (1) the days and hours the center operates;"
+  },
+  {
+   "id": "age_range_served",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must state the age range of children served.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(2) the age range of the children served;"
+  },
+  {
+   "id": "admission_enrollment",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must describe admission requirements and enrollment procedures.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(3) admission requirements and enrollment procedures;"
+  },
+  {
+   "id": "fees_payment",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The handbook must state parent fees and the payment plan.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(4) parent fees and payment plan;"
+  },
+  {
+   "id": "services_provided",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must describe services provided, such as meals, before and after school care, and transportation.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(5) information about services provided by the center, such as number of meals served, before and after school care, and transportation;"
+  },
+  {
+   "id": "parent_provided_items",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must list any items parents must provide.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(6) items, if any, to be provided by parents;"
+  },
+  {
+   "id": "cleaning_schedule",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must include a schedule of daily, weekly, and monthly cleaning duties.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(7) a schedule of daily, weekly, and monthly cleaning duties;"
+  },
+  {
+   "id": "abuse_reporting_procedures",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must include written procedures for reporting suspected child abuse and neglect.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(8) written procedures for reporting suspected child abuse and neglect;"
+  },
+  {
+   "id": "discipline_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must state the center's discipline policy for behavior management.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(9) the center's discipline policy for behavior management;"
+  },
+  {
+   "id": "parent_participation",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must describe opportunities for parent participation.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(10) a description of opportunities for parent participation; and"
+  },
+  {
+   "id": "nutrition_policies",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The handbook must include nutrition policies.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "(10) a description of opportunities for parent participation; and (11) nutrition policies."
+  },
+  {
+   "id": "policies_given_before_first_day",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Operational policies must be discussed with parents on or before the child's first day and a copy given to parents.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "Operational policies shall be discussed with parents on or before the child's first day of attendance in the center. A copy of the policies shall be given to the parents on or before the child's first day of attendance and the parents shall be notified in writing of all changes in policy."
+  },
+  {
+   "id": "policy_changes_in_writing",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be notified in writing of all policy changes.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "the parents shall be notified in writing of all changes in policy."
+  },
+  {
+   "id": "policies_to_staff",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "Copies of operational policies and changes must be distributed to staff.",
+   "section": "10A NCAC 09 .0514",
+   "page": 14,
+   "quote": "Copies of operational policies and any subsequent changes to those policies shall be distributed to the staff."
+  },
+  {
+   "id": "parent_participation_plan",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must have a plan encouraging parent participation and informing parents about the program and services.",
+   "section": "10A NCAC 09 .0515",
+   "page": 14,
+   "quote": "Each center shall have a plan that will encourage parent participation and inform parents about the program and its services. The plan shall be discussed with parents on or before the child's first day of attendance and shall be posted in the center or a copy shall be given to parents on or before the child's first day of attendance."
+  },
+  {
+   "id": "parent_complaint_procedure",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The parent participation plan must include a procedure for parents who need information or have complaints about the program.",
+   "section": "10A NCAC 09 .0515",
+   "page": 15,
+   "quote": "a procedure for parents who need information or have complaints about the child care program."
+  },
+  {
+   "id": "safe_environment",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "The center must provide a safe indoor and outdoor environment, with equipment in good repair and free of hazards.",
+   "section": "10A NCAC 09 .0601",
+   "page": 15,
+   "quote": "All child care centers shall provide a safe indoor and outdoor environment for the children in care. (b) All equipment and furnishings shall be in good repair."
+  },
+  {
+   "id": "smoking_restriction_notice",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The operator must notify parents in writing of the smoking and tobacco restriction.",
+   "section": "10A NCAC 09 .0604",
+   "page": 16,
+   "quote": "The operator shall notify the parent of each child enrolled in the center, in writing, of the smoking and tobacco restriction."
+  },
+  {
+   "id": "evacuation_crib",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "When non-ambulatory children are in care, a movable crib or other device must be available for evacuation and used during required drills.",
+   "section": "10A NCAC 09 .0604",
+   "page": 16,
+   "quote": "When non-ambulatory children are in care, a crib or other device shall be available for evacuation in case of fire or other emergency. The crib or other device shall be fitted with wheels in order to be moveable, have a reinforced bottom, and shall be able to fit through the designated fire exit."
+  },
+  {
+   "id": "hazardous_items_locked",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Potentially hazardous items must be stored in locked areas, removed, or otherwise inaccessible to children.",
+   "section": "10A NCAC 09 .0604",
+   "page": 16,
+   "quote": "In child care centers, potentially hazardous items, including power tools, nails, chemicals, propane stoves, lawn mowers, and gasoline or kerosene, whether or not intended for use by children, shall be stored in locked areas, removed from the premises, or otherwise inaccessible to children."
+  },
+  {
+   "id": "firearms_prohibited",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Firearms and ammunition are prohibited in a licensed child care center unless carried by a law enforcement officer.",
+   "section": "10A NCAC 09 .0604",
+   "page": 16,
+   "quote": "Firearms and ammunition are prohibited in a licensed child care center unless carried by a law enforcement officer."
+  },
+  {
+   "id": "fire_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire drills must be practiced monthly and records maintained.",
+   "section": "10A NCAC 09 .0604",
+   "page": 17,
+   "quote": "Fire drills shall be practiced monthly and records shall be maintained as required by 10A NCAC 09 .0302(d)(5)."
+  },
+  {
+   "id": "shelter_lockdown_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A shelter-in-place or lockdown drill must be conducted at least every three months, with records maintained.",
+   "section": "10A NCAC 09 .0604",
+   "page": 17,
+   "quote": "A \"shelter in place drill\" or \"lockdown drill\" as defined in 10A NCAC 09 .0102 shall be conducted at least every three months and records shall be maintained as required by 10A NCAC 09 .0302(d)(8)."
+  },
+  {
+   "id": "first_aid_kit",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "A first aid kit must be available on site and accessible to staff, and each staff member must know its location.",
+   "section": "10A NCAC 09 .0604",
+   "page": 17,
+   "quote": "A First Aid kit shall be available on site and accessible to staff. Each staff member shall be aware of the location of the First Aid kit."
+  },
+  {
+   "id": "outdoor_fence",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "The outdoor play area must be protected by a fence at least four feet high.",
+   "section": "10A NCAC 09 .0605",
+   "page": 17,
+   "quote": "The outdoor play area shall be protected by a fence. The height shall be a minimum of four feet and the top of the fence shall be free of protrusions."
+  },
+  {
+   "id": "outdoor_surfacing",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Stationary outdoor equipment more than 18 inches high must be installed over protective surfacing with required depth and fall zones.",
+   "section": "10A NCAC 09 .0605",
+   "page": 17,
+   "quote": "All stationary outdoor equipment more than 18 inches high shall be installed over protective surfacing. Footings which anchor equipment shall not be exposed."
+  },
+  {
+   "id": "safe_sleep_back",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants 12 months or younger must be placed on their backs for sleeping unless a written waiver is on file.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies that caregivers shall place infants aged 12 months or younger on their backs for sleeping, unless: (A) for an infant aged six months or less, the center receives a written waiver of this requirement from a health care professional; or (B) for an infant older than six months, the center receives a written waiver of this requirement from a health care professional, or a parent or a legal guardian;"
+  },
+  {
+   "id": "safe_sleep_no_objects",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "No pillows, wedges, positioners, toys, blankets, bumper pads, quilts, sheepskins, loose bedding, towels, or washcloths may be placed with a sleeping infant 12 months or younger.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies no pillows, wedges or other positioners, pillow-like toys, blankets, toys, bumper pads, quilts, sheepskins, loose bedding, towels and washcloths, or other objects may be placed with a sleeping infant aged 12 months or younger;"
+  },
+  {
+   "id": "safe_sleep_no_swaddling",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children must not be swaddled.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies that children shall not be swaddled;"
+  },
+  {
+   "id": "safe_sleep_temperature",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "The room temperature where infants 12 months or younger sleep must not exceed 75 degrees F.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies that the temperature in the room where infants aged 12 months or younger are sleeping does not exceed 75° F;"
+  },
+  {
+   "id": "safe_sleep_visual_checks",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Caregivers must visually check sleeping infants 12 months or younger in person at least every 15 minutes and document compliance.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies that caregivers shall visually check, in person, sleeping infants aged 12 months or younger at least every 15 minutes;"
+  },
+  {
+   "id": "safe_sleep_alone",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants 12 months or younger must sleep alone in a crib, bassinet, play pen, mat, or cot and not in sitting devices.",
+   "section": "10A NCAC 09 .0606",
+   "page": 19,
+   "quote": "specifies that infants aged 12 months or younger sleep alone in a crib, bassinet, play pen, mat, or cot;"
+  },
+  {
+   "id": "trampolines_prohibited",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Trampolines are prohibited except for supervised use of a mini fitness trampoline for single person use.",
+   "section": "10A NCAC 09 .0605",
+   "page": 19,
+   "quote": "Trampolines shall be prohibited, except for supervised use of a mini fitness trampoline for single person use."
+  },
+  {
+   "id": "inflatables_limited",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Inflatables are prohibited except during special events, with staff able to hear and see all children using them.",
+   "section": "10A NCAC 09 .0605",
+   "page": 19,
+   "quote": "Inflatables shall be prohibited except when used during a special event such as a celebration, festival, party, or family engagement event. A staff member shall be able to hear and see all children using inflatables at all times."
+  },
+  {
+   "id": "playground_safety_training",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "One staff member must complete playground safety training and conduct monthly playground inspections.",
+   "section": "10A NCAC 09 .0605",
+   "page": 19,
+   "quote": "Following completion of playground safety training as required by Rule .1102(e) of this Chapter, a monthly playground inspection shall be conducted by an individual trained in playground safety requirements."
+  },
+  {
+   "id": "safe_sleep_policy_posted",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The center must post its written safe sleep policy in a prominent place in the infant room.",
+   "section": "10A NCAC 09 .0606",
+   "page": 20,
+   "quote": "The center shall post a copy of its safe sleep policy about infant safe sleep practices in a prominent place in the infant room where parents and caregivers are able to view daily."
+  },
+  {
+   "id": "safe_sleep_policy_given",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The safe sleep policy must be given and explained to parents of infants on or before the first day of attendance, with a signed acknowledgement retained.",
+   "section": "10A NCAC 09 .0606",
+   "page": 20,
+   "quote": "A copy of the center's safe sleep policy shall be given and explained to the parents of an infant aged 12 months or younger on or before the first day the infant attends the center. The parent shall sign a statement acknowledging the receipt and explanation of the policy."
+  },
+  {
+   "id": "safe_sleep_policy_amendment",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "Parents must receive written notice of safe sleep policy amendments at least 14 days before implementation.",
+   "section": "10A NCAC 09 .0606",
+   "page": 20,
+   "quote": "If a center amends its safe sleep policy, it shall give written notice of the amendment to the parents of all enrolled infants aged 12 months or younger at least 14 days before the amended policy is implemented."
+  },
+  {
+   "id": "safe_sleep_sitting_devices",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants 12 months or younger are prohibited from sleeping in sitting devices, and infants who fall asleep in them must be moved to a crib, bassinet, play pen, mat, or cot.",
+   "section": "10A NCAC 09 .0606",
+   "page": 20,
+   "quote": "specifies that infants aged 12 months or younger are prohibited from sleeping in sitting devices, including car safety seats, strollers, swings, and infant carriers. Infants that fall asleep in sitting devices shall be moved to a crib, bassinet, play pen, mat, or cot; and"
+  },
+  {
+   "id": "emergency_preparedness_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must have a written Emergency Preparedness and Response Plan addressing natural and man-made disasters, developed after required training.",
+   "section": "10A NCAC 09 .0607",
+   "page": 21,
+   "quote": "Upon completion of the Emergency Preparedness and Response in Child Care training, the trained staff shall develop the Emergency Preparedness and Response Plan. The Emergency Preparedness and Response Plan means a written plan that addresses how a child care center will respond to both natural and man-made disasters"
+  },
+  {
+   "id": "emergency_plan_review",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "All staff must review the Emergency Preparedness and Response Plan during orientation and annually, with documentation maintained.",
+   "section": "10A NCAC 09 .0607",
+   "page": 21,
+   "quote": "All staff shall review the center's Emergency Preparedness and Response Plan during orientation and on an annual basis with the trained staff. Documentation of the review shall be maintained at the center in the individual's personnel file or in a file designated for emergency preparedness and response plan documents."
+  },
+  {
+   "id": "shaken_baby_policy_change",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "Parents must receive written notice of shaken baby policy changes 14 days before implementation.",
+   "section": "10A NCAC 09 .0608",
+   "page": 22,
+   "quote": "If a child care center changes the policy at any time, the child care center shall give written notice of the change to the child's parent 14 days prior to the implementation of the new policy"
+  },
+  {
+   "id": "staff_health_standards",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Staff must meet health standards, including medical reports, TB testing or screening, and health questionnaires, with specified due dates.",
+   "section": "10A NCAC 09 .0701",
+   "page": 22,
+   "quote": "Health and emergency information shall be obtained for staff members as specified in the chart below:"
+  },
+  {
+   "id": "ratio_posted",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The applicable staff-to-child ratio must be posted in each classroom where parents can view it at all times.",
+   "section": "10A NCAC 09 .0713",
+   "page": 27,
+   "quote": "the staff/child ratio applicable to a classroom as described in this Paragraph shall be posted in that classroom in an area that parents are able to view at all times."
+  },
+  {
+   "id": "administrator_on_site",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "A child care administrator must be on site for required weekly hours based on licensed capacity.",
+   "section": "10A NCAC 09 .0714",
+   "page": 28,
+   "quote": "Each child care center shall have a child care administrator who shall be responsible for monitoring the program and overseeing administrative duties of the center. This requirement may be met by having one or more persons on site who meet the requirements for a child care administrator as set forth in G.S. 110-91(8) and according to the licensed capacity of the center."
+  },
+  {
+   "id": "lead_teacher_per_group",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Each group of children must have a lead teacher in attendance for at least two-thirds of total daily operating hours.",
+   "section": "10A NCAC 09 .0714",
+   "page": 28,
+   "quote": "Each group of children shall have a lead teacher in attendance for at least two-thirds of the total daily hours of operation, based on a normal working schedule, and may include times when the lead teacher may not be in attendance due to circumstances such as illness or vacation."
+  },
+  {
+   "id": "release_authorized_only",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff may release a child only to an individual listed on the enrollment application.",
+   "section": "10A NCAC 09 .0801",
+   "page": 29,
+   "quote": "Center administrators and staff shall release a child only to an individual listed on the application."
+  },
+  {
+   "id": "enrollment_application",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Each child must have a completed, signed application for enrollment on file on the first day of attendance.",
+   "section": "10A NCAC 09 .0801",
+   "page": 29,
+   "quote": "Each child in care shall have an individual application for enrollment completed and signed by the child's parent, as defined in 10A NCAC 09 .0102. The completed, signed application shall be on file in the center on the first day the child attends"
+  },
+  {
+   "id": "application_accessible",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Enrollment application information must be accessible to caregiving staff while the child is in care.",
+   "section": "10A NCAC 09 .0801",
+   "page": 29,
+   "quote": "The information contained in Subparagraphs (a)(1) through (a)(7) and Paragraph (b) of this Rule, shall be accessible to caregiving staff during the time the child is in care."
+  },
+  {
+   "id": "emergency_medical_info",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Emergency medical care information must be on file for each child and updated as changes occur and at least annually.",
+   "section": "10A NCAC 09 .0802",
+   "page": 30,
+   "quote": "This emergency medical care information shall be on file in the center on the child's first day of attendance and shall be updated as changes occur and at least annually."
+  },
+  {
+   "id": "emergency_medical_authorization",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A parent must sign a statement authorizing the center to obtain emergency medical care, on file the first day the child attends.",
+   "section": "10A NCAC 09 .0802",
+   "page": 30,
+   "quote": "Each child's parent, legal guardian, or full-time custodian shall sign a statement authorizing the center to obtain medical attention for the child in an emergency. That statement shall be on file on the first day the child attends the center."
+  },
+  {
+   "id": "incident_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "An incident report must be completed each time a child is injured while in care, signed by staff and parent, with a copy to the parent.",
+   "section": "10A NCAC 09 .0802",
+   "page": 30,
+   "quote": "This report shall be signed by the person completing it and by the parent, a copy given to the parent or the parent declining a copy and the report maintained in the child's file."
+  },
+  {
+   "id": "incident_report_to_division",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "If medical treatment is required from an incident in care, a copy of the incident report must be mailed to the Division within seven calendar days.",
+   "section": "10A NCAC 09 .0802",
+   "page": 30,
+   "quote": "When medical treatment is required by a health care professional, community clinic, or local health department as a result of an incident occurring while the child is in care, a copy of the incident report shall be mailed to a representative of the Division within seven calendar days after the incident."
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "No medication may be administered without written parental authorization and written instructions, and prescription medication must be stored in original containers with pharmacy labels.",
+   "section": "10A NCAC 09 .0803",
+   "page": 31,
+   "quote": "No prescription or over-the-counter medication and no topical, non-medical ointment, repellent, lotion, cream, fluoridated toothpaste, or powder shall be administered to any child: (a) without written authorization from the child's parent; (b) without written instructions from the child's parent, physician or other health professional;"
+  },
+  {
+   "id": "medication_documentation",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Each administration of prescription or over-the-counter medication must be recorded with child name, date, time, amount and type, and administrator signature.",
+   "section": "10A NCAC 09 .0803",
+   "page": 32,
+   "quote": "Any time prescription or over-the-counter medication is administered by center personnel to children receiving care, the following information shall be recorded: (a) the child's name; (b) the date the medication was given; (c) the time the medication was given; (d) the amount and the type of medication given; and (e) the name and signature of the person administering the medication."
+  },
+  {
+   "id": "mildly_ill_care_notice",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "Parents must be notified at enrollment if the center provides care for mildly ill children.",
+   "section": "10A NCAC 09 .0804",
+   "page": 33,
+   "quote": "notify all parents at enrollment that the center will be providing care for mildly ill children;"
+  },
+  {
+   "id": "medication_error",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "If medication is administered in error, staff must call 911, notify the director and parent, observe the child, and document the error in the child's file.",
+   "section": "10A NCAC 09 .0803",
+   "page": 33,
+   "quote": "If medication is administered in error, whether administering the wrong dosage, giving to the wrong child, or giving the incorrect type of medicine, the child care center shall: (a) call 911 in accordance with CPR or First Aid training recommendations; (b) notify the center director; (c) contact the child's parent; (d) observe the child; and (e) document the medication error in writing"
+  },
+  {
+   "id": "illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child with listed symptoms or conditions, such as fever thresholds, vomiting, diarrhea, lice, scabies, chicken pox, or strep throat, must be excluded from care.",
+   "section": "10A NCAC 09 .0804",
+   "page": 33,
+   "quote": "Centers may provide care for a mildly ill infant or child older than two months who has a Fahrenheit temperature less than 101 degrees and for infants younger than two months who have a Fahrenheit temperature of less than 100.4 by any method including axillary or orally, so long as the child does not have any of the following:"
+  },
+  {
+   "id": "illness_separation",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child who becomes ill or is suspected of having a communicable disease must be separated from other children until leaving the center.",
+   "section": "10A NCAC 09 .0804",
+   "page": 33,
+   "quote": "separate from the other children any child who becomes ill while in care or who is suspected of having a communicable disease or condition other than as described in Paragraph (a) of this Rule until the child leaves the center;"
+  },
+  {
+   "id": "supplemental_food_opt_out",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "If a parent opts out of supplemental food, the parent must sign a statement acknowledging the decision, kept in the child's file and copied to the parent.",
+   "section": "10A NCAC 09 .0901",
+   "page": 34,
+   "quote": "A child's parent may opt out of the supplemental food provided by the center as set forth in G.S. 110-91(2)h.1. When a child's parent opts out of the supplemental food provided by the center, the parent shall sign a statement acknowledging the parental decision shall be kept in the child's file at the center and a copy provided to the parent."
+  },
+  {
+   "id": "meals_usda_patterns",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals and snacks must comply with USDA Meal Patterns for Children in Child Care Programs.",
+   "section": "10A NCAC 09 .0901",
+   "page": 34,
+   "quote": "Meals and snacks served to children in a child care center shall comply with the Meal Patterns for Children in Child Care Programs from the United States Department of Agriculture (USDA)"
+  },
+  {
+   "id": "menus_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "When food is prepared or provided by the center, a dated copy of the current week's menu must be posted where parents and food staff can see it.",
+   "section": "10A NCAC 09 .0901",
+   "page": 34,
+   "quote": "At least one dated copy of the current week's menu shall be posted where it can be seen by parents and food preparation staff when food is prepared or provided by the center."
+  },
+  {
+   "id": "toileting_hygiene",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Diapers must be changed whenever soiled or wet, not on a shift basis.",
+   "section": "10A NCAC 09 .0806",
+   "page": 34,
+   "quote": "(a) Diapers shall be changed whenever they become soiled or wet and not on a shift basis."
+  },
+  {
+   "id": "special_diets_posted",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children's special diets or food allergies must be posted in the food preparation area and the child's eating area.",
+   "section": "10A NCAC 09 .0901",
+   "page": 35,
+   "quote": "Children's special diets or food allergies shall be posted where they can be seen in the food preparation area and in the child's eating area."
+  },
+  {
+   "id": "beverages_limited",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The center may serve only specified beverages, including water, milk by age, and 100 percent fruit juice limited to 6 ounces per day.",
+   "section": "10A NCAC 09 .0901",
+   "page": 35,
+   "quote": "The child care provider shall serve only the following beverages: (1) breast milk, as specified in Paragraph (k) of this Rule; (2) formula; (3) water; (4) unflavored whole milk, for children ages 12-23 months; (5) unflavored skim or lowfat milk for children 24 months through five years; (6) unflavored skim milk, unflavored low-fat milk, or flavored skim milk for children six years and older; or (7) 100 percent fruit juice, limited to 6 ounces per day, for all ages."
+  },
+  {
+   "id": "infant_feeding_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Each child under 15 months must have an individual written feeding plan provided by the parent or health care provider and followed at the center.",
+   "section": "10A NCAC 09 .0902",
+   "page": 35,
+   "quote": "The parent or health care provider of each child under 15 months of age shall provide the center an individual written feeding plan for the child. This plan shall be followed at the center."
+  },
+  {
+   "id": "meal_frequency",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals and snacks must be provided at least every four hours according to the hours a child is in care.",
+   "section": "10A NCAC 09 .0903",
+   "page": 36,
+   "quote": "Meals and snacks shall be planned according to the number of hours a child is in the center. Children shall be provided a meal or snack a minimum of every four hours."
+  },
+  {
+   "id": "seat_belts",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Each adult and child must be restrained with an individual seat belt or child safety seat appropriate to age or weight when transported.",
+   "section": "10A NCAC 09 .1001",
+   "page": 36,
+   "quote": "When children enrolled in a child care center are being transported, each adult and child shall be restrained with an individual seat belt or child safety seat appropriate to the child's age or weight in accordance with G.S. 20-135.2A"
+  },
+  {
+   "id": "safe_vehicles",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Vehicles used to transport children must be free of hazards and comply with state and federal laws, and be insured for liability.",
+   "section": "10A NCAC 09 .1002",
+   "page": 36,
+   "quote": "Vehicles used to transport children enrolled in child care centers shall be free of hazards such as, but not limited to, torn upholstery that allows children to remove the interior padding, broken windows, holes in the floor or roof, or tire treads of less than 2/32 of an inch."
+  },
+  {
+   "id": "pickup_delivery_posted",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Pick-up and delivery procedures must be communicated to parents and posted where parents can see them.",
+   "section": "10A NCAC 09 .1003",
+   "page": 37,
+   "quote": "Each center shall establish procedures for pick-up and delivery of children to ensure children are protected from danger and not exposed to risk of harm. These procedures shall be communicated to parents, and a copy shall be posted in the center where they can be seen by the parents."
+  },
+  {
+   "id": "transport_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parental permission is required before transporting a child, including when and where, expected times, and provider.",
+   "section": "10A NCAC 09 .1003",
+   "page": 37,
+   "quote": "Before children are transported, written permission from a parent shall be obtained that shall include when and where the child is to be transported, expected time of departure and arrival, and the transportation provider."
+  },
+  {
+   "id": "standing_transport_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents may give standing permission, valid up to 12 months, for routine transport to and from the center.",
+   "section": "10A NCAC 09 .1003",
+   "page": 37,
+   "quote": "Parents may give standing permission, valid for up to 12 months, for transport of children to and from the center not including off premise activities as described in Rule .1005 of this Section."
+  },
+  {
+   "id": "children_not_left_in_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must not be left in a vehicle unattended by an adult.",
+   "section": "10A NCAC 09 .1003",
+   "page": 37,
+   "quote": "Children shall not be left in a vehicle unattended by an adult."
+  },
+  {
+   "id": "off_premise_schedule",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "A current schedule of off-premise activities must be posted in each participating classroom and a copy given to parents.",
+   "section": "10A NCAC 09 .1005",
+   "page": 38,
+   "quote": "The center shall post a schedule of off premise activities in each participating classroom where it can be viewed by parents, and a copy shall be given to parents. The schedule shall be current and shall include the: (A) location of the activity; (B) purpose of the activity; (C) time the activity will take place; (D) date of the activity; and (E) name of the person(s) to be contacted in the event of an emergency."
+  },
+  {
+   "id": "off_premise_under_three",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children under three may not participate in off-premise activities involving motor vehicle transport.",
+   "section": "10A NCAC 09 .1005",
+   "page": 38,
+   "quote": "Children under the age of three shall not participate in off premise activities that involve children being transported in a motor vehicle."
+  },
+  {
+   "id": "off_premise_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parental permission is required before walking children off premises for play or outings.",
+   "section": "10A NCAC 09 .1005",
+   "page": 38,
+   "quote": "Before staff members walk children off premises for play or outings, the center shall obtain written permission from the parent of each child to be included in such activities."
+  },
+  {
+   "id": "standing_off_premise_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents may give standing permission, valid up to 12 months, for regular off-premise activities.",
+   "section": "10A NCAC 09 .1005",
+   "page": 38,
+   "quote": "Parents may provide a written statement giving standing permission which may be valid for up to 12 months for participation in off premise activities that occur on a regular basis."
+  },
+  {
+   "id": "staff_orientation",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "New employees with child contact must receive 16 hours of on-site orientation within the first six weeks, including six hours within the first two weeks.",
+   "section": "10A NCAC 09 .1101",
+   "page": 38,
+   "quote": "Each center shall ensure that each new employee who is expected to have contact with children receives 16 hours of on-site orientation within the first six weeks of employment. As part of this orientation, each new employee shall complete six hours of orientation within the first two weeks of employment."
+  },
+  {
+   "id": "health_safety_training",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Administrators and staff must complete health and safety training within one year of employment, unless completed within the prior year.",
+   "section": "10A NCAC 09 .1102",
+   "page": 39,
+   "quote": "Child care administrators and staff members shall complete health and safety training within one year of employment, unless the staff member has completed the training within the year prior to beginning employment."
+  },
+  {
+   "id": "first_aid_cpr",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Staff who provide direct care or accompany children off premises must complete First Aid and CPR certification appropriate to the ages of children in care.",
+   "section": "10A NCAC 09 .1102",
+   "page": 39,
+   "quote": "All staff who provide direct care or accompany children when they are off premises shall successfully complete certification in First Aid appropriate to the ages of children in care."
+  },
+  {
+   "id": "its_sids_training",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "In centers licensed for infants, the administrator and any provider scheduled in the infant room must complete ITS-SIDS training within two months and every three years.",
+   "section": "10A NCAC 09 .1102",
+   "page": 40,
+   "quote": "In centers that are licensed to care for infants, the child care administrator and any child care provider scheduled to work in the infant room shall complete ITS-SIDS training. ITS-SIDS training shall be completed within two months of an individual assuming responsibilities in the infant room and every three years thereafter."
+  },
+  {
+   "id": "child_maltreatment_training",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "The administrator and all staff must complete Recognizing and Responding to Suspicions of Child Maltreatment training within 90 days of employment.",
+   "section": "10A NCAC 09 .1102",
+   "page": 40,
+   "quote": "The child care administrator and all staff members shall complete Recognizing and Responding to Suspicions of Child Maltreatment training within 90 days of employment."
+  },
+  {
+   "id": "ongoing_training",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "After the first year, administrators and staff with planning, supervising, or child care duties must complete annual on-going training hours based on education and experience.",
+   "section": "10A NCAC 09 .1103",
+   "page": 40,
+   "quote": "After the first year of employment, the child care administrator and any staff who have responsibility for planning and supervising a child care center, and staff who work with children, shall participate in on-going training activities annually"
+  },
+  {
+   "id": "professional_development_plan",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "All administrators and staff must complete a professional development plan within one year of employment and review it annually.",
+   "section": "10A NCAC 09 .1104",
+   "page": 41,
+   "quote": "All center administrators and staff members shall complete a professional development plan within one year of employment and review the plan annually."
+  },
+  {
+   "id": "aquatic_under_three",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children under three may not participate in aquatic activities except as needed for an IFSP or IEP.",
+   "section": "10A NCAC 09 .1403",
+   "page": 44,
+   "quote": "Children under the age of three shall not participate in aquatic activities except to the extent necessary to implement any child's Individualized Family Service Plan (IFSP) or Individualized Education Program (IEP)."
+  },
+  {
+   "id": "space_requirements",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Primary space must provide no more than one child per 25 square feet, and rest periods require at least 200 cubic feet of air space per child.",
+   "section": "10A NCAC 09 .1401",
+   "page": 44,
+   "quote": "No room may be occupied by more than one child per 25 square feet of floor space, provided that a room may be occupied by a larger group of children for special activities so long as such occupancy does not violate the State fire code."
+  },
+  {
+   "id": "outdoor_space",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "The outdoor play area must be at least 75 square feet per child using it at one time and provide shaded areas.",
+   "section": "10A NCAC 09 .1402",
+   "page": 44,
+   "quote": "The outdoor play area shall be no smaller than 75 square feet for each child using the outdoor learning environment at any one time."
+  },
+  {
+   "id": "aquatic_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Written parental permission is required for aquatic activities and must include awareness of aquatic policies.",
+   "section": "10A NCAC 09 .1403",
+   "page": 45,
+   "quote": "Centers shall obtain written permission from parents for participation in aquatic activities. The written permission shall include a statement that parents are aware of the center's aquatic policies specified in Paragraph (g) of this Rule."
+  },
+  {
+   "id": "aquatic_ratios",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Aquatic activities require specified staff-to-child ratios and at least two staff members supervising at all times.",
+   "section": "10A NCAC 09 .1403",
+   "page": 45,
+   "quote": "The following staff/child ratios shall be maintained whenever children participate in aquatic activities: Age of Children Ratio Staff/Children 3 to 4 Years 1/8 4 to 5 Years 1/10 5 Years and Older 1/13 Notwithstanding the staff/child ratios, at no time shall there be fewer than two staff members supervising the aquatic activity."
+  },
+  {
+   "id": "medical_action_plan",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Children with health care needs requiring specialized services must have a medical action plan attached to the application and updated annually.",
+   "section": "10A NCAC 09 .0801",
+   "page": 66,
+   "quote": "For any child with health care needs such as allergies, asthma, or other chronic conditions that require specialized health services, a medical action plan shall be attached to the application. The medical action plan shall be updated on an annual basis and when changes to the plan are made by the child's parent or health care professional."
+  },
+  {
+   "id": "supervision",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Children must be adequately supervised at all times, with staff positioned to hear or see children and render assistance.",
+   "section": "10A NCAC 09 .1801",
+   "page": 75,
+   "quote": "Children shall be adequately supervised at all times in child care centers. Adequate supervision shall mean that: (1) staff must be positioned in the indoor and outdoor environment to maximize their ability to hear or see the children at all times and render assistance;"
+  },
+  {
+   "id": "positive_interactions",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff must interact with children in positive ways, including eye contact, conversation, problem-solving support, and positive reinforcement.",
+   "section": "10A NCAC 09 .1802",
+   "page": 76,
+   "quote": "Staff shall interact with children in positive ways by helping them feel welcome and comfortable, treating them with respect, listening to what they say, responding to them with acceptance and appreciation, and participating in activities with the children."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "No child may be handled roughly or placed in a locked room, closet, or box or left alone separated from staff.",
+   "section": "10A NCAC 09 .1803",
+   "page": 76,
+   "quote": "(1) no child shall be handled roughly in any way, including shaking, pushing, shoving, pinching, slapping, biting, kicking, or spanking; (2) no child shall be placed in a locked room, closet, or box or be left alone in a room separated from staff;"
+  },
+  {
+   "id": "discipline_policy_change",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Parents must receive written notice of discipline policy changes 14 days before implementation, with a signed acknowledgement retained.",
+   "section": "10A NCAC 09 .1804",
+   "page": 77,
+   "quote": "If a center changes its discipline policy at any time, it must give written notice of such a change to the child's parent, guardian, or full-time custodian 14 days prior to the implementation of the new policy."
+  },
+  {
+   "id": "records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Records must be retained for the periods specified, including children's records for as long as enrolled and one year after, and personnel records for at least one year after employment ends.",
+   "section": "10A NCAC 09 .2318",
+   "page": 90,
+   "quote": "All records required in this Chapter shall be maintained for review by representatives of the Division as specified in G.S. 110-91(9), Rule .0304(g) of this Chapter, and as follows:"
+  },
+  {
+   "id": "criminal_background_check",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Child care providers must submit criminal history record check forms and have a valid qualification letter before employment or living in the facility.",
+   "section": "10A NCAC 09 .2703",
+   "page": 106,
+   "quote": "a child care provider, as defined in G.S. 110-90.2, shall submit the following to the Division prior to the issuance of a license or prior to beginning employment:"
+  },
+  {
+   "id": "nc_prek_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "NC Pre-K classrooms may not exceed a 1:10 staff-to-child ratio with a maximum class size of 20, with at least one teacher and one assistant unless 10 or fewer children.",
+   "section": "10A NCAC 09 .3009",
+   "page": 131,
+   "quote": "The classroom shall not exceed a maximum staff-to-child ratio of one to 10 with a maximum class size of 20 children, with at least one teacher and one teacher assistant per classroom. A classroom of 10 children or less is not required to have a teacher assistant."
+  },
+  {
+   "id": "nc_prek_family_engagement",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "NC Pre-K programs must develop a family engagement plan including orientation, conferences, classroom visits, family events, decision-making opportunities, and engagement outside the regular school day.",
+   "section": "10A NCAC 09 .3010",
+   "page": 131,
+   "quote": "NC Pre-K programs shall develop a plan for family engagement consisting of strategies designed to develop partnerships with families that promote shared decision-making opportunities."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "shaken_baby_policy_given",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The shaken baby syndrome and abusive head trauma policy must be given and explained to parents of children up to five years old on or before the first day of care, with a signed acknowledgement retained.",
+   "section": "10A NCAC 09 .0608",
+   "page": "[NC page 22]",
+   "quote": "A copy of the policy shall be given and explained to the parents of newly enrolled children up to five years of age on or before the first day the child receives care at the center. The center shall obtain the parent's signature on a statement acknowledging the receipt and explanation of the policy."
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The center must maintain the required staff-to-child ratios and maximum group sizes by age, including rules for combining ages.",
+   "section": "10A NCAC 09 .0713",
+   "page": "[NC page 26]",
+   "quote": "Age of Children 0 to 12 Months 12 to 24 Months 2 to 3 Years 3 to 4 Years 4 to 5 Years 5 Years and Older Ratio Staff/Children 1/5 1/6 1/10 1/15 1/20 1/25 Maximum Group Size 10 12 20 25 25 25"
+  },
+  {
+   "id": "discipline_policy_enrollment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The discipline policy must be given and explained to parents at enrollment, with a signed acknowledgement retained, and parents notified 14 days before policy changes.",
+   "section": "10A NCAC 09 .1804",
+   "page": "[NC page 77]",
+   "quote": "The person who conducts the enrollment conference shall provide a written copy of and explain the center's discipline policies to each child's parents at the time of enrollment. The child care center shall obtain from each parent, legal guardian, or full-time custodian a statement that attests that a copy of the center's written discipline policies was given to and discussed with him or her."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.1599,
+ "tokens_in": 335284,
+ "tokens_out": 21461,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

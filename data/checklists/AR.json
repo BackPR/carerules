@@ -1,0 +1,464 @@
+{
+ "state": "AR",
+ "rulebook": "Minimum Licensing Requirements for Out-of-School Time Facilities (PDF)",
+ "items": [
+  {
+   "id": "mandated_reporter",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Owners, operators, staff, therapists, and volunteers are mandated reporters and must call Hotline if suspect maltreatment.",
+   "section": "101 Related Laws and Requirements",
+   "page": 7,
+   "quote": "Owners, operators, staff, therapists, and volunteers are mandated reporters of suspected child maltreatment and are required to call the Child Maltreatment Hotline at 1-800-482-5964, if they have reason to suspect child maltreatment."
+  },
+  {
+   "id": "written_child_maltreatment_procedure",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The facility must have a written procedure for reporting suspected child maltreatment and call the Hotline whenever there is suspicion.",
+   "section": "201 Administrative Procedures",
+   "page": 21,
+   "quote": "The facility shall provide a written procedure for reporting suspected of child maltreatment. This procedure shall be followed, and a call made to the Hotline whenever there is a suspicion of child maltreatment (1-800-482-5964)."
+  },
+  {
+   "id": "written_licensing_violation_procedure",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The facility must have a written procedure for reporting suspected licensing violations, including serious violations.",
+   "section": "201 Administrative Procedures",
+   "page": 21,
+   "quote": "The facility shall provide a written procedure for reporting suspected licensing violations. Serious licensing violations shall be reported to the Licensing Unit."
+  },
+  {
+   "id": "parent_interview_notice",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents must be informed in writing upon enrollment that participants may be interviewed by licensing staff, investigators, or law enforcement.",
+   "section": "201 Administrative Procedures",
+   "page": 21,
+   "quote": "Parents shall be informed in writing upon enrollment of their child that participants may be subject to interviews by licensing staff, child maltreatment investigators, or law enforcement officials"
+  },
+  {
+   "id": "ratio_1_18",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The staff-to-participant ratio for kindergarten and above is one staff member for 18 participants.",
+   "section": "301 Staff to Participant Ratio",
+   "page": 21,
+   "quote": "a. Kindergarten and above Number of Staff 1 Number of Children 18"
+  },
+  {
+   "id": "short_term_supervision",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Second grade and above may take short-term activities not within sight or hearing if accompanied by another participant and monitored.",
+   "section": "301 Staff to Participant Ratio",
+   "page": 21,
+   "quote": "Out-of-School Time (OST) participants, second grade and above, may be provided opportunities to take part in short-term activities not within the sight and hearing of OST staff."
+  },
+  {
+   "id": "max_group_size",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Group size is limited to two times the number of children allowed with one staff member.",
+   "section": "302 Maximum Group Size",
+   "page": 22,
+   "quote": "Group size shall be limited to two (2) times the number of children allowed with one (1) staff member."
+  },
+  {
+   "id": "weekly_routine_copy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "A written weekly routine of developmentally appropriate activities must be provided to parents at enrollment.",
+   "section": "401 Program Requirements",
+   "page": 27,
+   "quote": "The Out-of-School Time (OST) Program shall develop a written weekly routine listing developmentally appropriate activities for participants and provide a copy of the routine of weekly activities to parents when they enroll the participants."
+  },
+  {
+   "id": "leave_program_permission",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Written parental permission is required when a school-age participant leaves the program for another activity.",
+   "section": "401 Program Requirements",
+   "page": 28,
+   "quote": "School age participants who leave the OST Program to participate in other activities shall have written permission from the parents naming the activity, date, time of leaving and returning, and method of transportation."
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents must not be denied access to their child at any time during hours of operation.",
+   "section": "401 Program Requirements",
+   "page": 28,
+   "quote": "Parents shall not be denied access to their child and youth at any time during hours of operation."
+  },
+  {
+   "id": "photo_permission",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "Written parental permission is required before photos or video recordings are made of a participant.",
+   "section": "401 Program Requirements",
+   "page": 29,
+   "quote": "Photos or video recordings shall not be made of any participant without prior written permission from the parent or guardian."
+  },
+  {
+   "id": "social_media_photo_permission",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "Written parental permission is required before placing participant photos or videos on social media or websites.",
+   "section": "401 Program Requirements",
+   "page": 29,
+   "quote": "Photos or video recordings of participants shall not be placed on social media or other websites without prior written parental permission."
+  },
+  {
+   "id": "release_authorized_only",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "Staff must not release a participant to anyone not immediately recognized as parent or authorized pickup unless ID is verified.",
+   "section": "401 Program Requirements",
+   "page": 29,
+   "quote": "Staff shall not release a participant to anyone who is not immediately recognized as the participant’s parent or as someone on the authorized pick-up list unless: a. The individual can provide an official picture identification (ID) and; b. The person in charge can match the ID"
+  },
+  {
+   "id": "outdoor_time",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Full-time programs must provide at least one hour of outdoor activity daily in suitable weather; part-day programs at least 30 minutes.",
+   "section": "402 Outdoor Time",
+   "page": 29,
+   "quote": "For full time programs, there shall be a total of at least one (1) hour of outdoor activity time per day in suitable weather. For programs operating part day schedules (five (5) hours per day or less) a minimum of thirty (30) minutes"
+  },
+  {
+   "id": "field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Written parental permission must be on file for each field trip.",
+   "section": "404 Field Trips",
+   "page": 30,
+   "quote": "Written permission from parents shall be on file for each field trip."
+  },
+  {
+   "id": "screen_time",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "No more than 25% of total weekly program hours may allow recreational electronic media use.",
+   "section": "403 Screen Time",
+   "page": 30,
+   "quote": "no more than twenty-five percent (25%) of the program’s total weekly program hours of operation allow participants to engage or use electronic media solely for recreational purposes."
+  },
+  {
+   "id": "field_trip_ratio",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Field trip ratios must be adjusted to 1:9 depending on risk or supervision needs.",
+   "section": "404 Field Trips",
+   "page": 30,
+   "quote": "Ratios shall be adjusted to a 1:9 depending on the risk associated with the field trip activity or to maintain proper supervision of all participants in attendance on the field trip."
+  },
+  {
+   "id": "behavior_guidance_copy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "Behavior guidance practices must be discussed with parents at enrollment, provided in writing, and receipt verified in writing.",
+   "section": "501 Behavior Guidance Requirements",
+   "page": 31,
+   "quote": "Discuss the behavior guidance practices of the OST Program with the parents of each participant at the time of enrollment;"
+  },
+  {
+   "id": "compliance_forms_notice",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "Parents must be advised in writing that licensing compliance forms are available for review upon request.",
+   "section": "601 Record Requirements",
+   "page": 32,
+   "quote": "The facility shall advise parents in writing that the compliance forms are available for review upon request."
+  },
+  {
+   "id": "unacceptable_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Unacceptable behavior guidance measures include physical punishment, mechanical restraint, isolation without supervision, shaming, denying food, and others listed.",
+   "section": "501 Behavior Guidance Requirements",
+   "page": 32,
+   "quote": "The following activities or threats of such activities are unacceptable as behavior guidance measures and shall not be used for participants. These include, but are not limited to the following:"
+  },
+  {
+   "id": "immunization_record",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each participant record must contain an authorized record of up-to-date immunizations or exemption documentation.",
+   "section": "604 Participants’ Records",
+   "page": 34,
+   "quote": "An authorized record of up-to-date immunizations or documentation of a religious, medical, or philosophical exemption from the Arkansas Department of Health (ADH)."
+  },
+  {
+   "id": "nutrition_lunch_snack",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "During all-day operations, lunch and mid-morning and mid-afternoon snacks must be served to each participant.",
+   "section": "701 Nutrition Requirements",
+   "page": 34,
+   "quote": "The Out-of-School Time (OST) Program shall ensure that during all day program operations a lunch and a mid-morning and mid-afternoon snack is served to each participant."
+  },
+  {
+   "id": "milk_served",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Milk must be served to each participant during the day, except allergy substitutions with written instructions.",
+   "section": "701 Nutrition Requirements",
+   "page": 35,
+   "quote": "Milk shall be served to each participant during the day. Exceptions may be made for participants who suffer allergies to milk. The facility shall obtain written instructions for allergy substitutions."
+  },
+  {
+   "id": "space_25_sqft",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Indoor activities require 25 square feet per participant of usable floor space, excluding bathrooms, kitchen, hallways.",
+   "section": "801 Building Requirements",
+   "page": 36,
+   "quote": "Twenty-five (25) square feet per participant of usable floor space shall be required for indoor activities. This does not include bathrooms, kitchen, and hallways."
+  },
+  {
+   "id": "playground_75_sqft",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Play area must provide at least 75 square feet per child present.",
+   "section": "901 Layout and Design",
+   "page": 38,
+   "quote": "The play area and outdoor learning area shall be fenced or otherwise enclosed and provide at least seventy-five (75) square feet per child present on the playground at any time."
+  },
+  {
+   "id": "no_trampolines",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Trampolines shall not be used, except therapeutic one-on-one supervised use.",
+   "section": "902 General Hazards",
+   "page": 39,
+   "quote": "Trampolines shall not be used. (Therapeutic use of trampolines is acceptable if supervised by the therapist on a one-on-one basis.)"
+  },
+  {
+   "id": "no_wading_pools",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Wading pools shall not be used; sprinklers and water play are not prohibited.",
+   "section": "902 General Hazards",
+   "page": 39,
+   "quote": "Wading pools shall not be used. This does not prohibit the use of sprinklers and water play."
+  },
+  {
+   "id": "helmet_use",
+   "topic": "safety",
+   "kind": "rule",
+   "requirement": "Participants must wear properly fitted approved helmets while riding bicycles, skates, skateboards, roller blades, and scooters.",
+   "section": "902 General Hazards",
+   "page": 39,
+   "quote": "All participants shall wear properly fitted and approved helmets while riding on bicycles and when using roller skates, skate boards, roller blades, and scooters."
+  },
+  {
+   "id": "sleeping_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Each participant in care during rest time must have labeled individual cot or mat, bottom sheet, and adequate cover.",
+   "section": "1002 Sleeping Equipment",
+   "page": 42,
+   "quote": "There shall be a labeled individual cot or mat, bottom sheet, and adequate cover for each participant in care during rest time."
+  },
+  {
+   "id": "illness_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Participants with listed contagious or infectious symptoms or diseases must be temporarily excluded from care.",
+   "section": "1101 General Health Requirements",
+   "page": 43,
+   "quote": "The caregiver shall temporarily exclude the participant from care if the participant has:"
+  },
+  {
+   "id": "sleeping_distance",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Sleeping equipment must be kept at least one foot apart.",
+   "section": "1002 Sleeping Equipment",
+   "page": 43,
+   "quote": "All sleeping equipment shall be kept at least one foot (1') apart to prevent cross-contamination and ease of access in an emergency."
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Medication may be given only with signed parental permission including date, type, drug name, time, dosage, length, and purpose.",
+   "section": "1101 General Health Requirements",
+   "page": 44,
+   "quote": "Medication shall be given to participants only with signed parental permission which includes date, type, drug name, time, and dosage, length of time to give medication, and what the medication is being given for."
+  },
+  {
+   "id": "injury_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "Injuries requiring medical attention must be reported to parent immediately and to Licensing Unit within one business day.",
+   "section": "1101 General Health Requirements",
+   "page": 44,
+   "quote": "Injuries that require the attention of medical personnel shall be reported to the parent immediately and to the Licensing Unit within one (1) business day."
+  },
+  {
+   "id": "contagious_illness_notification",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Parents or guardians of all participants must be notified of contagious illness as soon as possible.",
+   "section": "1101 General Health Requirements",
+   "page": 44,
+   "quote": "Parents or guardians of all participants shall be notified of contagious illness as soon as possible."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medicine must be kept out of reach when dispensing and stored in a locked area at all other times.",
+   "section": "1101 General Health Requirements",
+   "page": 45,
+   "quote": "Medicine shall be kept out of the reach of the participants when dispensing and shall be stored in a locked area at all other times."
+  },
+  {
+   "id": "first_aid_kit",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "A first aid kit with specified contents must be kept out of reach; medication-containing kit locked.",
+   "section": "1101 General Health Requirements",
+   "page": 45,
+   "quote": "A first aid supply shall be kept out of reach of the participant. A first aid kit containing medications shall be locked. This kit shall include the following:"
+  },
+  {
+   "id": "smoking_prohibited",
+   "topic": "health records",
+   "kind": "rule",
+   "requirement": "Smoking in an OST Program is prohibited at all times, including all areas and vehicles.",
+   "section": "1101 General Health Requirements",
+   "page": 45,
+   "quote": "Facilities shall comply with the Clean Indoor Air Act of 2006. Smoking in an OST Program is prohibited at all times."
+  },
+  {
+   "id": "sunscreen_permission",
+   "topic": "health records",
+   "kind": "must_include",
+   "requirement": "A blanket annual parental permission may be obtained for sunscreen use.",
+   "section": "1101 General Health Requirements",
+   "page": 46,
+   "quote": "Sunscreen shall be used if needed and as directed by the parent. OST participants may apply sunscreen to themselves with supervision. A blanket permission may be obtained annually."
+  },
+  {
+   "id": "handwashing",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "All staff and participants must wash hands with soap and water at specified times.",
+   "section": "1102 Hand Washing",
+   "page": 47,
+   "quote": "All staff and participants shall wash their hands with soap and water at the following times:"
+  },
+  {
+   "id": "toilet_ratio",
+   "topic": "health records",
+   "kind": "rule",
+   "requirement": "There must be one toilet and one sink for each group of 30 participants.",
+   "section": "1104 Toilet Facilities",
+   "page": 47,
+   "quote": "There shall be one (1) toilet and one (1) sink available for each group of thirty (30) participants."
+  },
+  {
+   "id": "emergency_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The facility must have a written emergency plan including sheltering in place or lock down procedures.",
+   "section": "1201 Safety Requirements",
+   "page": 48,
+   "quote": "The Out-of-School Time (OST) Facility shall have a written plan detailing the procedures to follow in the event of emergencies (fires, floods, tornadoes, utility disruptions, bomb threats, etc.)"
+  },
+  {
+   "id": "evacuation_diagrams_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Written procedures and evacuation diagrams for emergency drills must be posted in each program space.",
+   "section": "1201 Safety Requirements",
+   "page": 49,
+   "quote": "Written procedures and evacuation diagrams for emergency drills shall be posted in each program space."
+  },
+  {
+   "id": "emergency_drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Fire and tornado drills must be practiced monthly on separate days and at different times.",
+   "section": "1201 Safety Requirements",
+   "page": 49,
+   "quote": "Fire and tornado drills shall be practiced as follows: a. Monthly; b. Fire and tornado drills shall be practiced on separate days and at different times of the day;"
+  },
+  {
+   "id": "no_alcohol_drugs",
+   "topic": "safety",
+   "kind": "rule",
+   "requirement": "No alcoholic beverages during hours of care; illegal drugs or paraphernalia not allowed on premises regardless.",
+   "section": "1201 Safety Requirements",
+   "page": 50,
+   "quote": "There shall be no alcoholic beverages in any part of the facility during hours of care. Illegal drugs or paraphernalia shall not be in any part of the facility or on the premises, regardless if participants are present or not."
+  },
+  {
+   "id": "transportation_staff",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transporting staff must be at least 21 (or insurance minimum), hold valid license, and complete Driver Safety training.",
+   "section": "1301 Transportation Requirements",
+   "page": 51,
+   "quote": "Staff transporting participants shall meet the following requirements: a. Be at least twenty-one (21) years old or the minimum age required by the Licensee’s commercial auto insurance; b. Hold a current valid driver’s license"
+  },
+  {
+   "id": "swimming_pool_ratio",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Swimming pool use requires 1:8 staff-to-participant ratio and certified person present.",
+   "section": "1202 Swimming Pools",
+   "page": 51,
+   "quote": "Adult supervision of the children shall be provided at all times, with grouping based on a 1:8 staff to participant ratio. (Unless participants are participating in an authorized swimming instruction program.)"
+  },
+  {
+   "id": "child_safety_seats",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Participants under 6 or under 60 lbs must be in child passenger safety seat; 6+ or 60+ lbs by safety belt.",
+   "section": "1301 Transportation Requirements",
+   "page": 52,
+   "quote": "Any participant who is less than six (6) years old or weighs less than sixty pounds (60 lbs.) shall be restrained in a child passenger safety seat. Any participant who is at least six (6) years or weighs at least sixty pounds (60 lbs.) must be restrained by a safety belt."
+  },
+  {
+   "id": "no_left_on_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Driver or staff must walk through and physically inspect each seat before leaving vehicle.",
+   "section": "1301 Transportation Requirements",
+   "page": 52,
+   "quote": "To ensure that no participants are left on the vehicle, the driver or a staff member must walk through the vehicle and physically inspect each seat before leaving the vehicle."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "physical_punishment_prohibited",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Physical punishment shall not be administered to participants.",
+   "section": "501 Behavior Guidance Requirements",
+   "page": "[AR page 30]",
+   "quote": "Directed toward teaching the participant acceptable behavior and self-control. Physical punishment shall not be administered to participants."
+  },
+  {
+   "id": "transportation_roster_review",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Transportation roster must be reviewed by Director or designee and compared with attendance records; sign off.",
+   "section": "1301 Transportation Requirements",
+   "page": "[AR page 52]",
+   "quote": "To ensure that participants have safely arrived in the appropriate program space, the transportation roster shall be reviewed by the Director or designee"
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0497,
+ "tokens_in": 87855,
+ "tokens_out": 12172,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

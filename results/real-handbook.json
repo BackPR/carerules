@@ -1,0 +1,60 @@
+{
+ "what": "One licensed Texas child care center's published family handbook (85-page PDF, about 30,600 words), checked at Standard effort. The center isn't named and no handbook text is published; each finding was read against the rule by hand (not by a lawyer).",
+ "state": "TX",
+ "effort": "low",
+ "cost": 0.0367,
+ "seconds": 14.2,
+ "tokens_in": 75499,
+ "score": 67,
+ "findings": [
+  {
+   "status": "conflict",
+   "requirement": "Parents may visit the center during hours of operation without prior approval to observe their child and program.",
+   "rule": "§746.201(7), page 19",
+   "verdict": "debatable",
+   "why": "The handbook lets staff deny entry to a parent who poses a risk; the rule lists no exception, but a safety exception is common sense."
+  },
+  {
+   "status": "missing",
+   "requirement": "If the center does not carry required liability insurance, parents must be notified in writing before admission.",
+   "rule": "§746.207(a), page 21",
+   "verdict": "depends on facts outside the handbook",
+   "why": "The handbook says the center (a state agency) can't buy insurance coverage; if it carries no liability insurance, parents must be told in writing before admission, which could be a separate form."
+  },
+  {
+   "status": "partial",
+   "requirement": "If applicable, the handbook must state transportation and water activity procedures.",
+   "rule": "§746.501(a)(14)-(15), page 33",
+   "verdict": "reasonable",
+   "why": "Swim lessons and splash days are described, but there is no clear transportation or water-activity procedure section."
+  },
+  {
+   "status": "unverified",
+   "requirement": "The handbook must state parent rights consistent with Division 5 of Subchapter B.",
+   "rule": "§746.501(a)(20), page 33",
+   "verdict": "worth checking",
+   "why": "Flagged as check by hand; the handbook has a short parent-rights section worth comparing with the full list of rights."
+  },
+  {
+   "status": "conflict",
+   "requirement": "Children's records must be immediately accessible to caregivers during hours of operation for emergency use.",
+   "rule": "§746.601(a), page 40",
+   "verdict": "depends on facts outside the handbook",
+   "why": "Records 'locked in an administrator's office' may not be immediately accessible to caregivers in an emergency, as the rule requires."
+  },
+  {
+   "status": "partial",
+   "requirement": "A food allergy emergency plan is required for each child with a health-care-professional-diagnosed food allergy.",
+   "rule": "§746.3819, page 218",
+   "verdict": "correct",
+   "why": "The rule requires the plan to be signed and dated by the child's health-care professional and parent; the handbook's allergy policy doesn't say so."
+  },
+  {
+   "status": "conflict",
+   "requirement": "Immunization exemptions not addressed",
+   "rule": "rule on page 45, page 45",
+   "verdict": "misreading",
+   "why": "The quoted rule is about keeping immunization records, including exemptions; it doesn't require admitting unvaccinated children."
+  }
+ ]
+}

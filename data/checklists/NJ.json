@@ -1,0 +1,662 @@
+{
+ "state": "NJ",
+ "rulebook": "N.J.A.C. 3A:52 Manual of Requirements for Child Care Centers (effective Dec. 20, 2023)",
+ "items": [
+  {
+   "id": "hours_of_care_max",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Centers operating during normal waking hours may not care for a child on a regular basis for more than 12 hours within a 24-hour period.",
+   "section": "3A:52-1.5",
+   "page": 10,
+   "quote": "Centers operating during the normal waking hours shall not care for a child on a regular basis for more than 12 hours within a 24-hour period"
+  },
+  {
+   "id": "night_care_max",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "Centers operating during normal sleeping hours may not care for a child on a regular basis for more than 16 hours within a 24-hour period.",
+   "section": "3A:52-1.5",
+   "page": 10,
+   "quote": "Centers operating during the normal sleeping hours shall not care for a child on a regular basis for more than 16 hours within a 24-hour period"
+  },
+  {
+   "id": "info_to_parents_doc",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must give every parent and staff member the Office of Licensing Information to Parents document and keep signed receipts.",
+   "section": "3A:52-3.6",
+   "page": 18,
+   "quote": "The center shall give to the parent(s) of every enrolled child and to every staff member, a written Information to Parents document designated by the Office of Licensing"
+  },
+  {
+   "id": "licensing_contact_info",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The Information to Parents document must indicate how parents can secure a copy of the chapter and obtain licensing process information from the Office of Licensing.",
+   "section": "3A:52-3.6",
+   "page": 18,
+   "quote": "Indicate how parents can secure a copy of this chapter and obtain information about the licensing process from the Office of Licensing"
+  },
+  {
+   "id": "field_trip_consent",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "Parents must receive advance notice of field trips, outings, or special events involving transportation, and written consent must be secured before taking a child.",
+   "section": "3A:52-3.6",
+   "page": 19,
+   "quote": "Provide parents with advance notice of any field trip, outing or special event involving the transportation of children away from the center, and, for each event, secure the written consent of the parent(s) before taking a child on such a field trip, outing or special event"
+  },
+  {
+   "id": "parent_concerns_discussion",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The Information to Parents document must state that parents may review and discuss questions or concerns about center policies or compliance with the director, sponsor, or sponsor representative.",
+   "section": "3A:52-3.6",
+   "page": 19,
+   "quote": "Afford parents the opportunity and time to review and discuss with the center director, sponsor, or sponsor representative any questions or concerns about the policies and procedures of the center or whether the center is in compliance with all applicable provisions of this chapter"
+  },
+  {
+   "id": "complaint_reporting",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The Information to Parents document must advise parents that suspected violations may be reported to the center sponsor, sponsor representative, director, or Office of Licensing.",
+   "section": "3A:52-3.6",
+   "page": 19,
+   "quote": "Advise parents that if they believe or suspect that the center is violating any requirement of this chapter, they may report such alleged violations to the center sponsor, sponsor representative, or director or to the Office of Licensing"
+  },
+  {
+   "id": "abuse_report_hotline",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Staff must verbally notify the State Central Registry Hotline immediately when there is reasonable cause to believe a child has been abused or neglected.",
+   "section": "3A:52-4.9",
+   "page": 37,
+   "quote": "The sponsor, sponsor representative, director, or any staff member shall verbally notify the State Central Registry Hotline (1-877 NJ ABUSE/1-877-652-2873) immediately whenever there is reasonable cause to believe that a child has been subjected to abuse or neglect"
+  },
+  {
+   "id": "unusual_incident_parent_notice",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Staff must advise parents the same day of unusual incidents that might indicate possible abuse or neglect involving the child.",
+   "section": "3A:52-4.9",
+   "page": 38,
+   "quote": "the sponsor, sponsor representative, director, or any staff member shall advise the parent(s) of the occurrence of any unusual incident(s) that occurred at the center and that might indicate possible abuse or neglect involving the child. Such notification shall be made on the same day on which the incident occurred"
+  },
+  {
+   "id": "confidentiality_cari",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "CARI consent forms and related correspondence must be kept confidential.",
+   "section": "3A:52-4.10",
+   "page": 40,
+   "quote": "the sponsor, sponsor representative, and all staff members shall keep all completed CARI consent forms and related correspondence confidential"
+  },
+  {
+   "id": "lockdown_drills",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must conduct two lockdown drills per year and keep records.",
+   "section": "3A:52-5.3",
+   "page": 52,
+   "quote": "The center shall conduct two lockdown drills per year and maintain on file a record of each lockdown drill"
+  },
+  {
+   "id": "fire_drills_monthly",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must conduct fire drills at least once a month and evacuate all children within three minutes.",
+   "section": "3A:52-5.3",
+   "page": 53,
+   "quote": "The center shall conduct fire drills at least once a month, as specified in the NJUFC"
+  },
+  {
+   "id": "first_aid_cpr_staff",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "At least two staff members with current certified basic first aid and CPR knowledge must be in the center whenever enrolled children are present.",
+   "section": "3A:52-5.3",
+   "page": 53,
+   "quote": "At least two staff members who have current certified basic knowledge of first aid principles and cardiopulmonary resuscitation (CPR), as defined by a recognized health organization (such as the American Red Cross), shall be in the center at all times when enrolled children are present"
+  },
+  {
+   "id": "tv_computer_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Centers must develop a written policy on television, computer, and video equipment use for children over two and maintain written plans for such use.",
+   "section": "3A:52-6.1",
+   "page": 58,
+   "quote": "Centers shall develop a written policy regarding the use of television, computers, and other equipment for children over the age of two and maintain on file written plans for such use and the length of time for their use"
+  },
+  {
+   "id": "daily_activities_outline",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must prepare and maintain a written outline of its daily activities.",
+   "section": "3A:52-6.1",
+   "page": 59,
+   "quote": "The staff member(s) specified in (b) above shall prepare and maintain on file a written outline of the center's daily activities"
+  },
+  {
+   "id": "food_provided_or_parent",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Food for children present during normal mealtimes or required snack periods must be provided by the parent or the center.",
+   "section": "3A:52-6.3",
+   "page": 60,
+   "quote": "Food served to children who are present during normal mealtime hours or required snack periods, as specified in (b) and (c) below, shall be provided either by the child's parent or by the center"
+  },
+  {
+   "id": "snack_required",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A snack must be served to all children in care at least three consecutive hours and all children served on an after-school basis.",
+   "section": "3A:52-6.3",
+   "page": 60,
+   "quote": "A snack shall be served to all children who are under the center's care for at least three consecutive hours and for all children who are served on an after-school basis"
+  },
+  {
+   "id": "drinking_water_available",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Drinking water must be made available to all children.",
+   "section": "3A:52-6.3",
+   "page": 60,
+   "quote": "Drinking water shall be made available to all children"
+  },
+  {
+   "id": "no_force_feeding",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Staff may not force-feed or coerce a child to eat against the child's will.",
+   "section": "3A:52-6.3",
+   "page": 60,
+   "quote": "Staff members shall not force-feed or coerce a child to eat against his or her will"
+  },
+  {
+   "id": "infant_feeding_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "For children under 18 months, the center must develop and follow a feeding plan with each child's parent.",
+   "section": "3A:52-6.3",
+   "page": 61,
+   "quote": "The center shall develop mutually with each child's parent(s) and follow a feeding plan regarding the feeding schedule, specific formula, breastfeeding arrangements and accommodations"
+  },
+  {
+   "id": "safe_sleep_face_up",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Children 12 months or younger must initially be placed face-up for sleep unless a health care provider indicates otherwise in writing.",
+   "section": "3A:52-6.4",
+   "page": 63,
+   "quote": "For children 12 months of age and younger, the center shall ensure that each child is initially placed in a face-up sleeping position unless a different position is indicated in writing by the child's health care provider"
+  },
+  {
+   "id": "no_swaddling",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Swaddling children during rest and sleep is prohibited.",
+   "section": "3A:52-6.4",
+   "page": 63,
+   "quote": "Swaddling of children during rest and sleep is prohibited"
+  },
+  {
+   "id": "release_policy_written",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The center must maintain and follow a written policy on releasing children and give it to parents and staff with signed receipts.",
+   "section": "3A:52-6.5",
+   "page": 64,
+   "quote": "The center shall maintain on file and follow a written policy on the release of children"
+  },
+  {
+   "id": "release_only_authorized",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may be released only to the parent or a person authorized by the parent.",
+   "section": "3A:52-6.5",
+   "page": 64,
+   "quote": "each child may be released only to the child's parent(s) or person(s) authorized by the parent(s)"
+  },
+  {
+   "id": "sleep_equipment_standards",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Sleeping equipment must meet recognized safety organization standards and cribs must meet CPSC standards.",
+   "section": "3A:52-6.4",
+   "page": 64,
+   "quote": "All sleeping equipment shall meet the standards of a recognized safety organization (such as the Juvenile Products Manufacturers Association, the American Society for Testing and Materials, or the United States Consumer Product Safety Commission)"
+  },
+  {
+   "id": "one_child_per_sleep_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Only one child may occupy a crib, playpen, cot, mat, or other approved sleeping equipment at a time.",
+   "section": "3A:52-6.4",
+   "page": 64,
+   "quote": "During rest and sleep periods, only one child shall occupy a crib, playpen, cot, mat, or other Office of Licensing-approved sleeping equipment at one time"
+  },
+  {
+   "id": "late_pickup_procedure",
+   "topic": "late pickup and absences",
+   "kind": "must_include",
+   "requirement": "The release policy must include written procedures for when a parent or authorized person fails to pick up a child at closing.",
+   "section": "3A:52-6.5",
+   "page": 65,
+   "quote": "Written procedures to be followed by staff member(s) if the parent(s) or person(s) authorized by the parent(s), as specified in (a)1 above, fails to pick up a child at the time of the center's daily closing"
+  },
+  {
+   "id": "impaired_pickup_procedure",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The release policy must include procedures when a pickup person appears impaired and the child would be at risk.",
+   "section": "3A:52-6.5",
+   "page": 65,
+   "quote": "Written procedures to be followed by a staff member(s) if the parent(s) or person(s) authorized by the parent(s), as specified in (a)1 above, appear to be physically or emotionally impaired"
+  },
+  {
+   "id": "unsupervised_release_school_age",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "School-age children may not be released unsupervised except upon written instruction from the parent.",
+   "section": "3A:52-6.5",
+   "page": 65,
+   "quote": "No child shall be released from the program unsupervised except upon written instruction from the child's parent"
+  },
+  {
+   "id": "no_discipline_for_eating_sleeping",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff may not discipline children for failing to eat or sleep or for soiling themselves.",
+   "section": "3A:52-6.6",
+   "page": 65,
+   "quote": "Staff members shall not discipline children for failing to eat or sleep or for soiling themselves"
+  },
+  {
+   "id": "no_withholding_active_play",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Active play time may not be withheld as discipline unless the child presents a danger.",
+   "section": "3A:52-6.6",
+   "page": 65,
+   "quote": "Staff shall not withhold active play time as a means of discipline unless the child's actions or behavior present a danger to themselves or others"
+  },
+  {
+   "id": "discipline_policy_written",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must maintain a written discipline policy, post it prominently, distribute it to staff, and keep signed receipts.",
+   "section": "3A:52-6.6",
+   "page": 66,
+   "quote": "The center shall maintain on file a written policy on the disciplining of children by staff members"
+  },
+  {
+   "id": "no_corporal_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff may not use hitting, shaking, or any other corporal punishment.",
+   "section": "3A:52-6.7",
+   "page": 66,
+   "quote": "Staff members shall not use hitting, shaking or any other form of corporal punishment of children"
+  },
+  {
+   "id": "no_emotional_punishment",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff may not use abusive language, ridicule, harsh, humiliating, or frightening treatment.",
+   "section": "3A:52-6.7",
+   "page": 66,
+   "quote": "Staff members shall not use abusive language, ridicule, harsh, humiliating or frightening treatment or any other form of emotional punishment of children"
+  },
+  {
+   "id": "no_withholding_basics",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Staff may not withhold food, emotional responses, stimulation, or opportunities for rest or sleep.",
+   "section": "3A:52-6.7",
+   "page": 66,
+   "quote": "Staff members shall not withhold from children food, emotional responses, stimulation, or the opportunities for rest or sleep"
+  },
+  {
+   "id": "field_trip_transport_info",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Before a field trip, the center must inform parents whether a school bus, other approved school vehicle, or private passenger vehicle will be used and who will drive.",
+   "section": "3A:52-6.8",
+   "page": 67,
+   "quote": "The center shall inform parents whether a school bus, other approved school vehicle, or private passenger vehicle will be used, and whether the driver will be a staff member, a parent, or another person"
+  },
+  {
+   "id": "parent_visit_any_time",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents may visit the center at any time during operating hours to observe without prior approval.",
+   "section": "3A:52-6.8",
+   "page": 67,
+   "quote": "The center shall allow the parent(s) of enrolled children to visit the center at any time during the center's hours of operation to observe its operation and program activities without requiring the parent(s) to secure prior approval"
+  },
+  {
+   "id": "enrollment_conference_early_childhood",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Early childhood programs must provide an enrollment conference covering operations, child needs, release, toilet training, medication, communicable disease policy, Information to Parents, and expulsion policy.",
+   "section": "3A:52-6.8",
+   "page": 68,
+   "quote": "The center shall provide for the parents of each newly-enrolled child an opportunity to attend an enrollment conference"
+  },
+  {
+   "id": "expulsion_policy_written",
+   "topic": "withdrawal and termination of care",
+   "kind": "must_include",
+   "requirement": "The center must develop and follow a written expulsion policy and give it to parents with signed receipts.",
+   "section": "3A:52-6.8",
+   "page": 69,
+   "quote": "The center shall develop and follow a written policy on the expulsion of children from enrollment at the center"
+  },
+  {
+   "id": "no_expulsion_for_complaint",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "A child may not be expelled solely because a parent complained to the Office of Licensing or questioned center policies.",
+   "section": "3A:52-6.8",
+   "page": 69,
+   "quote": "The center shall not expel a child based solely on the child’s parent making a complaint to the Office of Licensing regarding a center’s alleged violations"
+  },
+  {
+   "id": "social_media_policy_written",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must develop and follow a written social media policy and give it to parents and staff with signed receipts.",
+   "section": "3A:52-6.8",
+   "page": 69,
+   "quote": "The center shall develop and follow a written policy on the use of social media"
+  },
+  {
+   "id": "closure_notice",
+   "topic": "hours and closings",
+   "kind": "rule",
+   "requirement": "In the event of temporary or permanent closure, the center must provide advance notice to parents in sufficient time to make alternative arrangements.",
+   "section": "3A:52-6.8",
+   "page": 70,
+   "quote": "In the event of temporary or permanent closure of the center, the center shall provide advance notice to parents of enrolled children in sufficient time to enable parents to make alternative child care arrangements"
+  },
+  {
+   "id": "sick_child_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A well-child center may not admit a child with specified illnesses or symptoms unless a health care provider indicates in writing the child poses no serious health risk.",
+   "section": "3A:52-7.1",
+   "page": 71,
+   "quote": "A center serving well children shall not permit a child who has any of the illnesses or symptoms of illness specified in (c)1i through xiii below to be admitted to the center on a given day unless medical diagnosis from a health care provider"
+  },
+  {
+   "id": "ill_child_separated",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "If an admitted child shows specified illness symptoms, the center must remove the child from the well group to a separate area until taken home or cleared by a health care provider.",
+   "section": "3A:52-7.1",
+   "page": 71,
+   "quote": "If a child who has already been admitted to the center manifests any of the illnesses or symptoms of illness specified in (c)1 above, the center shall remove the child from the group of well children to a separate room or area"
+  },
+  {
+   "id": "immunization_records_early_childhood",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Early childhood programs must maintain each child's health examination, immunization record, and special care plan if applicable.",
+   "section": "3A:52-7.3",
+   "page": 73,
+   "quote": "upon admission, the center shall maintain on file at the center a Universal Child Health Record (Department of Health Form CH-14) or its equivalent, updated annually, along with an immunization record , and a special care plan, if applicable"
+  },
+  {
+   "id": "medication_policy_inform",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Upon enrollment, the center must inform parents of its medication and health care procedure policy.",
+   "section": "3A:52-7.5",
+   "page": 74,
+   "quote": "The center shall inform each child’s parent upon enrollment of its policy on administering medication and health care procedures to children"
+  },
+  {
+   "id": "medication_written_approval",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication and health care procedures may be administered only after written approval from the parent.",
+   "section": "3A:52-7.5",
+   "page": 75,
+   "quote": "Medication and health care procedures shall be administered only after receipt of written approval from the child's parent(s)"
+  },
+  {
+   "id": "injury_immediate_notify",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must take immediate action and notify the parent when specified injuries occur, including bites with broken skin, head or facial injuries, falls from greater than the child's height, or injuries needing professional care.",
+   "section": "3A:52-7.6",
+   "page": 76,
+   "quote": "The center shall take immediate necessary action to protect the child from further harm and shall immediately notify the child's parent(s) when one of the following occurs while the child is in the center’s care"
+  },
+  {
+   "id": "injury_record",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must keep a written record of each specified injury incident with required details.",
+   "section": "3A:52-7.6",
+   "page": 77,
+   "quote": "The center shall maintain on file a written record of each incident resulting in an injury as specified in (a) above"
+  },
+  {
+   "id": "parental_notification_policy",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "If the center uses a method other than a telephone call for parental notification, it must have a written policy and give it to parents with signed receipts.",
+   "section": "3A:52-7.6",
+   "page": 77,
+   "quote": "The center shall develop and follow a written policy for parental notification if a method other than a telephone call is used at the center for parental notification"
+  },
+  {
+   "id": "communicable_disease_policy_written",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must develop a written communicable disease policy and give it to parents with signed receipts.",
+   "section": "3A:52-7.11",
+   "page": 81,
+   "quote": "Each center shall develop a written policy on the management of communicable diseases"
+  },
+  {
+   "id": "sick_child_admission_accompaniment",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A parent or authorized adult must accompany each sick child during admission.",
+   "section": "3A:52-8.2",
+   "page": 84,
+   "quote": "The center shall require that a parent or an adult authorized by the parent accompany each child during admission to the center"
+  },
+  {
+   "id": "sick_child_under_3_months",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "A sick child under three months may not be admitted unless seen and diagnosed by a health care provider who indicates in writing the child can be admitted.",
+   "section": "3A:52-8.2",
+   "page": 84,
+   "quote": "The center shall not admit a sick child below three months of age unless the child has been seen and diagnosed by his or her health care provider who indicates in writing that the child can be admitted"
+  },
+  {
+   "id": "transportation_vehicle_types",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The center must use a Type I, Type II, or Type S school vehicle for transporting children, except for authorized private passenger vehicles or chartered autobuses under specified conditions.",
+   "section": "3A:52-9.3",
+   "page": 89,
+   "quote": "The center shall use a Type I School Bus, Type II School Bus or Type S School Vehicle at all times when transporting children, except as specified in (f) and (g) below"
+  },
+  {
+   "id": "children_never_unattended_vehicle",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Children must never be left unattended in a vehicle.",
+   "section": "3A:52-9.5",
+   "page": 90,
+   "quote": "Children shall never be left unattended in a vehicle"
+  },
+  {
+   "id": "transportation_additional_adult",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "When one or more children are transported, one adult in addition to the driver must remain in the vehicle while in motion and within sight when stopped to accept or discharge children.",
+   "section": "3A:52-9.8",
+   "page": 92,
+   "quote": "When one or more children are being transported, there shall be one adult in addition to the driver who remains in the vehicle when it is in motion"
+  },
+  {
+   "id": "emergency_transport_parent_auth",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The center must obtain written authorization from the parent or guardian before transporting a child to or from the center.",
+   "section": "3A:52-9.7",
+   "page": 92,
+   "quote": "The center shall obtain written authorization from the parent or guardian before transporting a child to or from the center"
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "discipline_positive",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Discipline must be positive, consistent with age and developmental needs, and lead to self-control.",
+   "section": "3A:52-6.6",
+   "page": 61,
+   "quote": "The methods of guidance and discipline used shall: Be positive; Be consistent with the age and developmental needs of the children; and Lead to the child's ability to develop and maintain self-control"
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "All medication and health care equipment must be kept in a locked cabinet or inaccessible area, and medication kept in its original container.",
+   "section": "3A:52-7.5",
+   "page": 71,
+   "quote": "All medication and health care equipment shall be kept either in a locked cabinet or in an area that is inaccessible to the children. All medication shall be kept in its original container"
+  },
+  {
+   "id": "medication_records",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "The center must keep records of medication administration, including child, medication, instructions, date, time, staff, and adverse effects.",
+   "section": "3A:52-7.5",
+   "page": 71,
+   "quote": "The center shall maintain on file a record of the following: The child's name and parental authorization for the center to administer medication or health care procedures"
+  },
+  {
+   "id": "no_hospitalized_child",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "No center may serve or admit a child a health care provider has determined must be confined at home under immediate care or admitted to a hospital.",
+   "section": "3A:52-7.1",
+   "page": 67,
+   "quote": "Under no circumstances shall any center serve or admit any child who has any illness, symptom of illness or disease that a health care provider has determined requires the child to be: Confined to home under a health care provider’s immediate care; or Admitted to a hospital"
+  },
+  {
+   "id": "school_age_health_statement",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "School-age programs must obtain a parent's written statement that the child is in good health and can participate normally, plus any special needs.",
+   "section": "3A:52-7.3",
+   "page": 69,
+   "quote": "For school-age child care programs, the following shall apply: The center shall obtain a written statement from each child's parent indicating: That the child is in good health and can participate in the normal activities of the program"
+  },
+  {
+   "id": "emergency_procedures_written",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must prepare written emergency procedures covering first aid, alternate location, hospital, emergency numbers, evacuation diagram, fire alarms and extinguishers, and parent communication.",
+   "section": "3A:52-5.3",
+   "page": 48,
+   "quote": "The center shall prepare written emergency procedures delineating: The location of the first aid kit and any additional first aid supplies"
+  },
+  {
+   "id": "no_sugar_sweetened_beverages",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Unless contraindicated, the center may not serve sugar-sweetened or artificially sweetened beverages.",
+   "section": "3A:52-6.3",
+   "page": 56,
+   "quote": "Unless contraindicated by the parent or health care provider, the center shall: Not serve sugar sweetened or artificially-sweetened beverages"
+  },
+  {
+   "id": "records_maintenance",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Children's records must be maintained for one year after the child is no longer enrolled, and staff records for one year after the staff member leaves.",
+   "section": "3A:52-3.3",
+   "page": 13,
+   "quote": "Children’s records shall be maintained on file for one year after the child is no longer enrolled at the center. Staff records shall be maintained on file for one year after the staff member is no longer working at the center"
+  },
+  {
+   "id": "staff_child_ratio_awake",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Awake staff-to-child ratios are 1:4 under 18 months, 1:6 for 18 months to 2.5 years, 1:10 for 2.5 to 4 years, 1:12 for 4 years, and 1:15 for 5 years and older.",
+   "section": "3A:52-4.3",
+   "page": 20,
+   "quote": "Under 18 months\n1:4\n18 months up to 2 ½ years\n1:6\n2 ½ years up to 4 years\n1:10\n4 years\n1:12\n5 years and older\n1:15"
+  },
+  {
+   "id": "rest_sleep_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "During rest or sleep, ratios may be 1:10 under 18 months, 1:12 for 18 months to under 2.5 years, and 1:20 for 2.5 years and above when specified criteria are met.",
+   "section": "3A:52-4.3",
+   "page": 20,
+   "quote": "Under 18 months\n1:10\n18 months to under 2 ½ years\n1:12\n2 ½ years and above\n1:20"
+  },
+  {
+   "id": "special_needs_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Centers serving 50 percent or more children with special needs must use ratios of 1:3 under 2.5 years, 1:3 for non-ambulatory 2.5 years and over, and 1:5 for ambulatory 2.5 years and over.",
+   "section": "3A:52-4.3",
+   "page": 21,
+   "quote": "Under 2 ½ years\n1:3\n2 ½ years of age and over (non-ambulatory)\n1:3\n2 ½ years of age and over (ambulatory)\n1:5"
+  },
+  {
+   "id": "sick_child_ratio",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Sick child care ratios are 1:1 birth to 3 months, 1:3 for 3 to 18 months, 1:5 for 18 months to 2.5 years, and 1:7 for 2.5 years and above.",
+   "section": "3A:52-8.3",
+   "page": 81,
+   "quote": "Birth up to 3 months of age\n1:1\n3 months up to 18 months of age\n1:3\n18 months up to 2 ½ years of age\n1:5\n2 ½ years of age and above\n1:7"
+  },
+  {
+   "id": "two_staff_minimum_early_childhood",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Early childhood programs must have at least two staff members, one at least 18, when at least six children under six are present or ratios require two staff.",
+   "section": "3A:52-4.3",
+   "page": 21,
+   "quote": "A minimum of two staff members, one of whom shall be at least 18 years of age, shall be present and involved in the care of children when: At least six children are present, who are below six years of age"
+  },
+  {
+   "id": "enrollment_info_school_age",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "School-age programs must inform parents at enrollment about operations, child needs, release, medication, communicable disease policy, Information to Parents, expulsion policy, and meals when school is not in session.",
+   "section": "3A:52-6.8",
+   "page": 65,
+   "quote": "Upon the child’s enrollment, the center shall: Inform parents about the center’s days and hours of operation"
+  },
+  {
+   "id": "table_of_organization",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The sponsor must designate individuals with authority to develop written policies and procedures including a table of organization and job descriptions.",
+   "section": "3A:52-4.5",
+   "page": 23,
+   "quote": "Develop and implement written policies and procedures for the operation of the center, including: A table of organization that illustrates lines of authority, responsibility and communication; and Job descriptions, titles and qualifications for all center staff"
+  }
+ ],
+ "turns": 2,
+ "cost": 0.072,
+ "tokens_in": 141302,
+ "tokens_out": 12933,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

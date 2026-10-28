@@ -1,0 +1,567 @@
+{
+ "state": "TX",
+ "rulebook": "HHSC Minimum Standards for Child-Care Centers (26 TAC Ch. 746), revised December 2025",
+ "findings": [
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents may visit the center during hours of operation without prior approval to observe their child and program.",
+   "section": "\u00a7746.201(7)",
+   "page": 19,
+   "quote": "Ensuring parents can visit the child-care center any time during the child-care center's hours of operation to observe their child, program activities, the building, the grounds, and the equipment without having to secure prior approval",
+   "status": "covered",
+   "handbook_quote": "Visit the center any time we are open, without advance notice, to observe your child, activities, the building, the grounds, and equipment",
+   "handbook_page": 5,
+   "span": [
+    9963,
+    10074
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=19"
+  },
+  {
+   "id": "liability_insurance_notice",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "If the center does not carry required liability insurance, parents must be notified in writing before admission.",
+   "section": "\u00a7746.207(a)",
+   "page": 21,
+   "quote": "If you do not carry liability insurance that meets the requirements of \u00a7746.203 of this division (relating to What are the liability insurance requirements?), then you must notify the parent of each child in your care in writing that you do not carry liability insurance before you admit the child into your care.",
+   "status": "covered",
+   "handbook_quote": "We carry liability insurance of $300,000 per occurrence, as Texas requires. If that ever changes, we will tell every family in writing within 14 days.",
+   "handbook_page": 6,
+   "span": [
+    11381,
+    11501
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=21"
+  },
+  {
+   "id": "operational_policies_minimum",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The center must have written operational policies and procedures covering at least the minimum topics listed in the rule.",
+   "section": "\u00a7746.501(a)",
+   "page": 32,
+   "quote": "You must develop written operational policies and procedures that at a minimum address each of the following",
+   "status": "covered",
+   "handbook_quote": "On or before your child's first day, you will sign our enrollment agreement, which includes these policies",
+   "handbook_page": 1,
+   "span": [
+    585,
+    672
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_hours_release",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The handbook must state the center's hours, days, and months of operation and its procedures for releasing children.",
+   "section": "\u00a7746.501(a)(1)-(2)",
+   "page": 32,
+   "quote": "(1) Hours, days, and months of operation [Medium]; (2) Procedures for the release of children [Medium]",
+   "status": "covered",
+   "handbook_quote": "We are open Monday through Friday, 6:30 a.m. to 6:30 p.m., twelve months a year.",
+   "handbook_page": 1,
+   "span": [
+    351,
+    408
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_illness_medication",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The handbook must state illness and exclusion criteria and medication procedures or that medication is not dispensed.",
+   "section": "\u00a7746.501(a)(3)-(4)",
+   "page": 32,
+   "quote": "(3) Illness and exclusion criteria [Medium]; (4) Procedures for dispensing medication or a statement that medication is not dispensed [Medium]",
+   "status": "covered",
+   "handbook_quote": "We are not licensed for get-well care, so children must stay home, or will be sent home, when:",
+   "handbook_page": 3,
+   "span": [
+    5741,
+    5813
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_medical_emergencies_notifications",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The handbook must state procedures for handling medical emergencies and for parental notifications.",
+   "section": "\u00a7746.501(a)(5)-(6)",
+   "page": 32,
+   "quote": "(5) Procedures for handling medical emergencies [Medium]; (6) Procedures for parental notifications [Medium]",
+   "status": "covered",
+   "handbook_quote": "If a child needs immediate medical treatment, we will call 911, give first aid or CPR, call you",
+   "handbook_page": 4,
+   "span": [
+    7331,
+    7406
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_discipline_guidance",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The handbook must include discipline and guidance consistent with Subchapter L.",
+   "section": "\u00a7746.501(a)(7)",
+   "page": 32,
+   "quote": "Discipline and guidance that is consistent with Subchapter L of this title (relating to Discipline and Guidance)",
+   "status": "covered",
+   "handbook_quote": "We never use spanking or any physical punishment, threats, shaming, yelling, or harsh language.",
+   "handbook_page": 3,
+   "span": [
+    4451,
+    4528
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_safe_sleep",
+   "topic": "safe sleep and rest",
+   "kind": "must_include",
+   "requirement": "The handbook must include a safe sleep policy for infants from birth through 12 months old.",
+   "section": "\u00a7746.501(a)(9)",
+   "page": 32,
+   "quote": "Safe sleep policy for infants from birth through 12 months old",
+   "status": "covered",
+   "handbook_quote": "Babies always sleep on their backs in their own crib that meets federal safety standards",
+   "handbook_page": 2,
+   "span": [
+    3578,
+    3652
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=32"
+  },
+  {
+   "id": "policy_hearing_vision_enrollment",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "The handbook must state hearing and vision screening requirements and enrollment procedures, including how and when parents are notified of policy changes.",
+   "section": "\u00a7746.501(a)(12)-(13)",
+   "page": 33,
+   "quote": "(12) Hearing and vision screening requirements [Medium]; (13) Enrollment procedures, including how and when parents will be notified of policy changes",
+   "status": "covered",
+   "handbook_quote": "Vision and hearing screening results for children who are 4 years old by September 1, as Texas law requires.",
+   "handbook_page": 1,
+   "span": [
+    869,
+    957
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_transportation_water",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If applicable, the handbook must state transportation and water activity procedures.",
+   "section": "\u00a7746.501(a)(14)-(15)",
+   "page": 33,
+   "quote": "(14) Transportation, if applicable [Medium]; (15) Water activities, if applicable [Medium]",
+   "status": "covered",
+   "handbook_quote": "We do not provide transportation, swimming, or water play activities",
+   "handbook_page": 5,
+   "span": [
+    8525,
+    8582
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_field_trips_animals",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If applicable, the handbook must state field trip and animal procedures.",
+   "section": "\u00a7746.501(a)(16)-(17)",
+   "page": 33,
+   "quote": "(16) Field trips, if applicable [Medium]; (17) Animals, if applicable [Medium]",
+   "status": "covered",
+   "handbook_quote": "we do not keep pets or animals at the center. Older children take occasional walking field trips",
+   "handbook_page": 5,
+   "span": [
+    8585,
+    8664
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_physical_activity",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The handbook must promote indoor and outdoor physical activity consistent with Subchapter F.",
+   "section": "\u00a7746.501(a)(18)",
+   "page": 33,
+   "quote": "Promotion of indoor and outdoor physical activity that is consistent with Subchapter F of this chapter",
+   "status": "covered",
+   "handbook_quote": "We offer at least two outdoor play times every day, weather permitting.",
+   "handbook_page": 2,
+   "span": [
+    2714,
+    2772
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_insect_sunscreen",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "If applicable, the handbook must state procedures for providing and applying insect repellant and sunscreen.",
+   "section": "\u00a7746.501(a)(19)",
+   "page": 33,
+   "quote": "Procedures for providing and applying, as needed, insect repellant and sunscreen, including what types will be used, if applicable [Medium]",
+   "status": "covered",
+   "handbook_quote": "We apply sunscreen before outdoor play with your written permission.",
+   "handbook_page": 4,
+   "span": [
+    6953,
+    7011
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_parent_rights",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state parent rights consistent with Division 5 of Subchapter B.",
+   "section": "\u00a7746.501(a)(20)",
+   "page": 33,
+   "quote": "Parent rights that are consistent with the rules in Division 5 of this subchapter (relating to Parent Rights) [Medium]",
+   "status": "covered",
+   "handbook_quote": "Visit the center any time we are open, without advance notice, to observe your child, activities, the building, the grounds, and equipment",
+   "handbook_page": 5,
+   "span": [
+    9963,
+    10074
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "policy_review_concerns",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook must state procedures for parents to review and discuss questions or concerns with the director.",
+   "section": "\u00a7746.501(a)(21)",
+   "page": 33,
+   "quote": "Procedures for parents to review and discuss with the child-care center director any questions or concerns about the policies and procedures of the child-care center [Medium]",
+   "status": "covered",
+   "handbook_quote": "If you have a question or concern about any of our policies or procedures, please ask to meet with the director.",
+   "handbook_page": 6,
+   "span": [
+    10984,
+    11074
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=33"
+  },
+  {
+   "id": "children_records_accessible",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Children's records must be immediately accessible to caregivers during hours of operation for emergency use.",
+   "section": "\u00a7746.601(a)",
+   "page": 40,
+   "quote": "All children\u2019s records must be immediately accessible to caregivers during hours of operation for use in an emergency.",
+   "status": "covered",
+   "handbook_quote": "Children's records are immediately available to your child's caregivers during all hours of operation in case of emergency.",
+   "handbook_page": 5,
+   "span": [
+    9736,
+    9839
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=40"
+  },
+  {
+   "id": "abuse_neglect_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Employees must report suspected abuse, neglect, and exploitation to DFPS as required by law.",
+   "section": "\u00a7746.1201(5)",
+   "page": 81,
+   "quote": "Report suspected abuse, neglect, and exploitation to DFPS as specified in the Texas Family Code, \u00a7261.101.",
+   "status": "covered",
+   "handbook_quote": "Every staff member who suspects abuse, neglect, or exploitation must report it directly to the Texas Abuse and Neglect Hotline",
+   "handbook_page": 5,
+   "span": [
+    9355,
+    9460
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=81"
+  },
+  {
+   "id": "classroom_ratio_chart",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Classroom ratios are based on the specified age of the children in the group and must not be exceeded.",
+   "section": "\u00a7746.1601",
+   "page": 113,
+   "quote": "The classroom ratio is the number of children one caregiver may supervise and is shown in the following chart.",
+   "status": "covered",
+   "handbook_quote": "We follow the Texas child-to-caregiver ratios and group sizes at all times, based on the age of the children in the group:",
+   "handbook_page": 1,
+   "span": [
+    1936,
+    2033
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=113"
+  },
+  {
+   "id": "infant_back_sleep",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed face-up for sleep in their own crib unless a health-care professional documents a different position is medically necessary.",
+   "section": "\u00a7746.2427(a)",
+   "page": 155,
+   "quote": "You must place an infant in a face-up sleeping position in the infant's own crib, unless you have a completed Sleep Exception Form that includes a signed statement from a health-care professional stating that a different sleeping position for the child is medically necessary",
+   "status": "covered",
+   "handbook_quote": "Babies always sleep on their backs in their own crib that meets federal safety standards",
+   "handbook_page": 2,
+   "span": [
+    3578,
+    3652
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=155"
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "There must be no harsh, cruel, or unusual treatment of any child, including prohibited discipline practices.",
+   "section": "\u00a7746.2805",
+   "page": 169,
+   "quote": "There must be no harsh, cruel, or unusual treatment of any child.",
+   "status": "covered",
+   "handbook_quote": "We never use spanking or any physical punishment, threats, shaming, yelling, or harsh language.",
+   "handbook_page": 3,
+   "span": [
+    4451,
+    4528
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=169"
+  },
+  {
+   "id": "field_trip_parent_notice",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents must be notified at least 48 hours in advance of a field trip with destination and expected return time.",
+   "section": "\u00a7746.3003",
+   "page": 174,
+   "quote": "You must notify the parent of each child who will be on the field trip, indicating when and where the child will be going, and when the child is expected to return to the child-care center.",
+   "status": "covered",
+   "handbook_quote": "We post a notice at the front desk at least 48 hours before every field trip",
+   "handbook_page": 5,
+   "span": [
+    8709,
+    8770
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=174"
+  },
+  {
+   "id": "cacfp_meal_patterns",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Meals and snacks must follow USDA CACFP meal patterns regardless of reimbursement participation.",
+   "section": "\u00a7746.3301(b)",
+   "page": 184,
+   "quote": "The meals and snacks must follow the meal patterns established by the U.S. Department of Agriculture (USDA) Child and Adult Care Food Program (CACFP)",
+   "status": "covered",
+   "handbook_quote": "We serve breakfast, lunch, and snacks that follow the USDA Child and Adult Care Food Program meal patterns.",
+   "handbook_page": 3,
+   "span": [
+    5010,
+    5097
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=184"
+  },
+  {
+   "id": "ill_child_exclusion",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "Unless licensed for get-well care, an ill child must not attend if the listed illness conditions exist.",
+   "section": "\u00a7746.3601",
+   "page": 205,
+   "quote": "Unless you are licensed to provide get-well care, you must not allow an ill child to attend your child-care center if one or more of the following exists:",
+   "status": "covered",
+   "handbook_quote": "We are not licensed for get-well care, so children must stay home, or will be sent home, when:",
+   "handbook_page": 3,
+   "span": [
+    5741,
+    5813
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=205"
+  },
+  {
+   "id": "medication_authorization",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may be administered only with parent authorization obtained in writing, electronically, or by telephone for a single dose.",
+   "section": "\u00a7746.3803(a)",
+   "page": 215,
+   "quote": "Authorization to administer medication to a child in your care must be obtained from the child\u2019s parent:",
+   "status": "covered",
+   "handbook_quote": "Before we give any medicine, a parent must sign and date our medication authorization form on paper or in ParentLink; if you call us, we can give a single dose with your phone permission.",
+   "handbook_page": 4,
+   "span": [
+    6457,
+    6607
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=215"
+  },
+  {
+   "id": "food_allergy_emergency_plan",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A food allergy emergency plan is required for each child with a health-care-professional-diagnosed food allergy.",
+   "section": "\u00a7746.3819",
+   "page": 218,
+   "quote": "You must have a food allergy emergency plan for each child with a known food allergy that has been diagnosed by a health-care professional.",
+   "status": "covered",
+   "handbook_quote": "If your child has a food allergy diagnosed by a health-care professional, we need a food allergy emergency plan signed and dated by your child's health-care professional and by you before your child's first day.",
+   "handbook_page": 3,
+   "span": [
+    5185,
+    5356
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=218"
+  },
+  {
+   "id": "release_only_authorized",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may be released only to a parent or a person designated by the parent.",
+   "section": "\u00a7746.4101(a)",
+   "page": 223,
+   "quote": "You must release a child only to a parent or a person designated by the parent.",
+   "status": "covered",
+   "handbook_quote": "We release children only to a parent or to an adult the parent has listed in writing on the authorized pick-up list.",
+   "handbook_page": 1,
+   "span": [
+    1559,
+    1652
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=223"
+  },
+  {
+   "id": "monthly_fire_drill",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must practice a fire drill every month and children must be able to exit safely within three minutes.",
+   "section": "\u00a7746.5205(1)",
+   "page": 270,
+   "quote": "You must practice a fire drill every month. The children must be able to safely exit the building within three minutes",
+   "status": "covered",
+   "handbook_quote": "We practice a fire drill every month and are able to get all children outside within three minutes.",
+   "handbook_page": 4,
+   "span": [
+    8312,
+    8393
+   ],
+   "explanation": "",
+   "note": "",
+   "fix": "",
+   "rule_url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf#page=270"
+  }
+ ],
+ "summary": "The handbook addresses every checklist item and its stated practices align with the provided Texas minimum standards. No additional contradictions with the rulebook were identified.",
+ "score": 100,
+ "coverage": 100,
+ "required": 14,
+ "counts": {
+  "covered": 27,
+  "partial": 0,
+  "missing": 0,
+  "conflict": 0,
+  "not_mentioned": 0,
+  "unverified": 0,
+  "conflict_statements": 0
+ },
+ "cost": 0.0141,
+ "tokens_in": 24081,
+ "tokens_out": 3760,
+ "finish": "stop",
+ "seconds": 6.37,
+ "effort": "low",
+ "wall_seconds": 6.5,
+ "raw": "{\"items\":[{\"id\":\"parent_access\",\"status\":\"covered\",\"handbook_quote\":\"Visit the center any time we are open, without advance notice, to observe your child, activities, the building, the grounds, and equipment\"},{\"id\":\"liability_insurance_notice\",\"status\":\"covered\",\"handbook_quote\":\"We carry liability insurance of $300,000 per occurrence, as Texas requires. If that ever changes, we will tell every family in writing within 14 days.\"},{\"id\":\"operational_policies_minimum\",\"status\":\"covered\",\"handbook_quote\":\"On or before your child's first day, you will sign our enrollment agreement, which includes these policies\"},{\"id\":\"policy_hours_release\",\"status\":\"covered\",\"handbook_quote\":\"We are open Monday through Friday, 6:30 a.m. to 6:30 p.m., twelve months a year.\"},{\"id\":\"policy_illness_medication\",\"status\":\"covered\",\"handbook_quote\":\"We are not licensed for get-well care, so children must stay home, or will be sent home, when:\"},{\"id\":\"policy_medical_emergencies_notifications\",\"status\":\"covered\",\"handbook_quote\":\"If a child needs immediate medical treatment, we will call 911, give first aid or CPR, call you\"},{\"id\":\"policy_discipline_guidance\",\"status\":\"covered\",\"handbook_quote\":\"We never use spanking or any physical punishment, threats, shaming, yelling, or harsh language.\"},{\"id\":\"policy_safe_sleep\",\"status\":\"covered\",\"handbook_quote\":\"Babies always sleep on their backs in their own crib that meets federal safety standards\"},{\"id\":\"policy_hearing_vision_enrollment\",\"status\":\"covered\",\"handbook_quote\":\"Vision and hearing screening results for children who are 4 years old by September 1, as Texas law requires.\"},{\"id\":\"policy_transportation_water\",\"status\":\"covered\",\"handbook_quote\":\"We do not provide transportation, swimming, or water play activities\"},{\"id\":\"policy_field_trips_animals\",\"status\":\"covered\",\"handbook_quote\":\"we do not keep pets or animals at the center. Older children take occasional walking field trips\"},{\"id\":\"policy_physical_activity\",\"status\":\"covered\",\"handbook_quote\":\"We offer at least two outdoor play times every day, weather permitting.\"},{\"id\":\"policy_insect_sunscreen\",\"status\":\"covered\",\"handbook_quote\":\"We apply sunscreen before outdoor play with your written permission.\"},{\"id\":\"policy_parent_rights\",\"status\":\"covered\",\"handbook_quote\":\"Visit the center any time we are open, without advance notice, to observe your child, activities, the building, the grounds, and equipment\"},{\"id\":\"policy_review_concerns\",\"status\":\"covered\",\"handbook_quote\":\"If you have a question or concern about any of our policies or procedures, please ask to meet with the director.\"},{\"id\":\"children_records_accessible\",\"status\":\"covered\",\"handbook_quote\":\"Children's records are immediately available to your child's caregivers during all hours of operation in case of emergency.\"},{\"id\":\"abuse_neglect_reporting\",\"status\":\"covered\",\"handbook_quote\":\"Every staff member who suspects abuse, neglect, or exploitation must report it directly to the Texas Abuse and Neglect Hotline\"},{\"id\":\"classroom_ratio_chart\",\"status\":\"covered\",\"handbook_quote\":\"We follow the Texas child-to-caregiver ratios and group sizes at all times, based on the age of the children in the group:\"},{\"id\":\"infant_back_sleep\",\"status\":\"covered\",\"handbook_quote\":\"Babies always sleep on their backs in their own crib that meets federal safety standards\"},{\"id\":\"prohibited_discipline\",\"status\":\"covered\",\"handbook_quote\":\"We never use spanking or any physical punishment, threats, shaming, yelling, or harsh language.\"},{\"id\":\"field_trip_parent_notice\",\"status\":\"covered\",\"handbook_quote\":\"We post a notice at the front desk at least 48 hours before every field trip\"},{\"id\":\"cacfp_meal_patterns\",\"status\":\"covered\",\"handbook_quote\":\"We serve breakfast, lunch, and snacks that follow the USDA Child and Adult Care Food Program meal patterns.\"},{\"id\":\"ill_child_exclusion\",\"status\":\"covered\",\"handbook_quote\":\"We are not licensed for get-well care, so children must stay home, or will be sent home, when:\"},{\"id\":\"medication_authorization\",\"status\":\"covered\",\"handbook_quote\":\"Before we give any medicine, a parent must sign and date our medication authorization form on paper or in ParentLink; if you call us, we can give a single dose with your phone permission.\"},{\"id\":\"food_allergy_emergency_plan\",\"status\":\"covered\",\"handbook_quote\":\"If your child has a food allergy diagnosed by a health-care professional, we need a food allergy emergency plan signed and dated by your child's health-care professional and by you before your child's first day.\"},{\"id\":\"release_only_authorized\",\"status\":\"covered\",\"handbook_quote\":\"We release children only to a parent or to an adult the parent has listed in writing on the authorized pick-up list.\"},{\"id\":\"monthly_fire_drill\",\"status\":\"covered\",\"handbook_quote\":\"We practice a fire drill every month and are able to get all children outside within three minutes.\"}],\"extra_conflicts\":[],\"summary\":\"The handbook addresses every checklist item and its stated practices align with the provided Texas minimum standards. No additional contradictions with the rulebook were identified.\"}"
+}

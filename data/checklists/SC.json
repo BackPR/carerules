@@ -1,0 +1,608 @@
+{
+ "state": "SC",
+ "rulebook": "S.C. Code Regs. Chapter 114 (Regs. 114-500 to 114-509, licensed centers)",
+ "items": [
+  {
+   "id": "complaints_licensing",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The handbook should direct parents to report unsatisfactory conditions to DSS and provide licensing contact information, consistent with DSS complaint and inspection procedures.",
+   "section": "114-502.C.(5)",
+   "page": 22,
+   "quote": "Upon receipt of a regulatory complaint, the Department shall conduct an unannounced inspection of the center to investigate the complaint. If the complaint is written, the Department shall provide a copy to the director upon request."
+  },
+  {
+   "id": "display_license",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must display its current license and any violations in a prominent public place, with the back displayed if deficiencies are listed.",
+   "section": "114-503.A.(1)",
+   "page": 23,
+   "quote": "The center shall display the current license/approval, as well as any violations in a prominent public place in the center. The back of the license/approval shall be displayed if deficiencies are listed."
+  },
+  {
+   "id": "child_abuse_reporting",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The handbook must state that suspected child abuse or neglect is immediately reported to DSS or local law enforcement.",
+   "section": "114-503.C.(1)",
+   "page": 23,
+   "quote": "The center shall immediately report suspected child abuse or child neglect to the Department's Office of Child Protective and Preventive Services or to local law enforcement in accordance with South Carolina Code Annotated Section 63-7-310."
+  },
+  {
+   "id": "incident_parent_notice",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The handbook must state that accidents or injuries requiring professional medical treatment and reportable communicable diseases are reported to parents immediately and to DSS in writing within 48 hours.",
+   "section": "114-503.D.(1)",
+   "page": 23,
+   "quote": "The center shall report the following incidents to the parents/guardians immediately and provide written notification to the Department within 48 hours after the occurrence: (a) Accidents or injuries involving any child occurring at the center requiring professional medical treatment, and (b) Child or staff occurrences of communicable diseases that the Department of Health and Environmental Control (DHEC) requires to be reported in its School Exclusion List."
+  },
+  {
+   "id": "capacity_limit",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center may not have more children present at one time than the number for which it is licensed, except for a temporary natural-disaster or unscheduled-closing exception of up to 90 days with DSS notification.",
+   "section": "114-503.B.(1)-(2)",
+   "page": 23,
+   "quote": "No child care center shall have present at any one time children in excess of the number for which it is licensed/approved."
+  },
+  {
+   "id": "reporting_changes",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The director must immediately report to DSS changes in director, ownership, sponsorship, center location, or major renovations or alterations to the building.",
+   "section": "114-502.E.(1)",
+   "page": 23,
+   "quote": "The director shall immediately report to the Department when an occurrence takes place that may affect the status of the license/approval including the following: (a) Change in director, ownership, or sponsorship; (b) Change in center location; and (c) Major renovations or alterations to the building."
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The handbook must state that parents have free and full access to their child without prior notice while the child is in care, unless a court order limits access.",
+   "section": "114-503.F.(1)",
+   "page": 24,
+   "quote": "The center shall permit the parent of a child in care free and full access to his or her child without prior notice, while their child is receiving care, unless there is a court order limiting parental access."
+  },
+  {
+   "id": "release_policy",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The center must have a written policy for releasing children, including a security system to prevent inappropriate release, and must communicate it to parents upon admission.",
+   "section": "114-503.F.(2)",
+   "page": 24,
+   "quote": "The center shall develop a policy for the release of children, which includes a security system to prevent the inappropriate release of a child to an unauthorized person. This policy shall be communicated with the parent upon admission."
+  },
+  {
+   "id": "admission_info_access",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must be told in writing of their right to free and full access to their child.",
+   "section": "114-503.F.(3)(a)",
+   "page": 24,
+   "quote": "The right of parents to free and full access to their child in accordance with 114-503.F.(1);"
+  },
+  {
+   "id": "admission_info_release",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must be given the center's policy and procedures for releasing children.",
+   "section": "114-503.F.(3)(b)",
+   "page": 24,
+   "quote": "The policy and procedures on release of children specified in 114-503.F.(2);"
+  },
+  {
+   "id": "admission_info_schedule",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must receive the program activity schedule for their child's age group and child care area.",
+   "section": "114-503.F.(3)(c)",
+   "page": 24,
+   "quote": "The program activity schedule for their child's age group and child care area;"
+  },
+  {
+   "id": "admission_info_immunizations",
+   "topic": "immunizations and health records",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must be told of their responsibility to obtain necessary immunizations and physical examinations for their child.",
+   "section": "114-503.F.(3)(d)",
+   "page": 24,
+   "quote": "The parent's responsibility to obtain necessary immunizations and physical examinations for their child;"
+  },
+  {
+   "id": "admission_info_medications",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must receive the center's policy and procedures for administering medications.",
+   "section": "114-503.F.(3)(e)",
+   "page": 24,
+   "quote": "The policy and procedures for the administration of medications; and"
+  },
+  {
+   "id": "admission_info_discipline",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "Upon admission, parents must receive the center's discipline and behavior management policy, and it must be re-signed if the policy changes.",
+   "section": "114-503.F.(3)(f)",
+   "page": 24,
+   "quote": "The policy and practices regarding the discipline and behavior management of children. This statement shall be re-signed if any discipline policy changes are made."
+  },
+  {
+   "id": "annual_policy_agreement",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "Parents and staff must sign and date an annual agreement that both have read and understand all policies relating to operation of the facility.",
+   "section": "114-503.F.(4)",
+   "page": 24,
+   "quote": "Parents and staff shall sign and date an agreement, maintained on file and updated annually, that both parties have read and understand all policies relating to the operation of the facility."
+  },
+  {
+   "id": "immediate_dss_incidents",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The handbook must state that deaths, missing children, unattended children in vehicles, emergency-treatment injuries, major structural damage, disasters, fire or police incidents, criminal charges or convictions, and abuse allegations are reported to DSS immediately.",
+   "section": "114-503.D.(2)",
+   "page": 24,
+   "quote": "The following incidents shall be reported to the Department immediately and may be investigated by the Department: (a) A death of a child or staff person that occurs at the center; (b) A child who is missing from the premises or who is left unattended in a vehicle operated by the child care center;"
+  },
+  {
+   "id": "parent_health_notification",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "Parents must be notified if a legal or health issue occurs that impacts their child's health and safety, at pickup or the next day the child is in care.",
+   "section": "114-503.D.(2)(j)",
+   "page": 24,
+   "quote": "Parents should be notified if a legal or health issue occurs which impacts the health and safety of his/her child. This notification should occur at the time of pick-up or on the next day the child is in care."
+  },
+  {
+   "id": "death_of_child",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "If a child dies at the facility, staff must immediately notify emergency medical personnel, the child's parents, law enforcement, and the licensing agency.",
+   "section": "114-503.E.(1)",
+   "page": 24,
+   "quote": "If the child dies while at the facility, the following shall be done: (a) Immediately notify emergency medical personnel, the child's parents, and law enforcement; (b) Immediately notify the licensing agency; and (c) Provide information for children and parents as appropriate."
+  },
+  {
+   "id": "records_access",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Child records must be kept confidential but immediately available to DSS, the child's teacher or caregiver, parent, or guardian upon request, and access is limited unless requested by court order.",
+   "section": "114-503.G.(2)-(3)",
+   "page": 25,
+   "quote": "Access to records is limited to persons listed in 114-503 G(2) unless requested by court order."
+  },
+  {
+   "id": "immunization_record",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "Each child's health record must include a current South Carolina certificate of immunization.",
+   "section": "114-503.G.(6)(b)",
+   "page": 25,
+   "quote": "A current South Carolina certificate of Immunization; and"
+  },
+  {
+   "id": "parent_access_records",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "A child's record must be maintained on file at the center and made available to DSS upon request, and parents may request access to their child's record.",
+   "section": "114-503.G.(2),(5)",
+   "page": 25,
+   "quote": "The file shall be kept in a confidential manner, but shall be immediately available to the Department, the child's teacher/caregiver, parent, or guardian upon request."
+  },
+  {
+   "id": "emergency_information",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Emergency information for each child must be easily and immediately accessible at the center, during transportation, and during trips away from the premises.",
+   "section": "114-503.G.(7)",
+   "page": 25,
+   "quote": "Emergency information for each child shall be easily and immediately accessible while at the center, during transportation, and during any trips away from the premises, and it shall include the following:"
+  },
+  {
+   "id": "authorized_pickup",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The child's record must include names, addresses, and verification of identification of persons authorized to take the child from the center.",
+   "section": "114-503.G.(5)(e)",
+   "page": 25,
+   "quote": "Name(s), address(es) and verification of identification, such as valid driver's license, other picture identification or personal family code word of person(s) authorized to take the child from the child care center;"
+  },
+  {
+   "id": "daily_attendance",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must keep accurate records of daily attendance for each child.",
+   "section": "114-503.G.(5)(f)",
+   "page": 25,
+   "quote": "Accurate records of daily attendance for each child;"
+  },
+  {
+   "id": "emergency_treatment_consent",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The child's record must include authorization from parents or guardians for emergency medical treatment.",
+   "section": "114-503.G.(5)(g)",
+   "page": 25,
+   "quote": "Authorization from parent(s)/guardian(s) for child to obtain emergency medical treatment;"
+  },
+  {
+   "id": "field_trip_consent",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The child's record must include authorization from parents or guardians for transportation during field trips and other away-from-center activities.",
+   "section": "114-503.G.(5)(h)",
+   "page": 25,
+   "quote": "Authorization from parent(s)/guardian(s) for child to be transported to and from the center during field trips and other away from the center activities;"
+  },
+  {
+   "id": "swimming_consent",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The child's record must include authorization from parents or guardians for participation in swimming activities.",
+   "section": "114-503.G.(5)(i)",
+   "page": 25,
+   "quote": "Authorization from parent(s)/guardian(s) for child to participate in swimming activities; and"
+  },
+  {
+   "id": "discipline_acknowledgment",
+   "topic": "discipline and guidance",
+   "kind": "rule",
+   "requirement": "The child's record must include a written statement signed by parents acknowledging their understanding and acceptance of the center's disciplinary policies.",
+   "section": "114-503.G.(5)(j)",
+   "page": 25,
+   "quote": "A written statement, signed by the parents, acknowledging their understanding and acceptance of the disciplinary policies of the center."
+  },
+  {
+   "id": "confidentiality_policy",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The center must have a written policy to safeguard the confidentiality of all records.",
+   "section": "114-503.I.(1)",
+   "page": 26,
+   "quote": "The center shall have written policy to safeguard the confidentiality of all records."
+  },
+  {
+   "id": "child_info_confidential",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The handbook must state that a child's record, emergency information, photograph, and identifying information are confidential and may not be copied, posted online, or disclosed without written parental consent.",
+   "section": "114-503.I.(2)",
+   "page": 26,
+   "quote": "A child's record, emergency information, photograph and other information about the child or family and information that may identify a child by name or address is confidential and may not be copied, posted on a web site or disclosed to unauthorized persons, without written consent from the child's parent."
+  },
+  {
+   "id": "supervision_at_all_times",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Children must be directly supervised at all times by qualified staff, with at least two staff persons in the center at all times.",
+   "section": "114-504.A.(1)-(4)",
+   "page": 29,
+   "quote": "There shall be at least two staff persons in the center at all times;"
+  },
+  {
+   "id": "tracking_children",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "The center must have a written procedure to account for each child's presence as the child enters and exits the premises, vehicles, or moves to a new location.",
+   "section": "114-504.A.(3)",
+   "page": 29,
+   "quote": "The center shall have a written procedure to account for the presence of each child as the child enters and exits the premises, enters and exits a vehicle or moves to a new location in or around the center;"
+  },
+  {
+   "id": "cpr_first_aid_present",
+   "topic": "health, sanitation and safety",
+   "kind": "rule",
+   "requirement": "At least one person certified in pediatric first aid, rescue breathing, CPR, and management of a blocked airway must be present in the center at all times when children are in care.",
+   "section": "114-503.K.(5)(h)",
+   "page": 29,
+   "quote": "At least one person who is certified in pediatric first aid, including rescue breathing, CPR, and management of a blocked airway shall be present in the center at all times when children are in care, and during group outings or field trips."
+  },
+  {
+   "id": "health_statement",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A parent or guardian statement attesting to the child's health status must be provided within 30 days prior to admission.",
+   "section": "114-505.A.(1)",
+   "page": 30,
+   "quote": "There shall be a statement from a parent/guardian attesting to the health status of the child within 30 days prior to admission and utilizing the appropriate DSS Form."
+  },
+  {
+   "id": "exclusion_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The handbook must state that children are excluded from care when they exhibit conditions listed in the DHEC Exclusion Policy.",
+   "section": "114-505.A.(2)",
+   "page": 30,
+   "quote": "Children shall be excluded from child care when they exhibit the conditions listed in the South Carolina Department of Health and Environmental Control Exclusion Policy, State Law 1976, Code Section 44-1-110, 44-1-140, and 44-29-10."
+  },
+  {
+   "id": "no_smoking_alcohol",
+   "topic": "health, sanitation and safety",
+   "kind": "must_include",
+   "requirement": "The handbook must state that there is no smoking or consumption of alcoholic beverages or use of illegal substances on the premises during hours of operation, and people under the influence may not be present.",
+   "section": "114-505.A.(3)",
+   "page": 30,
+   "quote": "During hours of operation there shall be no smoking or consumption of alcoholic beverages, or use of other non—prescription narcotic or illegal substances on the center premises. People who appear to be under the influence of alcohol or other drugs shall not be in the center when children are present."
+  },
+  {
+   "id": "emergency_medical_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have a written emergency medical plan addressing when emergency care is warranted, steps to follow, hospital or source of care, transportation method, and emergency staffing.",
+   "section": "114-505.C.(1)",
+   "page": 30,
+   "quote": "The center shall have an emergency medical plan to address the following: (a) Medical conditions under which emergency care and treatment is warranted; (b) Steps to be followed in a medical emergency; (c) The hospital or source of health care to be used; (d) The method of transportation to be used; and (e) An emergency staffing plan."
+  },
+  {
+   "id": "medication_consent",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "Written, signed, and dated parental consent is required before administering any prescription or over-the-counter medication or special medical procedure.",
+   "section": "114-505.D.(1)",
+   "page": 31,
+   "quote": "Written, signed and dated parental consent is required prior to the administration of any prescription or over the counter medication or administration of special medical procedures:"
+  },
+  {
+   "id": "medication_log",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "A medication log must be kept for each medication administered, including child's name, medication, dosage, date, time, and administrator, and a copy provided to parents.",
+   "section": "114-505.D.(3)",
+   "page": 31,
+   "quote": "For each medication that is administered by a staff person, a log shall be kept including the child's name, the name of the medication, dosage, date, time and name of person administering the medication. This information shall be logged immediately following the administration of the medication and a copy provided to the child's parent(s)/guardian(s)."
+  },
+  {
+   "id": "first_aid_kit",
+   "topic": "health, sanitation and safety",
+   "kind": "rule",
+   "requirement": "A first aid kit must be available for minor cuts and abrasions and stored in a location inaccessible to children.",
+   "section": "114-505.E.(1)",
+   "page": 31,
+   "quote": "A first aid kit shall be available for the treatment of minor cuts and abrasions and shall be stored in a location inaccessible to children."
+  },
+  {
+   "id": "evacuation_plan",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must have an up-to-date written plan for evacuating in case of fire, natural disaster, or other threatening situation, including procedures for staff training.",
+   "section": "114-505.H.(3)",
+   "page": 33,
+   "quote": "The facility shall have an up to date written plan for evacuating in case of fire, a natural disaster, or other threatening situation that may pose a health or safety hazard. The facility shall also include procedures for staff training in this emergency plan."
+  },
+  {
+   "id": "fire_marshal_compliance",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "The center must comply with the regulations and codes of the State Fire Marshal.",
+   "section": "114-505.H.(1)",
+   "page": 33,
+   "quote": "Private and public child care centers shall comply with the regulations and codes of the State Fire Marshal."
+  },
+  {
+   "id": "transportation_requirements",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If the center provides or arranges transportation, the handbook must reflect required safety restraints, no unattended children in vehicles, valid driver's license, first aid kit and emergency information, no tobacco, and written parental consent.",
+   "section": "114-505.I.(1)",
+   "page": 33,
+   "quote": "Written consent from the parent is required prior to transportation."
+  },
+  {
+   "id": "discipline_policy",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "The center's discipline policy must outline age-appropriate guidance methods and implement positive, non-violent, non-abusive behavior management.",
+   "section": "114-506.B.(1)",
+   "page": 34,
+   "quote": "The facility's discipline policy shall outline methods of guidance appropriate to the ages of the children. Positive, non-violent, non-abusive methods for managing behavior shall be implemented."
+  },
+  {
+   "id": "no_corporal_punishment",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "The handbook must state that corporal punishment is prohibited and all teacher/caregivers sign an agreement implementing the discipline policy with no corporal punishment.",
+   "section": "114-506.B.(2)",
+   "page": 34,
+   "quote": "All teacher/caregivers shall sign a facility agreement to implement the discipline and behavior management policy, with a statement that specifies no corporal punishment."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance",
+   "kind": "must_include",
+   "requirement": "The handbook must state that emotional abuse, withholding or forcing food, sleep, or toileting, unsupervised isolation, using children to discipline others, and drug or mechanical restraints are prohibited.",
+   "section": "114-506.B.(3)-(7)",
+   "page": 34,
+   "quote": "Emotional abuse is also prohibited, including but not limited to: profane, harsh, demeaning or humiliating language in the presence of children."
+  },
+  {
+   "id": "outdoor_play",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "All children must be given the opportunity for outdoor play daily, weather permitting.",
+   "section": "114-506.A.(8)",
+   "page": 34,
+   "quote": "All children shall be given the opportunity for outdoor play daily, weather permitting."
+  },
+  {
+   "id": "indoor_space",
+   "topic": "health, sanitation and safety",
+   "kind": "rule",
+   "requirement": "The center must provide at least 35 square feet of indoor play space per child.",
+   "section": "114-507.A.(1)",
+   "page": 34,
+   "quote": "The director shall provide at least thirty-five (35) square feet of indoor play space per child, measured by Department staff from wall to wall."
+  },
+  {
+   "id": "outdoor_space",
+   "topic": "health, sanitation and safety",
+   "kind": "rule",
+   "requirement": "The center must provide at least 75 square feet of outdoor play space per child, or use shifts or accessible parks meeting safety requirements.",
+   "section": "114-507.B.(1)",
+   "page": 37,
+   "quote": "The director shall provide at least seventy-five (75) square feet of outdoor play space per child. Where outdoor space is insufficient at the center, the director and/or staff may take the children outdoors in shifts or utilize parks or other outdoor play areas which meet safety requirements and which are easily accessible."
+  },
+  {
+   "id": "round_firm_foods",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Round, firm foods such as hot dogs, grapes, hard candy, nuts, peanuts, and popcorn must not be offered to children younger than four, except hot dogs cut lengthwise and quartered and grapes cut in halves.",
+   "section": "114-508.A.(3)",
+   "page": 39,
+   "quote": "Round, firm foods shall not be offered to children younger than four years old. Examples of such foods include: hot dogs, grapes, hard candy, nuts, peanuts, and popcorn. Hot dogs may be served if cut lengthwise and quartered; grapes may be served if cut in halves."
+  },
+  {
+   "id": "parent_notification_illness",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The handbook must state that if a child becomes ill while in care, the center notifies the parent or responsible party immediately.",
+   "section": "114-509.B.(1)(a)",
+   "page": 43,
+   "quote": "If a child becomes ill while in care, the center shall notify the parent or responsible party immediately."
+  },
+  {
+   "id": "mildly_ill_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "If the center provides care for mildly ill children, it must have written policies and procedures specifying inclusion and exclusion, communication with parents, recording of illness and care, prohibited illnesses and symptoms, staff training, and emergency health procedures.",
+   "section": "114-509.B.(2)(a)",
+   "page": 43,
+   "quote": "If a center chooses to provide care to a mildly ill child, the center shall have written policies and procedures specifying inclusion and exclusion from the group, communication with parents, recording of illness and care provided, specific types of illnesses and symptoms which prohibit care from being provided, special staff training required and emergency health procedures."
+  },
+  {
+   "id": "water_safety_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Water safety ratios must follow the required table, including 1:1 for birth to two years, 1:2 for two to three years, 1:3 for three to four years, 1:6 for four to five years, and 2:25 for five years and older.",
+   "section": "114-504.D.(1)",
+   "page": 77,
+   "quote": "Birth to two years 1:1; Two to three years 1:2; Three to four years 1:3; Four to five years 1:6; Five years and older 2:25"
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "emergency_info_with_child",
+   "topic": "emergencies and evacuation",
+   "kind": "rule",
+   "requirement": "Emergency information must be taken with the child to the hospital or emergency location, and a staff person must remain with the child until the parent arrives.",
+   "section": "114-505.C.(2)-(3)",
+   "page": "[SC page 31]",
+   "quote": "Emergency information for the child shall be taken with the child to the hospital or emergency location. A staff person shall remain with the child at the hospital or emergency location until the parent arrives."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medications must be kept in original labeled containers with child protective caps, stored in a separate locked container, and expired or discontinued medications returned or safely disposed of.",
+   "section": "114-505.D.(2)",
+   "page": "[SC page 31]",
+   "quote": "All medications shall be kept in their original labeled containers and have child protective caps. The child's first and last name shall be on all medications; All medications shall be stored in a separate locked container under proper conditions of sanitation, temperature, light, and moisture; and Discontinued and expired medications shall not be used and shall be returned to the parent or disposed of in a safe manner."
+  },
+  {
+   "id": "medication_errors",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication errors must be recorded in the child's record, and parents must be immediately notified and notified in writing.",
+   "section": "114-505.D.(4)",
+   "page": "[SC page 31]",
+   "quote": "Medication errors, e.g. failure to administer a medication at the prescribed time, administering an incorrect dosage of medication or administering the wrong medication, shall be recorded in the child's record; and The parent shall be immediately notified and notified in writing of a medication error or a suspected adverse reaction to a medication."
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The handbook must not contradict the required staff-to-child ratios by age, including 1:5 for birth to one year, 1:6 for one to two years, 1:8 for two to three years, 1:12 for three to four years, 1:17 for four to five years, 1:20 for five to six years, and 1:23 for six to twelve years.",
+   "section": "114-504.B.(1)",
+   "page": "[SC page 29]",
+   "quote": "Birth to one year 1:5 One to two years 1:6 Two to three years 1:8 Three to four years 1:12 Four to five years 1:17 Five to six years 1:20 Six to twelve years 1:23"
+  },
+  {
+   "id": "nap_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "Nap-time ratios must follow the required table, including 1:5 for birth to one year, 1:6 for one to two years, 1:16 for two to three years, 1:24 for three to four years, and 1:34 for four years and older.",
+   "section": "114-504.C.(1)",
+   "page": "[SC page 29]",
+   "quote": "Birth to one year 1:5 One to two years 1:6 Two to three years 1:16 Three to four years 1:24 Four years and older 1:34"
+  },
+  {
+   "id": "safe_pickup_dropoff",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "must_include",
+   "requirement": "The handbook must reflect safe crossways and pickup/drop-off locations, direct supervision during boarding and exiting vehicles, written permission for transportation, and written transportation plans with loading/unloading checklists.",
+   "section": "114-505.I.(2)",
+   "page": "[SC page 33]",
+   "quote": "The center shall have safe crossways and pick-up and drop-off locations and communicate these locations to the parents. Children shall be directly supervised during boarding and exiting vehicles."
+  },
+  {
+   "id": "meals_menus",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "If food is provided, daily menus must be dated and posted in a conspicuous public location, and meals and snacks must comply with USDA Child Care Food Program Guidelines.",
+   "section": "114-508.A.(1)(a)-(b)",
+   "page": "[SC page 39]",
+   "quote": "Daily menus shall be dated and posted in a conspicuous location in public view. Meals and snacks provided shall be in compliance with the USDA Child Care Food Program Guidelines. Centers that do not provide overnight care shall serve at least one meal and at least one snack that meet USDA Child Care Food Program Guidelines."
+  },
+  {
+   "id": "dietary_alternatives",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "Dietary alternatives must be available for children with special health needs or religious beliefs, with written permission or instructions signed by the health care provider or parent.",
+   "section": "114-508.A.(9)-(10)",
+   "page": "[SC page 40]",
+   "quote": "Dietary alternatives shall be available for a child who has special health needs or religious beliefs. Written permission/instructions for dietary modifications signed by the child's health care provider or parent or legal guardian are required."
+  },
+  {
+   "id": "no_forced_eating",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children must not be deprived of a meal or snack if in attendance, must not be forced to eat, and food must not be used as punishment.",
+   "section": "114-508.C.(1),(3)-(4)",
+   "page": "[SC page 40]",
+   "quote": "No child shall be deprived of a meal or snack if he/she is in attendance at the time the meal or snack is served. Children shall not be forced to eat. Food shall not be used as a punishment."
+  },
+  {
+   "id": "safe_sleep_infants",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must be placed on their backs to sleep, and bottles must not be propped or given in cribs or on mats.",
+   "section": "114-509.A.(5)(a), A.(3)(c)",
+   "page": "[SC page 43]",
+   "quote": "Infants shall be placed on their backs to sleep. Bottles shall not be propped or given in cribs or on mats."
+  },
+  {
+   "id": "crib_spacing",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Cribs must be spaced with at least three feet of space on two sides, and stacked cribs are not permitted.",
+   "section": "114-509.A.(5)(c)-(d)",
+   "page": "[SC page 43]",
+   "quote": "Cribs shall be spaced so that there is at least three feet of space on two sides of the crib. Cribs shall not be placed next to each other so that one child may reach into the other child's crib. Stacked cribs are not permitted."
+  },
+  {
+   "id": "infant_feeding",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infants must be held while bottle fed until able to hold their own bottles, and infants and toddlers must not sleep with bottles in their mouths.",
+   "section": "114-509.A.(3)(c),(g)",
+   "page": "[SC page 42]",
+   "quote": "Infants shall be held while being bottle fed until they are able to hold their own bottles. Bottles shall not be propped or given in cribs or on mats. Infants and toddlers shall not sleep with bottles in their mouths."
+  },
+  {
+   "id": "written_daily_program",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "The center must have a written, planned, daily program of activities for all children that is developmentally appropriate.",
+   "section": "114-506.A.(1)-(2)",
+   "page": "[SC page 33]",
+   "quote": "There shall be a written, planned, daily program of activities for all children. Activities shall be developmentally appropriate."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.1934,
+ "tokens_in": 434171,
+ "tokens_out": 16439,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

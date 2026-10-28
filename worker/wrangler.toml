@@ -1,0 +1,38 @@
+name = "carerules-api"
+main = "src/index.ts"
+compatibility_date = "2026-08-06"
+workers_dev = false # the page and the API live on care.backpr.com only
+routes = [{ pattern = "care.backpr.com", custom_domain = true }]
+
+# The page itself (built by scripts/stage.py); /code and /beam are handled by the Worker code.
+[assets]
+directory = "../build/site"
+binding = "ASSETS"
+
+# Reply cache (7 days).
+[[kv_namespaces]]
+binding = "KV"
+id = "047a2255afe843548c356efb85dca5fb"
+
+# Every spending counter, in one place so parallel requests can't slip past the limits.
+[[durable_objects.bindings]]
+name = "BUDGET"
+class_name = "Budget"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Budget"]
+
+# Per visitor (IP): 40 API requests a minute.
+[[ratelimits]]
+name = "RL"
+namespace_id = "1001"
+simple = { limit = 40, period = 60 }
+
+[vars]
+DAILY_USD = "2"   # codes without their own daily limit, together (reservations are worst-case, refunded after)
+TOTAL_USD = "6"   # pooled spending (public codes + no-code samples), ever; keep below the Hugging Face credit
+LIVE_OFF = "0"    # "1" pauses live checks
+DEMO_USD = "1"    # no-code sample-handbook checks, together, per day
+
+# Secrets (set with `wrangler secret put`, never committed): HF_TOKEN, ACCESS_CODES

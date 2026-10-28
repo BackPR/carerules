@@ -1,0 +1,154 @@
+[
+ {
+  "state": "AL",
+  "label": "DHR Licensing and Performance Standards for Day Care Centers (eff. Sept. 13, 2021)",
+  "url": "https://dhr.alabama.gov/wp-content/uploads/2023/04/PROPOSED-Centers-Child-Care-Licensing-and-Performance-Standards-8-26-21.pdf",
+  "file": "raw/pdf/AL.pdf",
+  "status": "200 application/pdf 1694338",
+  "is_pdf": true
+ },
+ {
+  "state": "AR",
+  "label": "Minimum Licensing Requirements for Out-of-School Time Facilities (PDF)",
+  "url": "https://dese.ade.arkansas.gov/Files/2020-OST-Clean-Copy_20230506120357.pdf",
+  "file": "raw/pdf/AR.pdf",
+  "status": "200 application/pdf 1433896",
+  "is_pdf": true
+ },
+ {
+  "state": "CO",
+  "label": "8 CCR 1402-1 full text (PDF)",
+  "url": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=12417&fileName=8%20CCR%201402-1",
+  "file": "raw/pdf/CO.pdf",
+  "status": "200 application/pdf 2272675",
+  "is_pdf": true
+ },
+ {
+  "state": "DC",
+  "label": "OSSE Final Rulemaking, Licensing of Child Development Facilities (Dec. 2016, full text)",
+  "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final%20Rulemaking%20for%20the%20Licensing%20of%20Child%20Development%20Facilities.pdf",
+  "file": "raw/pdf/DC.pdf",
+  "status": "200 application/pdf 1307253",
+  "is_pdf": true
+ },
+ {
+  "state": "HI",
+  "label": "HAR ch. 17-892.2, Group Child Care Centers and Group Child Care Homes (eff. June 2024)",
+  "url": "https://humanservices.hawaii.gov/bessd/files/2024/09/Licensing-of-Group-Child-Care-Centers-and-Group-Child-Care-Homes-Chapter-17-892.2-6-6-24.pdf",
+  "file": "raw/pdf/HI.pdf",
+  "status": "200 application/pdf 6590513",
+  "is_pdf": true
+ },
+ {
+  "state": "IA",
+  "label": "441 IAC 109 Child care centers (rule 109.8 staff ratio)",
+  "url": "https://www.legis.iowa.gov/docs/iac/chapter/441.109.pdf",
+  "file": "raw/pdf/IA.pdf",
+  "status": "200 application/pdf 294510",
+  "is_pdf": true
+ },
+ {
+  "state": "ME",
+  "label": "10-148 CMR Ch. 32 Child Care Facility Licensing Rule (OCFS PDF, eff. Sept. 27, 2021)",
+  "url": "https://www.maine.gov/dhhs/sites/maine.gov.dhhs/files/inline-files/10-148%20Ch.%2032%20Child%20Care%20Facility%20Licensing%20Rule%20Effective%209-27-21_jpf%20edits.pdf",
+  "file": "raw/pdf/ME.pdf",
+  "status": "403 text/html 919",
+  "is_pdf": false
+ },
+ {
+  "state": "MS",
+  "label": "MSDH Regulations Governing Licensure of Child Care Facilities (effective Feb. 26, 2026)",
+  "url": "https://msdh.ms.gov/page/resources/78.pdf",
+  "file": "raw/pdf/MS.pdf",
+  "status": "200 application/pdf 666396",
+  "is_pdf": true
+ },
+ {
+  "state": "MO",
+  "label": "5 CSR 25-500, Licensing Rules for Group Child Care Homes and Child Care Centers (Secretary of State)",
+  "url": "https://www.sos.mo.gov/CMSImages/AdRules/csr/current/5csr/5c25-500.pdf",
+  "file": "raw/pdf/MO.pdf",
+  "status": "200 application/pdf 323900",
+  "is_pdf": true
+ },
+ {
+  "state": "NH",
+  "label": "He-C 4002 NH Child Care Licensing Rule (adopted 8/26/25)",
+  "url": "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/he-c-4002-formatted.pdf",
+  "file": "raw/pdf/NH.pdf",
+  "status": "403 text/html 473",
+  "is_pdf": false
+ },
+ {
+  "state": "NJ",
+  "label": "N.J.A.C. 3A:52 Manual of Requirements for Child Care Centers (effective Dec. 20, 2023)",
+  "url": "https://www.nj.gov/dcf/documents/providers/licensing/laws/CCCmanual.pdf",
+  "file": "raw/pdf/NJ.pdf",
+  "status": "200 application/pdf 614999",
+  "is_pdf": true
+ },
+ {
+  "state": "NM",
+  "label": "8.9.4 NMAC as amended effective Nov. 4, 2025 (ECECD)",
+  "url": "https://www.nmececd.org/wp-content/uploads/2025/10/8.9.4-NMAC-10.23.25-FINAL.pdf",
+  "file": "raw/pdf/NM.pdf",
+  "status": "200 application/pdf 789089",
+  "is_pdf": true
+ },
+ {
+  "state": "NC",
+  "label": "Chapter 9 Child Care Rules, effective July 1, 2025 (DCDEE)",
+  "url": "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/C/Chapter_9_Child_Care_Rules_Effective_July_1_2025.pdf?ver=9gQO5ZV3KdVI8BanULluoA%3d%3d",
+  "file": "raw/pdf/NC.pdf",
+  "status": "200 application/pdf 1556266",
+  "is_pdf": true
+ },
+ {
+  "state": "ND",
+  "label": "N.D. Admin. Code ch. 75-03-10 (child care centers)",
+  "url": "https://www.ndlegis.gov/information/acdata/pdf/75-03-10.pdf",
+  "file": "raw/pdf/ND.pdf",
+  "status": "200 application/pdf 224322",
+  "is_pdf": true
+ },
+ {
+  "state": "OK",
+  "label": "OKDHS Licensing Requirements for Child Care Programs, Pub. 14-05 (effective 11/1/2025)",
+  "url": "https://oklahoma.gov/content/dam/ok/en/okdhs/documents/okdhs-publication-library/14-05_LicensingRequirementsforChildCarePrograms_ccs_07312025.pdf",
+  "file": "raw/pdf/OK.pdf",
+  "status": "200 application/pdf 3918829",
+  "is_pdf": true
+ },
+ {
+  "state": "OR",
+  "label": "DELC Rules for Certified Child Care Centers, CCLD-0084 (OAR 414-305)",
+  "url": "https://www.oregon.gov/delc/providers/CCLD_Library/CCLD-0084-Rules-for-Certified-Child-Care-Centers-EN.pdf",
+  "file": "raw/pdf/OR.pdf",
+  "status": "200 application/pdf 912060",
+  "is_pdf": true
+ },
+ {
+  "state": "SC",
+  "label": "S.C. Code Regs. Chapter 114 (Regs. 114-500 to 114-509, licensed centers)",
+  "url": "https://www.scstatehouse.gov/coderegs/Chapter%20114.pdf",
+  "file": "raw/pdf/SC.pdf",
+  "status": "200 application/pdf 717986",
+  "is_pdf": true
+ },
+ {
+  "state": "TN",
+  "label": "Rule 1240-04-01, Licensure Rules for Child Care Agencies (TN Secretary of State, Feb 2026)",
+  "url": "https://publications.tnsosfiles.com/rules/1240/1240-04/1240-04-01.20260208.pdf",
+  "file": "raw/pdf/TN.pdf",
+  "status": "403 text/html 919",
+  "is_pdf": false
+ },
+ {
+  "state": "TX",
+  "label": "HHSC Minimum Standards for Child-Care Centers (26 TAC Ch. 746), revised December 2025",
+  "url": "https://www.hhs.texas.gov/sites/default/files/documents/doing-business-with-hhs/provider-portal/protective-services/ccl/min-standards/chapter-746-centers.pdf",
+  "file": "raw/pdf/TX.pdf",
+  "status": "200 application/pdf 1789395",
+  "is_pdf": true
+ }
+]

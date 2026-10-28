@@ -1,0 +1,779 @@
+{
+ "state": "MI",
+ "rulebook": "Licensing Child Care Centers, Mich. Admin. Code R 400.8101 - R 400.8840 (Department of Lifelong Education, Advancement, and Potential, Child Care Licensing Bureau), current through 2025 MR 10, eff. May 7, 2025",
+ "items": [
+  {
+   "id": "licensing_notebook",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must maintain a current licensing notebook with specified licensing documents and make it accessible to parents.",
+   "section": "R 400.8110(4)",
+   "page": 8,
+   "quote": "There must be a current licensing notebook that includes all licensing inspections, special investigation reports, corrective action plans, approval letters for the last 3 calendar years, and a summary sheet outlining the documents contained in the notebook. The notebook must always be in a place accessible to parents and prospective parents during the center’s normal hours of operation, or if internet is available at the center, access may be provided through the department's electronic database of licensing records for the entity."
+  },
+  {
+   "id": "license_visible",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The current license and related documents must be in a place accessible and visible to parents.",
+   "section": "R 400.8110(3)(a)",
+   "page": 8,
+   "quote": "The current license and, if applicable, the letter extending the license beyond the expiration date, and a copy of the last page of any variances granted."
+  },
+  {
+   "id": "rules_available",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "A copy of the rules must be made available to parents.",
+   "section": "R 400.8110(3)(b)",
+   "page": 8,
+   "quote": "A copy of these rules must be made available to the parents."
+  },
+  {
+   "id": "background_check_notice",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The center must post a notice stating that it requires comprehensive background checks on employees and unsupervised volunteers.",
+   "section": "R 400.8110(3)(c)",
+   "page": 8,
+   "quote": "A notice stating that the center requires a comprehensive background check on its employees and unsupervised volunteers."
+  },
+  {
+   "id": "child_information_card",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "At initial attendance, the center must obtain a completed, signed, and dated child information card and keep current hard copies at the center.",
+   "section": "R 400.8112(1)",
+   "page": 8,
+   "quote": "At the time of a child’s initial attendance, a center shall obtain a child information card, using a form provided by the department or a comparable substitute, that is completed, signed, and dated by the child’s parent and updated as changes occur. The center shall keep current hard copies of the child information cards at the center."
+  },
+  {
+   "id": "immunization_records",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "For children under school-age, the center must document immunization status or an approved waiver at initial attendance.",
+   "section": "R 400.8112(2)",
+   "page": 8,
+   "quote": "For children under school-age, at the time of a child’s initial attendance, a center shall document 1 of the following, accessed through the Michigan care improvement registry or in a paper format if the parent or guardian chooses to provide to the center in that manner: (a) A certificate of immunization showing a minimum of 1 dose of each immunizing agent specified by the department of health and human services."
+  },
+  {
+   "id": "physical_evaluation",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "A record of a physical evaluation within the preceding 13 months must be on file within 30 days after initial attendance for infants, toddlers, and preschoolers.",
+   "section": "R 400.8112(5)",
+   "page": 9,
+   "quote": "A record of a physical evaluation performed within the preceding 13 months after initial attendance for infants, toddlers, and preschoolers must be retained on file and made accessible in the center within 30 days after a child’s initial attendance. The evaluation must note any restrictions and be signed by a physician or the physician’s designee. An electronic record from a physician’s office is accepted."
+  },
+  {
+   "id": "school_age_health_statement",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "For school-age children, the center must obtain and keep on file a signed parent statement about health and immunizations at enrollment and annually.",
+   "section": "R 400.8112(7)",
+   "page": 9,
+   "quote": "For a school-age child, on enrollment and annually thereafter, a center shall obtain and keep on file at the center a signed statement from the parent confirming all of the following: (a) The child is in good health with activity restrictions noted. (b) The child’s immunizations are up to date. (c) The immunization record or appropriate waiver is maintained on file either in the Michigan care improvement registry or in paper format provided by the parent at the center. For a school-age child not enrolled in a public or private school, a licensed health care provider’s statement indicating the child is in the process of getting immunizations must be on file at the center."
+  },
+  {
+   "id": "religious_objection_statement",
+   "topic": "immunizations and health records",
+   "kind": "rule",
+   "requirement": "If a parent objects to physical examination or medical treatment on religious grounds, the parent must provide a signed annual statement that the child is in good health and the parent assumes responsibility.",
+   "section": "R 400.8112(8)",
+   "page": 9,
+   "quote": "A center shall ensure that, if a parent objects to a physical examination or medical treatment on religious grounds, the parent provides a signed statement annually that the child is in good health and that the parent assumes responsibility for the child’s state of health while at the center."
+  },
+  {
+   "id": "daily_attendance_record",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "The center must keep an accurate daily attendance record including each child's name and arrival and departure times.",
+   "section": "R 400.8112(10)",
+   "page": 10,
+   "quote": "A center shall keep on file at the center an accurate record of daily attendance at the center that includes each child’s first and last name and each child’s arrival and departure time."
+  },
+  {
+   "id": "release_authorized_persons",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child may only be released to individuals authorized by the parent or guardian.",
+   "section": "R 400.8112(11)",
+   "page": 10,
+   "quote": "A child shall only be released to individuals authorized by the child’s parent or guardian."
+  },
+  {
+   "id": "release_either_parent",
+   "topic": "arrival, release and authorized pickup",
+   "kind": "rule",
+   "requirement": "A child must be released to either parent or guardian unless a court order prohibits release to a particular parent, and a copy of that order must be on file.",
+   "section": "R 400.8112(12)",
+   "page": 10,
+   "quote": "A child shall be released to either parent or the child’s guardian unless a court order prohibits release to a particular parent. A copy of the order prohibiting release must be maintained on file at the center."
+  },
+  {
+   "id": "routine_transportation_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A parent's written permission for routine transportation must be obtained annually and maintained on file.",
+   "section": "R 400.8112(13)",
+   "page": 10,
+   "quote": "A parent’s written permission for routine transportation must be obtained annually and maintained on file at the center."
+  },
+  {
+   "id": "field_trip_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "A parent's written permission for field trips must be obtained at enrollment or before each trip and maintained on file.",
+   "section": "R 400.8112(14)",
+   "page": 10,
+   "quote": "A parent’s written permission for the child’s participation in field trips must be obtained at the time of enrollment or before each field trip and maintained on file at the center."
+  },
+  {
+   "id": "field_trip_notification",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Parents must be notified before each field trip.",
+   "section": "R 400.8112(15)",
+   "page": 10,
+   "quote": "Parents shall be notified before each field trip."
+  },
+  {
+   "id": "outdoor_nature_waiver",
+   "topic": "enrollment and admission",
+   "kind": "rule",
+   "requirement": "Outdoor nature-based centers must maintain a signed parent waiver acknowledging potential hazards and risks.",
+   "section": "R 400.8112(16)",
+   "page": 10,
+   "quote": "For outdoor nature-based child care centers, a signed waiver by the parent that acknowledges and accepts the potential hazards and risks associated with the center must be maintained on file at the center."
+  },
+  {
+   "id": "confidentiality_records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "Records required by the act and rules must be retained on file for a minimum of 2 calendar years or longer as specified and made available to the department on request.",
+   "section": "R 400.8112a(3)",
+   "page": 10,
+   "quote": "The records required by the act and these rules must be retained on file at the center or at the central office, as specified in the rules, for a minimum of 2 calendar years or longer as specified in these rules and made available to the department on request. Verification of records must be conducted by reviewing the 2 previous calendar years from the current license renewal year."
+  },
+  {
+   "id": "staff_records_retention",
+   "topic": "confidentiality and records",
+   "kind": "rule",
+   "requirement": "The center must retain names, addresses, and telephone numbers for each enrolled child and each staff member or unsupervised volunteer for at least 2 years after the individual leaves.",
+   "section": "R 400.8112a(4)(a)",
+   "page": 10,
+   "quote": "The name, address, and telephone number for each child enrolled and each staff member and unsupervised volunteer for not less than 2 years after the individual leaves the center."
+  },
+  {
+   "id": "handbook_contents",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include criteria for admission and withdrawal.",
+   "section": "R 400.8113(1)(a)",
+   "page": 11,
+   "quote": "A center shall provide a handbook, electronically or hard copy, to each parent enrolling a child that includes at least all of the following: (a) Criteria for admission and withdrawal."
+  },
+  {
+   "id": "handbook_schedule",
+   "topic": "hours and closings",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the schedule of operation, including hours, days, and holidays.",
+   "section": "R 400.8113(1)(b)",
+   "page": 11,
+   "quote": "Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided."
+  },
+  {
+   "id": "handbook_fee_policy",
+   "topic": "fees and payment",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the center's fee policy.",
+   "section": "R 400.8113(1)(c)",
+   "page": 11,
+   "quote": "(a) Criteria for admission and withdrawal. (b) Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided. (c) Fee policy."
+  },
+  {
+   "id": "handbook_discipline_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the center's discipline policy.",
+   "section": "R 400.8113(1)(d)",
+   "page": 11,
+   "quote": "(a) Criteria for admission and withdrawal. (b) Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided. (c) Fee policy. (d) Discipline policy."
+  },
+  {
+   "id": "handbook_food_policy",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the center's food service policy.",
+   "section": "R 400.8113(1)(e)",
+   "page": 11,
+   "quote": "(a) Criteria for admission and withdrawal. (b) Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided. (c) Fee policy. (d) Discipline policy. (e) Food service policy."
+  },
+  {
+   "id": "handbook_philosophy",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the center's program philosophy.",
+   "section": "R 400.8113(1)(f)",
+   "page": 11,
+   "quote": "(a) Criteria for admission and withdrawal. (b) Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided. (c) Fee policy. (d) Discipline policy. (e) Food service policy. (f) Program philosophy."
+  },
+  {
+   "id": "handbook_daily_routine",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the typical daily routine.",
+   "section": "R 400.8113(1)(g)",
+   "page": 11,
+   "quote": "(a) Criteria for admission and withdrawal. (b) Schedule of operation that denotes the hours, days, and holidays during which the center is open and services are provided. (c) Fee policy. (d) Discipline policy. (e) Food service policy. (f) Program philosophy. (g) Typical daily routine."
+  },
+  {
+   "id": "handbook_notification_plan",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the parent notification plan for accidents, injuries, incidents, and illnesses.",
+   "section": "R 400.8113(1)(h)",
+   "page": 11,
+   "quote": "Parent notification plan for accidents, injuries, incidents, and illnesses."
+  },
+  {
+   "id": "handbook_transportation_policy",
+   "topic": "field trips and transport",
+   "kind": "must_include",
+   "requirement": "If transportation is provided, the parent handbook must include the transportation policy.",
+   "section": "R 400.8113(1)(i)",
+   "page": 11,
+   "quote": "(h) Parent notification plan for accidents, injuries, incidents, and illnesses. (i) Transportation policy, if applicable."
+  },
+  {
+   "id": "handbook_medication_policy",
+   "topic": "medication",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the center's medication policy.",
+   "section": "R 400.8113(1)(j)",
+   "page": 11,
+   "quote": "(i) Transportation policy, if applicable. (j) Medication policy. (k) Exclusion policy for child illnesses."
+  },
+  {
+   "id": "handbook_exclusion_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The parent handbook must include the exclusion policy for child illnesses.",
+   "section": "R 400.8113(1)(k)",
+   "page": 11,
+   "quote": "(j) Medication policy. (k) Exclusion policy for child illnesses. (l) Notice of the availability of the center’s licensing notebook and that it contains the items described in R 400.8110(4)."
+  },
+  {
+   "id": "handbook_licensing_notebook_notice",
+   "topic": "complaints and licensing contact",
+   "kind": "must_include",
+   "requirement": "The parent handbook must notify parents that the licensing notebook is available and describe its contents.",
+   "section": "R 400.8113(1)(l)",
+   "page": 11,
+   "quote": "Notice of the availability of the center’s licensing notebook and that it contains the items described in R 400.8110(4)."
+  },
+  {
+   "id": "handbook_receipt",
+   "topic": "confidentiality and records",
+   "kind": "must_include",
+   "requirement": "The center must maintain documentation that each parent received the handbook.",
+   "section": "R 400.8113(2)",
+   "page": 11,
+   "quote": "Documentation that the parent received the handbook, as required by subrule (1) of this rule, must be maintained on file at the center."
+  },
+  {
+   "id": "infant_toddler_daily_record",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "For infants and toddlers, the center must provide parents a written daily record with specified information.",
+   "section": "R 400.8113(3)",
+   "page": 11,
+   "quote": "For infants and toddlers, a center shall provide parents with a written daily record that includes at least the following information: (a) Food intake time, type of food, and amount eaten. (b) Sleeping patterns indicating when and how long the child slept. (c) Elimination patterns, including bowel movements, consistency, and frequency. (d) Developmental milestones. (e) Changes in the child’s usual behaviors."
+  },
+  {
+   "id": "special_needs_daily_record",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents of children with special needs may request a written daily record with the required information.",
+   "section": "R 400.8113(4)",
+   "page": 11,
+   "quote": "Parents of children with special needs may request a written daily record that includes at least the information required by subrule (3) of this rule."
+  },
+  {
+   "id": "parent_handbook_receipt",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "The center must provide a handbook to each parent enrolling a child and maintain documentation of receipt.",
+   "section": "R 400.8113(1)",
+   "page": 11,
+   "quote": "A center shall provide a handbook, electronically or hard copy, to each parent enrolling a child that includes at least all of the following:"
+  },
+  {
+   "id": "withdrawal_criteria",
+   "topic": "withdrawal and termination of care",
+   "kind": "rule",
+   "requirement": "The handbook must include criteria for withdrawal, and the center must follow its stated admission and withdrawal criteria.",
+   "section": "R 400.8113(1)(a)",
+   "page": 11,
+   "quote": "A center shall provide a handbook, electronically or hard copy, to each parent enrolling a child that includes at least all of the following: (a) Criteria for admission and withdrawal."
+  },
+  {
+   "id": "phone_access",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must provide a phone number known to the public and available to parents for immediate access during operating hours.",
+   "section": "R 400.8137(2)",
+   "page": 17,
+   "quote": "During the hours the center is in operation, a phone number known to the public and available to parents to provide immediate access to the center must be provided."
+  },
+  {
+   "id": "emergency_numbers_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "Emergency phone numbers and the facility's physical address and cross streets must be conspicuously posted where staff can see them.",
+   "section": "R 400.8137(3)",
+   "page": 17,
+   "quote": "Emergency phone numbers, including 911, fire, police, Michigan Mental Health Hotline (866-903-3787), and the poison control center, and the facility’s physical address and 2 main cross streets, must be conspicuously posted in a place visible to staff."
+  },
+  {
+   "id": "outdoor_toileting_policy",
+   "topic": "enrollment and admission",
+   "kind": "must_include",
+   "requirement": "Outdoor nature-based centers must include a toileting policy in the parent handbook.",
+   "section": "R 400.8143a(4)",
+   "page": 18,
+   "quote": "Centers shall include a toileting policy in the parent handbook."
+  },
+  {
+   "id": "smoking_notice",
+   "topic": "parent access and communication",
+   "kind": "must_include",
+   "requirement": "The center must post a notice stating that smoking and vaping are prohibited in the center and on center property.",
+   "section": "R 400.8267(2)",
+   "page": 21,
+   "quote": "A center shall post a notice in a place accessible and visible to parents, staff, and visitors stating that smoking and vaping are prohibited in the center and on the center’s property."
+  },
+  {
+   "id": "screening_supervision_policy",
+   "topic": "abuse and neglect reporting",
+   "kind": "must_include",
+   "requirement": "The licensee must have a written policy regarding screening and supervision of staff and volunteers, including a statement that registered sex offenders are prohibited from contact with children in care.",
+   "section": "R 400.8213(3)",
+   "page": 30,
+   "quote": "A licensee shall have a written policy regarding screening and supervision of staff and volunteers, including volunteers who are parents of a child in care. The policy must include a statement that any staff or volunteer registered on either the Michigan State Police Sex Offender Registry or the Dru Sjodin National Sex Offender Public Website is prohibited from having contact with any child in care."
+  },
+  {
+   "id": "mandated_reporter",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Staff and volunteers must immediately report suspected child abuse or neglect by phone to Children's Protective Services and follow with a written report within 72 hours.",
+   "section": "R 400.8213(1)(c)",
+   "page": 30,
+   "quote": "Make an immediate verbal report to the department of health and human services, children’s protective services, by telephone at 1-855-444-3911, on reasonable cause to suspect child abuse or child neglect. The verbal report must be followed by submission of a written report within 72 hours of the verbal report."
+  },
+  {
+   "id": "mandated_reporter_statement",
+   "topic": "abuse and neglect reporting",
+   "kind": "rule",
+   "requirement": "Staff and volunteers must sign and date a written statement at hiring or before volunteering acknowledging mandated reporter duties.",
+   "section": "R 400.8213(1)(d)",
+   "page": 30,
+   "quote": "Sign and date a written statement at the time of hiring or before volunteering and indicate all of the following information: (i) The individual is aware that abuse and neglect of children is against the law. (ii) The individual is informed of the center’s policies on child abuse and neglect. (iii) The individual knows they are mandated reporters of child abuse and child neglect and are required by law to immediately report suspected abuse and neglect to the department of health and human services, children’s protective services, as described in subdivision (c) of this subrule."
+  },
+  {
+   "id": "safe_sleep_infants",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants must rest or sleep alone in cribs or portable cribs and be placed on their backs for resting and sleeping.",
+   "section": "R 400.8219(3)",
+   "page": 34,
+   "quote": "Infants shall rest or sleep alone in cribs or portable cribs. (4) Infants shall be placed on their backs for resting and sleeping."
+  },
+  {
+   "id": "safe_sleep_toddlers",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Toddlers must rest or sleep alone in cribs, portable cribs, mats, or cots.",
+   "section": "R 400.8219(10)",
+   "page": 34,
+   "quote": "Toddlers shall rest or sleep alone in cribs, portable cribs, or on mats or cots."
+  },
+  {
+   "id": "naptime_under_school_age",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Naptime or quiet time must be provided when children under school-age are in attendance 5 or more continuous hours per day.",
+   "section": "R 400.8219(12)",
+   "page": 34,
+   "quote": "Naptime or quiet time must be provided when children under school-age are in attendance 5 or more continuous hours per day."
+  },
+  {
+   "id": "staff_child_ratios",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "The actual number and ages of children in care must never exceed the licensed number and ages, and each room or well-defined space must meet the maximum group size and staff-to-child ratio in Table 1.",
+   "section": "R 400.8222(4)",
+   "page": 35,
+   "quote": "(4) In each room or well-defined space, the maximum group size and ratio of child care staff members to children, including children related to a staff member or the licensee, must be as shown in Table 1:"
+  },
+  {
+   "id": "two_adults_young_children",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "At least two adults, one of whom is a child care staff member, must be present when at least three children between birth and 3 years are present.",
+   "section": "R 400.8222(2)",
+   "page": 35,
+   "quote": "Not less than 2 adults, 1 of whom is a child care staff member, shall be present at all times when not less than 3 children between the ages of birth and 3 years of age are present. A second child care staff member is required when needed to comply with subrule (4) of this rule."
+  },
+  {
+   "id": "two_adults_older_children",
+   "topic": "staff-to-child ratios",
+   "kind": "rule",
+   "requirement": "At least two adults, one of whom is a child care staff member, must be present when seven or more children over 3 years are present.",
+   "section": "R 400.8222(3)",
+   "page": 35,
+   "quote": "Not less than 2 adults, 1 of whom is a child care staff member, shall be present at all times when 7 or more children over 3 years of age are present. A second child care staff member is required when needed to comply with subrule (4) of this rule."
+  },
+  {
+   "id": "medication_permission",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication may be given or applied only with prior written permission from a parent.",
+   "section": "R 400.8260(2)",
+   "page": 39,
+   "quote": "Program staff shall give or apply medication, prescription or nonprescription, only with prior written permission from a parent."
+  },
+  {
+   "id": "topical_medication_authorization",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Topical nonprescription medication requires written parental authorization annually.",
+   "section": "R 400.8260(8)",
+   "page": 39,
+   "quote": "Topical nonprescription medication, including, but not limited to, diapering cream, triple antibiotic, sunscreen, and insect repellant, requires written parental authorization annually."
+  },
+  {
+   "id": "medication_records",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "The center must maintain a record of the time and amount of medication given or applied, with staff signature, except for topical medications described in subrule (8).",
+   "section": "R 400.8260(9)",
+   "page": 39,
+   "quote": "A center shall maintain a record as to the time and the amount of medication given or applied, with the exception of medications described in subrule (8) of this rule, on a form provided by the department or a comparable substitute approved by the department. One form per medication is required. The signature of the program staff administering the medication must be included."
+  },
+  {
+   "id": "medication_storage",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication must be in its original container, stored according to instructions, clearly labeled for a named child, and kept out of reach of children.",
+   "section": "R 400.8260(3)",
+   "page": 39,
+   "quote": "All medication must be in its original container, stored according to instructions, and clearly labeled for a named child, including all nonprescription topical medications described in subrule (8) of this rule."
+  },
+  {
+   "id": "medication_given_by_staff",
+   "topic": "medication",
+   "kind": "rule",
+   "requirement": "Medication, prescription or nonprescription, must be given to a child by program staff only.",
+   "section": "R 400.8260(1)",
+   "page": 39,
+   "quote": "Medication, prescription or nonprescription, must be given to a child by program staff only."
+  },
+  {
+   "id": "written_illness_exclusion_policy",
+   "topic": "illness and exclusion",
+   "kind": "must_include",
+   "requirement": "The center must have a written policy detailing when children, staff, and volunteers are excluded due to illness.",
+   "section": "R 400.8263(5)",
+   "page": 40,
+   "quote": "A center shall have a written policy detailing when children, staff, and volunteers will be excluded from the center due to illness."
+  },
+  {
+   "id": "written_parent_notification_plan",
+   "topic": "injuries and incidents",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written plan for how and when a parent is notified about health changes, accidents, injuries, incidents, or a child too ill to remain in the group.",
+   "section": "R 400.8263(1)",
+   "page": 40,
+   "quote": "A center shall develop and implement a written plan for how and when a parent is notified if program staff or volunteers observe any of the following: (a) Changes in a child’s health. (b) A child experiences an accident, injury, or incident. (c) A child is too ill to remain in the group."
+  },
+  {
+   "id": "ill_child_separate_area",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "A child too ill to remain in the group must be placed in a separate area and supervised by program staff or an unsupervised volunteer until the parent arrives.",
+   "section": "R 400.8263(2)",
+   "page": 40,
+   "quote": "A center shall ensure that a child who is too ill to remain in the group is placed in a separate area and is cared for and supervised by program staff or an unsupervised volunteer until the parent arrives. The separate area may be an unlicensed space such as the office area, reception area, or hallway but supervision must occur during this time. Food preparation areas may not be used."
+  },
+  {
+   "id": "communicable_disease_notice",
+   "topic": "illness and exclusion",
+   "kind": "rule",
+   "requirement": "If a staff member, volunteer, or child contracts a communicable disease, the center must notify parents with the disease name, symptoms, and prevention measures.",
+   "section": "R 400.8263(4)",
+   "page": 40,
+   "quote": "If a center becomes aware that a staff member, volunteer, or child in care has contracted a communicable disease, the center shall notify parents and provide all of the following information: (a) The name of the communicable disease the children were exposed to. (b) The symptoms of the disease. (c) Prevention measures as recommended by the United States Centers for Disease Control and Prevention at the following website: https://www.cdc.gov."
+  },
+  {
+   "id": "incident_reporting_parent",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must report to the child's parent on the same day and to the department within 24 hours if a child is lost or left unsupervised.",
+   "section": "R 400.8266(2)",
+   "page": 40,
+   "quote": "A licensee, licensee designee, or program administrator shall report to the child’s parent on the same day of the incident and to the department within 24 hours, directly or via phone, fax, or email, if a child is lost or left unsupervised."
+  },
+  {
+   "id": "incident_reporting_inappropriate_contact",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must report to the parent and department within 24 hours of an incident involving an allegation of inappropriate contact, a fire requiring suppression or causing loss, or evacuation.",
+   "section": "R 400.8266(3)",
+   "page": 40,
+   "quote": "A licensee, licensee designee, or program administrator shall report to the child’s parent and the department, directly or via phone, fax, or email, within 24 hours of the occurrence of any of the following: (a) An incident involving an allegation of inappropriate contact. (b) A fire on the premises of the center that requires the use of fire suppression equipment or results in loss of life or property. (c) The center is evacuated for any reason."
+  },
+  {
+   "id": "medical_treatment_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must report to the department within 24 hours after a parent notifies it that a child received medical treatment or was hospitalized for an injury, accident, or medical condition that occurred in care.",
+   "section": "R 400.8266(4)",
+   "page": 40,
+   "quote": "A licensee, licensee designee, or program administrator shall report to the department, via phone, fax, or email, within 24 hours of notification by a parent that a child received medical treatment or was hospitalized for an injury, accident, or medical condition that occurred while the child was in care."
+  },
+  {
+   "id": "death_reporting",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "If a child dies in care, the center must immediately report the death in person or by phone to the parent and to the department within 24 hours by phone.",
+   "section": "R 400.8266(1)",
+   "page": 40,
+   "quote": "I f t h e death of a child occurs in care, a licensee, licensee designee, or program administrator shall do both of the following: (a) Immediately report the death, in-person or via phone, directly to the child’s parent. (b) Report the death to the department within 24 hours, via phone."
+  },
+  {
+   "id": "written_emergency_plans",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement written emergency preparedness and response plans for specified emergencies.",
+   "section": "R 400.8269(1)",
+   "page": 41,
+   "quote": "Written plans and procedures for emergency preparedness and response planning for the care of children and staff in each of the following emergencies must be developed and implemented: (a) Fires. (b) Tornadoes. (c) Floods. (d) Power outages. (e) Extreme weather events. (f) Other natural or man-made disasters. (g) Serious injuries or accidents. (h) Bomb threats and other man-made emergencies. (i) Intruders or active shooters."
+  },
+  {
+   "id": "emergency_plans_posted",
+   "topic": "emergencies and evacuation",
+   "kind": "must_include",
+   "requirement": "A hard copy of required emergency plans must be posted or maintained where staff, volunteers, and parents can access it.",
+   "section": "R 400.8269(3)",
+   "page": 41,
+   "quote": "(a) The plans required by subrules (1)(a) to (d) of this rule must be posted in a place visible to staff, volunteers, and parents. (b) The plans required by subrules (1)(e) to (h) of this rule must be maintained in a place known and easily accessible to staff, volunteers, and parents."
+  },
+  {
+   "id": "written_incident_report",
+   "topic": "injuries and incidents",
+   "kind": "rule",
+   "requirement": "The center must submit a written report to the department within 72 hours of the verbal report for specified occurrences.",
+   "section": "R 400.8266(5)",
+   "page": 41,
+   "quote": "A licensee, licensee designee, or program administrator shall submit a written report to the department of the occurrences outlined in subrules (1) to (4) of this rule, in a format provided by the department, within 72 hours of the verbal report to the department."
+  },
+  {
+   "id": "food_allergy_plan",
+   "topic": "meals, food and allergies",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written plan for prevention of and response to emergencies due to food and allergic reactions.",
+   "section": "R 400.8269a(1)",
+   "page": 42,
+   "quote": "A written plan for the prevention of and response to emergencies due to food and allergic reactions must be developed and implemented to include a child care plan, prevention measures, and emergency procedures."
+  },
+  {
+   "id": "food_allergy_emergency",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The food allergy plan must include promptly administering medication, contacting emergency medical services for serious reactions or epinephrine use, and notifying parents of suspected reactions.",
+   "section": "R 400.8269a(5)",
+   "page": 43,
+   "quote": "The emergency procedures must include all of the following, at a minimum: (a) Promptly and properly administer medications in an event of an allergic reaction according to the instructions in the child’s care plan. (b) Contact emergency medical services immediately if any child has a serious allergic reaction, a new suspected serious allergic reaction occurs with any child, or whenever epinephrine is administered, even if the child appears to have recovered from the allergic reaction. (c) Notify parents or guardians immediately of any suspected allergic reactions, the ingestion of the problem food, or contact with the problem food, even if a reaction did not occur."
+  },
+  {
+   "id": "parent_access",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Parents may visit the center during hours of operation for the purpose of observing their children.",
+   "section": "R 400.8271(13)",
+   "page": 45,
+   "quote": "Parents may visit the center during hours of operation for the purpose of observing their children."
+  },
+  {
+   "id": "primary_teacher_schedules",
+   "topic": "parent access and communication",
+   "kind": "rule",
+   "requirement": "Primary teachers' schedules for each infant or toddler must be documented and provided to parents.",
+   "section": "R 400.8274(4)",
+   "page": 46,
+   "quote": "Primary teachers’ schedules for each infant or toddler must be documented and provided to parents."
+  },
+  {
+   "id": "written_discipline_policy",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "must_include",
+   "requirement": "The center must develop and implement a written discipline policy and provide it to staff, volunteers, and parents.",
+   "section": "R 400.8280(5)",
+   "page": 47,
+   "quote": "A written discipline policy must be developed and implemented regarding the age appropriate, non-severe discipline of children. The policy must be provided to program staff, volunteers, and parents."
+  },
+  {
+   "id": "prohibited_discipline",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "The center must use positive discipline and must not use prohibited punishments, including corporal punishment, humiliation, deprivation, isolation, or exclusion from learning or outdoor play.",
+   "section": "R 400.8280(1)",
+   "page": 47,
+   "quote": "Positive methods of discipline that encourage self-control, self-direction, self-esteem, and cooperation must be used. (2) All of the following means of punishment are prohibited: (a) Hitting, spanking, shaking, biting, pinching, or inflicting other forms of corporal punishment. (b) Placing any substances in a child’s mouth, including, but not limited to, soap, hot sauce, or vinegar. (c) Restricting a child’s movement by binding or tying the child. (d) Inflicting mental or emotional punishment, such as humiliating, shaming, or threatening a child. (e) Depriving a child of meals, snacks, rest, or necessary toilet use. (f) Excluding a child from outdoor play or other gross motor activities. (g) Excluding a child from daily learning experiences. (h) Isolating a child in an adjacent room, closet, locked room, box, hallway, darkened area, play area, or another area where the child cannot be seen or supervised."
+  },
+  {
+   "id": "time_out_limits",
+   "topic": "discipline and guidance (prohibited practices)",
+   "kind": "rule",
+   "requirement": "Time out must only be used with instructional approaches, must not be used for children under 3, and staff must remain calm when placing a child in time out.",
+   "section": "R 400.8280(3)",
+   "page": 47,
+   "quote": "Time out must only be used in combination with instructional approaches that teach children what to do in place of the behavior problem. (a) Time out must not be used for children under 3 years of age. (b) The program staff or volunteer shall remain calm when placing the child in time out."
+  },
+  {
+   "id": "menus_available",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Menus must be planned in advance, dated, and made available to parents, with substitutions noted on the day they occur.",
+   "section": "R 400.8330(10)",
+   "page": 52,
+   "quote": "Menus must be planned in advance, dated, and made available to parents. Food substitutions must be noted on the menus the day the substitution occurs."
+  },
+  {
+   "id": "parent_food_agreement",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "A written agreement must be maintained if a parent agrees to provide formula, milk, or food, and the center must provide adequate amounts if the parent does not.",
+   "section": "R 400.8330(2)",
+   "page": 52,
+   "quote": "A written agreement must be maintained on file at the center if the parent has agreed to provide formula, milk, or food. The center shall provide an adequate amount of formula, milk, or food if the parent does not."
+  },
+  {
+   "id": "choking_foods",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The center must not serve infants and toddlers foods that could easily cause choking, including popcorn, seeds, nuts, hard candy, and uncut round foods.",
+   "section": "R 400.8330(11)",
+   "page": 52,
+   "quote": "A center shall not serve infants and toddlers or allow them to eat foods that could easily cause choking, including, but not limited to, popcorn, seeds, nuts, hard candy, and uncut round foods such as whole grapes and hot dogs."
+  },
+  {
+   "id": "water_available",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The center must make water available to drink throughout the day to children 1 year of age and older.",
+   "section": "R 400.8330(6)",
+   "page": 52,
+   "quote": "A center shall make water available to drink throughout the day to children 1 year of age and older."
+  },
+  {
+   "id": "meal_snack_schedule",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children must be served meals and snacks according to the schedule based on hours of operation.",
+   "section": "R 400.8330(8)",
+   "page": 52,
+   "quote": "A child shall be served meals and snacks in accordance with the following schedule: (a) Two and a half hours to 4 hours of operation: a minimum of 1 snack. (b) Four hours to 6 hours of operation: a minimum of 1 meal and 1 snack. (c) Seven hours to 10 hours of operation: a minimum of 1 meal and 2 snacks or 2 meals and 1 snack. (d) Eleven hours or more of operation: a minimum of 2 meals and 2 snacks."
+  },
+  {
+   "id": "no_deprivation_meal",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The center must not deprive a child of a snack or meal if the child is in attendance when it is served.",
+   "section": "R 400.8330(9)",
+   "page": 52,
+   "quote": "A center shall not deprive a child of a snack or meal if the child is in attendance at the time when the snack or meal is served."
+  },
+  {
+   "id": "no_bottles_in_sleep_equipment",
+   "topic": "safe sleep and rest",
+   "kind": "rule",
+   "requirement": "Infants or toddlers must not have bottles, beverage containers, or food in sleeping equipment.",
+   "section": "R 400.8330(23)",
+   "page": 53,
+   "quote": "Infants or toddlers shall not have bottles, beverage containers, or food in sleeping equipment."
+  },
+  {
+   "id": "no_food_while_walking",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children must not have beverage containers or food while walking around or playing.",
+   "section": "R 400.8330(24)",
+   "page": 53,
+   "quote": "Children shall not have beverage containers or food while they are walking around or playing."
+  },
+  {
+   "id": "infants_formula_only",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Infants must only be served formula to drink unless written authorization is provided by the child's licensed health care provider.",
+   "section": "R 400.8335(3)",
+   "page": 53,
+   "quote": "Infants shall only be served formula to drink unless written authorization is provided by the child’s licensed health care provider."
+  },
+  {
+   "id": "milk_12_24_months",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Children 12 months to 2 years must be served whole homogenized Vitamin D-fortified cow's milk, except as provided for special dietary needs.",
+   "section": "R 400.8335(4)",
+   "page": 53,
+   "quote": "Children 12 months of age until 2 years of age shall be served whole homogenized Vitamin D-fortified cow’s milk, except as provided in R 400.8330(4)."
+  },
+  {
+   "id": "breastfeeding_support",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "Breastfeeding must be supported and accommodated, and a designated place must be set aside for mothers who are breastfeeding.",
+   "section": "R 400.8330(26)",
+   "page": 53,
+   "quote": "Breastfeeding must be supported and accommodated. (27) A designated place must be set aside for use by mothers who are breastfeeding."
+  },
+  {
+   "id": "transportation_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "The center must obtain a parent's written permission annually for routine transportation and before each non-routine trip, and maintain all transportation permission on file.",
+   "section": "R 400.8780",
+   "page": 77,
+   "quote": "(1) A center shall obtain a parent’s written permission annually for routine transportation. (2) A center shall obtain a parent’s written permission for any non-routine transportation before each trip. (3) Permission for all transportation must be maintained on file at the center."
+  },
+  {
+   "id": "swimming_permission",
+   "topic": "field trips and transport",
+   "kind": "rule",
+   "requirement": "Written parental permission regarding a child's participation in swimming activities must be maintained on file.",
+   "section": "R 400.8810(1)",
+   "page": 78,
+   "quote": "Written parental permission regarding their child’s participation in swimming activities must be maintained on file at the center."
+  }
+ ],
+ "dropped_unverified": [
+  {
+   "id": "food_allergy_prevention",
+   "topic": "meals, food and allergies",
+   "kind": "rule",
+   "requirement": "The food allergy plan must include notifying parents of known allergens, posting the child's name and allergy, training staff on anaphylaxis symptoms, and preventing food sharing.",
+   "section": "R 400.8269a(4)",
+   "page": 42,
+   "quote": "The prevention measures must include all of the following, at a minimum: (a) Notify parents and guardians of all known food allergens to avoid bringing in foods to the classroom or center. (b) Post the child’s name and known food allergy prominently in the classroom or other area, on parent approval. (c) Train program staff and unsupervised volunteers on the symptoms of anaphylaxis. (d) Prevent food sharing between children."
+  }
+ ],
+ "turns": 2,
+ "cost": 0.0663,
+ "tokens_in": 118959,
+ "tokens_out": 15571,
+ "effort": "low",
+ "model": "reflection/Beam-1.0-501B-A23B"
+}

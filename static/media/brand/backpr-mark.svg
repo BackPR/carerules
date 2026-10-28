@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bp-bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7F68EB"/>
+      <stop offset="0.55" stop-color="#FF9AD4"/>
+      <stop offset="1" stop-color="#FFE186"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bp-bg)"/>
+  <rect x="10.5" y="29" width="7" height="20" rx="3.5" fill="#fff" fill-opacity="0.7"/>
+  <rect x="46.5" y="29" width="7" height="20" rx="3.5" fill="#fff" fill-opacity="0.7"/>
+  <path d="M28 17.5v-2.2a4 4 0 0 1 8 0v2.2" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M15 47.5V32c0-9.4 7.6-15.5 17-15.5S49 22.6 49 32v15.5a6.5 6.5 0 0 1-6.5 6.5h-21A6.5 6.5 0 0 1 15 47.5z" fill="#fff"/>
+  <path d="M15 32c0-9.4 7.6-15.5 17-15.5S49 22.6 49 32c-4.6 4.4-29.4 4.4-34 0z" fill="#E9E4FF"/>
+  <rect x="21.5" y="38.5" width="21" height="11.5" rx="4" fill="#6A55D8"/>
+  <path d="M27 44.1l3.2 3 6.6-6.8" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
