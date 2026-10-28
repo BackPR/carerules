@@ -232,7 +232,8 @@ function showReport(html, fixes, head, note = "", summary = "") {
   $("#report").innerHTML = (note ? `<div class="ci-run ci-warn">${note}</div>` : "") + html;
   state.fixes = fixes || "";
   $("#actions").hidden = !state.fixes;
-  $("#backpr-box").hidden = !state.fixes;
+  const box = $("#backpr-box");  // removed on the Space
+  if (box) box.hidden = !state.fixes;
 }
 
 /* the email that asks for a code: the address is always visible too, because mailto links fail silently on webmail */
@@ -513,7 +514,8 @@ async function runCheck() {
   state.running = true;
   $("#go").disabled = true;
   $("#progress").hidden = false;
-  $("#report-head").innerHTML = ""; $("#report").innerHTML = ""; $("#actions").hidden = true; $("#backpr-box").hidden = true;
+  $("#report-head").innerHTML = ""; $("#report").innerHTML = ""; $("#actions").hidden = true;
+  if ($("#backpr-box")) $("#backpr-box").hidden = true;
   $("#report-box").open = true;
   $("#report-summary").textContent = `Your report: ${file.name}`;
   input.disabled = true; drop.classList.add("busy");
