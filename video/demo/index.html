@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en" data-resolution="landscape">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>CareRules in 20 seconds</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Hepta Slab"; font-weight: 1 900; src: url("assets/fonts/hepta-slab-latin.woff2") format("woff2"); }
+      @font-face { font-family: "Inter"; font-weight: 100 900; src: url("assets/fonts/inter-latin.woff2") format("woff2"); }
+
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: #07070b; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; font-family: "Inter", sans-serif; color: #f4f4f5; }
+      #bg { position: absolute; inset: 0; background:
+        radial-gradient(900px 600px at 82% 18%, rgba(127,104,235,.22), transparent 70%),
+        radial-gradient(800px 600px at 10% 95%, rgba(255,154,212,.12), transparent 70%), #07070b; }
+      .clip { position: absolute; inset: 0; }
+      .grad { background-image: linear-gradient(86deg, #7f68eb 1.9%, #ff9ad4 53.29%, #ffe186 99.06%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+      .head { position: absolute; font-family: "Hepta Slab", serif; font-weight: 600; letter-spacing: -2px; line-height: 1.06; }
+
+      /* the handbook page (light paper on the dark background) */
+      #doc { position: absolute; left: 120px; top: 270px; width: 860px; padding: 40px 48px 46px; border-radius: 26px;
+        background: #fbfaf7; color: #1f1f24; box-shadow: 0 50px 120px -40px rgba(0,0,0,.8), 0 0 0 1px rgba(255,255,255,.06); transform-origin: 0 0; }
+      #doc .top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 28px; font-size: 30px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: #5f5f68; }
+      .tag { display: inline-flex; align-items: center; gap: 10px; padding: 8px 20px; border-radius: 999px; font-size: 32px; font-weight: 700; letter-spacing: 0; text-transform: none; white-space: nowrap; }
+      .t-sample { background: #fff1c2; color: #8a5a00; }
+      .t-bad { background: #ffe1e4; color: #b4232f; }
+      .t-ok { background: #d9f7e8; color: #08754a; }
+      .bar { height: 16px; border-radius: 8px; background: #e7e5e0; margin: 0 0 22px; }
+      #doc p { position: relative; font-size: 50px; line-height: 1.32; font-weight: 500; margin: 8px 0 30px; }
+      #doc p span { padding: 2px 6px; border-radius: 8px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+      #fix { position: absolute; left: 0; right: 0; top: 0; opacity: 0; }
+      #docTag { position: absolute; right: 40px; top: 32px; }
+
+      /* the rulebook: every page as a small tile */
+      #book { position: absolute; left: 314px; top: 420px; width: 1292px; display: grid; grid-template-columns: repeat(34, 30px); gap: 8px; }
+      #book i { display: block; width: 30px; height: 40px; border-radius: 4px; background: #2a2a38; }
+      #book i.hit { background: #ff6b78; box-shadow: 0 0 0 4px rgba(255,107,120,.35), 0 0 40px rgba(255,107,120,.7); }
+      #pin { position: absolute; padding: 8px 20px; border-radius: 999px; background: #ff6b78; color: #fff; font-size: 34px; font-weight: 700; white-space: nowrap; }
+      #bookCap { position: absolute; left: 314px; top: 860px; width: 1292px; text-align: center; font-size: 38px; color: #c4c4cc; }
+
+      /* the rule */
+      #rule { position: absolute; left: 1010px; top: 270px; width: 800px; padding: 42px 48px 40px; border-radius: 26px; background: #12121b;
+        border: 2px solid rgba(255,255,255,.12); box-shadow: 0 40px 100px -40px rgba(0,0,0,.9); }
+      #rule .src { font-size: 34px; font-weight: 600; color: #e4e4e7; margin-bottom: 22px; }
+      #rule q { display: block; font-family: "Hepta Slab", serif; font-size: 48px; line-height: 1.28; font-weight: 500; color: #fff; quotes: "“" "”" "‘" "’"; }
+      #ruleOk { margin-top: 30px; font-size: 29px; }
+
+      /* end card */
+      #endQ { left: 0; right: 0; top: 250px; text-align: center; font-size: 100px; }
+      #endUrl { position: absolute; left: 0; right: 0; top: 560px; text-align: center; font-size: 66px; font-weight: 600; color: #f4f4f5; }
+      #endUrl b { color: #ffe186; font-weight: 700; }
+      #endFoot { position: absolute; left: 0; right: 0; top: 760px; display: flex; justify-content: center; align-items: center; gap: 22px; font-size: 40px; color: #d4d4d8; }
+      #endFoot img { height: 46px; position: relative; top: 2px; }
+      #endFoot .dot { color: #6e6e78; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="19.9" data-width="1920" data-height="1080" data-fps="30">
+      <div id="bg"></div>
+
+      <!-- the handbook page: on screen from the start until the end card -->
+      <div id="doc">
+        <div class="top"><span id="docHead">Parent handbook</span></div>
+        <span class="tag t-sample" id="docTag">Made-up sample</span>
+        <div class="bar" style="width: 92%"></div>
+        <div class="bar" style="width: 78%"></div>
+        <p id="hb"><span id="hbTxt">“…infants who fall asleep in a bouncer, swing or car seat may finish their nap there…”</span>
+          <span id="fix">“…a teacher will move the infant to their own crib as soon as possible.”</span></p>
+        <div class="bar" style="width: 88%"></div>
+        <div class="bar" style="width: 60%; margin: 0"></div>
+      </div>
+
+      <!-- 1 · the question -->
+      <div class="head" id="q1" style="left: 1100px; top: 360px; font-size: 150px">Is that<br><span class="grad">allowed?</span></div>
+
+      <!-- 2 · Beam checks it against the rulebook -->
+      <div class="head" id="h2" style="left: 140px; top: 110px; width: 1660px; font-size: 80px">The <span class="grad">Beam 1.0</span> AI read all 300+ pages of Texas rules at once<span style="display: block; margin-top: 18px; font-size: 60px; color: #c4c4cc">and checks the handbook against them.</span></div>
+      <div id="book"></div>
+      <div id="pin">p. 154</div>
+      <div id="bookCap">Texas Minimum Standards for Child-Care Centers: every page</div>
+
+      <!-- 3 · the answer: the rule -->
+      <div class="head" id="h3" style="left: 140px; top: 110px; font-size: 92px">Not allowed. The Texas rule says:</div>
+      <div id="rule">
+        <div class="src">Texas §746.2426 · page 154</div>
+        <q>…you must remove the infant from the device and place the infant in a crib as soon as possible.</q>
+        <div class="tag t-ok" id="ruleOk">✓ Code-checked: word for word in the rulebook</div>
+      </div>
+
+      <!-- 4 · the fix -->
+      <div class="head" id="h4" style="left: 140px; top: 110px; font-size: 92px">Beam drafts a fix:</div>
+
+      <!-- 5 · your turn -->
+      <div class="head" id="endQ">Does <span class="grad">your daycare’s</span> handbook<br>break a rule?</div>
+      <div id="endUrl">Check it free with CareRules: <b>care.backpr.com</b></div>
+      <div id="endFoot"><span>Covers 22 states + DC</span><span class="dot">·</span><span>Built with Beam 1.0</span><span class="dot">·</span><span>by</span><img src="assets/backpr-logo-white.svg" alt="BackPR"></div>
+    </div>
+
+    <script>
+      // the rulebook tiles: one per page (306), page 154 is the hit
+      const book = document.getElementById("book");
+      for (let i = 1; i <= 306; i++) { const t = document.createElement("i"); if (i === 154) t.id = "p154"; book.appendChild(t); }
+      const hit = document.getElementById("p154"), pin = document.getElementById("pin");
+      pin.style.left = `${book.offsetLeft + hit.offsetLeft + 15 - pin.offsetWidth / 2}px`;
+      pin.style.top = `${book.offsetTop + hit.offsetTop - pin.offsetHeight - 26}px`;
+
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      const E = "power3.out";
+      const rise = (sel, at, y = 36, d = 0.6) => tl.fromTo(sel, { opacity: 0, y }, { opacity: 1, y: 0, duration: d, ease: E }, at);
+      const out = (sel, at, d = 0.35) => tl.to(sel, { opacity: 0, duration: d, ease: "power2.in" }, at);
+
+      // start state
+      gsap.set(["#q1", "#h2", "#book", "#pin", "#bookCap", "#h3", "#rule", "#h4", "#endQ", "#endUrl", "#endFoot"], { opacity: 0 });
+
+      // ---------- 1 · Hook: a handbook sentence and a question (0.0 – 4.6) ----------
+      rise("#doc", 0.1, 50, 0.7);
+      tl.fromTo("#hbTxt", { backgroundColor: "rgba(255,225,134,0)" }, { backgroundColor: "rgba(255,225,134,.75)", duration: 0.6, ease: "power2.out" }, 0.9);
+      rise("#q1", 2.6, 40, 0.6);
+
+      // ---------- 2 · Beam read the whole rulebook (4.6 – 8.7) ----------
+      out("#q1", 4.4, 0.3);
+      tl.to("#doc", { opacity: 0, y: 40, duration: 0.35, ease: "power2.in" }, 4.4);
+      rise("#h2", 4.75, 30, 0.55);
+      tl.to("#book", { opacity: 1, duration: 0.01 }, 5.2);
+      tl.fromTo("#book i", { opacity: 0, scale: 0.4 }, { opacity: 1, scale: 1, duration: 0.3, ease: "power2.out", stagger: { each: 0.0022, from: "start" } }, 5.2);
+      rise("#bookCap", 5.5, 16, 0.5);
+      tl.to("#p154", { backgroundColor: "#ff6b78", boxShadow: "0 0 0 4px rgba(255,107,120,.35), 0 0 40px rgba(255,107,120,.7)", scale: 1.6, duration: 0.45, ease: "back.out(2)" }, 7.0);
+      tl.to("#book i:not(#p154)", { opacity: 0.35, duration: 0.4 }, 7.0);
+      tl.fromTo("#pin", { opacity: 0, y: 10 }, { opacity: 1, y: 0, duration: 0.4, ease: E }, 7.2);
+
+      // ---------- 3 · The answer: the rule says no (8.7 – 13.7) ----------
+      out(["#h2", "#book", "#pin", "#bookCap"], 8.45, 0.3);
+      tl.set("#doc", { y: 0 }, 8.6);
+      tl.set("#docTag", { className: "tag t-bad", textContent: "Breaks this rule" }, 8.6);
+      tl.set("#hbTxt", { backgroundColor: "rgba(255,107,120,.35)" }, 8.6);
+      tl.to("#doc", { opacity: 1, duration: 0.45, ease: E }, 8.65);
+      rise("#h3", 8.7, 30, 0.55);
+      tl.fromTo("#rule", { opacity: 0, x: 60 }, { opacity: 1, x: 0, duration: 0.6, ease: E }, 9.1);
+      tl.fromTo("#ruleOk", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.45, ease: E }, 11.2);
+
+      // ---------- 4 · The fix (13.7 – 17.1) ----------
+      out("#h3", 13.5, 0.3);
+      tl.to("#rule", { opacity: 0.35, duration: 0.4 }, 13.6);
+      rise("#h4", 13.8, 30, 0.55);
+      tl.to("#hbTxt", { opacity: 0, duration: 0.3 }, 13.9);
+      tl.set("#fix", { top: 8 }, 13.9);
+      tl.fromTo("#fix", { opacity: 0, backgroundColor: "rgba(61,220,151,0)" }, { opacity: 1, backgroundColor: "rgba(61,220,151,.30)", duration: 0.5, ease: E }, 14.1);
+      tl.to("#docHead", { opacity: 0, duration: 0.25 }, 13.9);
+      tl.set("#docTag", { className: "tag t-ok", textContent: "AI draft: review before use" }, 14.1);
+
+      // ---------- 5 · Your turn (17.1 – 19.9) ----------
+      out(["#h4", "#doc", "#rule"], 16.9, 0.3);
+      rise("#endQ", 17.2, 36, 0.55);
+      rise("#endUrl", 17.6, 24, 0.5);
+      rise("#endFoot", 17.9, 16, 0.5);
+      out(["#endQ", "#endUrl", "#endFoot"], 19.55, 0.3);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

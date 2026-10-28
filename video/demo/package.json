@@ -1,0 +1,9 @@
+{
+  "name": "carerules-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "npx --yes hyperframes@0.8.145 check",
+    "render": "npx --yes hyperframes@0.8.145 render"
+  }
+}

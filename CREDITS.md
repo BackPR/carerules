@@ -25,7 +25,8 @@ CareRules is an individual entry by MohammadMahdi RezaAli to the Hugging Face x 
   - `visiting-dog.jpg`: https://images.unsplash.com/photo-1609271460901-a354fca155a0
 
   The people in these photos have no connection to CareRules or BackPR and don't endorse them.
+- **Demo video** (`static/media/carerules-demo.mp4` and `.gif`; source in `video/demo/`, rendered with HyperFrames): made by us. The handbook sentence is from our made-up sample handbook; the rule text is quoted from Texas HHSC's Minimum Standards (see State licensing rules above).
 - **Hero video** on care.backpr.com: a Mixkit clip used on the website under Mixkit's license. It is not included in this repository or the Space.
 - **Fonts** (`static/fonts/`): Hepta Slab and Inter, SIL Open Font License 1.1 (`static/fonts/OFL-HeptaSlab.txt`, `static/fonts/OFL-Inter.txt`).
 - **Libraries loaded by the page from cdnjs** (not included here): pdf.js 4.10.38 (Apache License 2.0) and mammoth 1.8.0 (BSD 2-Clause).
-- **BackPR** name and logo (`static/media/brand/`): trademarks of BackPR, not licensed under Apache 2.0 or CC BY.
+- **BackPR** name and logo (`static/media/brand/`, `video/demo/assets/backpr-logo-white.svg`): trademarks of BackPR, not licensed under Apache 2.0 or CC BY.
