@@ -307,7 +307,7 @@ async function init() {
     });
   }
   if (location.hash === "#states") $("#states").open = true;
-  if (location.hash === "#test-handbook") { $("#test-handbook").open = true; $("#test-handbook").scrollIntoView(); }
+  if (location.hash === "#test-handbook") $("#test-handbook").open = true;
 
   const [sample, pages] = await Promise.all([getJson("samples/little-acorns.audit-high.json"), getJson("samples/little-acorns-pages.json")]);
   const light = await CR.light(sample.results);
@@ -327,6 +327,18 @@ async function init() {
   observe();
   lightStatements();
   heroVideo();
+  // A link to a part of the page (#test-handbook, #faq...): jump there now that the sections above it are drawn, and
+  // keep it in place for two seconds while the page settles, unless the visitor scrolls first.
+  const target = location.hash.length > 1 && document.getElementById(location.hash.slice(1));
+  if (target) (async () => {  // not awaited: the rest of the page keeps loading meanwhile
+    let user = false;
+    ["wheel", "touchstart", "keydown"].forEach((e) => addEventListener(e, () => { user = true; }, { once: true, passive: true }));
+    const pad = parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop) || 0;
+    for (let i = 0; i < 10 && !user; i++) {
+      if (Math.abs(target.getBoundingClientRect().top - pad) > 4) target.scrollIntoView({ behavior: "instant" });
+      await new Promise((r) => setTimeout(r, 200));
+    }
+  })();
 
   const examples = await getJson("samples/eval-results/index.json");
   $("#example-states").innerHTML = examples.map((x) => `<button type="button" class="chip" data-example="${x.code}" aria-pressed="false">${esc(x.name)}</button>`).join("");
