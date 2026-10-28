@@ -70,6 +70,9 @@ h2 { font-size: clamp(32px, 5vw, 56px); line-height: 1.08; margin: 0 0 18px; max
 .btn-ghost { background: rgba(255,255,255,.06); color: var(--text); border: 1px solid rgba(255,255,255,.25); }
 .btn-big { min-height: 54px; padding: 14px 30px; font-size: 17px; }
 .btn[disabled] { opacity: .55; cursor: wait; }
+.demo-video { padding: 0 0 8px; }
+.demo-video video { display: block; width: 100%; max-width: 960px; height: auto; aspect-ratio: 16 / 9; margin: 0 auto; border-radius: 16px; border: 1px solid var(--line); background: var(--bg2); }
+.demo-video p { max-width: 720px; margin: 14px auto 0; text-align: center; }
 .trustline { display: flex; flex-wrap: wrap; gap: 6px 18px; list-style: none; padding: 0; margin: 0; color: #e4e4e7; font-size: 14.5px; }
 .state-check { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 0 0 22px; font-size: 15px; color: #e4e4e7; }
 .state-check label { font-weight: 600; }

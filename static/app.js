@@ -216,6 +216,13 @@ function lightStatements() {
 addEventListener("scroll", lightStatements, { passive: true });
 
 /* the hero video: only on wide screens, never with reduced motion or data saver */
+/* The 20-second demo: plays (muted) while it's on screen. Reduced motion keeps the poster; the controls are always there. */
+function demoVideo() {
+  const v = $("#demo-video video");
+  if (!v || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  new IntersectionObserver(([e]) => { if (e.isIntersecting) v.play().catch(() => {}); else v.pause(); }, { threshold: 0.4 }).observe(v);
+}
+
 function heroVideo() {
   const v = $("#hero-video");
   const save = navigator.connection && navigator.connection.saveData;
@@ -327,6 +334,7 @@ async function init() {
   observe();
   lightStatements();
   heroVideo();
+  demoVideo();
   // A link to a part of the page (#test-handbook, #faq...): jump there now that the sections above it are drawn, and
   // keep it in place for two seconds while the page settles, unless the visitor scrolls first.
   const target = location.hash.length > 1 && document.getElementById(location.hash.slice(1));
