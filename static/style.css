@@ -64,6 +64,9 @@ h2 { font-size: clamp(32px, 5vw, 56px); line-height: 1.08; margin: 0 0 18px; max
 .ctas.center { justify-content: center; }
 .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 12px 24px; border-radius: 999px; border: 0; background: var(--grad); color: #16121f; font-weight: 700; font-size: 16px; text-decoration: none; cursor: pointer; font-family: var(--sans); }
 .btn:hover { filter: brightness(1.07); }
+.btn small { font-size: 13px; font-weight: 500; opacity: .75; }
+.btn:has(small) { flex-wrap: wrap; column-gap: 6px; text-align: center; }
+.btn:has(small) > * { white-space: nowrap; }
 .btn-ghost { background: rgba(255,255,255,.06); color: var(--text); border: 1px solid rgba(255,255,255,.25); }
 .btn-big { min-height: 54px; padding: 14px 30px; font-size: 17px; }
 .btn[disabled] { opacity: .55; cursor: wait; }

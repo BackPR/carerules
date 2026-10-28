@@ -442,19 +442,23 @@ document.addEventListener("click", async (ev) => {
 /* "Plant your own mistake": a compliant test handbook to edit and check */
 $("#test-load").addEventListener("click", async () => {
   const code = $("#test-states").value;
+  if (!code) return;  // the list is still loading
   const text = await fetch(`samples/eval/${code}/clean.md`).then((r) => r.text());
   $("#test-text").value = text;
   $("#test-edit").hidden = false;
   state.chosen = new Set([code]);
   renderChips(); requestLink();
 });
-$("#test-use").addEventListener("click", () => {
+/* One click: read the edited sample handbook and start the live check at once (no code, its own state, Standard). */
+$("#test-use").addEventListener("click", async () => {
   if (state.running) return;  // a running check keeps its file
   const code = $("#test-states").value;
-  setFile(new File([$("#test-text").value], `sample-handbook-${code}.md`, { type: "text/markdown" }), code);
+  $("#test-use").disabled = true;
+  await setFile(new File([$("#test-text").value], `sample-handbook-${code}.md`, { type: "text/markdown" }), code);
+  $("#test-use").disabled = false;
   state.chosen = new Set([code]); renderChips(); requestLink();
-  help($("#code").value.trim() ? "" : `No code needed: this sample handbook will be checked against ${stateName(code)}'s rules at Standard.`, false);
-  $("#go").focus();
+  if (!state.pages) { help(state.fileError || "Couldn't read the edited handbook. Load it again and retry."); return; }
+  runCheck();
 });
 
 document.querySelectorAll(".choice").forEach((b) => b.addEventListener("click", () => {
@@ -483,11 +487,12 @@ drop.addEventListener("drop", (ev) => { if (ev.dataTransfer.files[0]) setFile(ev
 
 const help = (text, bad = true) => { $("#go-help").textContent = text; $("#go-help").classList.toggle("bad", !!text && bad); };
 
-$("#go").addEventListener("click", async () => {
+async function runCheck() {
+  if (state.running) return;
   if (!state.pages) { help(state.fileError || "Add your parent handbook first."); drop.classList.add("over"); setTimeout(() => drop.classList.remove("over"), 900); return; }
   if (!state.chosen.size) { help("Pick your state first."); return; }
   let code = $("#code").value.trim(), status;
-  const demo = !code && state.demo;  // a sample handbook: no code needed, its own state, Standard
+  const demo = !!state.demo;  // a sample handbook: no code needed (a typed code isn't spent on it), its own state, Standard
   if (!code && !demo) { $("#code").focus(); help(`Live checks need a free access code: email ${REQUEST_EMAIL}. Or try a sample handbook, no code needed.`); return; }
   if (demo) {
     code = "DEMO"; status = { max_states: 1 };
@@ -552,7 +557,8 @@ $("#go").addEventListener("click", async () => {
     $("#progress").hidden = true; $("#go").disabled = false;
     checkCode();
   }
-});
+}
+$("#go").addEventListener("click", runCheck);
 document.addEventListener("click", (ev) => { if (ev.target.id === "retry") $("#go").click(); });
 
 const save = (blob, name) => {

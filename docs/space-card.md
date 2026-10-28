@@ -61,7 +61,7 @@ tags:
 ## Try it in 2 minutes
 
 1. **See a finished report:** open the sample report (one made-up handbook checked for Texas, North Carolina and Oregon) or any of the 8 sample reports, each with its answer key. They load instantly and cost nothing.
-2. **Run a live check, no code needed:** under "No handbook handy? Try a sample handbook", load one of the eight sample handbooks, change a sentence or two so they break a rule (for example "no more than four babies" to "up to six babies" in the Texas one), and press Check. Beam checks it against that state's rules in about 10 to 60 seconds. A planted Texas infant-ratio mistake took 10 seconds and about 1 cent.
+2. **Run a live check, no code needed:** under "No handbook handy? Try a sample handbook", load one of the eight sample handbooks, change a sentence or two so they break a rule (for example "no more than four babies" to "up to six babies" in the Texas one), and click "Check this handbook". Beam checks it against that state's rules in about 10 to 60 seconds. A planted Texas infant-ratio mistake took 10 seconds and about 1 cent.
 3. **Your own handbook** needs a free access code (one check a day, sent on request to hi@backpr.com). Checking the same file again is free.
 
 This Space is a static page: the handbook is read, the rule pages are chosen and every quote is checked in your browser. A small Cloudflare Worker keeps the Beam token, checks the code, accepts only CareRules prompts, enforces spending limits and caches replies. The same page runs at [care.backpr.com](https://care.backpr.com).
