@@ -109,7 +109,9 @@ export class Budget extends DurableObject<Env> {
   }
 
   async spent() {
-    return { today: (await this.ctx.storage.get<number>(`usd:${day()}`)) || 0, total: (await this.ctx.storage.get<number>("usd:all")) || 0 };
+    const s = this.ctx.storage, d = day();
+    return { codes_today: (await s.get<number>(`usd:${d}`)) || 0, demo_today: (await s.get<number>(`usd:pool:demo:${d}`)) || 0,
+      total: (await s.get<number>("usd:all")) || 0 };
   }
 }
 
@@ -205,6 +207,12 @@ async function api(req: Request, env: Env, url: URL): Promise<Response> {
     if (!success) return json(req, { error: "Too many requests. Please wait a minute and try again." }, 429);
   }
   const budget = env.BUDGET.get(env.BUDGET.idFromName("global"));
+  if (url.pathname === "/spent") {  // read-only: dollars spent on Beam through this site, and the caps, for monitoring
+    if (req.method !== "GET") return json(req, { error: "Not found." }, 404);
+    const cents = (n: number) => Math.round(n * 100) / 100, sp = await budget.spent();
+    return json(req, { codes_today: cents(sp.codes_today), demo_today: cents(sp.demo_today), total: cents(sp.total),
+      caps: { codes_day: Number(env.DAILY_USD || 1), demo_day: Number(env.DEMO_USD || 1), total: Number(env.TOTAL_USD || 3) } });
+  }
   if (url.pathname === "/code") {
     if (req.method !== "GET") return json(req, { error: "Not found." }, 404);
     const code = (url.searchParams.get("code") || "").trim(), rule = ruleFor(env, code);
@@ -264,7 +272,7 @@ async function api(req: Request, env: Env, url: URL): Promise<Response> {
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url);
-    if (url.pathname !== "/code" && url.pathname !== "/beam") return env.ASSETS.fetch(req);
+    if (!["/code", "/beam", "/spent"].includes(url.pathname)) return env.ASSETS.fetch(req);
     if (req.method === "OPTIONS") return new Response(null, { status: 204, headers: cors(req) });
     try {
       return await api(req, env, url);
